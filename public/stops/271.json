@@ -1,0 +1,58 @@
+[
+  {
+    "Parada": {
+      "DESC_PARADA": "VALL HEBRON",
+      "COD_PARADA": 4486,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 12525,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "TCC",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 4,
+      "UTMX": 428512,
+      "UTMY": 4586613,
+      "LATITUD": 41.42608,
+      "LONGITUD": 2.14334,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 271,
+    "ID_TRAYECTO": 20,
+    "SECUENCIA": 20,
+    "ID_PARADA": 12525,
+    "NKM_ORIGEN": 2.5,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "PLAÇA DOCTOR ANDREU",
+      "COD_PARADA": 1035,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 18257,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "TCC",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 4,
+      "UTMX": 427476,
+      "UTMY": 4585545,
+      "LATITUD": 41.416474,
+      "LONGITUD": 2.130631,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 271,
+    "ID_TRAYECTO": 20,
+    "SECUENCIA": 10,
+    "ID_PARADA": 18257,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
+  }
+]
