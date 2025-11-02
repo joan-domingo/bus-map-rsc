@@ -32,7 +32,10 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
 
   if (!apiKey) {
     return (
-      <div className="h-screen w-screen flex items-center justify-center bg-red-100">
+      <div
+        className="w-screen flex items-center justify-center bg-red-100"
+        style={{ height: "100dvh" }}
+      >
         <div className="text-center p-8">
           <h1 className="text-2xl font-bold text-red-800 mb-4">
             Google Maps API Key Required
@@ -47,7 +50,7 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
 
   return (
     <APIProvider apiKey={apiKey} language="ca">
-      <div className="relative h-screen w-screen">
+      <div className="relative w-screen" style={{ height: "100dvh" }}>
         <Header />
         <BusMap
           busStops={allBusStops}
