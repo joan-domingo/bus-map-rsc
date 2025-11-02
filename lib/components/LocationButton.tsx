@@ -1,15 +1,14 @@
 "use client";
 
-import { useGeolocation } from "../hooks/useGeolocation";
+interface LocationButtonProps {
+  onClick: () => void;
+}
 
-export function LocationButton() {
-  const { requestLocation, isLoading } = useGeolocation();
-
+export function LocationButton({ onClick }: LocationButtonProps) {
   return (
     <button
       type="button"
-      onClick={requestLocation}
-      disabled={isLoading}
+      onClick={onClick}
       className="absolute bottom-20 right-4 bg-white border-2 border-gray-400 cursor-pointer flex items-center justify-center p-3 rounded-full shadow-lg hover:bg-gray-50 transition-colors disabled:opacity-50"
       aria-label="Get location"
     >

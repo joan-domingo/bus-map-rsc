@@ -1,6 +1,7 @@
 "use client";
 
 import { APIProvider } from "@vis.gl/react-google-maps";
+import { useCallback, useState } from "react";
 import { useGeolocation } from "../hooks/useGeolocation";
 import type { BusStop } from "../types";
 import { Attribution } from "./Attribution";
@@ -15,6 +16,14 @@ interface MapContainerProps {
 export function MapContainer({ allBusStops }: MapContainerProps) {
   const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
   const { location: userLocation, error: locationError } = useGeolocation();
+
+  const [isDragging, setIsDragging] = useState(false);
+  const [zoom, setZoom] = useState(15);
+
+  const handleLocationButtonClick = useCallback(() => {
+    setIsDragging(false);
+    setZoom(18);
+  }, []);
 
   if (locationError) {
     // Show error if geolocation fails
@@ -43,8 +52,12 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
         <BusMap
           busStops={allBusStops}
           userLocation={userLocation ?? undefined}
+          isDragging={isDragging}
+          setIsDragging={setIsDragging}
+          zoom={zoom}
+          setZoom={setZoom}
         />
-        <LocationButton />
+        <LocationButton onClick={handleLocationButtonClick} />
         <Attribution />
       </div>
     </APIProvider>

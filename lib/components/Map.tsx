@@ -1,7 +1,6 @@
 "use client";
 
 import { Map as GoogleMap } from "@vis.gl/react-google-maps";
-import { useState } from "react";
 import { useBusStopSelection } from "../hooks/useBusStopSelection";
 import type { BusStop, UserLocation } from "../types";
 import { BusStopCustomMarkers } from "./BusStopCustomMarker";
@@ -10,12 +9,21 @@ import { UserLocationMarker } from "./UserLocationMarker";
 interface MapProps {
   busStops: BusStop[];
   userLocation: UserLocation | undefined;
+  isDragging: boolean;
+  zoom: number;
+  setIsDragging: (isDragging: boolean) => void;
+  setZoom: (zoom: number) => void;
 }
 
-export function BusMap({ busStops, userLocation }: MapProps) {
+export function BusMap({
+  busStops,
+  userLocation,
+  isDragging,
+  zoom,
+  setIsDragging,
+  setZoom,
+}: MapProps) {
   const { selectedStopId, selectStop, clearSelection } = useBusStopSelection();
-  const [isDragging, setIsDragging] = useState(false);
-  const [zoom, setZoom] = useState(15);
 
   return (
     <div className="h-full w-full">

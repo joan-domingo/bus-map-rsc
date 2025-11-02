@@ -11,12 +11,13 @@ export function UserLocationMarker({ location }: UserLocationMarkerProps) {
   // Create a custom icon using SVG data URL
   const customIcon = {
     path: google.maps.SymbolPath.CIRCLE,
-    fillColor: "#22c55e",
-    fillOpacity: 0.8,
+    fillColor: "#4285F4",
+    fillOpacity: 1.0,
     strokeColor: "#ffffff",
-    strokeWeight: 3,
-    scale: 8,
+    strokeWeight: 4,
+    scale: 12,
     animation: google.maps.Animation.BOUNCE,
+    zIndex: 1000,
   };
 
   return <Marker position={location} icon={customIcon} />;
