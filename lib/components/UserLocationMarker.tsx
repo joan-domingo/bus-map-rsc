@@ -1,6 +1,6 @@
 "use client";
 
-import { Marker } from "@vis.gl/react-google-maps";
+import { AdvancedMarker } from "@vis.gl/react-google-maps";
 import type { UserLocation } from "../types";
 
 interface UserLocationMarkerProps {
@@ -8,17 +8,18 @@ interface UserLocationMarkerProps {
 }
 
 export function UserLocationMarker({ location }: UserLocationMarkerProps) {
-  // Create a custom icon using SVG data URL
-  const customIcon = {
-    path: google.maps.SymbolPath.CIRCLE,
-    fillColor: "#4285F4",
-    fillOpacity: 1.0,
-    strokeColor: "#ffffff",
-    strokeWeight: 4,
-    scale: 12,
-    animation: google.maps.Animation.BOUNCE,
-    zIndex: 1000,
-  };
-
-  return <Marker position={location} icon={customIcon} />;
+  return (
+    <AdvancedMarker position={location} zIndex={1000}>
+      <div
+        style={{
+          width: "24px",
+          height: "24px",
+          borderRadius: "50%",
+          backgroundColor: "#4285F4",
+          border: "4px solid #ffffff",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.3)",
+        }}
+      />
+    </AdvancedMarker>
+  );
 }
