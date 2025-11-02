@@ -1,0 +1,37 @@
+# QuanTriga.com - LLMs Discovery File
+
+# About
+QuanTriga.com is a real-time bus arrival application that provides live bus schedule information for Moventis bus lines in the Barcelona metropolitan area and Vallès regions, including Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat del Vallès, Badalona, Barberà del Vallès, Castellbisbal, and other municipalities.
+
+# Main Information
+- Website: https://quantriga.com
+- Language: Catalan (ca), Spanish (es)
+- Service Type: Real-time public transportation information
+- Coverage: Barcelona metropolitan area, Vallès Occidental, Vallès Oriental, including Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat del Vallès, Badalona, Barberà del Vallès, Castellbisbal, Bellaterra, and surrounding municipalities
+- Provider: Moventis
+
+# Features
+- Real-time bus arrival times
+- Interactive map with bus stops
+- Location-based search
+- Bus stop timetable information
+- Mobile-responsive design
+
+# Data Source
+Bus schedules and real-time information are provided by Moventis (https://www.moventis.es/ca/temps-real)
+
+# Technical Details
+- Built with Next.js 16
+- Uses Google Maps for interactive mapping
+- Client-side real-time data fetching
+
+# Usage
+Users can visit the website to:
+1. View an interactive map of bus stops
+2. Click on a bus stop to see upcoming bus arrivals
+3. See which bus lines serve each stop
+4. Get real-time arrival information
+
+# Contact
+Author: Joan Domingo
+
