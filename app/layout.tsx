@@ -80,7 +80,7 @@ export const metadata: Metadata = {
       "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal i altres municipis del Vallès i àrea metropolitana de Barcelona. Informació actualitzada de Moventis amb mapa interactiu de parades.",
     images: [
       {
-        url: "/og-image.png", // You should add this image
+        url: "/og-image",
         width: 1200,
         height: 630,
         alt: "QuanTriga.com - Mapa de temps real d'autobusos",
@@ -92,7 +92,7 @@ export const metadata: Metadata = {
     title: "QuanTriga.com - Temps Real Autobusos",
     description:
       "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat i altres municipis del Vallès.",
-    images: ["/og-image.png"], // You should add this image
+    images: ["/og-image"],
     creator: "@quantriga", // Add your Twitter handle if you have one
   },
   alternates: {
