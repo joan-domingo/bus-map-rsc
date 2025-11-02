@@ -60,7 +60,10 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
           zoom={zoom}
           setZoom={setZoom}
         />
-        <LocationButton onClick={handleLocationButtonClick} />
+        <LocationButton
+          onClick={handleLocationButtonClick}
+          isDragging={isDragging}
+        />
         <Attribution />
       </div>
     </APIProvider>
