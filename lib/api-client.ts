@@ -1,4 +1,4 @@
-import type { BusLineStopTimetable } from "../types";
+import type { BusLineStopTimetable } from "./types";
 
 export async function fetchBusStopTimetable(
   stopId: number,
@@ -7,9 +7,6 @@ export async function fetchBusStopTimetable(
 ): Promise<BusLineStopTimetable[]> {
   const response = await fetch(
     `https://glo6ir56yyjdlmdtig4ztnqu7q0dcwlz.lambda-url.eu-central-1.on.aws/api/json/GetTiemposParada/es/${stopId}/${lineId}/${zoneId}`,
-    {
-      next: { revalidate: 30 }, // Cache for 30 seconds
-    },
   );
 
   if (!response.ok) {

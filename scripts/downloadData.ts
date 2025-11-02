@@ -62,7 +62,7 @@ try {
     ).text();
 
     const busLineStops = JSON.parse(linesArray).flatMap(
-      (item) => item.TrayectosDet,
+      (item: any) => item.TrayectosDet,
     );
 
     // Remove duplicates from busLineStops
@@ -108,7 +108,7 @@ try {
         `public/stops/${busLine.ID_LINEA}.json`,
       ).text();
       const lineStopsArray = JSON.parse(lineStops);
-      if (lineStopsArray.some((s) => s.ID_PARADA === stop.ID_PARADA)) {
+      if (lineStopsArray.some((s: any) => s.ID_PARADA === stop.ID_PARADA)) {
         stop.buses.push(busLine.ID_LINEA);
       }
     }

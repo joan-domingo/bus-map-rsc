@@ -3,6 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  margin: 0;
+  padding: 0rem;
+  width: 100vw;
+  height: 100dvh;
 }
 
 @theme inline {
@@ -23,4 +27,19 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Ensure Google Maps built-in close icon does not get hidden by global styles and hide it since we provide our own */
+/* On some mobile browsers global CSS may affect Google's internal images */
+.gm-ui-hover-effect img {
+  max-width: none !important;
+}
+
+/* Hide default close control because we render a custom close button in headerContent */
+.gm-ui-hover-effect {
+  display: none !important;
+}
+
+.gm-style-iw-ch {
+  padding-top: 0 !important;
 }

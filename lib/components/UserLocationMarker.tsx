@@ -8,11 +8,16 @@ interface UserLocationMarkerProps {
 }
 
 export function UserLocationMarker({ location }: UserLocationMarkerProps) {
-  return (
-    <Marker position={location}>
-      <div className="w-6 h-6 bg-green-600 rounded-full border-2 border-white shadow-lg">
-        <div className="w-full h-full bg-green-400 rounded-full animate-pulse" />
-      </div>
-    </Marker>
-  );
+  // Create a custom icon using SVG data URL
+  const customIcon = {
+    path: google.maps.SymbolPath.CIRCLE,
+    fillColor: "#22c55e",
+    fillOpacity: 0.8,
+    strokeColor: "#ffffff",
+    strokeWeight: 3,
+    scale: 8,
+    animation: google.maps.Animation.BOUNCE,
+  };
+
+  return <Marker position={location} icon={customIcon} />;
 }

@@ -96,7 +96,9 @@ export const useMapStore = create<MapState>()(
                 if (journeyNextBus) {
                   nextBuses.push({
                     name: journeyDestination,
-                    real: journeyNextBus.real && journeyNextBus.real === "S",
+                    real:
+                      typeof journeyNextBus.real === "string" &&
+                      journeyNextBus.real === "S",
                     minutesLeft: `${journeyNextBus.minutos.split(".")[0]} seg`,
                   });
                 }
