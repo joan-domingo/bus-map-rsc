@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "T.Ferru - FGC",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 446,
-    "FIN_TRAYECTO": 1320,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1334,
     "ID_TRAYECTO_CONCAT": 101,
     "TrayectosDet": [
       {

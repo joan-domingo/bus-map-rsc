@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Beriáin V.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1395,
-    "FIN_TRAYECTO": 1480,
+    "INI_TRAYECTO": 1380,
+    "FIN_TRAYECTO": 1840,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -585,8 +585,8 @@
     "DESC_REDUCIDA": "Merindades",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1420,
-    "FIN_TRAYECTO": 1455,
+    "INI_TRAYECTO": 1405,
+    "FIN_TRAYECTO": 1815,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

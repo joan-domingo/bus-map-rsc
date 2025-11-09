@@ -22,9 +22,9 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 199,
     "ID_TRAYECTO": 1,
-    "SECUENCIA": 20,
+    "SECUENCIA": 250,
     "ID_PARADA": 10884,
-    "NKM_ORIGEN": 0,
+    "NKM_ORIGEN": 8.205,
     "SUBE_BAJA": 1
   },
   {

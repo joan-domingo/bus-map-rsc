@@ -1,6 +1,34 @@
 [
   {
     "Parada": {
+      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+      "COD_PARADA": 4864,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 4864,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 431841,
+      "UTMY": 4587174,
+      "LATITUD": 41.431423375023,
+      "LONGITUD": 2.1831116797843,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 298,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 90,
+    "ID_PARADA": 4864,
+    "NKM_ORIGEN": 31.283,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "PL. DE LA  TECNOLOGIA (PARC VALLÈS)",
       "COD_PARADA": 3803,
       "ID_GRUPO": 1,
@@ -21,11 +49,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 10,
     "ID_PARADA": 3803,
-    "NKM_ORIGEN": 22.35,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -49,11 +77,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 20,
     "ID_PARADA": 12969,
-    "NKM_ORIGEN": 22.959,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0.609,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -77,11 +105,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 30,
     "ID_PARADA": 12845,
-    "NKM_ORIGEN": 23.559,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 1.209,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -105,11 +133,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 40,
     "ID_PARADA": 12846,
-    "NKM_ORIGEN": 24.569,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 2.219,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -133,11 +161,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 50,
     "ID_PARADA": 12847,
-    "NKM_ORIGEN": 25.949,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 3.599,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -161,11 +189,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 60,
     "ID_PARADA": 12848,
-    "NKM_ORIGEN": 26.899,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 4.549,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -189,11 +217,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 70,
     "ID_PARADA": 7920,
-    "NKM_ORIGEN": 27.789,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 5.439,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -217,38 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 80,
     "ID_PARADA": 12849,
-    "NKM_ORIGEN": 28.433,
-    "SUBE_BAJA": 3
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
-      "COD_PARADA": 4864,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 4864,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 431841,
-      "UTMY": 4587174,
-      "LATITUD": 41.431423375023,
-      "LONGITUD": 2.1831116797843,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 298,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 10,
-    "ID_PARADA": 4864,
-    "NKM_ORIGEN": 0,
+    "NKM_ORIGEN": 6.083,
     "SUBE_BAJA": 2
   }
 ]

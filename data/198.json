@@ -474,7 +474,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1370,
+    "FIN_TRAYECTO": 1360,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

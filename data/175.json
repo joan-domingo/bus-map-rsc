@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "CELLER - C.COMERCIAL",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1290,
+    "INI_TRAYECTO": 570,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": 8,
     "TrayectosDet": [
       {

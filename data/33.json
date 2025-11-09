@@ -11,7 +11,7 @@
     "DESC_REDUCIDA": "CANALETES-F.MAIG",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 630,
+    "INI_TRAYECTO": 480,
     "FIN_TRAYECTO": 1202,
     "ID_TRAYECTO_CONCAT": 6,
     "TrayectosDet": [
@@ -1179,8 +1179,8 @@
     "DESC_REDUCIDA": "CAN COLL-CANALETES",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 542,
-    "FIN_TRAYECTO": 1170,
+    "INI_TRAYECTO": 392,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1787,8 +1787,8 @@
     "DESC_REDUCIDA": "CANALETES-C.COLL",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 510,
-    "FIN_TRAYECTO": 1142,
+    "INI_TRAYECTO": 390,
+    "FIN_TRAYECTO": 1350,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2256,7 +2256,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "I",
     "INI_TRAYECTO": 810,
-    "FIN_TRAYECTO": 842,
+    "FIN_TRAYECTO": 1322,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CABRILS-VIL MAR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 370,
-    "FIN_TRAYECTO": 1350,
+    "INI_TRAYECTO": 540,
+    "FIN_TRAYECTO": 1275,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -249,8 +249,8 @@
     "DESC_REDUCIDA": "VIL MAR - CABRILS",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 390,
-    "FIN_TRAYECTO": 1370,
+    "INI_TRAYECTO": 570,
+    "FIN_TRAYECTO": 1260,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

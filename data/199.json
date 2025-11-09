@@ -655,6 +655,34 @@
         "ID_PARADA": 11229,
         "NKM_ORIGEN": 7.938,
         "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Ansoáin, c/ Hnos. Noáin (c/ Divina Pastora)",
+          "COD_PARADA": 65,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 10884,
+          "ID_MUNICIPIO": 459633,
+          "MUNICIPIO": "ANSOAIN",
+          "EXPLOTADORA": "PAMPLONA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 7,
+          "UTMX": 120800,
+          "UTMY": 4752957,
+          "LATITUD": 42.833270358023,
+          "LONGITUD": -1.6404718370009,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 199,
+        "ID_TRAYECTO": 1,
+        "SECUENCIA": 250,
+        "ID_PARADA": 10884,
+        "NKM_ORIGEN": 8.205,
+        "SUBE_BAJA": 1
       }
     ],
     "COLOR": "#CE267C",

@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1370,
-    "FIN_TRAYECTO": 1485,
+    "FIN_TRAYECTO": 1850,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -473,8 +473,8 @@
     "DESC_REDUCIDA": "Cortes Nav.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1400,
-    "FIN_TRAYECTO": 1460,
+    "INI_TRAYECTO": 1390,
+    "FIN_TRAYECTO": 1820,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

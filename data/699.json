@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Erripagaña",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1235,
-    "FIN_TRAYECTO": 1260,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -557,8 +557,8 @@
     "DESC_REDUCIDA": "Sadar",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1050,
-    "FIN_TRAYECTO": 1075,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
