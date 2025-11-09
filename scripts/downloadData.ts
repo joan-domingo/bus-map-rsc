@@ -125,11 +125,11 @@ try {
     zoneId: stop.Parada.ID_ZONA,
   }));
 
-  // Write the final data to a file
-  await Bun.write(
-    "public/stops/all.json",
-    JSON.stringify(busLineStopsArray, null, 2),
-  );
+  // Write the final data to a file (compressed)
+  const jsonContent = JSON.stringify(busLineStopsArray, null, 2);
+  const { gzipSync } = await import("node:zlib");
+  const compressed = gzipSync(Buffer.from(jsonContent));
+  await Bun.write("public/stops/all.json.gz", compressed);
   console.log("All bus lines data downloaded and prepared successfully.");
 
   // Create a dictionary with bus line ID as the key and the bus line name and the color as values
