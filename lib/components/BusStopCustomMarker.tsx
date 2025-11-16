@@ -230,7 +230,7 @@ export const BusStopCustomMarkers = ({
     };
 
     const boundsListener = map.addListener("bounds_changed", debouncedUpdate);
-    const zoomListener = map.addListener("zoom_changed", updateVisibleStops); // Immediate for zoom
+    const zoomListener = map.addListener("zoom_changed", debouncedUpdate);
 
     return () => {
       clearTimeout(timeoutId);
