@@ -1,8 +1,9 @@
 "use client";
 
 import { APIProvider } from "@vis.gl/react-google-maps";
-import { useCallback, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { useGeolocation } from "../hooks/useGeolocation";
+import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import { Attribution } from "./Attribution";
 import { Header } from "./Header";
@@ -16,9 +17,29 @@ interface MapContainerProps {
 export function MapContainer({ allBusStops }: MapContainerProps) {
   const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
   const { location: userLocation, error: locationError } = useGeolocation();
+  const starredStopIdsArray = useStarredStops(
+    (state) => state.starredStopIdsArray,
+  );
+  const showOnlyStarred = useStarredStops((state) => state.showOnlyStarred);
+  const setShowOnlyStarred = useStarredStops(
+    (state) => state.setShowOnlyStarred,
+  );
 
   const [isDragging, setIsDragging] = useState(false);
   const [zoom, setZoom] = useState(15);
+
+  // Memoize the starred set separately to avoid recreating it unnecessarily
+  const starredSet = useMemo(
+    () => new Set(starredStopIdsArray),
+    [starredStopIdsArray],
+  );
+
+  const filteredBusStops = useMemo(() => {
+    if (!showOnlyStarred) {
+      return allBusStops;
+    }
+    return allBusStops.filter((stop) => starredSet.has(stop.id));
+  }, [allBusStops, showOnlyStarred, starredSet]);
 
   const handleLocationButtonClick = useCallback(() => {
     setIsDragging(false);
@@ -48,12 +69,19 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
     );
   }
 
+  const handleToggleStarred = useCallback(() => {
+    setShowOnlyStarred(!showOnlyStarred);
+  }, [showOnlyStarred, setShowOnlyStarred]);
+
   return (
     <APIProvider apiKey={apiKey} language="ca">
       <div className="relative w-screen" style={{ height: "100dvh" }}>
-        <Header />
+        <Header
+          showOnlyStarred={showOnlyStarred}
+          onToggleStarred={handleToggleStarred}
+        />
         <BusMap
-          busStops={allBusStops}
+          busStops={filteredBusStops}
           userLocation={userLocation ?? undefined}
           isDragging={isDragging}
           setIsDragging={setIsDragging}

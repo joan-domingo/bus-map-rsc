@@ -5,6 +5,7 @@ import {
 } from "@vis.gl/react-google-maps";
 import { useShallow } from "zustand/shallow";
 import { useMapStore } from "../store/useMapStore";
+import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import busLineData from "../utils/busLineData.json";
 import MarkerTimetable from "./MarkerTimetable";
@@ -29,7 +30,12 @@ export const MarkerWithInfowindow = ({
       isLoaded: state.selectedStopTimetableIsLoaded,
     })),
   );
+  const starredStopIdsArray = useStarredStops(
+    (state) => state.starredStopIdsArray,
+  );
+  const toggleStar = useStarredStops((state) => state.toggleStar);
   const [markerRef, marker] = useAdvancedMarkerRef();
+  const starred = starredStopIdsArray.includes(stop.id);
   return (
     <>
       <AdvancedMarker
@@ -92,12 +98,29 @@ export const MarkerWithInfowindow = ({
           minWidth={320}
           onCloseClick={onCloseClick}
           headerContent={
-            <div className="flex text-black items-center">
+            <div className="flex text-black items-center gap-2">
+              <button
+                className="w-8 h-8 border-none text-black cursor-pointer flex items-center justify-center text-xl flex-shrink-0"
+                style={{ background: "white" }}
+                aria-label={
+                  starred ? "Eliminar dels preferits" : "Afegir als preferits"
+                }
+                onClick={(e) => {
+                  e.stopPropagation();
+                  toggleStar(stop.id);
+                }}
+                type="button"
+                title={
+                  starred ? "Eliminar dels preferits" : "Afegir als preferits"
+                }
+              >
+                {starred ? "★" : "☆"}
+              </button>
               <div className="flex-1 min-w-0 overflow-hidden text-ellipsis whitespace-nowrap">
                 {stop.name}
               </div>
               <button
-                className="w-8 h-8 border-none text-black text-3xl cursor-pointer flex items-center justify-center"
+                className="w-8 h-8 border-none text-black text-3xl cursor-pointer flex items-center justify-center flex-shrink-0"
                 style={{ background: "white" }}
                 aria-label="Tanca"
                 onClick={onCloseClick}
