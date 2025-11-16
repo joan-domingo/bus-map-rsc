@@ -663,7 +663,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20251226"
+    "DIAS_QUE_CIRCULA": "20260114"
   },
   "57": {
     "nid": "86677",
@@ -807,7 +807,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260114"
   },
   "73": {
     "nid": "86699",
@@ -825,7 +825,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "74": {
     "nid": "86701",
@@ -861,7 +861,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260106"
   },
   "76": {
     "nid": "86705",
@@ -879,7 +879,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "77": {
     "nid": "86707",
@@ -897,7 +897,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "80": {
     "nid": "86725",
@@ -969,7 +969,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "86": {
     "nid": "86727",
@@ -1005,7 +1005,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "93": {
     "nid": "123732",
@@ -1311,7 +1311,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "88994",
-    "DIAS_QUE_CIRCULA": "20251219"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "158": {
     "nid": "86853",
@@ -1437,7 +1437,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "178": {
     "nid": "86627",
@@ -1455,7 +1455,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "180": {
     "nid": "86629",
@@ -1473,7 +1473,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "181": {
     "nid": "86631",
@@ -1563,7 +1563,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "189": {
     "nid": "86737",
@@ -1581,7 +1581,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "190": {
     "nid": "86739",
@@ -1599,7 +1599,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "197": {
     "nid": "86543",
@@ -2229,7 +2229,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260114"
   },
   "268": {
     "nid": "86721",
@@ -2247,7 +2247,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "269": {
     "nid": "86723",
@@ -2265,7 +2265,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "271": {
     "nid": "121187",
@@ -2499,7 +2499,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "343": {
     "nid": "118594",
@@ -2625,7 +2625,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "384": {
     "nid": "120268",
@@ -2643,7 +2643,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20251231"
+    "DIAS_QUE_CIRCULA": "20260108"
   },
   "385": {
     "nid": "121387",
@@ -2787,7 +2787,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "N",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20251226"
+    "DIAS_QUE_CIRCULA": "20251231"
   },
   "441": {
     "nid": "121970",
@@ -2895,7 +2895,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260102"
+    "DIAS_QUE_CIRCULA": "20260114"
   },
   "605": {
     "nid": "123713",
@@ -3184,5 +3184,23 @@
     "ADAPTADA": "S",
     "MARCA": "86863",
     "DIAS_QUE_CIRCULA": "20251231"
+  },
+  "715": {
+    "nid": "169852",
+    "ID_LINEA": "715",
+    "COD_LINEA": "C-17",
+    "DESC_LINEA": "TEIÀ - EL MASNOU - TEIÀ",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "5",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0A60AA",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "3",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "N",
+    "MARCA": "120764",
+    "DIAS_QUE_CIRCULA": "20260114"
   }
 }

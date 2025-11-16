@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "2S HOSPITALS",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 412,
-    "FIN_TRAYECTO": 1370,
+    "INI_TRAYECTO": 411,
+    "FIN_TRAYECTO": 1378,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -810,8 +810,8 @@
     "DESC_REDUCIDA": "2S INSTITUTS ARNAU",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 485,
-    "FIN_TRAYECTO": 960,
+    "INI_TRAYECTO": 481,
+    "FIN_TRAYECTO": 950,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "1361-LES FLORS-RENFE",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 540,
-    "FIN_TRAYECTO": 1235,
+    "INI_TRAYECTO": 440,
+    "FIN_TRAYECTO": 1275,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -753,8 +753,8 @@
     "DESC_REDUCIDA": "1361-STA SUS-MAL-PAL",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 765,
-    "FIN_TRAYECTO": 1215,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1291,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "6N",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 576,
-    "FIN_TRAYECTO": 1308,
+    "INI_TRAYECTO": 524,
+    "FIN_TRAYECTO": 1269,
     "ID_TRAYECTO_CONCAT": 5,
     "TrayectosDet": [
       {
@@ -1151,8 +1151,8 @@
     "DESC_REDUCIDA": "6N",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1200,
-    "FIN_TRAYECTO": 1284,
+    "INI_TRAYECTO": 1304,
+    "FIN_TRAYECTO": 1330,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1675,8 +1675,8 @@
     "DESC_REDUCIDA": "6N ARNAU PLA D`UR.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1224,
-    "FIN_TRAYECTO": 1351,
+    "INI_TRAYECTO": 1330,
+    "FIN_TRAYECTO": 1369,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2256,8 +2256,8 @@
     "DESC_REDUCIDA": "6N",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 432,
-    "FIN_TRAYECTO": 1351,
+    "INI_TRAYECTO": 433,
+    "FIN_TRAYECTO": 1378,
     "ID_TRAYECTO_CONCAT": 3,
     "TrayectosDet": [
       {
@@ -3986,7 +3986,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1168,
+    "FIN_TRAYECTO": 1294,
     "ID_TRAYECTO_CONCAT": 11,
     "TrayectosDet": [
       {
@@ -5770,7 +5770,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 415,
-    "FIN_TRAYECTO": 468,
+    "FIN_TRAYECTO": 472,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
