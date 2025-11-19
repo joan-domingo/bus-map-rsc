@@ -98,9 +98,20 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://quantriga.com",
+    languages: {
+      ca: "https://quantriga.com",
+      es: "https://quantriga.com",
+      "x-default": "https://quantriga.com",
+    },
   },
   category: "transport",
   classification: "Transport Públic",
+  manifest: "/manifest.json",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "QuanTriga",
+  },
 };
 
 export const viewport: Viewport = {

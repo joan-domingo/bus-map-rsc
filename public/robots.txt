@@ -17,6 +17,21 @@ Allow: /
 User-agent: Claude-Web
 Allow: /
 
-# Sitemap (you should create this)
-# Sitemap: https://quantriga.com/sitemap.xml
+# OpenAI crawler
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic crawler
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI crawler
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap
+Sitemap: https://quantriga.com/sitemap.xml
 

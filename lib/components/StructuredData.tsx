@@ -1,11 +1,13 @@
 export function StructuredData() {
-  const structuredData = {
+  const baseUrl = "https://quantriga.com";
+
+  const webApplication = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     name: "QuanTriga.com",
     description:
       "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal i altres municipis del Vallès i àrea metropolitana de Barcelona. Informació actualitzada de Moventis amb mapa interactiu de parades.",
-    url: "https://quantriga.com",
+    url: baseUrl,
     applicationCategory: "TransportationApplication",
     operatingSystem: "Web",
     offers: {
@@ -20,6 +22,7 @@ export function StructuredData() {
     provider: {
       "@type": "Organization",
       name: "QuanTriga.com",
+      url: baseUrl,
     },
     featureList: [
       "Temps real d'arribada de busos",
@@ -36,13 +39,54 @@ export function StructuredData() {
     },
   };
 
+  const organization = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "QuanTriga.com",
+    url: baseUrl,
+    logo: `${baseUrl}/busIcon.svg`,
+    description:
+      "Aplicació web per consultar en temps real l'arribada dels propers busos a l'àrea metropolitana de Barcelona.",
+    sameAs: [],
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "Customer Service",
+      availableLanguage: ["Catalan", "Spanish"],
+    },
+  };
+
+  const website = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "QuanTriga.com",
+    url: baseUrl,
+    description:
+      "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat i altres municipis del Vallès.",
+    inLanguage: ["ca", "es"],
+    potentialAction: {
+      "@type": "SearchAction",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: `${baseUrl}?q={search_term_string}`,
+      },
+      "query-input": "required name=search_term_string",
+    },
+  };
+
+  const structuredDataArray = [webApplication, organization, website];
+
   return (
-    <script
-      type="application/ld+json"
-      // biome-ignore lint/security/noDangerouslySetInnerHtml: JSON-LD structured data requires this, content is sanitized with replace
-      dangerouslySetInnerHTML={{
-        __html: JSON.stringify(structuredData).replace(/</g, "\\u003c"),
-      }}
-    />
+    <>
+      {structuredDataArray.map((data, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          // biome-ignore lint/security/noDangerouslySetInnerHtml: JSON-LD structured data requires this, content is sanitized
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(data).replace(/</g, "\\u003c"),
+          }}
+        />
+      ))}
+    </>
   );
 }
