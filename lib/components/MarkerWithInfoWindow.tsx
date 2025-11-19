@@ -7,6 +7,7 @@ import { useShallow } from "zustand/shallow";
 import { useMapStore } from "../store/useMapStore";
 import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
+import { trackEvent } from "../utils/analytics";
 import busLineData from "../utils/busLineData.json";
 import MarkerTimetable from "./MarkerTimetable";
 
@@ -107,7 +108,15 @@ export const MarkerWithInfowindow = ({
                 }
                 onClick={(e) => {
                   e.stopPropagation();
+                  const wasStarred = starred;
                   toggleStar(stop.id);
+                  // Track star/unstar event
+                  trackEvent("bus_stop_star", {
+                    stop_id: stop.id,
+                    stop_name: stop.name,
+                    action: wasStarred ? "unstar" : "star",
+                    bus_lines: stop.buses.join(","),
+                  });
                 }}
                 type="button"
                 title={

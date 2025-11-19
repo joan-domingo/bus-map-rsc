@@ -5,6 +5,7 @@ import { useCallback, useMemo, useState } from "react";
 import { useGeolocation } from "../hooks/useGeolocation";
 import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
+import { trackEvent } from "../utils/analytics";
 import { Attribution } from "./Attribution";
 import { Header } from "./Header";
 import { LocationButton } from "./LocationButton";
@@ -42,9 +43,12 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
   }, [allBusStops, showOnlyStarred, starredSet]);
 
   const handleLocationButtonClick = useCallback(() => {
+    trackEvent("location_button_click", {
+      current_zoom: zoom,
+    });
     setIsDragging(false);
     setZoom(18);
-  }, []);
+  }, [zoom]);
 
   if (locationError) {
     // Show error if geolocation fails
@@ -70,8 +74,13 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
   }
 
   const handleToggleStarred = useCallback(() => {
-    setShowOnlyStarred(!showOnlyStarred);
-  }, [showOnlyStarred, setShowOnlyStarred]);
+    const newValue = !showOnlyStarred;
+    trackEvent("toggle_starred_filter", {
+      show_only_starred: newValue,
+      starred_stops_count: starredStopIdsArray.length,
+    });
+    setShowOnlyStarred(newValue);
+  }, [showOnlyStarred, setShowOnlyStarred, starredStopIdsArray]);
 
   return (
     <APIProvider apiKey={apiKey} language="ca">
