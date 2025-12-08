@@ -21,10 +21,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 200,
     "ID_PARADA": 13042,
-    "NKM_ORIGEN": 2.7,
+    "NKM_ORIGEN": 5.54,
     "SUBE_BAJA": 1
   },
   {
@@ -413,10 +413,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 480,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 150,
     "ID_PARADA": 13041,
-    "NKM_ORIGEN": 2.734,
+    "NKM_ORIGEN": 4.02,
     "SUBE_BAJA": 1
   },
   {
@@ -497,10 +497,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 4,
-    "SECUENCIA": 180,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 10,
     "ID_PARADA": 13056,
-    "NKM_ORIGEN": 4.87,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -553,10 +553,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 440,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 210,
     "ID_PARADA": 13047,
-    "NKM_ORIGEN": 1.3,
+    "NKM_ORIGEN": 0.444,
     "SUBE_BAJA": 1
   },
   {
@@ -581,10 +581,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 450,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 20,
     "ID_PARADA": 10171,
-    "NKM_ORIGEN": 1.9,
+    "NKM_ORIGEN": 0.1,
     "SUBE_BAJA": 1
   },
   {
@@ -609,10 +609,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 460,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 30,
     "ID_PARADA": 10220,
-    "NKM_ORIGEN": 2.152,
+    "NKM_ORIGEN": 0.322,
     "SUBE_BAJA": 1
   },
   {
@@ -637,10 +637,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 470,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 40,
     "ID_PARADA": 10260,
-    "NKM_ORIGEN": 2.457,
+    "NKM_ORIGEN": 0.627,
     "SUBE_BAJA": 1
   },
   {
@@ -665,10 +665,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 5,
-    "SECUENCIA": 250,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 50,
     "ID_PARADA": 13040,
-    "NKM_ORIGEN": 1.798,
+    "NKM_ORIGEN": 0.904,
     "SUBE_BAJA": 1
   },
   {
@@ -693,10 +693,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 490,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 60,
     "ID_PARADA": 10334,
-    "NKM_ORIGEN": 3.1,
+    "NKM_ORIGEN": 1.27,
     "SUBE_BAJA": 1
   },
   {
@@ -721,10 +721,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 500,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 70,
     "ID_PARADA": 10259,
-    "NKM_ORIGEN": 3.44,
+    "NKM_ORIGEN": 1.61,
     "SUBE_BAJA": 1
   },
   {
@@ -749,10 +749,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 510,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 80,
     "ID_PARADA": 10381,
-    "NKM_ORIGEN": 3.71,
+    "NKM_ORIGEN": 1.88,
     "SUBE_BAJA": 1
   },
   {
@@ -777,10 +777,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 520,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 90,
     "ID_PARADA": 10312,
-    "NKM_ORIGEN": 4.07,
+    "NKM_ORIGEN": 2.24,
     "SUBE_BAJA": 1
   },
   {
@@ -805,10 +805,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 11,
-    "SECUENCIA": 530,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 100,
     "ID_PARADA": 10472,
-    "NKM_ORIGEN": 4.149,
+    "NKM_ORIGEN": 2.319,
     "SUBE_BAJA": 1
   },
   {
@@ -833,10 +833,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 110,
     "ID_PARADA": 10473,
-    "NKM_ORIGEN": 0,
+    "NKM_ORIGEN": 2.84,
     "SUBE_BAJA": 1
   },
   {
@@ -861,10 +861,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 20,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 120,
     "ID_PARADA": 10474,
-    "NKM_ORIGEN": 0.303,
+    "NKM_ORIGEN": 3.143,
     "SUBE_BAJA": 1
   },
   {
@@ -889,10 +889,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 130,
     "ID_PARADA": 13036,
-    "NKM_ORIGEN": 0.624,
+    "NKM_ORIGEN": 3.464,
     "SUBE_BAJA": 1
   },
   {
@@ -917,10 +917,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 140,
     "ID_PARADA": 10475,
-    "NKM_ORIGEN": 0.865,
+    "NKM_ORIGEN": 3.705,
     "SUBE_BAJA": 1
   },
   {
@@ -945,10 +945,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 150,
     "ID_PARADA": 10476,
-    "NKM_ORIGEN": 1.19,
+    "NKM_ORIGEN": 4.03,
     "SUBE_BAJA": 1
   },
   {
@@ -973,10 +973,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 160,
     "ID_PARADA": 13066,
-    "NKM_ORIGEN": 1.41,
+    "NKM_ORIGEN": 4.25,
     "SUBE_BAJA": 1
   },
   {
@@ -1001,10 +1001,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 170,
     "ID_PARADA": 10172,
-    "NKM_ORIGEN": 1.65,
+    "NKM_ORIGEN": 4.49,
     "SUBE_BAJA": 1
   },
   {
@@ -1029,10 +1029,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 180,
     "ID_PARADA": 10189,
-    "NKM_ORIGEN": 2.05,
+    "NKM_ORIGEN": 4.89,
     "SUBE_BAJA": 1
   },
   {
@@ -1057,66 +1057,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 9,
+    "SECUENCIA": 190,
     "ID_PARADA": 13061,
-    "NKM_ORIGEN": 2.35,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "AGRÒNOMS",
-      "COD_PARADA": 20209,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 10161,
-      "ID_MUNICIPIO": 251207,
-      "MUNICIPIO": "LLEIDA",
-      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 5,
-      "UTMX": 299929,
-      "UTMY": 4611697,
-      "LATITUD": 41.628228245847,
-      "LONGITUD": 0.60133946429892,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 134,
-    "ID_TRAYECTO": 3,
-    "SECUENCIA": 410,
-    "ID_PARADA": 10161,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CIUTAT JARDÍ",
-      "COD_PARADA": 20216,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 13077,
-      "ID_MUNICIPIO": 251207,
-      "MUNICIPIO": "LLEIDA",
-      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 5,
-      "UTMX": 300760,
-      "UTMY": 4611335,
-      "LATITUD": 41.627010831553,
-      "LONGITUD": 0.60710406505194,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 134,
-    "ID_TRAYECTO": 3,
-    "SECUENCIA": 420,
-    "ID_PARADA": 13077,
-    "NKM_ORIGEN": 0.5,
+    "NKM_ORIGEN": 5.19,
     "SUBE_BAJA": 1
   },
   {
@@ -1201,6 +1145,62 @@
     "SECUENCIA": 430,
     "ID_PARADA": 10468,
     "NKM_ORIGEN": 1,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "AGRÒNOMS",
+      "COD_PARADA": 20209,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 10161,
+      "ID_MUNICIPIO": 251207,
+      "MUNICIPIO": "LLEIDA",
+      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 5,
+      "UTMX": 299929,
+      "UTMY": 4611697,
+      "LATITUD": 41.628228245847,
+      "LONGITUD": 0.60133946429892,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 134,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 410,
+    "ID_PARADA": 10161,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "CIUTAT JARDÍ",
+      "COD_PARADA": 20216,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13077,
+      "ID_MUNICIPIO": 251207,
+      "MUNICIPIO": "LLEIDA",
+      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 5,
+      "UTMX": 300760,
+      "UTMY": 4611335,
+      "LATITUD": 41.627010831553,
+      "LONGITUD": 0.60710406505194,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 134,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 420,
+    "ID_PARADA": 13077,
+    "NKM_ORIGEN": 0.5,
     "SUBE_BAJA": 1
   }
 ]

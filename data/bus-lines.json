@@ -663,7 +663,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260114"
+    "DIAS_QUE_CIRCULA": "20260205"
   },
   "57": {
     "nid": "86677",
@@ -807,7 +807,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260114"
+    "DIAS_QUE_CIRCULA": "20260131"
   },
   "73": {
     "nid": "86699",
@@ -2229,7 +2229,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260114"
+    "DIAS_QUE_CIRCULA": "20260131"
   },
   "268": {
     "nid": "86721",
@@ -2895,7 +2895,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260114"
+    "DIAS_QUE_CIRCULA": "20260130"
   },
   "605": {
     "nid": "123713",
@@ -3022,42 +3022,6 @@
     "ADAPTADA": "S",
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20251231"
-  },
-  "699": {
-    "nid": "150595",
-    "ID_LINEA": "699",
-    "COD_LINEA": "R4",
-    "DESC_LINEA": "ERRIPAGAÑA/MENDILLORRI - ESTADIO (DIAS DE PARTIDO)",
-    "ID_ZONA": "1",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#D81E05",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "7",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "86873",
-    "DIAS_QUE_CIRCULA": "20251115"
-  },
-  "700": {
-    "nid": "150598",
-    "ID_LINEA": "700",
-    "COD_LINEA": "R5",
-    "DESC_LINEA": "SARRIGUREN/MUTILVA - ESTADIO (DIAS DE PARTIDO)",
-    "ID_ZONA": "1",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#D81E05",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "7",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "86873",
-    "DIAS_QUE_CIRCULA": "20251115"
   },
   "701": {
     "nid": "150601",
@@ -3201,6 +3165,6 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260114"
+    "DIAS_QUE_CIRCULA": "20260205"
   }
 }

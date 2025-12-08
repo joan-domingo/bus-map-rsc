@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "BCN - VIL.DALT",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1485,
-    "FIN_TRAYECTO": 1657,
+    "INI_TRAYECTO": 1411,
+    "FIN_TRAYECTO": 1717,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -557,8 +557,8 @@
     "DESC_REDUCIDA": "VIL. DALT - BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1444,
-    "FIN_TRAYECTO": 1663,
+    "INI_TRAYECTO": 1417,
+    "FIN_TRAYECTO": 1723,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
