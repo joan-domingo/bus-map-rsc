@@ -607,6 +607,18 @@
     "name": "N15",
     "color": "#0072AC"
   },
+  "430": {
+    "name": "L1 LLO/BLA",
+    "color": "#0C31C2"
+  },
+  "431": {
+    "name": "L6",
+    "color": "#FFAC08"
+  },
+  "433": {
+    "name": "L2 BL/URBÀ",
+    "color": "#0BBB80"
+  },
   "434": {
     "name": "L4M",
     "color": "#2FA2FF"
@@ -618,6 +630,10 @@
   "438": {
     "name": "L1361",
     "color": "#DCB800"
+  },
+  "439": {
+    "name": "L4 BLA-REN",
+    "color": "#E1009F"
   },
   "441": {
     "name": "Línia V1",
@@ -670,6 +686,62 @@
   "664": {
     "name": "89",
     "color": "#F0BF4C"
+  },
+  "670": {
+    "name": "L69",
+    "color": "#F5A600"
+  },
+  "671": {
+    "name": "L53 BLANES",
+    "color": "#55FFFF"
+  },
+  "678": {
+    "name": "L20",
+    "color": "#E9E700"
+  },
+  "679": {
+    "name": "LH1",
+    "color": "#A3FB06"
+  },
+  "680": {
+    "name": "LH2",
+    "color": "#8A4E00"
+  },
+  "681": {
+    "name": "M12",
+    "color": "#39FA06"
+  },
+  "682": {
+    "name": "M14",
+    "color": "#AD00D6"
+  },
+  "683": {
+    "name": "L16",
+    "color": "#5A8500"
+  },
+  "684": {
+    "name": "L21",
+    "color": "#0BBD84"
+  },
+  "686": {
+    "name": "X30",
+    "color": "#0FE9F1"
+  },
+  "688": {
+    "name": "PR1",
+    "color": "#0C88D0"
+  },
+  "689": {
+    "name": "PR2",
+    "color": "#ABFF84"
+  },
+  "692": {
+    "name": "L33",
+    "color": "#FF54FF"
+  },
+  "696": {
+    "name": "PR5",
+    "color": "#3545FF"
   },
   "701": {
     "name": "N11",

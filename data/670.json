@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1375,
-    "FIN_TRAYECTO": 1465,
+    "FIN_TRAYECTO": 1405,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -585,8 +585,8 @@
     "DESC_REDUCIDA": "LLORET INT-TOSSA",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 865,
-    "FIN_TRAYECTO": 955,
+    "INI_TRAYECTO": 805,
+    "FIN_TRAYECTO": 895,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -882,7 +882,7 @@
     "DESC_REDUCIDA": "RENFE-LLORET INT",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 835,
+    "INI_TRAYECTO": 775,
     "FIN_TRAYECTO": 1345,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -1477,7 +1477,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 475,
-    "FIN_TRAYECTO": 1255,
+    "FIN_TRAYECTO": 1195,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2053,8 +2053,8 @@
     "DESC_REDUCIDA": "TOSSA-LLORET INT",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1255,
-    "FIN_TRAYECTO": 1285,
+    "INI_TRAYECTO": 1195,
+    "FIN_TRAYECTO": 1225,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2379,7 +2379,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1255,
+    "FIN_TRAYECTO": 1195,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

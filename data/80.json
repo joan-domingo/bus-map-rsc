@@ -121,7 +121,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 30,
         "ID_PARADA": 7373,
-        "NKM_ORIGEN": 3.4,
+        "NKM_ORIGEN": 3.7,
         "SUBE_BAJA": 1
       },
       {
@@ -149,7 +149,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 40,
         "ID_PARADA": 13568,
-        "NKM_ORIGEN": 5.7,
+        "NKM_ORIGEN": 6.3,
         "SUBE_BAJA": 1
       },
       {
@@ -205,7 +205,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 60,
         "ID_PARADA": 13569,
-        "NKM_ORIGEN": 8.8,
+        "NKM_ORIGEN": 12,
         "SUBE_BAJA": 1
       },
       {
@@ -233,7 +233,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 70,
         "ID_PARADA": 7386,
-        "NKM_ORIGEN": 10.6,
+        "NKM_ORIGEN": 16,
         "SUBE_BAJA": 1
       },
       {
@@ -261,7 +261,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 80,
         "ID_PARADA": 12026,
-        "NKM_ORIGEN": 13.7,
+        "NKM_ORIGEN": 17.3,
         "SUBE_BAJA": 1
       },
       {
@@ -289,7 +289,7 @@
         "ID_TRAYECTO": 150,
         "SECUENCIA": 90,
         "ID_PARADA": 10738,
-        "NKM_ORIGEN": 15.3,
+        "NKM_ORIGEN": 18,
         "SUBE_BAJA": 1
       }
     ],
@@ -2328,7 +2328,7 @@
         "ID_TRAYECTO": 100,
         "SECUENCIA": 65,
         "ID_PARADA": 7373,
-        "NKM_ORIGEN": 14.3,
+        "NKM_ORIGEN": 15.3,
         "SUBE_BAJA": 1
       },
       {
@@ -2356,7 +2356,7 @@
         "ID_TRAYECTO": 100,
         "SECUENCIA": 70,
         "ID_PARADA": 10727,
-        "NKM_ORIGEN": 15.25,
+        "NKM_ORIGEN": 16.3,
         "SUBE_BAJA": 1
       },
       {
@@ -2384,7 +2384,7 @@
         "ID_TRAYECTO": 100,
         "SECUENCIA": 80,
         "ID_PARADA": 11884,
-        "NKM_ORIGEN": 15.5,
+        "NKM_ORIGEN": 17,
         "SUBE_BAJA": 1
       },
       {
@@ -2412,7 +2412,7 @@
         "ID_TRAYECTO": 100,
         "SECUENCIA": 90,
         "ID_PARADA": 13231,
-        "NKM_ORIGEN": 18.5,
+        "NKM_ORIGEN": 20,
         "SUBE_BAJA": 1
       }
     ],

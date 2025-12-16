@@ -24,7 +24,7 @@
     "ID_TRAYECTO": 100,
     "SECUENCIA": 90,
     "ID_PARADA": 13231,
-    "NKM_ORIGEN": 18.5,
+    "NKM_ORIGEN": 20,
     "SUBE_BAJA": 1
   },
   {
@@ -52,7 +52,7 @@
     "ID_TRAYECTO": 100,
     "SECUENCIA": 80,
     "ID_PARADA": 11884,
-    "NKM_ORIGEN": 15.5,
+    "NKM_ORIGEN": 17,
     "SUBE_BAJA": 1
   },
   {
@@ -108,7 +108,7 @@
     "ID_TRAYECTO": 100,
     "SECUENCIA": 65,
     "ID_PARADA": 7373,
-    "NKM_ORIGEN": 14.3,
+    "NKM_ORIGEN": 15.3,
     "SUBE_BAJA": 1
   },
   {
@@ -1844,7 +1844,7 @@
     "ID_TRAYECTO": 100,
     "SECUENCIA": 70,
     "ID_PARADA": 10727,
-    "NKM_ORIGEN": 15.25,
+    "NKM_ORIGEN": 16.3,
     "SUBE_BAJA": 1
   }
 ]

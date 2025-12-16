@@ -1,62 +1,6 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "RONDA DE LA UNIVERSITAT 25",
-      "COD_PARADA": 6190,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7022,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 430638,
-      "UTMY": 4582238,
-      "LATITUD": 41.38689,
-      "LONGITUD": 2.166885,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 48,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 100,
-    "ID_PARADA": 7022,
-    "NKM_ORIGEN": 33.31,
-    "SUBE_BAJA": 3
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "PL. DE TETUAN",
-      "COD_PARADA": 3220,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7508,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 431237,
-      "UTMY": 4583153,
-      "LATITUD": 41.395156051867,
-      "LONGITUD": 2.1763409160586,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 48,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 20,
-    "ID_PARADA": 7508,
-    "NKM_ORIGEN": 1.716,
-    "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
       "DESC_PARADA": "CTRA. DE CIRERA / C. DE CÀCERES",
       "COD_PARADA": 4230,
       "ID_GRUPO": 1,
@@ -77,39 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 48,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 30,
     "ID_PARADA": 7220,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CAMÍ DE LA GEGANTA/PL. GRANOLLERS (POLICIA LOCAL)",
-      "COD_PARADA": 7475,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 21749,
-      "ID_MUNICIPIO": 81213,
-      "MUNICIPIO": "MATARÓ",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 453090,
-      "UTMY": 4599200,
-      "LATITUD": 41.541266,
-      "LONGITUD": 2.436482,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 48,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 55,
-    "ID_PARADA": 21749,
-    "NKM_ORIGEN": 2.91,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 31.86,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -225,6 +141,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "CAMÍ DE LA GEGANTA/PL. GRANOLLERS (POLICIA LOCAL)",
+      "COD_PARADA": 7475,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 21749,
+      "ID_MUNICIPIO": 81213,
+      "MUNICIPIO": "MATARÓ",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 453090,
+      "UTMY": 4599200,
+      "LATITUD": 41.541266,
+      "LONGITUD": 2.436482,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 48,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 5,
+    "ID_PARADA": 21749,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "PG. DE RAMON BERENGUER III,130 / AV. DE LA GATASSA",
       "COD_PARADA": 50,
       "ID_GRUPO": 1,
@@ -334,5 +278,61 @@
     "ID_PARADA": 7506,
     "NKM_ORIGEN": 31.391,
     "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "RONDA DE LA UNIVERSITAT 25",
+      "COD_PARADA": 6190,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7022,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 430638,
+      "UTMY": 4582238,
+      "LATITUD": 41.38689,
+      "LONGITUD": 2.166885,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 48,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 60,
+    "ID_PARADA": 7022,
+    "NKM_ORIGEN": 31.26,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "PL. DE TETUAN",
+      "COD_PARADA": 3220,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7508,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 431237,
+      "UTMY": 4583153,
+      "LATITUD": 41.395156051867,
+      "LONGITUD": 2.1763409160586,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 48,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 20,
+    "ID_PARADA": 7508,
+    "NKM_ORIGEN": 1.716,
+    "SUBE_BAJA": 2
   }
 ]
