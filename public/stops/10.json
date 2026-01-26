@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+      "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
       "COD_PARADA": 7920,
       "ID_GRUPO": 1,
       "ID_PARADA": 7920,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GUGLIELMO MARCONI",
+      "DESC_PARADA": "Guglielmo Marconi",
       "COD_PARADA": 7930,
       "ID_GRUPO": 1,
       "ID_PARADA": 12855,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. D´OLESA/CALDERON DE LA BARCA",
+      "DESC_PARADA": "Carretera D´olesa/calderon De La Barca",
       "COD_PARADA": 8110,
       "ID_GRUPO": 1,
       "ID_PARADA": 12856,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VILADECAVALLS RENFE",
+      "DESC_PARADA": "Viladecavalls Renfe",
       "COD_PARADA": 8070,
       "ID_GRUPO": 1,
       "ID_PARADA": 8070,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CAN TORRELLA",
+      "DESC_PARADA": "Plaça Can Torrella",
       "COD_PARADA": 4313,
       "ID_GRUPO": 1,
       "ID_PARADA": 12857,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POLIESPORTIU -JOAN MIRÓ",
+      "DESC_PARADA": "Poliesportiu -joan Miró",
       "COD_PARADA": 4317,
       "ID_GRUPO": 1,
       "ID_PARADA": 12858,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE",
+      "DESC_PARADA": "Centre",
       "COD_PARADA": 3787,
       "ID_GRUPO": 1,
       "ID_PARADA": 3787,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POLIESPORTIU -VENÈCIA",
+      "DESC_PARADA": "Poliesportiu -venècia",
       "COD_PARADA": 4319,
       "ID_GRUPO": 1,
       "ID_PARADA": 12860,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CAN TORRELLA",
+      "DESC_PARADA": "Plaça Can Torrella",
       "COD_PARADA": 4321,
       "ID_GRUPO": 1,
       "ID_PARADA": 12861,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. D´OLESA/CALDERON DE LA BARCA",
+      "DESC_PARADA": "Carretera D´olesa/calderon De La Barca",
       "COD_PARADA": 1073,
       "ID_GRUPO": 1,
       "ID_PARADA": 12862,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GUGLIELMO MARCONI",
+      "DESC_PARADA": "Guglielmo Marconi",
       "COD_PARADA": 1074,
       "ID_GRUPO": 1,
       "ID_PARADA": 12863,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+      "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
       "COD_PARADA": 5085,
       "ID_GRUPO": 1,
       "ID_PARADA": 5085,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ / CREU",
+      "DESC_PARADA": "Passeig Francesc Macià / Creu",
       "COD_PARADA": 4352,
       "ID_GRUPO": 1,
       "ID_PARADA": 11648,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (CPA)",
+      "DESC_PARADA": "Passeig Francesc Macià (cpa)",
       "COD_PARADA": 9973,
       "ID_GRUPO": 1,
       "ID_PARADA": 10577,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ / JOSEP CARNER",
+      "DESC_PARADA": "Passeig Francesc Macià / Josep Carner",
       "COD_PARADA": 4353,
       "ID_GRUPO": 1,
       "ID_PARADA": 12224,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (RODALIES)",
+      "DESC_PARADA": "Passeig Francesc Macià (rodalies)",
       "COD_PARADA": 8088,
       "ID_GRUPO": 1,
       "ID_PARADA": 8088,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. CERDANYA (PLAÇA DEL XIC)",
+      "DESC_PARADA": "Carrer Cerdanya (plaça Del Xic)",
       "COD_PARADA": 2069,
       "ID_GRUPO": 1,
       "ID_PARADA": 21940,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CLOTA / AV. GRAELLS",
+      "DESC_PARADA": "Avinguda Clota / Avinguda Graells",
       "COD_PARADA": 9974,
       "ID_GRUPO": 1,
       "ID_PARADA": 10578,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ANTONI BELL (ESTACIÓ VOLPELLERES)",
+      "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
       "COD_PARADA": 7,
       "ID_GRUPO": 1,
       "ID_PARADA": 11657,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+      "DESC_PARADA": "Avinguda Clota / Roc Codó",
       "COD_PARADA": 9975,
       "ID_GRUPO": 1,
       "ID_PARADA": 10579,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA / AV. CLOTA",
+      "DESC_PARADA": "Avinguda Via Augusta / Avinguda Clota",
       "COD_PARADA": 9981,
       "ID_GRUPO": 1,
       "ID_PARADA": 10587,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA",
+      "DESC_PARADA": "Avinguda Via Augusta",
       "COD_PARADA": 3625,
       "ID_GRUPO": 1,
       "ID_PARADA": 14041,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CIUTAT ESPORTIVA)",
+      "DESC_PARADA": "Avinguda Via Augusta (ciutat Esportiva)",
       "COD_PARADA": 9336,
       "ID_GRUPO": 1,
       "ID_PARADA": 12993,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA, 71-73",
+      "DESC_PARADA": "Avinguda Via Augusta, 71-73",
       "COD_PARADA": 9982,
       "ID_GRUPO": 1,
       "ID_PARADA": 10588,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CENTRE COMERCIAL)",
+      "DESC_PARADA": "Avinguda Via Augusta (centre Comercial)",
       "COD_PARADA": 9983,
       "ID_GRUPO": 1,
       "ID_PARADA": 10589,
@@ -375,10 +375,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421042,
-      "UTMY": 4593110,
-      "LATITUD": 41.483894453638,
-      "LONGITUD": 2.0530999080183,
+      "UTMX": 421044,
+      "UTMY": 4593107,
+      "LATITUD": 41.483868332014,
+      "LONGITUD": 2.0531267301084,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA  / AV. EUROPA",
+      "DESC_PARADA": "Avinguda Via Augusta  / Avinguda Europa",
       "COD_PARADA": 1960,
       "ID_GRUPO": 1,
       "ID_PARADA": 10590,
@@ -403,10 +403,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421202,
-      "UTMY": 4593216,
-      "LATITUD": 41.484837759674,
-      "LONGITUD": 2.0549907382317,
+      "UTMX": 421203,
+      "UTMY": 4593208,
+      "LATITUD": 41.484793554486,
+      "LONGITUD": 2.0550229247399,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (L´ESTANY)",
+      "DESC_PARADA": "Avinguda Via Augusta (l´estany)",
       "COD_PARADA": 9985,
       "ID_GRUPO": 1,
       "ID_PARADA": 10591,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CIUTAT ESPORTIVA)",
+      "DESC_PARADA": "Avinguda Via Augusta (ciutat Esportiva)",
       "COD_PARADA": 170,
       "ID_GRUPO": 1,
       "ID_PARADA": 12515,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA",
+      "DESC_PARADA": "Avinguda Via Augusta",
       "COD_PARADA": 9986,
       "ID_GRUPO": 1,
       "ID_PARADA": 10594,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA / AV. CLOTA",
+      "DESC_PARADA": "Avinguda Via Augusta / Avinguda Clota",
       "COD_PARADA": 9987,
       "ID_GRUPO": 1,
       "ID_PARADA": 10595,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+      "DESC_PARADA": "Avinguda Clota / Roc Codó",
       "COD_PARADA": 9988,
       "ID_GRUPO": 1,
       "ID_PARADA": 10583,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CLOTA / PG. MARE DE LA FONT",
+      "DESC_PARADA": "Avinguda Clota / Passeig Mare De La Font",
       "COD_PARADA": 4351,
       "ID_GRUPO": 1,
       "ID_PARADA": 12222,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CLOTA (E. L´OLIVERA)",
+      "DESC_PARADA": "Avinguda Clota (e. L´olivera)",
       "COD_PARADA": 2689,
       "ID_GRUPO": 1,
       "ID_PARADA": 10628,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG.FRANCESC MACIÀ (RODALIES)",
+      "DESC_PARADA": "Passeig.francesc Macià (rodalies)",
       "COD_PARADA": 8064,
       "ID_GRUPO": 1,
       "ID_PARADA": 8064,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ / CARLES RIBA",
+      "DESC_PARADA": "Passeig Francesc Macià / Carles Riba",
       "COD_PARADA": 9984,
       "ID_GRUPO": 1,
       "ID_PARADA": 10585,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+      "DESC_PARADA": "Passeig Francesc Macià (monestir)",
       "COD_PARADA": 9158,
       "ID_GRUPO": 1,
       "ID_PARADA": 9158,

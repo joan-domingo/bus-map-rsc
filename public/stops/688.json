@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "AEROPORT T1",
+      "DESC_PARADA": "Aeroport T1",
       "COD_PARADA": 7109196,
       "ID_GRUPO": 1,
       "ID_PARADA": 24899,
@@ -11,10 +11,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 422385,
-      "UTMY": 4571129,
-      "LATITUD": 41.28787529,
-      "LONGITUD": 2.07309391,
+      "UTMX": 422471,
+      "UTMY": 4571284,
+      "LATITUD": 41.287458096312,
+      "LONGITUD": 2.0730214903566,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MAS BLAU",
+      "DESC_PARADA": "Mas Blau",
       "COD_PARADA": 7104756,
       "ID_GRUPO": 1,
       "ID_PARADA": 24813,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALL D'ARAN - REMOLAR",
+      "DESC_PARADA": "Vall D'aran - Remolar",
       "COD_PARADA": 7003289,
       "ID_GRUPO": 1,
       "ID_PARADA": 24672,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES (SENTIT T2/EL PRAT L.)",
+      "DESC_PARADA": "Estació Rodalies (sentit T2/el Prat L.)",
       "COD_PARADA": 7112370,
       "ID_GRUPO": 1,
       "ID_PARADA": 24952,
@@ -95,10 +95,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423877,
-      "UTMY": 4575889,
-      "LATITUD": 41.330889720702,
-      "LONGITUD": 2.0903129912255,
+      "UTMX": 423970,
+      "UTMY": 4576084,
+      "LATITUD": 41.330833074319,
+      "LONGITUD": 2.0903136617778,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE LA VILA",
+      "DESC_PARADA": "Plaça De La Vila",
       "COD_PARADA": 7102133,
       "ID_GRUPO": 1,
       "ID_PARADA": 24766,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ANSELM CLAVÉ - MANUEL BERTRAND",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Manuel Bertrand",
       "COD_PARADA": 7001097,
       "ID_GRUPO": 1,
       "ID_PARADA": 24600,
@@ -151,10 +151,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424280,
-      "UTMY": 4575982,
-      "LATITUD": 41.331702,
-      "LONGITUD": 2.09497805,
+      "UTMX": 424373,
+      "UTMY": 4576183,
+      "LATITUD": 41.331767457165,
+      "LONGITUD": 2.095118195421,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOAN MARAGALL - IGNASI IGLESIAS",
+      "DESC_PARADA": "Joan Maragall - Ignasi Iglesias",
       "COD_PARADA": 7107617,
       "ID_GRUPO": 1,
       "ID_PARADA": 24859,
@@ -179,10 +179,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424415,
-      "UTMY": 4575894,
-      "LATITUD": 41.33094795,
-      "LONGITUD": 2.09670655,
+      "UTMX": 424507,
+      "UTMY": 4576092,
+      "LATITUD": 41.33096305568,
+      "LONGITUD": 2.0967286782244,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA ROIGÉ I BADIA",
+      "DESC_PARADA": "Plaça Roigé i Badia",
       "COD_PARADA": 7003300,
       "ID_GRUPO": 1,
       "ID_PARADA": 24674,
@@ -207,10 +207,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424560,
-      "UTMY": 4575697,
-      "LATITUD": 41.32918205,
-      "LONGITUD": 2.09846839,
+      "UTMX": 424654,
+      "UTMY": 4575898,
+      "LATITUD": 41.329228878867,
+      "LONGITUD": 2.0985146581055,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. VERGE DE MONTSERRAT",
+      "DESC_PARADA": "Carretera Marina - Avinguda Verge De Montserrat",
       "COD_PARADA": 7003363,
       "ID_GRUPO": 1,
       "ID_PARADA": 24680,
@@ -235,10 +235,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424666,
-      "UTMY": 4575471,
-      "LATITUD": 41.32720442,
-      "LONGITUD": 2.09979038,
+      "UTMX": 424763,
+      "UTMY": 4575678,
+      "LATITUD": 41.32725175384,
+      "LONGITUD": 2.0998386597623,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - CATALUNYA",
+      "DESC_PARADA": "Carretera Marina - Catalunya",
       "COD_PARADA": 7003364,
       "ID_GRUPO": 1,
       "ID_PARADA": 24681,
@@ -263,10 +263,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424776,
-      "UTMY": 4575264,
-      "LATITUD": 41.32530415,
-      "LONGITUD": 2.10109939,
+      "UTMX": 424871,
+      "UTMY": 4575465,
+      "LATITUD": 41.3253414139,
+      "LONGITUD": 2.1011583985983,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA BLANES",
+      "DESC_PARADA": "Plaça Blanes",
       "COD_PARADA": 7107620,
       "ID_GRUPO": 1,
       "ID_PARADA": 24860,
@@ -291,10 +291,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424791,
-      "UTMY": 4575190,
-      "LATITUD": 41.32468478,
-      "LONGITUD": 2.10131782,
+      "UTMX": 424890,
+      "UTMY": 4575393,
+      "LATITUD": 41.324697369277,
+      "LONGITUD": 2.1013956040614,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA JACINT VERDAGUER",
+      "DESC_PARADA": "Escola Jacint Verdaguer",
       "COD_PARADA": 7003487,
       "ID_GRUPO": 1,
       "ID_PARADA": 24691,
@@ -319,10 +319,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424564,
-      "UTMY": 4575071,
-      "LATITUD": 41.32359302,
-      "LONGITUD": 2.09862833,
+      "UTMX": 424662,
+      "UTMY": 4575270,
+      "LATITUD": 41.323571869654,
+      "LONGITUD": 2.0986806330758,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA BERNAT METGE",
+      "DESC_PARADA": "Escola Bernat Metge",
       "COD_PARADA": 7003441,
       "ID_GRUPO": 1,
       "ID_PARADA": 24685,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CÊNTRIC",
+      "DESC_PARADA": "Cêntric",
       "COD_PARADA": 7001153,
       "ID_GRUPO": 1,
       "ID_PARADA": 24601,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLEIDA - AV. REMOLAR",
+      "DESC_PARADA": "Lleida - Avinguda Remolar",
       "COD_PARADA": 7003503,
       "ID_GRUPO": 1,
       "ID_PARADA": 24700,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. REMOLAR - AV. ONZE DE SETEMBRE",
+      "DESC_PARADA": "Avinguda Remolar - Avinguda Onze De Setembre",
       "COD_PARADA": 7001043,
       "ID_GRUPO": 1,
       "ID_PARADA": 24595,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE CÍVIC SANT JORDI - RIBERA BAIXA",
+      "DESC_PARADA": "Centre Cívic Sant Jordi - Ribera Baixa",
       "COD_PARADA": 7002379,
       "ID_GRUPO": 1,
       "ID_PARADA": 24642,
@@ -459,10 +459,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423531,
-      "UTMY": 4574638,
-      "LATITUD": 41.31959511,
-      "LONGITUD": 2.08633942,
+      "UTMX": 423627,
+      "UTMY": 4574837,
+      "LATITUD": 41.319574965578,
+      "LONGITUD": 2.0863783120307,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -477,7 +477,35 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ZONA CÀRREGA (SENTIT T1)",
+      "DESC_PARADA": "Avinguda De L'onze De Setembre - Roure",
+      "COD_PARADA": 7002371,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 24640,
+      "ID_MUNICIPIO": 471019,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 423169,
+      "UTMY": 4574502,
+      "LATITUD": 41.31829204,
+      "LONGITUD": 2.0819991,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 688,
+    "ID_TRAYECTO": 1017,
+    "SECUENCIA": 185,
+    "ID_PARADA": 24640,
+    "NKM_ORIGEN": 11.849,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Zona Càrrega (sentit T1)",
       "COD_PARADA": 7002664,
       "ID_GRUPO": 1,
       "ID_PARADA": 24654,
@@ -487,10 +515,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 422043,
-      "UTMY": 4572638,
-      "LATITUD": 41.30137643,
-      "LONGITUD": 2.06877231,
+      "UTMX": 422135,
+      "UTMY": 4572842,
+      "LATITUD": 41.301459045149,
+      "LONGITUD": 2.0688044965082,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -505,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AEROPORT T2B - SORTIDES",
+      "DESC_PARADA": "Aeroport T2b - Sortides",
       "COD_PARADA": 7109231,
       "ID_GRUPO": 1,
       "ID_PARADA": 24902,
@@ -515,10 +543,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 422667,
-      "UTMY": 4572815,
-      "LATITUD": 41.30309321,
-      "LONGITUD": 2.07624142,
+      "UTMX": 422755,
+      "UTMY": 4573029,
+      "LATITUD": 41.303208062155,
+      "LONGITUD": 2.0761904580287,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -533,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AEROPORT T2B - ARRIBADES",
+      "DESC_PARADA": "Aeroport T2b - Arribades",
       "COD_PARADA": 7000080,
       "ID_GRUPO": 1,
       "ID_PARADA": 24552,
@@ -561,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AEROPORT T2C",
+      "DESC_PARADA": "Aeroport T2c",
       "COD_PARADA": 7000081,
       "ID_GRUPO": 1,
       "ID_PARADA": 24553,
@@ -589,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV ONZE DE SETEMBRE - RIU ANOIA",
+      "DESC_PARADA": "Avinguda Onze De Setembre - Riu Anoia",
       "COD_PARADA": 7002375,
       "ID_GRUPO": 1,
       "ID_PARADA": 24641,
@@ -617,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE CÍVIC SANT JORDI - RIBERA BAIXA",
+      "DESC_PARADA": "Centre Cívic Sant Jordi - Ribera Baixa",
       "COD_PARADA": 7002380,
       "ID_GRUPO": 1,
       "ID_PARADA": 24643,
@@ -645,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV REMOLAR - AV ONZE DE SETEMBRE",
+      "DESC_PARADA": "Avinguda Remolar - Avinguda Onze De Setembre",
       "COD_PARADA": 7002571,
       "ID_GRUPO": 1,
       "ID_PARADA": 24649,
@@ -673,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CÊNTRIC",
+      "DESC_PARADA": "Cêntric",
       "COD_PARADA": 7001155,
       "ID_GRUPO": 1,
       "ID_PARADA": 24602,
@@ -701,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA BERNAT METGE",
+      "DESC_PARADA": "Escola Bernat Metge",
       "COD_PARADA": 7003485,
       "ID_GRUPO": 1,
       "ID_PARADA": 24689,
@@ -711,10 +739,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424391,
-      "UTMY": 4574968,
-      "LATITUD": 41.322643,
-      "LONGITUD": 2.09657431,
+      "UTMX": 424487,
+      "UTMY": 4575172,
+      "LATITUD": 41.322673215208,
+      "LONGITUD": 2.0966064965082,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -729,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA JACINT VERDAGUER",
+      "DESC_PARADA": "Escola Jacint Verdaguer",
       "COD_PARADA": 7003486,
       "ID_GRUPO": 1,
       "ID_PARADA": 24690,
@@ -739,10 +767,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424560,
-      "UTMY": 4575056,
-      "LATITUD": 41.32345601,
-      "LONGITUD": 2.09858234,
+      "UTMX": 424657,
+      "UTMY": 4575262,
+      "LATITUD": 41.323494282117,
+      "LONGITUD": 2.0986252553443,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -757,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA BLANES",
+      "DESC_PARADA": "Plaça Blanes",
       "COD_PARADA": 7107638,
       "ID_GRUPO": 1,
       "ID_PARADA": 24870,
@@ -767,10 +795,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424768,
-      "UTMY": 4575165,
-      "LATITUD": 41.3244561,
-      "LONGITUD": 2.10104428,
+      "UTMX": 424864,
+      "UTMY": 4575371,
+      "LATITUD": 41.32449437153,
+      "LONGITUD": 2.1010858542397,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -785,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - PABLO NERUDA",
+      "DESC_PARADA": "Carretera Marina - Pablo Neruda",
       "COD_PARADA": 7003361,
       "ID_GRUPO": 1,
       "ID_PARADA": 24678,
@@ -795,10 +823,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424801,
-      "UTMY": 4575244,
-      "LATITUD": 41.32520429,
-      "LONGITUD": 2.10146202,
+      "UTMX": 424894,
+      "UTMY": 4575442,
+      "LATITUD": 41.325143861917,
+      "LONGITUD": 2.1014351979098,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -813,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. VERGE DE MONTSERRAT",
+      "DESC_PARADA": "Carretera Marina - Avinguda Verge De Montserrat",
       "COD_PARADA": 7003362,
       "ID_GRUPO": 1,
       "ID_PARADA": 24679,
@@ -823,10 +851,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424677,
-      "UTMY": 4575478,
-      "LATITUD": 41.32726853,
-      "LONGITUD": 2.09992539,
+      "UTMX": 424772,
+      "UTMY": 4575680,
+      "LATITUD": 41.327272558409,
+      "LONGITUD": 2.0999468476721,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -841,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA ROIGÉ I BADIA",
+      "DESC_PARADA": "Plaça Roigé i Badia",
       "COD_PARADA": 7003488,
       "ID_GRUPO": 1,
       "ID_PARADA": 24692,
@@ -869,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT ILLA DELS BANYOLS",
+      "DESC_PARADA": "Institut Illa Dels Banyols",
       "COD_PARADA": 7003489,
       "ID_GRUPO": 1,
       "ID_PARADA": 25294,
@@ -897,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LES MORERES - IGNASI IGLÉSIAS",
+      "DESC_PARADA": "Les Moreres - Ignasi Iglésias",
       "COD_PARADA": 7003490,
       "ID_GRUPO": 1,
       "ID_PARADA": 25295,
@@ -925,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ANSELM CLAVÉ - ENRIC BORRÀS",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Enric Borràs",
       "COD_PARADA": 7100712,
       "ID_GRUPO": 1,
       "ID_PARADA": 24744,
@@ -953,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ANSELM CLAVÉ - MANUEL BERTRAND",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Manuel Bertrand",
       "COD_PARADA": 7102249,
       "ID_GRUPO": 1,
       "ID_PARADA": 24774,
@@ -981,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE L'ESGLÉSIA",
+      "DESC_PARADA": "Plaça De L'església",
       "COD_PARADA": 7102132,
       "ID_GRUPO": 1,
       "ID_PARADA": 24765,
@@ -1009,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES (SENTIT T1/SANT BOI L.)",
+      "DESC_PARADA": "Estació Rodalies (sentit T1/sant Boi L.)",
       "COD_PARADA": 7109216,
       "ID_GRUPO": 1,
       "ID_PARADA": 24901,
@@ -1019,10 +1047,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423873,
-      "UTMY": 4575889,
-      "LATITUD": 41.33089289,
-      "LONGITUD": 2.09026487,
+      "UTMX": 423970,
+      "UTMY": 4576084,
+      "LATITUD": 41.33084052357,
+      "LONGITUD": 2.0903131497623,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1037,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALL D'ARAN - REMOLAR",
+      "DESC_PARADA": "Vall D'aran - Remolar",
       "COD_PARADA": 7003288,
       "ID_GRUPO": 1,
       "ID_PARADA": 24671,
@@ -1065,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MAS BLAU",
+      "DESC_PARADA": "Mas Blau",
       "COD_PARADA": 7100220,
       "ID_GRUPO": 1,
       "ID_PARADA": 24723,

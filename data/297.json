@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL CONCÒRDIA",
+          "DESC_PARADA": "Plaça Concòrdia",
           "COD_PARADA": 7184,
           "ID_GRUPO": 1,
           "ID_PARADA": 12962,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE FRANCESC MACIÀ/AV. DELS PARAIRES",
+          "DESC_PARADA": "Avinguda De Francesc Macià/avinguda Dels Paraires",
           "COD_PARADA": 4475,
           "ID_GRUPO": 1,
           "ID_PARADA": 4475,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EMBARCADOR",
+          "DESC_PARADA": "Embarcador",
           "COD_PARADA": 4498,
           "ID_GRUPO": 1,
           "ID_PARADA": 12963,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA PONENT-PL CATALUNYA",
+          "DESC_PARADA": "Ronda Ponent-plaça Catalunya",
           "COD_PARADA": 4499,
           "ID_GRUPO": 1,
           "ID_PARADA": 12964,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/MARGENAT",
+          "DESC_PARADA": "Ronda Ponent/margenat",
           "COD_PARADA": 448,
           "ID_GRUPO": 1,
           "ID_PARADA": 448,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 4344,
           "ID_GRUPO": 1,
           "ID_PARADA": 12843,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -227,7 +227,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -255,7 +255,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 442,
           "ID_GRUPO": 1,
           "ID_PARADA": 442,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL CONCÒRDIA",
+          "DESC_PARADA": "Plaça Concòrdia",
           "COD_PARADA": 7184,
           "ID_GRUPO": 1,
           "ID_PARADA": 12962,
@@ -328,7 +328,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -356,7 +356,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 7570,
           "ID_GRUPO": 1,
           "ID_PARADA": 12839,
@@ -384,7 +384,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/JOAN PLANS",
+          "DESC_PARADA": "Ronda Ponent/joan Plans",
           "COD_PARADA": 7590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7590,
@@ -412,7 +412,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FRANCESC MACIÀ-PL CATALUNYA",
+          "DESC_PARADA": "Avinguda Francesc Macià-plaça Catalunya",
           "COD_PARADA": 7194,
           "ID_GRUPO": 1,
           "ID_PARADA": 12968,
@@ -440,7 +440,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FRANCESC MACIÀ-CLEMENTINA ARDERIU",
+          "DESC_PARADA": "Avinguda Francesc Macià-clementina Arderiu",
           "COD_PARADA": 5360,
           "ID_GRUPO": 1,
           "ID_PARADA": 12247,
@@ -468,7 +468,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. CONCORDIA",
+          "DESC_PARADA": "Plaça Concordia",
           "COD_PARADA": 7620,
           "ID_GRUPO": 1,
           "ID_PARADA": 14108,
@@ -496,7 +496,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 4320,
           "ID_GRUPO": 1,
           "ID_PARADA": 4320,
@@ -524,7 +524,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -569,7 +569,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. CONCORDIA",
+          "DESC_PARADA": "Plaça Concordia",
           "COD_PARADA": 7620,
           "ID_GRUPO": 1,
           "ID_PARADA": 14108,
@@ -597,7 +597,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 4320,
           "ID_GRUPO": 1,
           "ID_PARADA": 4320,
@@ -625,7 +625,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -670,7 +670,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -698,7 +698,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 442,
           "ID_GRUPO": 1,
           "ID_PARADA": 442,
@@ -726,7 +726,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL CONCÒRDIA",
+          "DESC_PARADA": "Plaça Concòrdia",
           "COD_PARADA": 7184,
           "ID_GRUPO": 1,
           "ID_PARADA": 12962,
@@ -754,7 +754,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE FRANCESC MACIÀ/AV. DELS PARAIRES",
+          "DESC_PARADA": "Avinguda De Francesc Macià/avinguda Dels Paraires",
           "COD_PARADA": 4475,
           "ID_GRUPO": 1,
           "ID_PARADA": 4475,
@@ -782,7 +782,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EMBARCADOR",
+          "DESC_PARADA": "Embarcador",
           "COD_PARADA": 4498,
           "ID_GRUPO": 1,
           "ID_PARADA": 12963,
@@ -810,7 +810,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA PONENT-PL CATALUNYA",
+          "DESC_PARADA": "Ronda Ponent-plaça Catalunya",
           "COD_PARADA": 4499,
           "ID_GRUPO": 1,
           "ID_PARADA": 12964,
@@ -838,7 +838,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/MARGENAT",
+          "DESC_PARADA": "Ronda Ponent/margenat",
           "COD_PARADA": 448,
           "ID_GRUPO": 1,
           "ID_PARADA": 448,
@@ -866,7 +866,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 4344,
           "ID_GRUPO": 1,
           "ID_PARADA": 12843,
@@ -894,7 +894,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -939,7 +939,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -967,7 +967,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 7570,
           "ID_GRUPO": 1,
           "ID_PARADA": 12839,
@@ -995,7 +995,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/JOAN PLANS",
+          "DESC_PARADA": "Ronda Ponent/joan Plans",
           "COD_PARADA": 7590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7590,
@@ -1023,7 +1023,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FRANCESC MACIÀ-PL CATALUNYA",
+          "DESC_PARADA": "Avinguda Francesc Macià-plaça Catalunya",
           "COD_PARADA": 7194,
           "ID_GRUPO": 1,
           "ID_PARADA": 12968,
@@ -1051,7 +1051,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FRANCESC MACIÀ-CLEMENTINA ARDERIU",
+          "DESC_PARADA": "Avinguda Francesc Macià-clementina Arderiu",
           "COD_PARADA": 5360,
           "ID_GRUPO": 1,
           "ID_PARADA": 12247,
@@ -1079,7 +1079,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. CONCORDIA",
+          "DESC_PARADA": "Plaça Concordia",
           "COD_PARADA": 7620,
           "ID_GRUPO": 1,
           "ID_PARADA": 14108,

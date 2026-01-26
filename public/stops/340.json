@@ -561,6 +561,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "PG. DE PAU CLARIS / PLAÇA RAMON I CAJAL",
+      "COD_PARADA": 8943,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 10429,
+      "ID_MUNICIPIO": 447152,
+      "MUNICIPIO": "TEIA",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 442497,
+      "UTMY": 4593167,
+      "LATITUD": 41.486235933269,
+      "LONGITUD": 2.3100766521843,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 340,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 205,
+    "ID_PARADA": 10429,
+    "NKM_ORIGEN": 6.789,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "(ALMERIA) ALMERÍA / JOAN XXIII",
       "COD_PARADA": 3661,
       "ID_GRUPO": 1,

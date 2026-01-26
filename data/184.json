@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CATALUNYA/C. DE SANT JOAQUIM",
+          "DESC_PARADA": "Avinguda De Catalunya/carrer De Sant Joaquim",
           "COD_PARADA": 9170,
           "ID_GRUPO": 1,
           "ID_PARADA": 9170,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DE SANT RAMON",
+          "DESC_PARADA": "Plaça De Sant Ramon",
           "COD_PARADA": 8094,
           "ID_GRUPO": 1,
           "ID_PARADA": 12317,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ANSELM CLAVÉ / C. DE ST. RAMON",
+          "DESC_PARADA": "Carrer D´anselm Clavé / Carrer De St. Ramon",
           "COD_PARADA": 8158,
           "ID_GRUPO": 1,
           "ID_PARADA": 12625,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON / C. DEL CASTELL",
+          "DESC_PARADA": "Carrer De St. Ramon / Carrer Del Castell",
           "COD_PARADA": 5120,
           "ID_GRUPO": 1,
           "ID_PARADA": 5120,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON (PARC TECNOLÒGIC)",
+          "DESC_PARADA": "Carrer De St. Ramon (parc Tecnològic)",
           "COD_PARADA": 5110,
           "ID_GRUPO": 1,
           "ID_PARADA": 5110,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS BOTERS (HOTEL)",
+          "DESC_PARADA": "Carrer Dels Boters (hotel)",
           "COD_PARADA": 5119,
           "ID_GRUPO": 1,
           "ID_PARADA": 5119,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. BP-1413 (SINCROTRÓ)",
+          "DESC_PARADA": "Carretera Bp-1413 (sincrotró)",
           "COD_PARADA": 5117,
           "ID_GRUPO": 1,
           "ID_PARADA": 5117,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CERDANYOLA (CLUB DE TENNIS SET BALL)",
+          "DESC_PARADA": "Carretera De Cerdanyola (club De Tennis Set Ball)",
           "COD_PARADA": 5115,
           "ID_GRUPO": 1,
           "ID_PARADA": 5115,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. CERDANYOLA / AV. DE LES ROQUETES (CAN MAGI)",
+          "DESC_PARADA": "Carretera Cerdanyola / Avinguda De Les Roquetes (C",
           "COD_PARADA": 5100,
           "ID_GRUPO": 1,
           "ID_PARADA": 5100,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA DEL CELLER / PLAÇA DE LA PELLERIA",
+          "DESC_PARADA": "Rambla Del Celler / Plaça De La Pelleria",
           "COD_PARADA": 5060,
           "ID_GRUPO": 1,
           "ID_PARADA": 5060,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / PG. TORRE BLANCA",
+          "DESC_PARADA": "Rambla Del Celler / Passeig Torre Blanca",
           "COD_PARADA": 5040,
           "ID_GRUPO": 1,
           "ID_PARADA": 5040,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE RIUS I TAULET/ C. DEL MONTSENY",
+          "DESC_PARADA": "Avinguda De Rius i Taulet/ Carrer Del Montseny",
           "COD_PARADA": 2370,
           "ID_GRUPO": 1,
           "ID_PARADA": 2370,
@@ -630,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE RIUS I TAULET/C. DE GRANOLLERS",
+          "DESC_PARADA": "Avinguda De Rius i Taulet/carrer De Granollers",
           "COD_PARADA": 2390,
           "ID_GRUPO": 1,
           "ID_PARADA": 2390,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE RUBÍ/C. D´AMPOSTA",
+          "DESC_PARADA": "Carretera De Rubí/carrer D´amposta",
           "COD_PARADA": 2400,
           "ID_GRUPO": 1,
           "ID_PARADA": 2400,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE RUBÍ (CENTRE COMERCIAL)",
+          "DESC_PARADA": "Carretera De Rubí (centre Comercial)",
           "COD_PARADA": 2410,
           "ID_GRUPO": 1,
           "ID_PARADA": 2410,
@@ -714,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´EDISON/C. DEL BERGUEDÀ",
+          "DESC_PARADA": "Carrer D´edison/carrer Del Berguedà",
           "COD_PARADA": 3600,
           "ID_GRUPO": 1,
           "ID_PARADA": 10651,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´EDISON/C. DE MARCONI (CAP ANTÓN DE BORJA)",
+          "DESC_PARADA": "Carrer D´edison/carrer De Marconi (cap Antón De Bo",
           "COD_PARADA": 2420,
           "ID_GRUPO": 1,
           "ID_PARADA": 2420,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN CABANYES",
+          "DESC_PARADA": "Avinguda De Can Cabanyes",
           "COD_PARADA": 149,
           "ID_GRUPO": 1,
           "ID_PARADA": 149,
@@ -815,7 +815,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN CABANYES",
+          "DESC_PARADA": "Avinguda De Can Cabanyes",
           "COD_PARADA": 149,
           "ID_GRUPO": 1,
           "ID_PARADA": 149,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´EDISON/C. DE MARCONI (CAP ANTÓN DE BORJA)",
+          "DESC_PARADA": "Carrer D´edison/carrer De Marconi (cap Antón De Bo",
           "COD_PARADA": 391,
           "ID_GRUPO": 1,
           "ID_PARADA": 391,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´EDISON/C. DEL BERGUEDÀ",
+          "DESC_PARADA": "Carrer D´edison/carrer Del Berguedà",
           "COD_PARADA": 5944,
           "ID_GRUPO": 1,
           "ID_PARADA": 12285,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE RUBÍ (CENTRE COMERCIAL)",
+          "DESC_PARADA": "Carretera De Rubí (centre Comercial)",
           "COD_PARADA": 392,
           "ID_GRUPO": 1,
           "ID_PARADA": 392,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE RUBÍ, KM14,5 / C. DE PRAT DE LA RIBA",
+          "DESC_PARADA": "Carretera De Rubí, Km14,5 / Carrer De Prat De La r",
           "COD_PARADA": 393,
           "ID_GRUPO": 1,
           "ID_PARADA": 393,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE RIUS I TAULET/CTRA. DE GRANOLLERS",
+          "DESC_PARADA": "Avinguda De Rius i Taulet/carretera De Granollers",
           "COD_PARADA": 394,
           "ID_GRUPO": 1,
           "ID_PARADA": 394,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE RIUS I TAULET/C. DEL MONTSENY",
+          "DESC_PARADA": "Avinguda De Rius i Taulet/carrer Del Montseny",
           "COD_PARADA": 395,
           "ID_GRUPO": 1,
           "ID_PARADA": 395,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CÈSAR MARTINELL / PL. DEL MIL.LENARI",
+          "DESC_PARADA": "Carrer De Cèsar Martinell / Plaça Del Mil.lenari",
           "COD_PARADA": 9101,
           "ID_GRUPO": 1,
           "ID_PARADA": 9101,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / C. CÈSAR MARTINELL",
+          "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Carrer Cèsar Ma",
           "COD_PARADA": 5020,
           "ID_GRUPO": 1,
           "ID_PARADA": 5020,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / C. FERRAN ROMEU",
+          "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Carrer Ferran r",
           "COD_PARADA": 5030,
           "ID_GRUPO": 1,
           "ID_PARADA": 5030,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / AV. DE TORRE BLANCA",
+          "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Avinguda De Tor",
           "COD_PARADA": 398,
           "ID_GRUPO": 1,
           "ID_PARADA": 398,
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA DEL CELLER (PARC DE LA POLLANCREDA)",
+          "DESC_PARADA": "Rambla Del Celler (parc De La Pollancreda)",
           "COD_PARADA": 399,
           "ID_GRUPO": 1,
           "ID_PARADA": 399,
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. CERDANYOLA / AV. DE LES ROQUETES (CAN MAGI)",
+          "DESC_PARADA": "Carretera Cerdanyola / Avinguda De Les Roquetes (C",
           "COD_PARADA": 401,
           "ID_GRUPO": 1,
           "ID_PARADA": 401,
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. BP-1413 (SINCROTRÓ)",
+          "DESC_PARADA": "Carretera Bp-1413 (sincrotró)",
           "COD_PARADA": 403,
           "ID_GRUPO": 1,
           "ID_PARADA": 403,
@@ -1319,7 +1319,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS BOTERS (MOSSOS D´ESQUADRA)",
+          "DESC_PARADA": "Carrer Dels Boters (mossos D´esquadra)",
           "COD_PARADA": 404,
           "ID_GRUPO": 1,
           "ID_PARADA": 404,
@@ -1347,7 +1347,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´EUROPA (P. TECNOLÒGIC-CARPA)",
+          "DESC_PARADA": "Plaça D´europa (p. Tecnològic-carpa)",
           "COD_PARADA": 405,
           "ID_GRUPO": 1,
           "ID_PARADA": 405,
@@ -1375,7 +1375,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG / C. DE SANTA ROSA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig / Carrer De Santa Ros",
           "COD_PARADA": 8093,
           "ID_GRUPO": 1,
           "ID_PARADA": 12316,
@@ -1403,7 +1403,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  PRIMAVERA / C. DEL MONT",
+          "DESC_PARADA": "Avinguda De  Primavera / Carrer Del Mont",
           "COD_PARADA": 5130,
           "ID_GRUPO": 1,
           "ID_PARADA": 5130,
@@ -1431,7 +1431,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -1459,7 +1459,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,

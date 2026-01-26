@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL DEL MUNT",
+      "DESC_PARADA": "Plaça Del Munt",
       "COD_PARADA": 4336,
       "ID_GRUPO": 1,
       "ID_PARADA": 4336,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL ROQUES",
+      "DESC_PARADA": "Plaça Roques",
       "COD_PARADA": 4338,
       "ID_GRUPO": 1,
       "ID_PARADA": 4338,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DE LES ROQUES / PSTGE. AVELLANERS",
+      "DESC_PARADA": "Passeig De Les Roques / Pstge. Avellaners",
       "COD_PARADA": 4602,
       "ID_GRUPO": 1,
       "ID_PARADA": 4602,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MIQUEL PONT I A. / C. DEL DR. PERE PORTABELLA",
+      "DESC_PARADA": "Plaça Miquel Pont i A. / Carrer Del Dr. Pere Porta",
       "COD_PARADA": 4625,
       "ID_GRUPO": 1,
       "ID_PARADA": 4625,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PUIGCAPSUT (AIRESOL A-B)",
+      "DESC_PARADA": "Carrer De Puigcapsut (airesol A-b)",
       "COD_PARADA": 4630,
       "ID_GRUPO": 1,
       "ID_PARADA": 4630,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BP-124 - C. DE LA CAMAMILLA (AIRESOL C)",
+      "DESC_PARADA": "Bp-124 - Carrer De La Camamilla (airesol Carrer)",
       "COD_PARADA": 4635,
       "ID_GRUPO": 1,
       "ID_PARADA": 4635,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL DR. PUJOL (CAPELLA DE MONTSERRAT)",
+      "DESC_PARADA": "Carrer Del Dr. Pujol (capella De Montserrat)",
       "COD_PARADA": 4640,
       "ID_GRUPO": 1,
       "ID_PARADA": 4640,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SENTMENAT / C. DE JOSEP ANSELM CLAVÉ",
+      "DESC_PARADA": "Carretera De Sentmenat / Carrer De Josep Anselm Cl",
       "COD_PARADA": 4604,
       "ID_GRUPO": 1,
       "ID_PARADA": 4604,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SENTMENAT / C. DEL MESTRE PLA",
+      "DESC_PARADA": "Carretera De Sentmenat / Carrer Del Mestre Pla",
       "COD_PARADA": 4606,
       "ID_GRUPO": 1,
       "ID_PARADA": 4606,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(DEMANDA BAIXADA) C. DE CALDES / RDA. DEL COSIDOR",
+      "DESC_PARADA": "(demanda Baixada) Carrer De Caldes / Ronda Del Cos",
       "COD_PARADA": 9868,
       "ID_GRUPO": 1,
       "ID_PARADA": 12477,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE LLEVANT (DONA ACOLLIDORA-ELS FRUITERS)",
+      "DESC_PARADA": "Ronda De Llevant (dona Acollidora-els Fruiters)",
       "COD_PARADA": 7854,
       "ID_GRUPO": 1,
       "ID_PARADA": 21076,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BALMES-PL CATALUNYA",
+      "DESC_PARADA": "Balmes-plaça Catalunya",
       "COD_PARADA": 1902,
       "ID_GRUPO": 1,
       "ID_PARADA": 12112,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PRAT DE LA RIBA (CASAL D´AVIS)",
+      "DESC_PARADA": "Carrer De Prat De La Riba (casal D´avis)",
       "COD_PARADA": 1906,
       "ID_GRUPO": 1,
       "ID_PARADA": 12113,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE BARCELONA / C. D´ALEMANYA",
+      "DESC_PARADA": "Carrer De Barcelona / Carrer D´alemanya",
       "COD_PARADA": 4665,
       "ID_GRUPO": 1,
       "ID_PARADA": 4665,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL SOLSONÉS (SKATE PARK)",
+      "DESC_PARADA": "Carrer Del Solsonés (skate Park)",
       "COD_PARADA": 1911,
       "ID_GRUPO": 1,
       "ID_PARADA": 12114,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. D´OSONA / C. DE LA CONCA DE BARBERÀ",
+      "DESC_PARADA": "Carrer D´osona / Carrer De La Conca De Barberà",
       "COD_PARADA": 4670,
       "ID_GRUPO": 1,
       "ID_PARADA": 4670,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE L´URGELL (ESCOLA MESTRE PIA)",
+      "DESC_PARADA": "Carrer De L´urgell (escola Mestre Pia)",
       "COD_PARADA": 4885,
       "ID_GRUPO": 1,
       "ID_PARADA": 4885,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RONDA DE TOLOSA / CTRA. DE SABADELL (CAN CARNER)",
+      "DESC_PARADA": "Ronda De Tolosa / Carretera De Sabadell (can Carne",
       "COD_PARADA": 4605,
       "ID_GRUPO": 1,
       "ID_PARADA": 4605,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE TARRAGONA / PL. D´EUROPA",
+      "DESC_PARADA": "Carrer De Tarragona / Plaça D´europa",
       "COD_PARADA": 4615,
       "ID_GRUPO": 1,
       "ID_PARADA": 4615,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE TARRAGONA / C. DE JAUME I (CAMP DE FUTBOL)",
+      "DESC_PARADA": "Carrer De Tarragona / Carrer De Jaume i (camp De f",
       "COD_PARADA": 4623,
       "ID_GRUPO": 1,
       "ID_PARADA": 4623,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PEDRISSOS / PL. DE LA FÀBRICA NOVA",
+      "DESC_PARADA": "Carrer De Pedrissos / Plaça De La Fàbrica Nova",
       "COD_PARADA": 4857,
       "ID_GRUPO": 1,
       "ID_PARADA": 4857,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA .DE SABADELL / PL. DEL FORJADOR",
+      "DESC_PARADA": "Carretera .de Sabadell / Plaça Del Forjador",
       "COD_PARADA": 4629,
       "ID_GRUPO": 1,
       "ID_PARADA": 4629,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLÈS-PRIMAVERA",
+      "DESC_PARADA": "Vallès-primavera",
       "COD_PARADA": 4292,
       "ID_GRUPO": 1,
       "ID_PARADA": 4292,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLÈS-STA. ROSA",
+      "DESC_PARADA": "Vallès-sta. Rosa",
       "COD_PARADA": 4294,
       "ID_GRUPO": 1,
       "ID_PARADA": 4294,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV CAN PINYOL-BOSC",
+      "DESC_PARADA": "Avinguda Can Pinyol-bosc",
       "COD_PARADA": 4296,
       "ID_GRUPO": 1,
       "ID_PARADA": 4296,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CIM-BALCÓ",
+      "DESC_PARADA": "Cim-balcó",
       "COD_PARADA": 4298,
       "ID_GRUPO": 1,
       "ID_PARADA": 4298,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CIM-TURÓ ROIG",
+      "DESC_PARADA": "Cim-turó Roig",
       "COD_PARADA": 4302,
       "ID_GRUPO": 1,
       "ID_PARADA": 4302,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL DEL CIM",
+      "DESC_PARADA": "Plaça Del Cim",
       "COD_PARADA": 4304,
       "ID_GRUPO": 1,
       "ID_PARADA": 4304,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JEIES-COLL MONNER",
+      "DESC_PARADA": "Jeies-coll Monner",
       "COD_PARADA": 4306,
       "ID_GRUPO": 1,
       "ID_PARADA": 4306,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COMA GROSSA-COLL MONNER",
+      "DESC_PARADA": "Coma Grossa-coll Monner",
       "COD_PARADA": 1901,
       "ID_GRUPO": 1,
       "ID_PARADA": 12111,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JEIES-COMA GROSSA",
+      "DESC_PARADA": "Jeies-coma Grossa",
       "COD_PARADA": 4312,
       "ID_GRUPO": 1,
       "ID_PARADA": 4312,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV CAN PINYOL-BOSC",
+      "DESC_PARADA": "Avinguda Can Pinyol-bosc",
       "COD_PARADA": 4314,
       "ID_GRUPO": 1,
       "ID_PARADA": 4314,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL AIRESOL",
+      "DESC_PARADA": "Plaça Airesol",
       "COD_PARADA": 4316,
       "ID_GRUPO": 1,
       "ID_PARADA": 4316,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV AIRESOL",
+      "DESC_PARADA": "Avinguda Airesol",
       "COD_PARADA": 4318,
       "ID_GRUPO": 1,
       "ID_PARADA": 4318,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE MIQUEL PONT I ALGUERSUARI",
+      "DESC_PARADA": "Plaça De Miquel Pont i Alguersuari",
       "COD_PARADA": 4322,
       "ID_GRUPO": 1,
       "ID_PARADA": 4322,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG DEL SETRILL-PTGE MOLA",
+      "DESC_PARADA": "Passeig Del Setrill-ptge Mola",
       "COD_PARADA": 4326,
       "ID_GRUPO": 1,
       "ID_PARADA": 4326,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG MONTCAU",
+      "DESC_PARADA": "Passeig Montcau",
       "COD_PARADA": 4328,
       "ID_GRUPO": 1,
       "ID_PARADA": 4328,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MURONELL-VINYES",
+      "DESC_PARADA": "Muronell-vinyes",
       "COD_PARADA": 4332,
       "ID_GRUPO": 1,
       "ID_PARADA": 4332,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MURONELL-CASTELLASA",
+      "DESC_PARADA": "Muronell-castellasa",
       "COD_PARADA": 4334,
       "ID_GRUPO": 1,
       "ID_PARADA": 4334,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ETS D´ARQUITECTURA (ZONA UNIVERSITÀRIA)",
+      "DESC_PARADA": "Ets D´arquitectura (zona Universitària)",
       "COD_PARADA": 1329,
       "ID_GRUPO": 1,
       "ID_PARADA": 17014,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALAU REIAL",
+      "DESC_PARADA": "Palau Reial",
       "COD_PARADA": 1374,
       "ID_GRUPO": 1,
       "ID_PARADA": 17015,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. REINA MARIA CRISTINA",
+      "DESC_PARADA": "Plaça Reina Maria Cristina",
       "COD_PARADA": 1384,
       "ID_GRUPO": 1,
       "ID_PARADA": 17099,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE LA  TECNOLOGIA (PARC VALLÈS)",
+      "DESC_PARADA": "Plaça De La  Tecnologia (parc Vallès)",
       "COD_PARADA": 3803,
       "ID_GRUPO": 1,
       "ID_PARADA": 3803,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "STA. EULÀLIA",
+      "DESC_PARADA": "Sta. Eulàlia",
       "COD_PARADA": 4666,
       "ID_GRUPO": 1,
       "ID_PARADA": 12969,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GLÒRIES / PL. PAÏSOS CATALANS",
+      "DESC_PARADA": "Avinguda Glòries / Plaça Països Catalans",
       "COD_PARADA": 4333,
       "ID_GRUPO": 1,
       "ID_PARADA": 12845,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CATALUNYA",
+      "DESC_PARADA": "Plaça Catalunya",
       "COD_PARADA": 4337,
       "ID_GRUPO": 1,
       "ID_PARADA": 12846,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ DEL NORD",
+      "DESC_PARADA": "Estació Del Nord",
       "COD_PARADA": 1114,
       "ID_GRUPO": 1,
       "ID_PARADA": 12847,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RICARD CAMÍ (POLITÈCNIC)",
+      "DESC_PARADA": "Ricard Camí (politècnic)",
       "COD_PARADA": 1118,
       "ID_GRUPO": 1,
       "ID_PARADA": 12848,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+      "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
       "COD_PARADA": 7920,
       "ID_GRUPO": 1,
       "ID_PARADA": 7920,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CONCILI EGARENC",
+      "DESC_PARADA": "Concili Egarenc",
       "COD_PARADA": 4343,
       "ID_GRUPO": 1,
       "ID_PARADA": 12849,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MARIA CRISTINA) AV. DIAGONAL/DR. FERRAN",
+      "DESC_PARADA": "(maria Cristina) Avinguda Diagonal/dr. Ferran",
       "COD_PARADA": 2840,
       "ID_GRUPO": 1,
       "ID_PARADA": 16985,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(PALAU REIAL) AV. DIAGONAL/PALAU REIAL",
+      "DESC_PARADA": "(palau Reial) Avinguda Diagonal/palau Reial",
       "COD_PARADA": 1419,
       "ID_GRUPO": 1,
       "ID_PARADA": 16986,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DIAGONAL METRO ZONA UNIVERSITÀRIA",
+      "DESC_PARADA": "Avinguda Diagonal Metro Zona Universitària",
       "COD_PARADA": 1421,
       "ID_GRUPO": 1,
       "ID_PARADA": 17011,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "6578 CONCILI EGARENC",
+      "DESC_PARADA": "6578 Concili Egarenc",
       "COD_PARADA": 6578,
       "ID_GRUPO": 1,
       "ID_PARADA": 25064,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA FGC",
+      "DESC_PARADA": "Rambla Fgc",
       "COD_PARADA": 7336,
       "ID_GRUPO": 1,
       "ID_PARADA": 12834,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POLITÈCNIC",
+      "DESC_PARADA": "Politècnic",
       "COD_PARADA": 4323,
       "ID_GRUPO": 1,
       "ID_PARADA": 12835,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RENFE",
+      "DESC_PARADA": "Estació Renfe",
       "COD_PARADA": 7790,
       "ID_GRUPO": 1,
       "ID_PARADA": 12836,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BARCELONA - PLAÇA CATALUNYA",
+      "DESC_PARADA": "Avinguda Barcelona - Plaça Catalunya",
       "COD_PARADA": 6579,
       "ID_GRUPO": 1,
       "ID_PARADA": 25065,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE GLORIES CATALANES (PLAÇA PAÏSOS CATALANES)",
+      "DESC_PARADA": "Avinguda De Glories Catalanes (plaça Països Catala",
       "COD_PARADA": 6820,
       "ID_GRUPO": 1,
       "ID_PARADA": 21886,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LES GLÒRIES CATALANES / C. DEL BAGES",
+      "DESC_PARADA": "Avinguda De Les Glòries Catalanes / Carrer Del Bag",
       "COD_PARADA": 8354,
       "ID_GRUPO": 1,
       "ID_PARADA": 6759,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE COLOM (PARC VALLES)",
+      "DESC_PARADA": "Carrer De Colom (parc Valles)",
       "COD_PARADA": 8346,
       "ID_GRUPO": 1,
       "ID_PARADA": 10686,

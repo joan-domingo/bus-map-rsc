@@ -17,7 +17,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -45,7 +45,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´HORTA (PARC TURONET)",
+          "DESC_PARADA": "Passeig D´horta (parc Turonet)",
           "COD_PARADA": 9169,
           "ID_GRUPO": 1,
           "ID_PARADA": 9169,
@@ -73,7 +73,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -101,7 +101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CATALUNYA/C. DE SANT JOAQUIM",
+          "DESC_PARADA": "Avinguda De Catalunya/carrer De Sant Joaquim",
           "COD_PARADA": 9170,
           "ID_GRUPO": 1,
           "ID_PARADA": 9170,
@@ -129,7 +129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -157,7 +157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -185,7 +185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DE SANT RAMON",
+          "DESC_PARADA": "Plaça De Sant Ramon",
           "COD_PARADA": 8094,
           "ID_GRUPO": 1,
           "ID_PARADA": 12317,
@@ -213,7 +213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ANSELM CLAVÉ / C. DE ST. RAMON",
+          "DESC_PARADA": "Carrer D´anselm Clavé / Carrer De St. Ramon",
           "COD_PARADA": 8158,
           "ID_GRUPO": 1,
           "ID_PARADA": 12625,
@@ -241,7 +241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON / C. DEL CASTELL",
+          "DESC_PARADA": "Carrer De St. Ramon / Carrer Del Castell",
           "COD_PARADA": 5120,
           "ID_GRUPO": 1,
           "ID_PARADA": 5120,
@@ -269,7 +269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON (PARC TECNOLÒGIC)",
+          "DESC_PARADA": "Carrer De St. Ramon (parc Tecnològic)",
           "COD_PARADA": 5110,
           "ID_GRUPO": 1,
           "ID_PARADA": 5110,
@@ -297,7 +297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´EUROPA (P. TECNOLÒGIC-CARPA)",
+          "DESC_PARADA": "Plaça D´europa (p. Tecnològic-carpa)",
           "COD_PARADA": 405,
           "ID_GRUPO": 1,
           "ID_PARADA": 405,
@@ -325,7 +325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/C. DE ST. JERONI",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/carrer De St. Jeroni",
           "COD_PARADA": 429,
           "ID_GRUPO": 1,
           "ID_PARADA": 429,
@@ -353,7 +353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/plaça Olivé",
           "COD_PARADA": 431,
           "ID_GRUPO": 1,
           "ID_PARADA": 431,
@@ -381,7 +381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE PROVENÇA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Provença",
           "COD_PARADA": 432,
           "ID_GRUPO": 1,
           "ID_PARADA": 432,
@@ -409,7 +409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE VALLDAURA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Valldaura",
           "COD_PARADA": 433,
           "ID_GRUPO": 1,
           "ID_PARADA": 433,
@@ -437,7 +437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CAN COLL)",
+          "DESC_PARADA": "Carretera D´horta (can Coll)",
           "COD_PARADA": 434,
           "ID_GRUPO": 1,
           "ID_PARADA": 434,
@@ -465,7 +465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "INSTITUCIÓ MONTSERRAT MONTERO",
+          "DESC_PARADA": "Institució Montserrat Montero",
           "COD_PARADA": 8764,
           "ID_GRUPO": 1,
           "ID_PARADA": 12994,
@@ -493,7 +493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CENTRE DE FORMACIÓ FLOR DE MAIG)",
+          "DESC_PARADA": "Carretera D´horta (centre De Formació Flor De Maig",
           "COD_PARADA": 5755,
           "ID_GRUPO": 1,
           "ID_PARADA": 5755,
@@ -521,7 +521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CENTRE DE FORMACIÓ FLOR DE MAIG)",
+          "DESC_PARADA": "Carretera D´horta (centre De Formació Flor De Maig",
           "COD_PARADA": 5755,
           "ID_GRUPO": 1,
           "ID_PARADA": 5755,
@@ -549,7 +549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "INSTITUCIÓ MONTSERRAT MONTERO",
+          "DESC_PARADA": "Institució Montserrat Montero",
           "COD_PARADA": 8764,
           "ID_GRUPO": 1,
           "ID_PARADA": 12994,
@@ -577,7 +577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN COLL",
+          "DESC_PARADA": "Can Coll",
           "COD_PARADA": 5762,
           "ID_GRUPO": 1,
           "ID_PARADA": 5762,
@@ -605,7 +605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-VALLDAURA",
+          "DESC_PARADA": "Avinguda Flor De Maig-valldaura",
           "COD_PARADA": 5754,
           "ID_GRUPO": 1,
           "ID_PARADA": 5754,
@@ -633,7 +633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-PROVENÇA",
+          "DESC_PARADA": "Avinguda Flor De Maig-provença",
           "COD_PARADA": 5752,
           "ID_GRUPO": 1,
           "ID_PARADA": 5752,
@@ -661,7 +661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DOÑA AMELIA-PG.AVELLANERS",
+          "DESC_PARADA": "Doña Amelia-passeig.avellaners",
           "COD_PARADA": 9174,
           "ID_GRUPO": 1,
           "ID_PARADA": 9174,
@@ -689,7 +689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/plaça Olivé",
           "COD_PARADA": 5760,
           "ID_GRUPO": 1,
           "ID_PARADA": 5760,
@@ -717,7 +717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-ST. JERONI",
+          "DESC_PARADA": "Avinguda Flor De Maig-st. Jeroni",
           "COD_PARADA": 5770,
           "ID_GRUPO": 1,
           "ID_PARADA": 5770,
@@ -745,7 +745,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TECNOLOGIC - CARPA",
+          "DESC_PARADA": "Tecnologic - Carpa",
           "COD_PARADA": 9175,
           "ID_GRUPO": 1,
           "ID_PARADA": 9175,
@@ -773,7 +773,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TECNOLOGIC - HOTEL",
+          "DESC_PARADA": "Tecnologic - Hotel",
           "COD_PARADA": 9176,
           "ID_GRUPO": 1,
           "ID_PARADA": 9176,
@@ -801,7 +801,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT RAMON - CODONYERS",
+          "DESC_PARADA": "Sant Ramon - Codonyers",
           "COD_PARADA": 9178,
           "ID_GRUPO": 1,
           "ID_PARADA": 9178,
@@ -829,7 +829,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESCOLES",
+          "DESC_PARADA": "Escoles",
           "COD_PARADA": 9179,
           "ID_GRUPO": 1,
           "ID_PARADA": 9179,
@@ -857,7 +857,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+          "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
           "COD_PARADA": 3271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13675,
@@ -885,7 +885,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -913,7 +913,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+          "DESC_PARADA": "Avinguda Primavera/pineda",
           "COD_PARADA": 9182,
           "ID_GRUPO": 1,
           "ID_PARADA": 9182,
@@ -941,7 +941,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA CERDANYOLA/TURÓ",
+          "DESC_PARADA": "Ronda Cerdanyola/turó",
           "COD_PARADA": 660,
           "ID_GRUPO": 1,
           "ID_PARADA": 10559,
@@ -969,7 +969,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.FERRAN VII / PL. COLOM",
+          "DESC_PARADA": "Avinguda.ferran Vii / Plaça Colom",
           "COD_PARADA": 9184,
           "ID_GRUPO": 1,
           "ID_PARADA": 9184,
@@ -997,7 +997,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NUMÁNCIA/ AV. LESSEPS",
+          "DESC_PARADA": "Numáncia/ Avinguda Lesseps",
           "COD_PARADA": 675,
           "ID_GRUPO": 1,
           "ID_PARADA": 10560,
@@ -1025,7 +1025,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMPEU FABRA / CANALETES",
+          "DESC_PARADA": "Pompeu Fabra / Canaletes",
           "COD_PARADA": 9185,
           "ID_GRUPO": 1,
           "ID_PARADA": 9185,
@@ -1053,7 +1053,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -1081,7 +1081,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -1109,7 +1109,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -1137,7 +1137,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1185,7 +1185,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CAN COLL",
+          "DESC_PARADA": "Can Coll",
           "COD_PARADA": 5762,
           "ID_GRUPO": 1,
           "ID_PARADA": 5762,
@@ -1213,7 +1213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-VALLDAURA",
+          "DESC_PARADA": "Avinguda Flor De Maig-valldaura",
           "COD_PARADA": 5754,
           "ID_GRUPO": 1,
           "ID_PARADA": 5754,
@@ -1241,7 +1241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-PROVENÇA",
+          "DESC_PARADA": "Avinguda Flor De Maig-provença",
           "COD_PARADA": 5752,
           "ID_GRUPO": 1,
           "ID_PARADA": 5752,
@@ -1269,7 +1269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DOÑA AMELIA-PG.AVELLANERS",
+          "DESC_PARADA": "Doña Amelia-passeig.avellaners",
           "COD_PARADA": 9174,
           "ID_GRUPO": 1,
           "ID_PARADA": 9174,
@@ -1297,7 +1297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/plaça Olivé",
           "COD_PARADA": 5760,
           "ID_GRUPO": 1,
           "ID_PARADA": 5760,
@@ -1325,7 +1325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-ST. JERONI",
+          "DESC_PARADA": "Avinguda Flor De Maig-st. Jeroni",
           "COD_PARADA": 5770,
           "ID_GRUPO": 1,
           "ID_PARADA": 5770,
@@ -1353,7 +1353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TECNOLOGIC - CARPA",
+          "DESC_PARADA": "Tecnologic - Carpa",
           "COD_PARADA": 9175,
           "ID_GRUPO": 1,
           "ID_PARADA": 9175,
@@ -1381,7 +1381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TECNOLOGIC - HOTEL",
+          "DESC_PARADA": "Tecnologic - Hotel",
           "COD_PARADA": 9176,
           "ID_GRUPO": 1,
           "ID_PARADA": 9176,
@@ -1409,7 +1409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT RAMON - CODONYERS",
+          "DESC_PARADA": "Sant Ramon - Codonyers",
           "COD_PARADA": 9178,
           "ID_GRUPO": 1,
           "ID_PARADA": 9178,
@@ -1437,7 +1437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESCOLES",
+          "DESC_PARADA": "Escoles",
           "COD_PARADA": 9179,
           "ID_GRUPO": 1,
           "ID_PARADA": 9179,
@@ -1465,7 +1465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+          "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
           "COD_PARADA": 3271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13675,
@@ -1493,7 +1493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -1521,7 +1521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+          "DESC_PARADA": "Avinguda Primavera/pineda",
           "COD_PARADA": 9182,
           "ID_GRUPO": 1,
           "ID_PARADA": 9182,
@@ -1549,7 +1549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA CERDANYOLA/TURÓ",
+          "DESC_PARADA": "Ronda Cerdanyola/turó",
           "COD_PARADA": 660,
           "ID_GRUPO": 1,
           "ID_PARADA": 10559,
@@ -1577,7 +1577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.FERRAN VII / PL. COLOM",
+          "DESC_PARADA": "Avinguda.ferran Vii / Plaça Colom",
           "COD_PARADA": 9184,
           "ID_GRUPO": 1,
           "ID_PARADA": 9184,
@@ -1605,7 +1605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NUMÁNCIA/ AV. LESSEPS",
+          "DESC_PARADA": "Numáncia/ Avinguda Lesseps",
           "COD_PARADA": 675,
           "ID_GRUPO": 1,
           "ID_PARADA": 10560,
@@ -1633,7 +1633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMPEU FABRA / CANALETES",
+          "DESC_PARADA": "Pompeu Fabra / Canaletes",
           "COD_PARADA": 9185,
           "ID_GRUPO": 1,
           "ID_PARADA": 9185,
@@ -1661,7 +1661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -1689,7 +1689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -1717,7 +1717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -1745,7 +1745,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1793,7 +1793,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1821,7 +1821,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´HORTA (PARC TURONET)",
+          "DESC_PARADA": "Passeig D´horta (parc Turonet)",
           "COD_PARADA": 9169,
           "ID_GRUPO": 1,
           "ID_PARADA": 9169,
@@ -1849,7 +1849,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -1877,7 +1877,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CATALUNYA/C. DE SANT JOAQUIM",
+          "DESC_PARADA": "Avinguda De Catalunya/carrer De Sant Joaquim",
           "COD_PARADA": 9170,
           "ID_GRUPO": 1,
           "ID_PARADA": 9170,
@@ -1905,7 +1905,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -1933,7 +1933,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -1961,7 +1961,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DE SANT RAMON",
+          "DESC_PARADA": "Plaça De Sant Ramon",
           "COD_PARADA": 8094,
           "ID_GRUPO": 1,
           "ID_PARADA": 12317,
@@ -1989,7 +1989,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ANSELM CLAVÉ / C. DE ST. RAMON",
+          "DESC_PARADA": "Carrer D´anselm Clavé / Carrer De St. Ramon",
           "COD_PARADA": 8158,
           "ID_GRUPO": 1,
           "ID_PARADA": 12625,
@@ -2017,7 +2017,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON / C. DEL CASTELL",
+          "DESC_PARADA": "Carrer De St. Ramon / Carrer Del Castell",
           "COD_PARADA": 5120,
           "ID_GRUPO": 1,
           "ID_PARADA": 5120,
@@ -2045,7 +2045,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON (PARC TECNOLÒGIC)",
+          "DESC_PARADA": "Carrer De St. Ramon (parc Tecnològic)",
           "COD_PARADA": 5110,
           "ID_GRUPO": 1,
           "ID_PARADA": 5110,
@@ -2073,7 +2073,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´EUROPA (P. TECNOLÒGIC-CARPA)",
+          "DESC_PARADA": "Plaça D´europa (p. Tecnològic-carpa)",
           "COD_PARADA": 405,
           "ID_GRUPO": 1,
           "ID_PARADA": 405,
@@ -2101,7 +2101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/C. DE ST. JERONI",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/carrer De St. Jeroni",
           "COD_PARADA": 429,
           "ID_GRUPO": 1,
           "ID_PARADA": 429,
@@ -2129,7 +2129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/plaça Olivé",
           "COD_PARADA": 431,
           "ID_GRUPO": 1,
           "ID_PARADA": 431,
@@ -2157,7 +2157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE PROVENÇA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Provença",
           "COD_PARADA": 432,
           "ID_GRUPO": 1,
           "ID_PARADA": 432,
@@ -2185,7 +2185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE VALLDAURA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Valldaura",
           "COD_PARADA": 433,
           "ID_GRUPO": 1,
           "ID_PARADA": 433,
@@ -2213,7 +2213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CAN COLL)",
+          "DESC_PARADA": "Carretera D´horta (can Coll)",
           "COD_PARADA": 434,
           "ID_GRUPO": 1,
           "ID_PARADA": 434,
@@ -2261,7 +2261,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -2289,7 +2289,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´HORTA (PARC TURONET)",
+          "DESC_PARADA": "Passeig D´horta (parc Turonet)",
           "COD_PARADA": 9169,
           "ID_GRUPO": 1,
           "ID_PARADA": 9169,
@@ -2317,7 +2317,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -2345,7 +2345,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CATALUNYA/C. DE SANT JOAQUIM",
+          "DESC_PARADA": "Avinguda De Catalunya/carrer De Sant Joaquim",
           "COD_PARADA": 9170,
           "ID_GRUPO": 1,
           "ID_PARADA": 9170,
@@ -2373,7 +2373,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -2401,7 +2401,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -2429,7 +2429,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DE SANT RAMON",
+          "DESC_PARADA": "Plaça De Sant Ramon",
           "COD_PARADA": 8094,
           "ID_GRUPO": 1,
           "ID_PARADA": 12317,
@@ -2457,7 +2457,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ANSELM CLAVÉ / C. DE ST. RAMON",
+          "DESC_PARADA": "Carrer D´anselm Clavé / Carrer De St. Ramon",
           "COD_PARADA": 8158,
           "ID_GRUPO": 1,
           "ID_PARADA": 12625,
@@ -2485,7 +2485,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON / C. DEL CASTELL",
+          "DESC_PARADA": "Carrer De St. Ramon / Carrer Del Castell",
           "COD_PARADA": 5120,
           "ID_GRUPO": 1,
           "ID_PARADA": 5120,
@@ -2513,7 +2513,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST. RAMON (PARC TECNOLÒGIC)",
+          "DESC_PARADA": "Carrer De St. Ramon (parc Tecnològic)",
           "COD_PARADA": 5110,
           "ID_GRUPO": 1,
           "ID_PARADA": 5110,
@@ -2541,7 +2541,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´EUROPA (P. TECNOLÒGIC-CARPA)",
+          "DESC_PARADA": "Plaça D´europa (p. Tecnològic-carpa)",
           "COD_PARADA": 405,
           "ID_GRUPO": 1,
           "ID_PARADA": 405,
@@ -2569,7 +2569,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/C. DE ST. JERONI",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/carrer De St. Jeroni",
           "COD_PARADA": 429,
           "ID_GRUPO": 1,
           "ID_PARADA": 429,
@@ -2597,7 +2597,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/plaça Olivé",
           "COD_PARADA": 431,
           "ID_GRUPO": 1,
           "ID_PARADA": 431,
@@ -2625,7 +2625,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE PROVENÇA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Provença",
           "COD_PARADA": 432,
           "ID_GRUPO": 1,
           "ID_PARADA": 432,
@@ -2653,7 +2653,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE VALLDAURA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Valldaura",
           "COD_PARADA": 433,
           "ID_GRUPO": 1,
           "ID_PARADA": 433,
@@ -2681,7 +2681,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CAN COLL)",
+          "DESC_PARADA": "Carretera D´horta (can Coll)",
           "COD_PARADA": 434,
           "ID_GRUPO": 1,
           "ID_PARADA": 434,
@@ -2709,7 +2709,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "INSTITUCIÓ MONTSERRAT MONTERO",
+          "DESC_PARADA": "Institució Montserrat Montero",
           "COD_PARADA": 8764,
           "ID_GRUPO": 1,
           "ID_PARADA": 12994,

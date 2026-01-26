@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "MINERIA - QUÍMICA",
+          "DESC_PARADA": "Mineria - Química",
           "COD_PARADA": 7106856,
           "ID_GRUPO": 1,
           "ID_PARADA": 24839,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RADI - CTRA. DEL PRAT",
+          "DESC_PARADA": "Radi - Carretera Del Prat",
           "COD_PARADA": 7106858,
           "ID_GRUPO": 1,
           "ID_PARADA": 24840,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "APRESTADORA - CIUTAT DE LA JUSTÍCIA",
+          "DESC_PARADA": "Aprestadora - Ciutat De La Justícia",
           "COD_PARADA": 7110492,
           "ID_GRUPO": 1,
           "ID_PARADA": 24938,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. FRANCESC MACIÀ",
+          "DESC_PARADA": "Plaça Francesc Macià",
           "COD_PARADA": 7003702,
           "ID_GRUPO": 1,
           "ID_PARADA": 24708,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO PROVENÇANA",
+          "DESC_PARADA": "Metro Provençana",
           "COD_PARADA": 7003703,
           "ID_GRUPO": 1,
           "ID_PARADA": 24709,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AMADEU TORNER - APRESTADORA",
+          "DESC_PARADA": "Amadeu Torner - Aprestadora",
           "COD_PARADA": 7003714,
           "ID_GRUPO": 1,
           "ID_PARADA": 24713,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AMADEU TORNER - AV. CARRILET",
+          "DESC_PARADA": "Amadeu Torner - Avinguda Carrilet",
           "COD_PARADA": 7110479,
           "ID_GRUPO": 1,
           "ID_PARADA": 24935,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. EULÀLIA DE PROVENÇANA",
+          "DESC_PARADA": "Sta. Eulàlia De Provençana",
           "COD_PARADA": 7104435,
           "ID_GRUPO": 1,
           "ID_PARADA": 24803,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PIUS X",
+          "DESC_PARADA": "Sant Pius x",
           "COD_PARADA": 7104244,
           "ID_GRUPO": 1,
           "ID_PARADA": 24796,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PISCINES MUNICIPALS DE L'HOSPITALET",
+          "DESC_PARADA": "Piscines Municipals De L'hospitalet",
           "COD_PARADA": 7105628,
           "ID_GRUPO": 1,
           "ID_PARADA": 24821,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE CULTURAL TECLA SALA",
+          "DESC_PARADA": "Centre Cultural Tecla Sala",
           "COD_PARADA": 7104159,
           "ID_GRUPO": 1,
           "ID_PARADA": 24793,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO TORRASSA",
+          "DESC_PARADA": "Metro Torrassa",
           "COD_PARADA": 7106861,
           "ID_GRUPO": 1,
           "ID_PARADA": 24841,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PONENT - ALEGRIA",
+          "DESC_PARADA": "Avinguda Ponent - Alegria",
           "COD_PARADA": 7106862,
           "ID_GRUPO": 1,
           "ID_PARADA": 24842,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MASNOU - AV. PRIMAVERA",
+          "DESC_PARADA": "Avinguda Masnou - Avinguda Primavera",
           "COD_PARADA": 7106863,
           "ID_GRUPO": 1,
           "ID_PARADA": 24843,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BIBLIOTECA LA FLORIDA",
+          "DESC_PARADA": "Biblioteca La Florida",
           "COD_PARADA": 7109950,
           "ID_GRUPO": 1,
           "ID_PARADA": 24914,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MASNOU - PEDRAFORCA",
+          "DESC_PARADA": "Avinguda Masnou - Pedraforca",
           "COD_PARADA": 7106864,
           "ID_GRUPO": 1,
           "ID_PARADA": 24844,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. MARE DE DÉU DEL PILAR",
+          "DESC_PARADA": "Plaça Mare De Déu Del Pilar",
           "COD_PARADA": 7106835,
           "ID_GRUPO": 1,
           "ID_PARADA": 24827,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. TOMÁS GIMÉNEZ - PUBILLA CASES",
+          "DESC_PARADA": "Avinguda Tomás Giménez - Pubilla Cases",
           "COD_PARADA": 7105425,
           "ID_GRUPO": 1,
           "ID_PARADA": 24815,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE COLLBLANC - AV TOMÁS GIMÉNEZ",
+          "DESC_PARADA": "Carretera De Collblanc - Avinguda Tomás Giménez",
           "COD_PARADA": 7000906,
           "ID_GRUPO": 1,
           "ID_PARADA": 24587,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN RIGAL",
+          "DESC_PARADA": "Can Rigal",
           "COD_PARADA": 7000324,
           "ID_GRUPO": 1,
           "ID_PARADA": 24566,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO PUBILLA CASES",
+          "DESC_PARADA": "Metro Pubilla Cases",
           "COD_PARADA": 7112405,
           "ID_GRUPO": 1,
           "ID_PARADA": 24955,
@@ -619,7 +619,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "METRO PUBILLA CASES",
+          "DESC_PARADA": "Metro Pubilla Cases",
           "COD_PARADA": 7106840,
           "ID_GRUPO": 1,
           "ID_PARADA": 24831,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. MARE DE DÉU DEL PILAR",
+          "DESC_PARADA": "Plaça Mare De Déu Del Pilar",
           "COD_PARADA": 7106841,
           "ID_GRUPO": 1,
           "ID_PARADA": 24832,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC DE BOMBERS",
+          "DESC_PARADA": "Parc De Bombers",
           "COD_PARADA": 7106848,
           "ID_GRUPO": 1,
           "ID_PARADA": 24836,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BIBLIOTECA LA FLORIDA",
+          "DESC_PARADA": "Biblioteca La Florida",
           "COD_PARADA": 7109268,
           "ID_GRUPO": 1,
           "ID_PARADA": 24903,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MASNOU - FLORIDA",
+          "DESC_PARADA": "Avinguda Masnou - Florida",
           "COD_PARADA": 7106849,
           "ID_GRUPO": 1,
           "ID_PARADA": 24837,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PONENT - BÒBILES",
+          "DESC_PARADA": "Avinguda Ponent - Bòbiles",
           "COD_PARADA": 7106850,
           "ID_GRUPO": 1,
           "ID_PARADA": 24838,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO TORRASSA",
+          "DESC_PARADA": "Metro Torrassa",
           "COD_PARADA": 7104158,
           "ID_GRUPO": 1,
           "ID_PARADA": 24792,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE CULTURAL TECLA SALA",
+          "DESC_PARADA": "Centre Cultural Tecla Sala",
           "COD_PARADA": 7104157,
           "ID_GRUPO": 1,
           "ID_PARADA": 24791,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PIUS X",
+          "DESC_PARADA": "Sant Pius x",
           "COD_PARADA": 7104245,
           "ID_GRUPO": 1,
           "ID_PARADA": 24797,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. EULÀLIA DE PROVENÇANA",
+          "DESC_PARADA": "Sta. Eulàlia De Provençana",
           "COD_PARADA": 7104249,
           "ID_GRUPO": 1,
           "ID_PARADA": 24799,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CARRILET - COOPERATIVA",
+          "DESC_PARADA": "Avinguda Carrilet - Cooperativa",
           "COD_PARADA": 7003715,
           "ID_GRUPO": 1,
           "ID_PARADA": 24714,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CARRILET - COMERÇ",
+          "DESC_PARADA": "Avinguda Carrilet - Comerç",
           "COD_PARADA": 7003716,
           "ID_GRUPO": 1,
           "ID_PARADA": 24715,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DEL CARRILET- CIUTAT DE LA JUSTÍCIA",
+          "DESC_PARADA": "Avinguda Del Carrilet- Ciutat De La Justícia",
           "COD_PARADA": 7003938,
           "ID_GRUPO": 1,
           "ID_PARADA": 27028,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA - RADI",
+          "DESC_PARADA": "Gran Via - Radi",
           "COD_PARADA": 7002363,
           "ID_GRUPO": 1,
           "ID_PARADA": 24639,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "QUÍMICA - GRAN VIA DE LES C. C.",
+          "DESC_PARADA": "Química - Gran Via De Les Carrer Carrer",
           "COD_PARADA": 7110482,
           "ID_GRUPO": 1,
           "ID_PARADA": 24937,

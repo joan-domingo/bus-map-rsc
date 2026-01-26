@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CENTRE-EST.LLARG",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 555,
-    "FIN_TRAYECTO": 1240,
+    "INI_TRAYECTO": 435,
+    "FIN_TRAYECTO": 1355,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -445,8 +445,8 @@
     "DESC_REDUCIDA": "ESTACIO-CENTRE LLARG",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 520,
-    "FIN_TRAYECTO": 1260,
+    "INI_TRAYECTO": 460,
+    "FIN_TRAYECTO": 1335,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

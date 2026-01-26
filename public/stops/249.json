@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "AV. LLUIS COMPANYS (CAP CAN RULL)",
+      "DESC_PARADA": "Avinguda Lluis Companys (cap Can Rull)",
       "COD_PARADA": 8050,
       "ID_GRUPO": 1,
       "ID_PARADA": 11618,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP MASLLOVET",
+      "DESC_PARADA": "Josep Masllovet",
       "COD_PARADA": 8060,
       "ID_GRUPO": 1,
       "ID_PARADA": 11619,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SARASATE",
+      "DESC_PARADA": "Sarasate",
       "COD_PARADA": 9042,
       "ID_GRUPO": 1,
       "ID_PARADA": 11620,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/NOU",
+      "DESC_PARADA": "Carretera Terrassa/nou",
       "COD_PARADA": 553,
       "ID_GRUPO": 1,
       "ID_PARADA": 553,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA (INSTITUTS)",
+      "DESC_PARADA": "Carretera Terrassa (instituts)",
       "COD_PARADA": 554,
       "ID_GRUPO": 1,
       "ID_PARADA": 554,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT COMARCAL",
+      "DESC_PARADA": "Mercat Comarcal",
       "COD_PARADA": 555,
       "ID_GRUPO": 1,
       "ID_PARADA": 555,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL DE TERRASSA",
+      "DESC_PARADA": "Hospital De Terrassa",
       "COD_PARADA": 2460,
       "ID_GRUPO": 1,
       "ID_PARADA": 2460,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GUADALHORCE",
+      "DESC_PARADA": "Guadalhorce",
       "COD_PARADA": 9043,
       "ID_GRUPO": 1,
       "ID_PARADA": 11621,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. TARONGER/PG. EUCALIPTUS",
+      "DESC_PARADA": "Avinguda Taronger/passeig Eucaliptus",
       "COD_PARADA": 2656,
       "ID_GRUPO": 1,
       "ID_PARADA": 16999,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. ALBEREDA",
+      "DESC_PARADA": "Plaça Albereda",
       "COD_PARADA": 9058,
       "ID_GRUPO": 1,
       "ID_PARADA": 11624,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MAJOR (CEMENTIRI)",
+      "DESC_PARADA": "Major (cementiri)",
       "COD_PARADA": 1755,
       "ID_GRUPO": 1,
       "ID_PARADA": 17001,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PAU CASALS/PL. LLUÍS COMPANYS (IES CASTELLBI.)",
+      "DESC_PARADA": "Avinguda Pau Casals/plaça Lluís Companys (ies Cast",
       "COD_PARADA": 1040,
       "ID_GRUPO": 1,
       "ID_PARADA": 11622,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PAU CASALS (AJUNTAMENT)",
+      "DESC_PARADA": "Avinguda Pau Casals (ajuntament)",
       "COD_PARADA": 2657,
       "ID_GRUPO": 1,
       "ID_PARADA": 17003,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV.PAU CASALS (CEIP MONTSERRAT)",
+      "DESC_PARADA": "Avinguda.pau Casals (ceip Montserrat)",
       "COD_PARADA": 812,
       "ID_GRUPO": 1,
       "ID_PARADA": 11623,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELL DE BENVIURE/ÀNGEL GUIMERÀ",
+      "DESC_PARADA": "Castell De Benviure/àngel Guimerà",
       "COD_PARADA": 2655,
       "ID_GRUPO": 1,
       "ID_PARADA": 17004,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MOLINS DE REI/CASTELL DE BENVIURE (CA N´AMAT)",
+      "DESC_PARADA": "Avinguda Molins De Rei/castell De Benviure (ca N´a",
       "COD_PARADA": 2654,
       "ID_GRUPO": 1,
       "ID_PARADA": 17006,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. TARONGER/PG. EUCALIPTUS",
+      "DESC_PARADA": "Avinguda Taronger/passeig Eucaliptus",
       "COD_PARADA": 2658,
       "ID_GRUPO": 1,
       "ID_PARADA": 17007,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GUADALHORCE",
+      "DESC_PARADA": "Guadalhorce",
       "COD_PARADA": 9059,
       "ID_GRUPO": 1,
       "ID_PARADA": 11625,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT COMARCAL",
+      "DESC_PARADA": "Mercat Comarcal",
       "COD_PARADA": 5540,
       "ID_GRUPO": 1,
       "ID_PARADA": 5540,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA (INSTITUTS)",
+      "DESC_PARADA": "Carretera Terrassa (instituts)",
       "COD_PARADA": 4520,
       "ID_GRUPO": 1,
       "ID_PARADA": 4520,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/NOU",
+      "DESC_PARADA": "Carretera Terrassa/nou",
       "COD_PARADA": 4510,
       "ID_GRUPO": 1,
       "ID_PARADA": 4510,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JULI GARRETA (CIFUENTES)",
+      "DESC_PARADA": "Juli Garreta (cifuentes)",
       "COD_PARADA": 9130,
       "ID_GRUPO": 1,
       "ID_PARADA": 11626,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP MASLLOVET",
+      "DESC_PARADA": "Josep Masllovet",
       "COD_PARADA": 9190,
       "ID_GRUPO": 1,
       "ID_PARADA": 11627,

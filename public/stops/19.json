@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/C. DE TETUAN",
+      "DESC_PARADA": "Avinguda De Barberà/carrer De Tetuan",
       "COD_PARADA": 99,
       "ID_GRUPO": 1,
       "ID_PARADA": 99,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/PL. DE BARCELONA",
+      "DESC_PARADA": "Avinguda De Barberà/plaça De Barcelona",
       "COD_PARADA": 101,
       "ID_GRUPO": 1,
       "ID_PARADA": 101,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. BARCELONA/GUERRILLER A. (CREU DE BARBERÀ)",
+      "DESC_PARADA": "Carretera Barcelona/guerriller A. (creu De Barberà",
       "COD_PARADA": 103,
       "ID_GRUPO": 1,
       "ID_PARADA": 103,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE NÀPOLS",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Nàpols",
       "COD_PARADA": 104,
       "ID_GRUPO": 1,
       "ID_PARADA": 104,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DELS MARQUESOS DE BARBERÀ",
+      "DESC_PARADA": "Carretera De Barcelona/carrer Dels Marquesos De Ba",
       "COD_PARADA": 105,
       "ID_GRUPO": 1,
       "ID_PARADA": 105,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE L´ESCULTOR LLIMONA",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De L´escultor Llimon",
       "COD_PARADA": 106,
       "ID_GRUPO": 1,
       "ID_PARADA": 106,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
       "COD_PARADA": 107,
       "ID_GRUPO": 1,
       "ID_PARADA": 107,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+      "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
       "COD_PARADA": 114,
       "ID_GRUPO": 1,
       "ID_PARADA": 114,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+      "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
       "COD_PARADA": 787,
       "ID_GRUPO": 1,
       "ID_PARADA": 12966,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+      "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
       "COD_PARADA": 4864,
       "ID_GRUPO": 1,
       "ID_PARADA": 4864,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+      "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
       "COD_PARADA": 1850,
       "ID_GRUPO": 1,
       "ID_PARADA": 1850,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+      "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
       "COD_PARADA": 5510,
       "ID_GRUPO": 1,
       "ID_PARADA": 5510,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE ST. PERE",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De St. Pere",
       "COD_PARADA": 4880,
       "ID_GRUPO": 1,
       "ID_PARADA": 4880,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE MONTURIOL (BENZINERA)",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Monturiol (benzin",
       "COD_PARADA": 4890,
       "ID_GRUPO": 1,
       "ID_PARADA": 4890,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. D´AUSIAS MARCH",
+      "DESC_PARADA": "Carretera De Barcelona/carrer D´ausias March",
       "COD_PARADA": 4900,
       "ID_GRUPO": 1,
       "ID_PARADA": 4900,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. BARCELONA/GUERRILLER A. (CREU DE BARBERÀ)",
+      "DESC_PARADA": "Carretera Barcelona/guerriller A. (creu De Barberà",
       "COD_PARADA": 4910,
       "ID_GRUPO": 1,
       "ID_PARADA": 4910,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/PL. DE BARCELONA",
+      "DESC_PARADA": "Avinguda De Barberà/plaça De Barcelona",
       "COD_PARADA": 4920,
       "ID_GRUPO": 1,
       "ID_PARADA": 4920,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA / AV. DE BARBERÀ (BAIXADOR)",
+      "DESC_PARADA": "Gran Via / Avinguda De Barberà (baixador)",
       "COD_PARADA": 4930,
       "ID_GRUPO": 1,
       "ID_PARADA": 4930,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 2926,
       "ID_GRUPO": 1,
       "ID_PARADA": 2926,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC TAULÍ",
+      "DESC_PARADA": "Parc Taulí",
       "COD_PARADA": 7640,
       "ID_GRUPO": 1,
       "ID_PARADA": 7640,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+      "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
       "COD_PARADA": 4390,
       "ID_GRUPO": 1,
       "ID_PARADA": 4390,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D´ESPANYA/C. ALCALDE RIBÉ (SABADELL NORD))",
+      "DESC_PARADA": "Plaça D´espanya/carrer Alcalde Ribé (sabadell Nord",
       "COD_PARADA": 5901,
       "ID_GRUPO": 1,
       "ID_PARADA": 13956,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DEL  PI",
+      "DESC_PARADA": "Plaça Del  Pi",
       "COD_PARADA": 6180,
       "ID_GRUPO": 1,
       "ID_PARADA": 6180,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE MATADEPERA / C. DE MERÇÈ RODOREDA",
+      "DESC_PARADA": "Avinguda De Matadepera / Carrer De Merçè Rodoreda",
       "COD_PARADA": 6120,
       "ID_GRUPO": 1,
       "ID_PARADA": 6120,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE MATADEPERA/C. DE LLES",
+      "DESC_PARADA": "Avinguda De Matadepera/carrer De Lles",
       "COD_PARADA": 93,
       "ID_GRUPO": 1,
       "ID_PARADA": 93,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DEL  FARELL",
+      "DESC_PARADA": "Plaça Del  Farell",
       "COD_PARADA": 94,
       "ID_GRUPO": 1,
       "ID_PARADA": 94,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+      "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
       "COD_PARADA": 95,
       "ID_GRUPO": 1,
       "ID_PARADA": 95,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+      "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
       "COD_PARADA": 96,
       "ID_GRUPO": 1,
       "ID_PARADA": 96,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC TAULÍ",
+      "DESC_PARADA": "Parc Taulí",
       "COD_PARADA": 97,
       "ID_GRUPO": 1,
       "ID_PARADA": 97,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 441,
       "ID_GRUPO": 1,
       "ID_PARADA": 441,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MERIDIANA / C. DE S'AGARÓ",
+      "DESC_PARADA": "Avinguda Meridiana / Carrer De S'agaró",
       "COD_PARADA": 113,
       "ID_GRUPO": 1,
       "ID_PARADA": 113,

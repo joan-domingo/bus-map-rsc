@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL ESTACIÓ",
+      "DESC_PARADA": "Plaça Estació",
       "COD_PARADA": 1062,
       "ID_GRUPO": 1,
       "ID_PARADA": 19863,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1063,
       "ID_GRUPO": 1,
       "ID_PARADA": 19864,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CA N ENRIC - CTRA. LA FLORESTA",
+      "DESC_PARADA": "Avinguda Ca n Enric - Carretera La Floresta",
       "COD_PARADA": 3914,
       "ID_GRUPO": 1,
       "ID_PARADA": 19882,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CA N´ENRIC / C. ROMERO DE TORRES",
+      "DESC_PARADA": "Avinguda Ca N´enric / Carrer Romero De Torres",
       "COD_PARADA": 3915,
       "ID_GRUPO": 1,
       "ID_PARADA": 19883,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG.ROMERO DE TORRES - C. CARDENAL CISNEROS",
+      "DESC_PARADA": "Passeig.romero De Torres - Carrer Cardenal Cisnero",
       "COD_PARADA": 3917,
       "ID_GRUPO": 1,
       "ID_PARADA": 19880,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PINTOR ROMERO-PINTOR GOYA",
+      "DESC_PARADA": "Pintor Romero-pintor Goya",
       "COD_PARADA": 1410,
       "ID_GRUPO": 1,
       "ID_PARADA": 19885,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. ROMERO DE TORRES / C. MERCÈ CAPSIR",
+      "DESC_PARADA": "Passeig Romero De Torres / Carrer Mercè Capsir",
       "COD_PARADA": 1412,
       "ID_GRUPO": 1,
       "ID_PARADA": 19884,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCÈ CAPSIR-PINTOR GOYA(CLUB ESPORTIU VALLDOREIX)",
+      "DESC_PARADA": "Mercè Capsir-pintor Goya(club Esportiu Valldoreix)",
       "COD_PARADA": 1431,
       "ID_GRUPO": 1,
       "ID_PARADA": 19887,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COLÒNIA MONTSERRAT",
+      "DESC_PARADA": "Colònia Montserrat",
       "COD_PARADA": 1428,
       "ID_GRUPO": 1,
       "ID_PARADA": 19886,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMI DE MAS ROIG A MAS FUSTER - C. FONT I FERRER",
+      "DESC_PARADA": "Cami De Mas Roig a Mas Fuster - Carrer Font i Ferr",
       "COD_PARADA": 3918,
       "ID_GRUPO": 1,
       "ID_PARADA": 19881,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ DE MAS ROIG A MAS FUSTER-PONT",
+      "DESC_PARADA": "Camí De Mas Roig a Mas Fuster-pont",
       "COD_PARADA": 1453,
       "ID_GRUPO": 1,
       "ID_PARADA": 19888,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ DE MAS ROIG A MAS FUSTER-AV VALL D OR",
+      "DESC_PARADA": "Camí De Mas Roig a Mas Fuster-avinguda Vall d Or",
       "COD_PARADA": 1475,
       "ID_GRUPO": 1,
       "ID_PARADA": 19893,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BROLLADOR-EUCALIPTUS",
+      "DESC_PARADA": "Brollador-eucaliptus",
       "COD_PARADA": 1476,
       "ID_GRUPO": 1,
       "ID_PARADA": 19892,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL MAS ROIG-PG MAS ROIG",
+      "DESC_PARADA": "Plaça Mas Roig-passeig Mas Roig",
       "COD_PARADA": 1493,
       "ID_GRUPO": 1,
       "ID_PARADA": 19894,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG MAS ROIG-PG ALZINA",
+      "DESC_PARADA": "Passeig Mas Roig-passeig Alzina",
       "COD_PARADA": 1494,
       "ID_GRUPO": 1,
       "ID_PARADA": 19895,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VALL D OR-PG AMETLLER",
+      "DESC_PARADA": "Avinguda Vall d Or-passeig Ametller",
       "COD_PARADA": 1495,
       "ID_GRUPO": 1,
       "ID_PARADA": 19896,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VALL D OR-FUSTER SERRACANT",
+      "DESC_PARADA": "Avinguda Vall d Or-fuster Serracant",
       "COD_PARADA": 1496,
       "ID_GRUPO": 1,
       "ID_PARADA": 19897,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VALL D OR-PG NOGUERA (CENTRE GURU)",
+      "DESC_PARADA": "Avinguda Vall d Or-passeig Noguera (centre Guru)",
       "COD_PARADA": 1524,
       "ID_GRUPO": 1,
       "ID_PARADA": 19900,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV MAS FUSTER-PG MUNERA",
+      "DESC_PARADA": "Avinguda Mas Fuster-passeig Munera",
       "COD_PARADA": 1525,
       "ID_GRUPO": 1,
       "ID_PARADA": 19898,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV MAS FUSTER-PAU",
+      "DESC_PARADA": "Avinguda Mas Fuster-pau",
       "COD_PARADA": 1534,
       "ID_GRUPO": 1,
       "ID_PARADA": 19902,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1567,
       "ID_GRUPO": 1,
       "ID_PARADA": 19862,

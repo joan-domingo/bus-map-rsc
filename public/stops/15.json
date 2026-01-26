@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE FRANCESC MACIÀ/AV. DELS PARAIRES",
+      "DESC_PARADA": "Avinguda De Francesc Macià/avinguda Dels Paraires",
       "COD_PARADA": 4475,
       "ID_GRUPO": 1,
       "ID_PARADA": 4475,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE ZAMENHOF/PL. DE CATALUNYA",
+      "DESC_PARADA": "Ronda De Zamenhof/plaça De Catalunya",
       "COD_PARADA": 4470,
       "ID_GRUPO": 1,
       "ID_PARADA": 4470,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE ZAMENHOF/C. DE COROMINAS",
+      "DESC_PARADA": "Ronda De Zamenhof/carrer De Corominas",
       "COD_PARADA": 4460,
       "ID_GRUPO": 1,
       "ID_PARADA": 4460,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+      "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
       "COD_PARADA": 7000,
       "ID_GRUPO": 1,
       "ID_PARADA": 7000,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE VILARRÚBIAS / C. DE BOFÍ (VILARRÚBIAS)",
+      "DESC_PARADA": "Carrer De Vilarrúbias / Carrer De Bofí (vilarrúbia",
       "COD_PARADA": 7946,
       "ID_GRUPO": 1,
       "ID_PARADA": 21817,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC TAULÍ",
+      "DESC_PARADA": "Parc Taulí",
       "COD_PARADA": 7640,
       "ID_GRUPO": 1,
       "ID_PARADA": 7640,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 441,
       "ID_GRUPO": 1,
       "ID_PARADA": 441,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/C. DE TETUAN",
+      "DESC_PARADA": "Avinguda De Barberà/carrer De Tetuan",
       "COD_PARADA": 99,
       "ID_GRUPO": 1,
       "ID_PARADA": 99,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/PL. DE BARCELONA",
+      "DESC_PARADA": "Avinguda De Barberà/plaça De Barcelona",
       "COD_PARADA": 101,
       "ID_GRUPO": 1,
       "ID_PARADA": 101,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. BARCELONA/GUERRILLER A. (CREU DE BARBERÀ)",
+      "DESC_PARADA": "Carretera Barcelona/guerriller A. (creu De Barberà",
       "COD_PARADA": 103,
       "ID_GRUPO": 1,
       "ID_PARADA": 103,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE NÀPOLS",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Nàpols",
       "COD_PARADA": 104,
       "ID_GRUPO": 1,
       "ID_PARADA": 104,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DELS MARQUESOS DE BARBERÀ",
+      "DESC_PARADA": "Carretera De Barcelona/carrer Dels Marquesos De Ba",
       "COD_PARADA": 105,
       "ID_GRUPO": 1,
       "ID_PARADA": 105,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE L´ESCULTOR LLIMONA",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De L´escultor Llimon",
       "COD_PARADA": 106,
       "ID_GRUPO": 1,
       "ID_PARADA": 106,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
       "COD_PARADA": 107,
       "ID_GRUPO": 1,
       "ID_PARADA": 107,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE BARCELONA-CARDENER",
+      "DESC_PARADA": "Carretera De Barcelona-cardener",
       "COD_PARADA": 418,
       "ID_GRUPO": 1,
       "ID_PARADA": 418,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN PALLARÈS/POLÍGON INDUSTRIAL (POLIZUR)",
+      "DESC_PARADA": "Can Pallarès/polígon Industrial (polizur)",
       "COD_PARADA": 419,
       "ID_GRUPO": 1,
       "ID_PARADA": 419,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ST. CASIMIR (MERCAT SERRAPERERA)",
+      "DESC_PARADA": "St. Casimir (mercat Serraperera)",
       "COD_PARADA": 439,
       "ID_GRUPO": 1,
       "ID_PARADA": 439,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ST. CASIMIR/C. DEL CAMP",
+      "DESC_PARADA": "St. Casimir/carrer Del Camp",
       "COD_PARADA": 5300,
       "ID_GRUPO": 1,
       "ID_PARADA": 5300,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "STA. MARCEL.LINA (ESGLÉSIA)",
+      "DESC_PARADA": "Sta. Marcel.lina (església)",
       "COD_PARADA": 5310,
       "ID_GRUPO": 1,
       "ID_PARADA": 5310,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+      "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
       "COD_PARADA": 122,
       "ID_GRUPO": 1,
       "ID_PARADA": 122,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE MARCONI",
+      "DESC_PARADA": "Plaça De Marconi",
       "COD_PARADA": 123,
       "ID_GRUPO": 1,
       "ID_PARADA": 123,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+      "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
       "COD_PARADA": 124,
       "ID_GRUPO": 1,
       "ID_PARADA": 124,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE SARRIA DE TER/C.X(RASTRO RETO)",
+      "DESC_PARADA": "Carrer De Sarria De Ter/carrer.x(rastro Reto)",
       "COD_PARADA": 8702,
       "ID_GRUPO": 1,
       "ID_PARADA": 12352,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CATALUNYA (RODALIES)",
+      "DESC_PARADA": "Avinguda Catalunya (rodalies)",
       "COD_PARADA": 5195,
       "ID_GRUPO": 1,
       "ID_PARADA": 5195,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE PRIMAVERA (LES FONTETES)",
+      "DESC_PARADA": "Avinguda De Primavera (les Fontetes)",
       "COD_PARADA": 5180,
       "ID_GRUPO": 1,
       "ID_PARADA": 5180,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ST. ISCLE/M. DE DÉU DEL PILAR (AJUNTAMENT)",
+      "DESC_PARADA": "St. Iscle/m. De Déu Del Pilar (ajuntament)",
       "COD_PARADA": 5160,
       "ID_GRUPO": 1,
       "ID_PARADA": 5160,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+      "DESC_PARADA": "Passeig Cordelles-francolí",
       "COD_PARADA": 5315,
       "ID_GRUPO": 1,
       "ID_PARADA": 5315,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG CORDELLES / CARRER DE LA CLOTA",
+      "DESC_PARADA": "Passeig Cordelles / Carrer De La Clota",
       "COD_PARADA": 6793,
       "ID_GRUPO": 1,
       "ID_PARADA": 19930,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN PALLARÈS-POLÍGON INDUSTRIAL (POLIZUR)",
+      "DESC_PARADA": "Can Pallarès-polígon Industrial (polizur)",
       "COD_PARADA": 5490,
       "ID_GRUPO": 1,
       "ID_PARADA": 5490,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE LA URALITA",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De La Uralita",
       "COD_PARADA": 5500,
       "ID_GRUPO": 1,
       "ID_PARADA": 5500,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+      "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
       "COD_PARADA": 5510,
       "ID_GRUPO": 1,
       "ID_PARADA": 5510,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE ST. PERE",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De St. Pere",
       "COD_PARADA": 4880,
       "ID_GRUPO": 1,
       "ID_PARADA": 4880,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. DE MONTURIOL (BENZINERA)",
+      "DESC_PARADA": "Carretera De Barcelona/carrer De Monturiol (benzin",
       "COD_PARADA": 4890,
       "ID_GRUPO": 1,
       "ID_PARADA": 4890,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE BARCELONA/C. D´AUSIAS MARCH",
+      "DESC_PARADA": "Carretera De Barcelona/carrer D´ausias March",
       "COD_PARADA": 4900,
       "ID_GRUPO": 1,
       "ID_PARADA": 4900,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. BARCELONA/GUERRILLER A. (CREU DE BARBERÀ)",
+      "DESC_PARADA": "Carretera Barcelona/guerriller A. (creu De Barberà",
       "COD_PARADA": 4910,
       "ID_GRUPO": 1,
       "ID_PARADA": 4910,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARBERÀ/PL. DE BARCELONA",
+      "DESC_PARADA": "Avinguda De Barberà/plaça De Barcelona",
       "COD_PARADA": 4920,
       "ID_GRUPO": 1,
       "ID_PARADA": 4920,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA / AV. DE BARBERÀ (BAIXADOR)",
+      "DESC_PARADA": "Gran Via / Avinguda De Barberà (baixador)",
       "COD_PARADA": 4930,
       "ID_GRUPO": 1,
       "ID_PARADA": 4930,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 2926,
       "ID_GRUPO": 1,
       "ID_PARADA": 2926,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. TAULÍ",
+      "DESC_PARADA": "Plaça Taulí",
       "COD_PARADA": 4720,
       "ID_GRUPO": 1,
       "ID_PARADA": 4720,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+      "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
       "COD_PARADA": 445,
       "ID_GRUPO": 1,
       "ID_PARADA": 445,
@@ -1121,7 +1121,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CREU ALTA",
+      "DESC_PARADA": "Plaça Creu Alta",
       "COD_PARADA": 5350,
       "ID_GRUPO": 1,
       "ID_PARADA": 5350,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV FRANCESC MACIÀ-CLEMENTINA ARDERIU",
+      "DESC_PARADA": "Avinguda Francesc Macià-clementina Arderiu",
       "COD_PARADA": 5360,
       "ID_GRUPO": 1,
       "ID_PARADA": 12247,

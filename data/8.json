@@ -9,12 +9,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1407,
-    "FIN_TRAYECTO": 1804,
+    "FIN_TRAYECTO": 1724,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG (CAL CALISSÓ)",
+          "DESC_PARADA": "Passeig (cal Calissó)",
           "COD_PARADA": 4290,
           "ID_GRUPO": 1,
           "ID_PARADA": 4290,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG-CTRA DE SABADELL",
+          "DESC_PARADA": "Passeig-carretera De Sabadell",
           "COD_PARADA": 4627,
           "ID_GRUPO": 1,
           "ID_PARADA": 4627,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. DE CAN CARNER",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer De Can Carner",
           "COD_PARADA": 4310,
           "ID_GRUPO": 1,
           "ID_PARADA": 4310,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 442,
           "ID_GRUPO": 1,
           "ID_PARADA": 442,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+          "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
           "COD_PARADA": 444,
           "ID_GRUPO": 1,
           "ID_PARADA": 444,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CAPELLÀ",
+          "DESC_PARADA": "Torrent Capellà",
           "COD_PARADA": 4380,
           "ID_GRUPO": 1,
           "ID_PARADA": 4380,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV ALCALDE MOIX-FONT CANALETA",
+          "DESC_PARADA": "Avinguda Alcalde Moix-font Canaleta",
           "COD_PARADA": 4882,
           "ID_GRUPO": 1,
           "ID_PARADA": 4882,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+          "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
           "COD_PARADA": 6100,
           "ID_GRUPO": 1,
           "ID_PARADA": 6100,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+          "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
           "COD_PARADA": 96,
           "ID_GRUPO": 1,
           "ID_PARADA": 96,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 97,
           "ID_GRUPO": 1,
           "ID_PARADA": 97,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. TAULÍ",
+          "DESC_PARADA": "Plaça Taulí",
           "COD_PARADA": 4720,
           "ID_GRUPO": 1,
           "ID_PARADA": 4720,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+          "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
           "COD_PARADA": 445,
           "ID_GRUPO": 1,
           "ID_PARADA": 445,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. SASTRE",
+          "DESC_PARADA": "Plaça Sastre",
           "COD_PARADA": 446,
           "ID_GRUPO": 1,
           "ID_PARADA": 446,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. ZAMENHOF/PL. CATALUNYA",
+          "DESC_PARADA": "Ronda Zamenhof/plaça Catalunya",
           "COD_PARADA": 447,
           "ID_GRUPO": 1,
           "ID_PARADA": 447,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/MARGENAT",
+          "DESC_PARADA": "Ronda Ponent/margenat",
           "COD_PARADA": 448,
           "ID_GRUPO": 1,
           "ID_PARADA": 448,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 4344,
           "ID_GRUPO": 1,
           "ID_PARADA": 12843,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBL. D´IBÈRIA / C. DE MART (CAN FEU)",
+          "DESC_PARADA": "Rambla D´ibèria / Carrer De Mart (can Feu)",
           "COD_PARADA": 8400,
           "ID_GRUPO": 1,
           "ID_PARADA": 12844,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ DE ST. QUIRZE",
+          "DESC_PARADA": "Estació De St. Quirze",
           "COD_PARADA": 3802,
           "ID_GRUPO": 1,
           "ID_PARADA": 3802,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "JOAQUIM BLUME",
+          "DESC_PARADA": "Joaquim Blume",
           "COD_PARADA": 3812,
           "ID_GRUPO": 1,
           "ID_PARADA": 3812,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 5865,
           "ID_GRUPO": 1,
           "ID_PARADA": 13186,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -630,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS/C. BÈTICA",
+          "DESC_PARADA": "Avinguda Burgos/carrer Bètica",
           "COD_PARADA": 1601,
           "ID_GRUPO": 1,
           "ID_PARADA": 12107,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA/AV. COSTA AZUL",
+          "DESC_PARADA": "Avinguda Costa Brava/avinguda Costa Azul",
           "COD_PARADA": 116,
           "ID_GRUPO": 1,
           "ID_PARADA": 116,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 117,
           "ID_GRUPO": 1,
           "ID_PARADA": 117,
@@ -714,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 118,
           "ID_GRUPO": 1,
           "ID_PARADA": 118,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
           "COD_PARADA": 107,
           "ID_GRUPO": 1,
           "ID_PARADA": 107,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -798,7 +798,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN DRAGÓ",
+          "DESC_PARADA": "Can Dragó",
           "COD_PARADA": 9083,
           "ID_GRUPO": 1,
           "ID_PARADA": 25298,
@@ -826,7 +826,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
           "ID_PARADA": 12966,
@@ -854,7 +854,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ARAGÓ / C. DE LA INDEPENDÈNCIA",
+          "DESC_PARADA": "Carrer D´aragó / Carrer De La Independència",
           "COD_PARADA": 2236,
           "ID_GRUPO": 1,
           "ID_PARADA": 21823,
@@ -882,7 +882,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA ST. PERE",
+          "DESC_PARADA": "Ronda St. Pere",
           "COD_PARADA": 3793,
           "ID_GRUPO": 1,
           "ID_PARADA": 3793,
@@ -922,12 +922,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1457,
-    "FIN_TRAYECTO": 1778,
+    "FIN_TRAYECTO": 1766,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RDA ST. PERE",
+          "DESC_PARADA": "Ronda St. Pere",
           "COD_PARADA": 3793,
           "ID_GRUPO": 1,
           "ID_PARADA": 3793,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL TETUÁN",
+          "DESC_PARADA": "Plaça Tetuán",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 3220,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DEL CONSELL DE CENT / AV. DE LA MERIDIANA",
+          "DESC_PARADA": "Carrer Del Consell De Cent / Avinguda De La Meridi",
           "COD_PARADA": 2235,
           "ID_GRUPO": 1,
           "ID_PARADA": 21822,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA (ESTACIÓ DE FABRA I PUIG)",
+          "DESC_PARADA": "Avinguda Meridiana (estació De Fabra i Puig)",
           "COD_PARADA": 4643,
           "ID_GRUPO": 1,
           "ID_PARADA": 12512,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
           "COD_PARADA": 5510,
           "ID_GRUPO": 1,
           "ID_PARADA": 5510,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 4870,
           "ID_GRUPO": 1,
           "ID_PARADA": 4870,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 4860,
           "ID_GRUPO": 1,
           "ID_PARADA": 4860,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA,7",
+          "DESC_PARADA": "Avinguda Costa Brava,7",
           "COD_PARADA": 4850,
           "ID_GRUPO": 1,
           "ID_PARADA": 4850,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 8635,
           "ID_GRUPO": 1,
           "ID_PARADA": 12585,
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "JOAQUIM BLUME",
+          "DESC_PARADA": "Joaquim Blume",
           "COD_PARADA": 3794,
           "ID_GRUPO": 1,
           "ID_PARADA": 3794,
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT FERRAN",
+          "DESC_PARADA": "Sant Ferran",
           "COD_PARADA": 8962,
           "ID_GRUPO": 1,
           "ID_PARADA": 21846,
@@ -1319,7 +1319,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ DE ST. QUIRZE",
+          "DESC_PARADA": "Estació De St. Quirze",
           "COD_PARADA": 3802,
           "ID_GRUPO": 1,
           "ID_PARADA": 3802,
@@ -1347,7 +1347,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA/C. DE CELLERS (CAN FEU)",
+          "DESC_PARADA": "Rambla D´ibèria/carrer De Cellers (can Feu)",
           "COD_PARADA": 7116,
           "ID_GRUPO": 1,
           "ID_PARADA": 12838,
@@ -1375,7 +1375,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. D´IBÈRIA (CAN FEU-GRÀCIA)",
+          "DESC_PARADA": "Rambla D´ibèria (can Feu-gràcia)",
           "COD_PARADA": 7570,
           "ID_GRUPO": 1,
           "ID_PARADA": 12839,
@@ -1403,7 +1403,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. PONENT/JOAN PLANS",
+          "DESC_PARADA": "Ronda Ponent/joan Plans",
           "COD_PARADA": 7590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7590,
@@ -1431,7 +1431,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE ZAMENHOF/PL. DE CATALUNYA",
+          "DESC_PARADA": "Ronda De Zamenhof/plaça De Catalunya",
           "COD_PARADA": 4470,
           "ID_GRUPO": 1,
           "ID_PARADA": 4470,
@@ -1459,7 +1459,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE ZAMENHOF/C. DE COROMINAS",
+          "DESC_PARADA": "Ronda De Zamenhof/carrer De Corominas",
           "COD_PARADA": 4460,
           "ID_GRUPO": 1,
           "ID_PARADA": 4460,
@@ -1487,7 +1487,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+          "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
           "COD_PARADA": 7000,
           "ID_GRUPO": 1,
           "ID_PARADA": 7000,
@@ -1515,7 +1515,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE VILARRÚBIAS / C. DE BOFÍ (VILARRÚBIAS)",
+          "DESC_PARADA": "Carrer De Vilarrúbias / Carrer De Bofí (vilarrúbia",
           "COD_PARADA": 7946,
           "ID_GRUPO": 1,
           "ID_PARADA": 21817,
@@ -1543,7 +1543,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 7640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7640,
@@ -1571,7 +1571,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+          "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
           "COD_PARADA": 4390,
           "ID_GRUPO": 1,
           "ID_PARADA": 4390,
@@ -1599,7 +1599,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL NORD RENFE",
+          "DESC_PARADA": "Sabadell Nord Renfe",
           "COD_PARADA": 3847,
           "ID_GRUPO": 1,
           "ID_PARADA": 3847,
@@ -1627,7 +1627,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D´ALCALDE MOIX / C. DEL MAESTRAT",
+          "DESC_PARADA": "Avinguda D´alcalde Moix / Carrer Del Maestrat",
           "COD_PARADA": 4881,
           "ID_GRUPO": 1,
           "ID_PARADA": 4881,
@@ -1655,7 +1655,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CAPELLÀ",
+          "DESC_PARADA": "Torrent Capellà",
           "COD_PARADA": 4370,
           "ID_GRUPO": 1,
           "ID_PARADA": 4370,
@@ -1683,7 +1683,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+          "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
           "COD_PARADA": 4360,
           "ID_GRUPO": 1,
           "ID_PARADA": 4360,
@@ -1711,7 +1711,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 4320,
           "ID_GRUPO": 1,
           "ID_PARADA": 4320,
@@ -1739,7 +1739,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE TOLOSA / CTRA. DE SABADELL (CAN CARNER)",
+          "DESC_PARADA": "Ronda De Tolosa / Carretera De Sabadell (can Carne",
           "COD_PARADA": 4605,
           "ID_GRUPO": 1,
           "ID_PARADA": 4605,
@@ -1767,7 +1767,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CATALUNYA",
+          "DESC_PARADA": "Plaça De Catalunya",
           "COD_PARADA": 9867,
           "ID_GRUPO": 1,
           "ID_PARADA": 10781,
@@ -1795,7 +1795,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LLEVANT (DONA ACOLLIDORA-ELS FRUITERS)",
+          "DESC_PARADA": "Ronda De Llevant (dona Acollidora-els Fruiters)",
           "COD_PARADA": 4608,
           "ID_GRUPO": 1,
           "ID_PARADA": 4608,
@@ -1823,7 +1823,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SENTMENAT / C. DEL RACÓ",
+          "DESC_PARADA": "Carretera De Sentmenat / Carrer Del Racó",
           "COD_PARADA": 4325,
           "ID_GRUPO": 1,
           "ID_PARADA": 4325,
@@ -1851,7 +1851,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL MAJOR",
+          "DESC_PARADA": "Plaça Major",
           "COD_PARADA": 4335,
           "ID_GRUPO": 1,
           "ID_PARADA": 4335,
@@ -1879,7 +1879,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG (CAL CALISSÓ)",
+          "DESC_PARADA": "Passeig (cal Calissó)",
           "COD_PARADA": 4290,
           "ID_GRUPO": 1,
           "ID_PARADA": 4290,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL. DELS PINS",
+      "DESC_PARADA": "Plaça Dels Pins",
       "COD_PARADA": 8256,
       "ID_GRUPO": 1,
       "ID_PARADA": 12318,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FUERTEVENTURA",
+      "DESC_PARADA": "Fuerteventura",
       "COD_PARADA": 9061,
       "ID_GRUPO": 1,
       "ID_PARADA": 9061,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG DEL NARD - AV. CAN CABASSA",
+      "DESC_PARADA": "Passeig Del Nard - Avinguda Can Cabassa",
       "COD_PARADA": 3796,
       "ID_GRUPO": 1,
       "ID_PARADA": 10648,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DEL NARD",
+      "DESC_PARADA": "Passeig Del Nard",
       "COD_PARADA": 9062,
       "ID_GRUPO": 1,
       "ID_PARADA": 9062,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MADRID / PG. DEL NARD",
+      "DESC_PARADA": "Avinguda Madrid / Passeig Del Nard",
       "COD_PARADA": 9063,
       "ID_GRUPO": 1,
       "ID_PARADA": 9063,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MADRID / VITÒRIA",
+      "DESC_PARADA": "Avinguda Madrid / Vitòria",
       "COD_PARADA": 9064,
       "ID_GRUPO": 1,
       "ID_PARADA": 9064,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / SARAGOSSA",
+      "DESC_PARADA": "Passeig Baixador / Saragossa",
       "COD_PARADA": 9066,
       "ID_GRUPO": 1,
       "ID_PARADA": 9066,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / TEROL",
+      "DESC_PARADA": "Passeig Baixador / Terol",
       "COD_PARADA": 9065,
       "ID_GRUPO": 1,
       "ID_PARADA": 9065,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. JOAN BORRÀS / FGC MIRA-SOL",
+      "DESC_PARADA": "Plaça Joan Borràs / Fgc Mira-sol",
       "COD_PARADA": 3816,
       "ID_GRUPO": 1,
       "ID_PARADA": 3816,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. ESPANYA",
+      "DESC_PARADA": "Plaça Espanya",
       "COD_PARADA": 9148,
       "ID_GRUPO": 1,
       "ID_PARADA": 9148,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MIRA-SOL",
+      "DESC_PARADA": "Plaça Mira-sol",
       "COD_PARADA": 9068,
       "ID_GRUPO": 1,
       "ID_PARADA": 9068,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BILBAO",
+      "DESC_PARADA": "Avinguda Bilbao",
       "COD_PARADA": 5089,
       "ID_GRUPO": 1,
       "ID_PARADA": 5089,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL ESTACIÓ",
+      "DESC_PARADA": "Plaça Estació",
       "COD_PARADA": 1062,
       "ID_GRUPO": 1,
       "ID_PARADA": 19863,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. OLABARRIA (CAP VALLDOREIX)",
+      "DESC_PARADA": "Passeig Olabarria (cap Valldoreix)",
       "COD_PARADA": 5091,
       "ID_GRUPO": 1,
       "ID_PARADA": 5091,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. OLABARRIA / PL. CHARLIE RIVEL",
+      "DESC_PARADA": "Passeig Olabarria / Plaça Charlie Rivel",
       "COD_PARADA": 9072,
       "ID_GRUPO": 1,
       "ID_PARADA": 9072,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. OLABARRIA / AV. CAN PICANYOL",
+      "DESC_PARADA": "Passeig Olabarria / Avinguda Can Picanyol",
       "COD_PARADA": 2681,
       "ID_GRUPO": 1,
       "ID_PARADA": 10620,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DELS SAFAREIGS",
+      "DESC_PARADA": "Carrer Dels Safareigs",
       "COD_PARADA": 3126,
       "ID_GRUPO": 1,
       "ID_PARADA": 10644,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
       "COD_PARADA": 9075,
       "ID_GRUPO": 1,
       "ID_PARADA": 12373,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
       "COD_PARADA": 4980,
       "ID_GRUPO": 1,
       "ID_PARADA": 4980,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLA D´EN VINYET/FERRAN ROMEU (MERCAT TORRE BLANCA)",
+      "DESC_PARADA": "Pla D´en Vinyet/ferran Romeu (mercat Torre Blanca)",
       "COD_PARADA": 9076,
       "ID_GRUPO": 1,
       "ID_PARADA": 9076,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+      "DESC_PARADA": "Plaça Dels Quatre Cantons",
       "COD_PARADA": 9135,
       "ID_GRUPO": 1,
       "ID_PARADA": 9135,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT MAGÍ",
+      "DESC_PARADA": "Sant Magí",
       "COD_PARADA": 9078,
       "ID_GRUPO": 1,
       "ID_PARADA": 9078,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU (CAP)",
+      "DESC_PARADA": "Salvador Espriu (cap)",
       "COD_PARADA": 9937,
       "ID_GRUPO": 1,
       "ID_PARADA": 11649,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU / PG. FRANCESC MACIÀ",
+      "DESC_PARADA": "Salvador Espriu / Passeig Francesc Macià",
       "COD_PARADA": 8311,
       "ID_GRUPO": 1,
       "ID_PARADA": 12333,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PAU VI",
+      "DESC_PARADA": "Pau Vi",
       "COD_PARADA": 9149,
       "ID_GRUPO": 1,
       "ID_PARADA": 9149,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. SANT MAGÍ",
+      "DESC_PARADA": "Avinguda Can Magí (camp de futbol)",
       "COD_PARADA": 9150,
       "ID_GRUPO": 1,
       "ID_PARADA": 9150,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "T. FERRUSSONS / ADRIÀ GUAL",
+      "DESC_PARADA": "T. Ferrussons / Adrià Gual",
       "COD_PARADA": 9104,
       "ID_GRUPO": 1,
       "ID_PARADA": 9104,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRENT DE FERRUSSONS (PARC)",
+      "DESC_PARADA": "Torrent De Ferrussons (parc)",
       "COD_PARADA": 2682,
       "ID_GRUPO": 1,
       "ID_PARADA": 10621,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CLEMENTINA ARDERIU",
+      "DESC_PARADA": "Clementina Arderiu",
       "COD_PARADA": 9152,
       "ID_GRUPO": 1,
       "ID_PARADA": 9152,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU / JOAN ALCOVER",
+      "DESC_PARADA": "Salvador Espriu / Joan Alcover",
       "COD_PARADA": 9153,
       "ID_GRUPO": 1,
       "ID_PARADA": 9153,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOAN XXIII",
+      "DESC_PARADA": "Joan XXIII",
       "COD_PARADA": 9108,
       "ID_GRUPO": 1,
       "ID_PARADA": 9108,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL ST. FRANCESC / JOAN XXIII",
+      "DESC_PARADA": "Plaça St. Francesc / Joan XXIII",
       "COD_PARADA": 8261,
       "ID_GRUPO": 1,
       "ID_PARADA": 10633,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE TORRENT D´EN XANDRI / AV. DE RAGULL",
+      "DESC_PARADA": "Rambla De Torrent D´en Xandri / Avinguda De Ragull",
       "COD_PARADA": 2683,
       "ID_GRUPO": 1,
       "ID_PARADA": 10622,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER / PLAÇA DE LA PELLERIA",
+      "DESC_PARADA": "Rambla Del Celler / Plaça De La Pelleria",
       "COD_PARADA": 5060,
       "ID_GRUPO": 1,
       "ID_PARADA": 5060,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / PG. TORRE BLANCA",
+      "DESC_PARADA": "Rambla Del Celler / Passeig Torre Blanca",
       "COD_PARADA": 5040,
       "ID_GRUPO": 1,
       "ID_PARADA": 5040,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+      "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
       "COD_PARADA": 5085,
       "ID_GRUPO": 1,
       "ID_PARADA": 5085,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+      "DESC_PARADA": "Avinguda De Lluís Companys",
       "COD_PARADA": 5090,
       "ID_GRUPO": 1,
       "ID_PARADA": 5090,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MARTORELL",
+      "DESC_PARADA": "Martorell",
       "COD_PARADA": 6947,
       "ID_GRUPO": 1,
       "ID_PARADA": 12553,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. OLABARRIA / AV. CAN PICANYOL",
+      "DESC_PARADA": "Passeig Olabarria / Avinguda Can Picanyol",
       "COD_PARADA": 2684,
       "ID_GRUPO": 1,
       "ID_PARADA": 10623,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. OLABARRIA",
+      "DESC_PARADA": "Passeig Olabarria",
       "COD_PARADA": 9081,
       "ID_GRUPO": 1,
       "ID_PARADA": 9081,
@@ -1121,7 +1121,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BILBAO",
+      "DESC_PARADA": "Avinguda Bilbao",
       "COD_PARADA": 8262,
       "ID_GRUPO": 1,
       "ID_PARADA": 12320,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MIRA-SOL",
+      "DESC_PARADA": "Plaça Mira-sol",
       "COD_PARADA": 8263,
       "ID_GRUPO": 1,
       "ID_PARADA": 12321,
@@ -1177,7 +1177,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. ESPANYA",
+      "DESC_PARADA": "Plaça Espanya",
       "COD_PARADA": 8264,
       "ID_GRUPO": 1,
       "ID_PARADA": 12322,
@@ -1205,7 +1205,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / TEROL",
+      "DESC_PARADA": "Passeig Baixador / Terol",
       "COD_PARADA": 8265,
       "ID_GRUPO": 1,
       "ID_PARADA": 12323,
@@ -1233,7 +1233,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / SARAGOSSA",
+      "DESC_PARADA": "Passeig Baixador / Saragossa",
       "COD_PARADA": 8266,
       "ID_GRUPO": 1,
       "ID_PARADA": 12324,
@@ -1261,7 +1261,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ ST. CUGAT AL PAPIOL / SARAGOSSA",
+      "DESC_PARADA": "Sargossa / Camí de Sant Cugat el Papiol",
       "COD_PARADA": 9084,
       "ID_GRUPO": 1,
       "ID_PARADA": 9084,
@@ -1289,7 +1289,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ ST. CUGAT AL PAPIOL / (CEIP CATALUNYA)",
+      "DESC_PARADA": "Camí St. Cugat Al Papiol / (ceip Catalunya)",
       "COD_PARADA": 9155,
       "ID_GRUPO": 1,
       "ID_PARADA": 9155,
@@ -1317,7 +1317,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POMPEU FABRA",
+      "DESC_PARADA": "Pompeu Fabra",
       "COD_PARADA": 9085,
       "ID_GRUPO": 1,
       "ID_PARADA": 9085,
@@ -1345,7 +1345,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DEL ROSER / MONT BLANC",
+      "DESC_PARADA": "Passeig Del Roser / Mont Blanc",
       "COD_PARADA": 9086,
       "ID_GRUPO": 1,
       "ID_PARADA": 9086,
@@ -1373,7 +1373,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN CABASSA / C. DE JOSEP VALLS",
+      "DESC_PARADA": "Avinguda Can Cabassa / Carrer De Josep Valls",
       "COD_PARADA": 8267,
       "ID_GRUPO": 1,
       "ID_PARADA": 12325,
@@ -1401,7 +1401,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CABASSA-ARAGÓ",
+      "DESC_PARADA": "Can Cabassa-aragó",
       "COD_PARADA": 8091,
       "ID_GRUPO": 1,
       "ID_PARADA": 8091,
@@ -1429,7 +1429,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FUERTEVENTURA",
+      "DESC_PARADA": "Fuerteventura",
       "COD_PARADA": 8268,
       "ID_GRUPO": 1,
       "ID_PARADA": 12326,

@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "LA GUINARDERA",
+          "DESC_PARADA": "La Guinardera",
           "COD_PARADA": 1970,
           "ID_GRUPO": 1,
           "ID_PARADA": 16997,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig.francesc Macià (rodalies)",
           "COD_PARADA": 8064,
           "ID_GRUPO": 1,
           "ID_PARADA": 8064,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / CARLES RIBA",
+          "DESC_PARADA": "Passeig Francesc Macià / Carles Riba",
           "COD_PARADA": 9984,
           "ID_GRUPO": 1,
           "ID_PARADA": 10585,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+          "DESC_PARADA": "Passeig Francesc Macià (monestir)",
           "COD_PARADA": 9158,
           "ID_GRUPO": 1,
           "ID_PARADA": 9158,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -171,7 +171,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -199,7 +199,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / CREU",
+          "DESC_PARADA": "Passeig Francesc Macià / Creu",
           "COD_PARADA": 4352,
           "ID_GRUPO": 1,
           "ID_PARADA": 11648,
@@ -227,7 +227,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (CPA)",
+          "DESC_PARADA": "Passeig Francesc Macià (cpa)",
           "COD_PARADA": 9973,
           "ID_GRUPO": 1,
           "ID_PARADA": 10577,
@@ -255,7 +255,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / JOSEP CARNER",
+          "DESC_PARADA": "Passeig Francesc Macià / Josep Carner",
           "COD_PARADA": 4353,
           "ID_GRUPO": 1,
           "ID_PARADA": 12224,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig Francesc Macià (rodalies)",
           "COD_PARADA": 8088,
           "ID_GRUPO": 1,
           "ID_PARADA": 8088,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA GUINARDERA",
+          "DESC_PARADA": "La Guinardera",
           "COD_PARADA": 1970,
           "ID_GRUPO": 1,
           "ID_PARADA": 16997,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT DE BELLVITGE",
+      "DESC_PARADA": "Mercat De Bellvitge",
       "COD_PARADA": 7106831,
       "ID_GRUPO": 1,
       "ID_PARADA": 24824,
@@ -11,10 +11,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425623,
-      "UTMY": 4578070,
-      "LATITUD": 41.35070354,
-      "LONGITUD": 2.11091455,
+      "UTMX": 425719,
+      "UTMY": 4578275,
+      "LATITUD": 41.350735252303,
+      "LONGITUD": 2.1109480776127,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO BELLVITGE RAMBLA MARINA",
+      "DESC_PARADA": "Metro Bellvitge Rambla Marina",
       "COD_PARADA": 7002137,
       "ID_GRUPO": 1,
       "ID_PARADA": 24638,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA LA MARINA",
+      "DESC_PARADA": "Escola La Marina",
       "COD_PARADA": 7000648,
       "ID_GRUPO": 1,
       "ID_PARADA": 24582,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - RAMBLA MARINA",
+      "DESC_PARADA": "Trav. Industrial - Rambla Marina",
       "COD_PARADA": 7112554,
       "ID_GRUPO": 1,
       "ID_PARADA": 25284,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - CTRA. SANT ROC",
+      "DESC_PARADA": "Trav. Industrial - Carretera Sant Roc",
       "COD_PARADA": 7105560,
       "ID_GRUPO": 1,
       "ID_PARADA": 24820,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. FABREGADA - CTRA. DEL MIG",
+      "DESC_PARADA": "Avinguda Fabregada - Carretera Del Mig",
       "COD_PARADA": 7100533,
       "ID_GRUPO": 1,
       "ID_PARADA": 24741,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. FABREGADA - AV. CARRILET",
+      "DESC_PARADA": "Avinguda Fabregada - Avinguda Carrilet",
       "COD_PARADA": 7108705,
       "ID_GRUPO": 1,
       "ID_PARADA": 24885,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA FARGA",
+      "DESC_PARADA": "La Farga",
       "COD_PARADA": 7106833,
       "ID_GRUPO": 1,
       "ID_PARADA": 24825,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE LES PLANES",
+      "DESC_PARADA": "Parc De Les Planes",
       "COD_PARADA": 7106834,
       "ID_GRUPO": 1,
       "ID_PARADA": 24826,
@@ -235,10 +235,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425062,
-      "UTMY": 4579854,
-      "LATITUD": 41.36671839,
-      "LONGITUD": 2.10398059,
+      "UTMX": 425152,
+      "UTMY": 4580059,
+      "LATITUD": 41.366750597747,
+      "LONGITUD": 2.1039490740441,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT RAFAEL - AV. ISABEL LA CATÒLICA",
+      "DESC_PARADA": "Sant Rafael - Avinguda Isabel La Catòlica",
       "COD_PARADA": 7109214,
       "ID_GRUPO": 1,
       "ID_PARADA": 24900,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MASNOU - PEDRAFORCA",
+      "DESC_PARADA": "Avinguda Masnou - Pedraforca",
       "COD_PARADA": 7106864,
       "ID_GRUPO": 1,
       "ID_PARADA": 24844,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MARE DE DÉU DEL PILAR",
+      "DESC_PARADA": "Plaça Mare De Déu Del Pilar",
       "COD_PARADA": 7106835,
       "ID_GRUPO": 1,
       "ID_PARADA": 24827,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO PUBILLA CASES",
+      "DESC_PARADA": "Metro Pubilla Cases",
       "COD_PARADA": 7106836,
       "ID_GRUPO": 1,
       "ID_PARADA": 24828,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MANUEL AZAÑA - AV. DE XILE",
+      "DESC_PARADA": "Avinguda Manuel Azaña - Avinguda De Xile",
       "COD_PARADA": 7109031,
       "ID_GRUPO": 1,
       "ID_PARADA": 24888,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GENERAL BATET - AV. MANUEL AZAÑA",
+      "DESC_PARADA": "General Batet - Avinguda Manuel Azaña",
       "COD_PARADA": 7109318,
       "ID_GRUPO": 1,
       "ID_PARADA": 24908,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ALBERT BASTARDAS - TORRE MELINA",
+      "DESC_PARADA": "Albert Bastardas - Torre Melina",
       "COD_PARADA": 7106838,
       "ID_GRUPO": 1,
       "ID_PARADA": 24829,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DIAGONAL - TORRE MELINA",
+      "DESC_PARADA": "Avinguda Diagonal - Torre Melina",
       "COD_PARADA": 7107037,
       "ID_GRUPO": 1,
       "ID_PARADA": 24851,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ZONA UNIVERSITÀRIA - ESCOLA T S D'ENGINYERIA",
+      "DESC_PARADA": "Zona Universitària - Escola t s D'enginyeria",
       "COD_PARADA": 7002542,
       "ID_GRUPO": 1,
       "ID_PARADA": 24647,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - METRO PALAU REIAL",
+      "DESC_PARADA": "Diagonal - Metro Palau Reial",
       "COD_PARADA": 7002543,
       "ID_GRUPO": 1,
       "ID_PARADA": 24648,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - AV JOAN XXIII",
+      "DESC_PARADA": "Diagonal - Avinguda Joan Xxiii",
       "COD_PARADA": 7000492,
       "ID_GRUPO": 1,
       "ID_PARADA": 24575,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DIAGONAL - GRAN VIA CARLES III",
+      "DESC_PARADA": "Avinguda Diagonal - Gran Via Carles Iii",
       "COD_PARADA": 7108719,
       "ID_GRUPO": 1,
       "ID_PARADA": 24886,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FLOS I CALCAT - L'ILLA",
+      "DESC_PARADA": "Flos i Calcat - L'illa",
       "COD_PARADA": 7106839,
       "ID_GRUPO": 1,
       "ID_PARADA": 24830,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - NUMÀNCIA",
+      "DESC_PARADA": "Diagonal - Numància",
       "COD_PARADA": 7000483,
       "ID_GRUPO": 1,
       "ID_PARADA": 24574,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - PL REINA MARIA CRISTINA",
+      "DESC_PARADA": "Diagonal - Plaça Reina Maria Cristina",
       "COD_PARADA": 7000237,
       "ID_GRUPO": 1,
       "ID_PARADA": 24560,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - PL PIUS XII",
+      "DESC_PARADA": "Diagonal - Plaça Pius Xii",
       "COD_PARADA": 7000766,
       "ID_GRUPO": 1,
       "ID_PARADA": 24583,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALAU REIAL",
+      "DESC_PARADA": "Palau Reial",
       "COD_PARADA": 7000021,
       "ID_GRUPO": 1,
       "ID_PARADA": 24549,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DIAGONAL - MANUEL BALLBÉ",
+      "DESC_PARADA": "Diagonal - Manuel Ballbé",
       "COD_PARADA": 7000250,
       "ID_GRUPO": 1,
       "ID_PARADA": 24561,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRE MELINA - ALBERT BASTARDAS",
+      "DESC_PARADA": "Torre Melina - Albert Bastardas",
       "COD_PARADA": 7107097,
       "ID_GRUPO": 1,
       "ID_PARADA": 24852,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ALBERT BASTARDAS - AV. MANUEL AZAÑA",
+      "DESC_PARADA": "Avinguda Albert Bastardas - Avinguda Manuel Azaña",
       "COD_PARADA": 7109309,
       "ID_GRUPO": 1,
       "ID_PARADA": 24907,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO PUBILLA CASES",
+      "DESC_PARADA": "Metro Pubilla Cases",
       "COD_PARADA": 7106840,
       "ID_GRUPO": 1,
       "ID_PARADA": 24831,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MARE DE DÉU DEL PILAR",
+      "DESC_PARADA": "Plaça Mare De Déu Del Pilar",
       "COD_PARADA": 7106841,
       "ID_GRUPO": 1,
       "ID_PARADA": 24832,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE BOMBERS",
+      "DESC_PARADA": "Parc De Bombers",
       "COD_PARADA": 7106848,
       "ID_GRUPO": 1,
       "ID_PARADA": 24836,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ISABEL LA CATÒLICA - AV. ELECTRICITAT",
+      "DESC_PARADA": "Avinguda Isabel La Catòlica - Avinguda Electricita",
       "COD_PARADA": 7106843,
       "ID_GRUPO": 1,
       "ID_PARADA": 24833,
@@ -907,10 +907,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425000,
-      "UTMY": 4580078,
-      "LATITUD": 41.36872523,
-      "LONGITUD": 2.10321299,
+      "UTMX": 425096,
+      "UTMY": 4580283,
+      "LATITUD": 41.368757939984,
+      "LONGITUD": 2.1032478587172,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE LES PLANES",
+      "DESC_PARADA": "Parc De Les Planes",
       "COD_PARADA": 7106844,
       "ID_GRUPO": 1,
       "ID_PARADA": 24834,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA FARGA",
+      "DESC_PARADA": "La Farga",
       "COD_PARADA": 7106845,
       "ID_GRUPO": 1,
       "ID_PARADA": 24835,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. FABREGADA - AV. CARRILET",
+      "DESC_PARADA": "Avinguda Fabregada - Avinguda Carrilet",
       "COD_PARADA": 7107100,
       "ID_GRUPO": 1,
       "ID_PARADA": 24853,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. FABREGADA - CTRA. DEL MIG",
+      "DESC_PARADA": "Avinguda Fabregada - Carretera Del Mig",
       "COD_PARADA": 7100532,
       "ID_GRUPO": 1,
       "ID_PARADA": 24740,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - AV. FABREGADA",
+      "DESC_PARADA": "Trav. Industrial - Avinguda Fabregada",
       "COD_PARADA": 7108703,
       "ID_GRUPO": 1,
       "ID_PARADA": 24884,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - AV. PAU CASALS",
+      "DESC_PARADA": "Trav. Industrial - Avinguda Pau Casals",
       "COD_PARADA": 7104522,
       "ID_GRUPO": 1,
       "ID_PARADA": 24806,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D'AMALVÍGIA",
+      "DESC_PARADA": "Plaça D'amalvígia",
       "COD_PARADA": 7000163,
       "ID_GRUPO": 1,
       "ID_PARADA": 24557,

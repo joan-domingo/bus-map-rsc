@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ PAU REDÓ - TANATORI",
+      "DESC_PARADA": "Camí Pau Redó - Tanatori",
       "COD_PARADA": 7105438,
       "ID_GRUPO": 1,
       "ID_PARADA": 24817,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ PAU REDÓ - INSTITUT CATALÀ D'ONCOLOGIA",
+      "DESC_PARADA": "Camí Pau Redó - Institut Català D'oncologia",
       "COD_PARADA": 7107488,
       "ID_GRUPO": 1,
       "ID_PARADA": 24855,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL ONCOLÒGIC",
+      "DESC_PARADA": "Hospital Oncològic",
       "COD_PARADA": 7000916,
       "ID_GRUPO": 1,
       "ID_PARADA": 25245,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV GRANVIA - CTRA ANTIGA DEL PRAT",
+      "DESC_PARADA": "Avinguda Granvia - Carretera Antiga Del Prat",
       "COD_PARADA": 7000334,
       "ID_GRUPO": 1,
       "ID_PARADA": 24567,
@@ -95,10 +95,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425824,
-      "UTMY": 4577707,
-      "LATITUD": 41.34740526,
-      "LONGITUD": 2.11339157,
+      "UTMX": 425917,
+      "UTMY": 4577906,
+      "LATITUD": 41.347430429771,
+      "LONGITUD": 2.1133607245963,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE LA CULTURA",
+      "DESC_PARADA": "Plaça De La Cultura",
       "COD_PARADA": 7100249,
       "ID_GRUPO": 1,
       "ID_PARADA": 24726,
@@ -123,10 +123,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425966,
-      "UTMY": 4578142,
-      "LATITUD": 41.35138316,
-      "LONGITUD": 2.11500395,
+      "UTMX": 426061,
+      "UTMY": 4578347,
+      "LATITUD": 41.351416382066,
+      "LONGITUD": 2.1150274193289,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES BELLVITGE-GORNAL",
+      "DESC_PARADA": "Estació Rodalies Bellvitge-gornal",
       "COD_PARADA": 7100248,
       "ID_GRUPO": 1,
       "ID_PARADA": 24725,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT EUROPA",
+      "DESC_PARADA": "Institut Europa",
       "COD_PARADA": 7100519,
       "ID_GRUPO": 1,
       "ID_PARADA": 24737,
@@ -179,10 +179,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425888,
-      "UTMY": 4578612,
-      "LATITUD": 41.35560704,
-      "LONGITUD": 2.11400632,
+      "UTMX": 425976,
+      "UTMY": 4578807,
+      "LATITUD": 41.35554462679,
+      "LONGITUD": 2.1139499936107,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - AV. FABREGADA",
+      "DESC_PARADA": "Trav. Industrial - Avinguda Fabregada",
       "COD_PARADA": 7104529,
       "ID_GRUPO": 1,
       "ID_PARADA": 24811,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. FABREGADA - CTRA. DEL MIG",
+      "DESC_PARADA": "Avinguda Fabregada - Carretera Del Mig",
       "COD_PARADA": 7100533,
       "ID_GRUPO": 1,
       "ID_PARADA": 24741,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CARRILET - AV. FABREGADA",
+      "DESC_PARADA": "Avinguda Carrilet - Avinguda Fabregada",
       "COD_PARADA": 7101980,
       "ID_GRUPO": 1,
       "ID_PARADA": 24763,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PAU CASALS - JOSEP PLA",
+      "DESC_PARADA": "Avinguda Pau Casals - Josep Pla",
       "COD_PARADA": 7100978,
       "ID_GRUPO": 1,
       "ID_PARADA": 24751,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA FARGA",
+      "DESC_PARADA": "La Farga",
       "COD_PARADA": 7102339,
       "ID_GRUPO": 1,
       "ID_PARADA": 24777,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES",
+      "DESC_PARADA": "Estació Rodalies",
       "COD_PARADA": 7100716,
       "ID_GRUPO": 1,
       "ID_PARADA": 24745,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN SERRA - CTRA. D'ESPLUGUES",
+      "DESC_PARADA": "Avinguda Can Serra - Carretera D'esplugues",
       "COD_PARADA": 7100359,
       "ID_GRUPO": 1,
       "ID_PARADA": 24730,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN SERRA - NÚM. 20",
+      "DESC_PARADA": "Avinguda Can Serra - Núm. 20",
       "COD_PARADA": 7100361,
       "ID_GRUPO": 1,
       "ID_PARADA": 24732,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT TORRAS I BAGES",
+      "DESC_PARADA": "Institut Torras i Bages",
       "COD_PARADA": 7100360,
       "ID_GRUPO": 1,
       "ID_PARADA": 24731,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT RUBIÓ I ORS",
+      "DESC_PARADA": "Institut Rubió i Ors",
       "COD_PARADA": 7100501,
       "ID_GRUPO": 1,
       "ID_PARADA": 24736,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT RAFAEL - AV. ISABEL LA CATÒLICA",
+      "DESC_PARADA": "Sant Rafael - Avinguda Isabel La Catòlica",
       "COD_PARADA": 7109214,
       "ID_GRUPO": 1,
       "ID_PARADA": 24900,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MASNOU - PEDRAFORCA",
+      "DESC_PARADA": "Avinguda Masnou - Pedraforca",
       "COD_PARADA": 7106864,
       "ID_GRUPO": 1,
       "ID_PARADA": 24844,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MARE DE DEU DEL PILAR",
+      "DESC_PARADA": "Plaça Mare De Deu Del Pilar",
       "COD_PARADA": 7109045,
       "ID_GRUPO": 1,
       "ID_PARADA": 24890,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT DE LA FLORIDA",
+      "DESC_PARADA": "Mercat De La Florida",
       "COD_PARADA": 7110375,
       "ID_GRUPO": 1,
       "ID_PARADA": 24929,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FLORIDA - AV. PRIMAVERA",
+      "DESC_PARADA": "Florida - Avinguda Primavera",
       "COD_PARADA": 7109040,
       "ID_GRUPO": 1,
       "ID_PARADA": 24889,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FLORIDA - BÒBILES",
+      "DESC_PARADA": "Florida - Bòbiles",
       "COD_PARADA": 7102255,
       "ID_GRUPO": 1,
       "ID_PARADA": 24775,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CREU ROJA - PUJÓS",
+      "DESC_PARADA": "Creu Roja - Pujós",
       "COD_PARADA": 7110362,
       "ID_GRUPO": 1,
       "ID_PARADA": 24926,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CREU ROJA - COLLBLANC",
+      "DESC_PARADA": "Creu Roja - Collblanc",
       "COD_PARADA": 7110388,
       "ID_GRUPO": 1,
       "ID_PARADA": 24933,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO COLLBLANC",
+      "DESC_PARADA": "Metro Collblanc",
       "COD_PARADA": 7003473,
       "ID_GRUPO": 1,
       "ID_PARADA": 24688,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT COLLBLANC",
+      "DESC_PARADA": "Mercat Collblanc",
       "COD_PARADA": 7102117,
       "ID_GRUPO": 1,
       "ID_PARADA": 24764,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAFAEL CAMPALANS - MAS",
+      "DESC_PARADA": "Rafael Campalans - Mas",
       "COD_PARADA": 7103848,
       "ID_GRUPO": 1,
       "ID_PARADA": 24788,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA CATALANA - SANTIAGO APÒSTOL",
+      "DESC_PARADA": "Rambla Catalana - Santiago Apòstol",
       "COD_PARADA": 7110524,
       "ID_GRUPO": 1,
       "ID_PARADA": 24947,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELL DE BELLVÍS",
+      "DESC_PARADA": "Castell De Bellvís",
       "COD_PARADA": 7110526,
       "ID_GRUPO": 1,
       "ID_PARADA": 24949,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DEL VIDRE",
+      "DESC_PARADA": "Plaça Del Vidre",
       "COD_PARADA": 7104155,
       "ID_GRUPO": 1,
       "ID_PARADA": 24789,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE LA TORRASSA - RIERA BLANCA",
+      "DESC_PARADA": "Ronda De La Torrassa - Riera Blanca",
       "COD_PARADA": 7104156,
       "ID_GRUPO": 1,
       "ID_PARADA": 24790,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO SANTA EULÀLIA",
+      "DESC_PARADA": "Metro Santa Eulàlia",
       "COD_PARADA": 7003651,
       "ID_GRUPO": 1,
       "ID_PARADA": 24701,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE L'ESCORÇA",
+      "DESC_PARADA": "Plaça De L'escorça",
       "COD_PARADA": 7104251,
       "ID_GRUPO": 1,
       "ID_PARADA": 24801,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "STA. EULÀLIA - AV. METRO",
+      "DESC_PARADA": "Sta. Eulàlia - Avinguda Metro",
       "COD_PARADA": 7104433,
       "ID_GRUPO": 1,
       "ID_PARADA": 24802,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN TRINXET",
+      "DESC_PARADA": "Can Trinxet",
       "COD_PARADA": 7104440,
       "ID_GRUPO": 1,
       "ID_PARADA": 24805,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AMADEU TORNER - SANTA EULÀLIA",
+      "DESC_PARADA": "Amadeu Torner - Santa Eulàlia",
       "COD_PARADA": 7100111,
       "ID_GRUPO": 1,
       "ID_PARADA": 24719,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AMADEU TORNER - APRESTADORA",
+      "DESC_PARADA": "Amadeu Torner - Aprestadora",
       "COD_PARADA": 7100112,
       "ID_GRUPO": 1,
       "ID_PARADA": 24720,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAP AMADEU TORNER",
+      "DESC_PARADA": "Cap Amadeu Torner",
       "COD_PARADA": 7003704,
       "ID_GRUPO": 1,
       "ID_PARADA": 24710,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AMADEU TORNER - JERUSALEM",
+      "DESC_PARADA": "Amadeu Torner - Jerusalem",
       "COD_PARADA": 7003705,
       "ID_GRUPO": 1,
       "ID_PARADA": 24711,
@@ -1121,7 +1121,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AMADEU TORNER",
+      "DESC_PARADA": "Amadeu Torner",
       "COD_PARADA": 7002966,
       "ID_GRUPO": 1,
       "ID_PARADA": 24658,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV GRANVIA - CAN TRIES",
+      "DESC_PARADA": "Avinguda Granvia - Can Tries",
       "COD_PARADA": 7001434,
       "ID_GRUPO": 1,
       "ID_PARADA": 24613,
@@ -1177,7 +1177,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GRANVIA - GORNAL",
+      "DESC_PARADA": "Avinguda Granvia - Gornal",
       "COD_PARADA": 7109102,
       "ID_GRUPO": 1,
       "ID_PARADA": 24891,
@@ -1205,7 +1205,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CARMEN AMAYA - GORNAL",
+      "DESC_PARADA": "Avinguda Carmen Amaya - Gornal",
       "COD_PARADA": 7100373,
       "ID_GRUPO": 1,
       "ID_PARADA": 24734,
@@ -1233,7 +1233,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAP GORNAL",
+      "DESC_PARADA": "Cap Gornal",
       "COD_PARADA": 7100374,
       "ID_GRUPO": 1,
       "ID_PARADA": 24735,
@@ -1261,7 +1261,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN TRIES - JONCS",
+      "DESC_PARADA": "Can Tries - Joncs",
       "COD_PARADA": 7109111,
       "ID_GRUPO": 1,
       "ID_PARADA": 24895,
@@ -1289,7 +1289,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO CAN TRIES / GORNAL",
+      "DESC_PARADA": "Metro Can Tries / Gornal",
       "COD_PARADA": 7101451,
       "ID_GRUPO": 1,
       "ID_PARADA": 24756,
@@ -1317,7 +1317,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - AV. EUROPA",
+      "DESC_PARADA": "Trav. Industrial - Avinguda Europa",
       "COD_PARADA": 7104526,
       "ID_GRUPO": 1,
       "ID_PARADA": 24809,
@@ -1345,7 +1345,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - AV. FABREGADA",
+      "DESC_PARADA": "Trav. Industrial - Avinguda Fabregada",
       "COD_PARADA": 7108703,
       "ID_GRUPO": 1,
       "ID_PARADA": 24884,
@@ -1373,7 +1373,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TRAV. INDUSTRIAL - RBLA. MARINA",
+      "DESC_PARADA": "Trav. Industrial - Rambla Marina",
       "COD_PARADA": 7104528,
       "ID_GRUPO": 1,
       "ID_PARADA": 24810,
@@ -1401,7 +1401,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MARE DE DÉU DE BELLVITGE - TRAV. INDUSTRIAL",
+      "DESC_PARADA": "Mare De Déu De Bellvitge - Trav. Industrial",
       "COD_PARADA": 7100754,
       "ID_GRUPO": 1,
       "ID_PARADA": 24746,
@@ -1429,7 +1429,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POLIESPORTIU MUNICIPAL BELLVITGE",
+      "DESC_PARADA": "Poliesportiu Municipal Bellvitge",
       "COD_PARADA": 7100757,
       "ID_GRUPO": 1,
       "ID_PARADA": 24748,
@@ -1457,7 +1457,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMPUS UNIVERSITARI BELLVITGE",
+      "DESC_PARADA": "Campus Universitari Bellvitge",
       "COD_PARADA": 7109282,
       "ID_GRUPO": 1,
       "ID_PARADA": 24905,
@@ -1485,7 +1485,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ PAU REDÓ - INSTITUT CATALÀ D'ONCOLOGIA",
+      "DESC_PARADA": "Camí Pau Redó - Institut Català D'oncologia",
       "COD_PARADA": 7107491,
       "ID_GRUPO": 1,
       "ID_PARADA": 24857,
@@ -1513,7 +1513,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TANATORI",
+      "DESC_PARADA": "Tanatori",
       "COD_PARADA": 7112416,
       "ID_GRUPO": 1,
       "ID_PARADA": 24956,

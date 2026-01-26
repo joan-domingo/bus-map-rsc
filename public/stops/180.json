@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS",
+      "DESC_PARADA": "Estació D´autobusos",
       "COD_PARADA": 21030,
       "ID_GRUPO": 1,
       "ID_PARADA": 10600,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS 2",
+      "DESC_PARADA": "Garrigues/sicoris 2",
       "COD_PARADA": 20063,
       "ID_GRUPO": 1,
       "ID_PARADA": 14339,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA BORDETA - AV. FLIX",
+      "DESC_PARADA": "La Bordeta - Avinguda Flix",
       "COD_PARADA": 21042,
       "ID_GRUPO": 1,
       "ID_PARADA": 10599,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ALBATÀRREC",
+      "DESC_PARADA": "Albatàrrec",
       "COD_PARADA": 21066,
       "ID_GRUPO": 1,
       "ID_PARADA": 10605,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MONTOLIU DE LLEIDA",
+      "DESC_PARADA": "Montoliu De Lleida",
       "COD_PARADA": 21047,
       "ID_GRUPO": 1,
       "ID_PARADA": 10603,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SUDANELL",
+      "DESC_PARADA": "Sudanell",
       "COD_PARADA": 21055,
       "ID_GRUPO": 1,
       "ID_PARADA": 10602,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRES DE SEGRE",
+      "DESC_PARADA": "Torres De Segre",
       "COD_PARADA": 21000,
       "ID_GRUPO": 1,
       "ID_PARADA": 10601,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ALBATÀRREC",
+      "DESC_PARADA": "Albatàrrec",
       "COD_PARADA": 21005,
       "ID_GRUPO": 1,
       "ID_PARADA": 10604,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS",
+      "DESC_PARADA": "Garrigues/sicoris",
       "COD_PARADA": 20072,
       "ID_GRUPO": 1,
       "ID_PARADA": 14340,

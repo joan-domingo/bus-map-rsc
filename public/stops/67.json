@@ -24,7 +24,35 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 90,
     "ID_PARADA": 7241,
-    "NKM_ORIGEN": 10,
+    "NKM_ORIGEN": 1,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "MONTALTPARK",
+      "COD_PARADA": 3424,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7239,
+      "ID_MUNICIPIO": 82649,
+      "MUNICIPIO": "SANT VICENÇ DE MONTALT",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 460009,
+      "UTMY": 4601951,
+      "LATITUD": 41.56642,
+      "LONGITUD": 2.51925,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 67,
+    "ID_TRAYECTO": 12,
+    "SECUENCIA": 85,
+    "ID_PARADA": 7239,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -52,7 +80,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 20,
     "ID_PARADA": 7244,
-    "NKM_ORIGEN": 1.9,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -80,7 +108,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 30,
     "ID_PARADA": 7225,
-    "NKM_ORIGEN": 2.2,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -108,7 +136,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 40,
     "ID_PARADA": 12822,
-    "NKM_ORIGEN": 2.5,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -136,7 +164,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 50,
     "ID_PARADA": 11660,
-    "NKM_ORIGEN": 3.7,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -164,7 +192,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 60,
     "ID_PARADA": 7234,
-    "NKM_ORIGEN": 4.2,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -192,7 +220,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 70,
     "ID_PARADA": 11664,
-    "NKM_ORIGEN": 7.9,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -220,7 +248,7 @@
     "ID_TRAYECTO": 12,
     "SECUENCIA": 80,
     "ID_PARADA": 11665,
-    "NKM_ORIGEN": 8.4,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   }
 ]

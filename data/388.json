@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARTORELL",
+          "DESC_PARADA": "Martorell",
           "COD_PARADA": 6947,
           "ID_GRUPO": 1,
           "ID_PARADA": 12553,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT CELONI",
+          "DESC_PARADA": "Sant Celoni",
           "COD_PARADA": 9090,
           "ID_GRUPO": 1,
           "ID_PARADA": 9090,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE CAN MINGUET / PERE SERRA",
+          "DESC_PARADA": "Camí De Can Minguet / Pere Serra",
           "COD_PARADA": 9091,
           "ID_GRUPO": 1,
           "ID_PARADA": 9091,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VALLSECA (ETSAV)",
+          "DESC_PARADA": "Vallseca (etsav)",
           "COD_PARADA": 9092,
           "ID_GRUPO": 1,
           "ID_PARADA": 9092,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE  VALLVIDRERA / VALLSECA",
+          "DESC_PARADA": "Carretera De  Vallvidrera / Vallseca",
           "COD_PARADA": 1952,
           "ID_GRUPO": 1,
           "ID_PARADA": 12119,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE VALLVIDRERA / C. DE JAUME PERICH",
+          "DESC_PARADA": "Carretera De Vallvidrera / Carrer De Jaume Perich",
           "COD_PARADA": 2972,
           "ID_GRUPO": 1,
           "ID_PARADA": 14074,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "JOSEP VIDAL I GRANÉS",
+          "DESC_PARADA": "Josep Vidal i Granés",
           "COD_PARADA": 9093,
           "ID_GRUPO": 1,
           "ID_PARADA": 9093,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PERE SERRA",
+          "DESC_PARADA": "Pere Serra",
           "COD_PARADA": 9094,
           "ID_GRUPO": 1,
           "ID_PARADA": 9094,
@@ -322,7 +322,35 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GRAELLS",
+          "DESC_PARADA": "3849 AULADELL",
+          "COD_PARADA": 3849,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 27075,
+          "ID_MUNICIPIO": 82055,
+          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 422778,
+          "UTMY": 4592235,
+          "LATITUD": 41.4761807,
+          "LONGITUD": 2.0740042,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 388,
+        "ID_TRAYECTO": 1,
+        "SECUENCIA": 135,
+        "ID_PARADA": 27075,
+        "NKM_ORIGEN": 4.692,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda Graells",
           "COD_PARADA": 9095,
           "ID_GRUPO": 1,
           "ID_PARADA": 9095,
@@ -350,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GRAELLS / VÍCTOR CATALÀ",
+          "DESC_PARADA": "Avinguda Graells / Víctor Català",
           "COD_PARADA": 9096,
           "ID_GRUPO": 1,
           "ID_PARADA": 9096,
@@ -378,20 +406,20 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIC / CERDANYA",
-          "COD_PARADA": 2614,
+          "DESC_PARADA": "Carrer Cerdanya (plaça Del Xic)",
+          "COD_PARADA": 2069,
           "ID_GRUPO": 1,
-          "ID_PARADA": 18233,
+          "ID_PARADA": 21940,
           "ID_MUNICIPIO": 82055,
           "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
           "EXPLOTADORA": "SARBUS",
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422400,
-          "UTMY": 4592496,
-          "LATITUD": 41.4785,
-          "LONGITUD": 2.06945,
+          "UTMX": 422385,
+          "UTMY": 4592533,
+          "LATITUD": 41.478831,
+          "LONGITUD": 2.069259,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -400,13 +428,13 @@
         "ID_LINEA": 388,
         "ID_TRAYECTO": 1,
         "SECUENCIA": 160,
-        "ID_PARADA": 18233,
+        "ID_PARADA": 21940,
         "NKM_ORIGEN": 5.296,
         "SUBE_BAJA": 1
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / AV. GRAELLS",
+          "DESC_PARADA": "Avinguda Clota / Avinguda Graells",
           "COD_PARADA": 9974,
           "ID_GRUPO": 1,
           "ID_PARADA": 10578,
@@ -434,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ANTONI BELL (ESTACIÓ VOLPELLERES)",
+          "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
           "COD_PARADA": 7,
           "ID_GRUPO": 1,
           "ID_PARADA": 11657,
@@ -462,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / PG. MARE DE LA FONT",
+          "DESC_PARADA": "Avinguda Clota / Passeig Mare De La Font",
           "COD_PARADA": 4351,
           "ID_GRUPO": 1,
           "ID_PARADA": 12222,
@@ -490,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA (E. L´OLIVERA)",
+          "DESC_PARADA": "Avinguda Clota (e. L´olivera)",
           "COD_PARADA": 2689,
           "ID_GRUPO": 1,
           "ID_PARADA": 10628,
@@ -518,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE VALLVIDRERA / CAP TURÓ DE CAN MATES",
+          "DESC_PARADA": "Carretera De Vallvidrera / Cap Turó De Can Mates",
           "COD_PARADA": 6948,
           "ID_GRUPO": 1,
           "ID_PARADA": 12554,
@@ -546,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MANEL FARRÉS / ALELLA",
+          "DESC_PARADA": "Manel Farrés / Alella",
           "COD_PARADA": 9098,
           "ID_GRUPO": 1,
           "ID_PARADA": 9098,
@@ -574,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MANEL FARRÈS / PERE SERRA",
+          "DESC_PARADA": "Manel Farrès / Pere Serra",
           "COD_PARADA": 9099,
           "ID_GRUPO": 1,
           "ID_PARADA": 9099,
@@ -602,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE MANEL FARRÉS / C. DE ROVELLAT",
+          "DESC_PARADA": "Carrer De Manel Farrés / Carrer De Rovellat",
           "COD_PARADA": 9100,
           "ID_GRUPO": 1,
           "ID_PARADA": 9100,
@@ -630,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -658,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ÀNGEL GUIMERÀ/VILLA",
+          "DESC_PARADA": "Àngel Guimerà/villa",
           "COD_PARADA": 4970,
           "ID_GRUPO": 1,
           "ID_PARADA": 4970,
@@ -686,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -714,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -742,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PLA D´EN VINYET (AUDITORI)",
+          "DESC_PARADA": "Avinguda Pla D´en Vinyet (auditori)",
           "COD_PARADA": 2613,
           "ID_GRUPO": 1,
           "ID_PARADA": 18232,
@@ -770,7 +798,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / PG. TORRE BLANCA",
+          "DESC_PARADA": "Rambla Del Celler / Passeig Torre Blanca",
           "COD_PARADA": 5040,
           "ID_GRUPO": 1,
           "ID_PARADA": 5040,
@@ -798,7 +826,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,

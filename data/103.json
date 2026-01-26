@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL PI / ESTACIÓ FGC",
+          "DESC_PARADA": "Plaça Del Pi / Estació Fgc",
           "COD_PARADA": 2997,
           "ID_GRUPO": 1,
           "ID_PARADA": 13676,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA BV-1414 KM (LA VALL)",
+          "DESC_PARADA": "Carretera Bv-1414 Km (la Vall)",
           "COD_PARADA": 5996,
           "ID_GRUPO": 1,
           "ID_PARADA": 13141,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TURÓ DE SANT PAU",
+          "DESC_PARADA": "Turó De Sant Pau",
           "COD_PARADA": 5837,
           "ID_GRUPO": 1,
           "ID_PARADA": 5837,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CIÈNCIES DE L'EDUCACIÓ",
+          "DESC_PARADA": "Ciències De L'educació",
           "COD_PARADA": 8837,
           "ID_GRUPO": 1,
           "ID_PARADA": 12357,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB-CÍÈNCIES",
+          "DESC_PARADA": "Uab-cíències",
           "COD_PARADA": 9733,
           "ID_GRUPO": 1,
           "ID_PARADA": 13861,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / TARRADELLAS",
+          "DESC_PARADA": "Serragalliners / Tarradellas",
           "COD_PARADA": 656,
           "ID_GRUPO": 1,
           "ID_PARADA": 10554,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5838,
           "ID_GRUPO": 1,
           "ID_PARADA": 5838,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV. EUROPA",
+          "DESC_PARADA": "Avinguda.roma/avinguda Europa",
           "COD_PARADA": 2404,
           "ID_GRUPO": 1,
           "ID_PARADA": 13862,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN PALLARÈS-POLÍGON INDUSTRIAL (POLIZUR)",
+          "DESC_PARADA": "Can Pallarès-polígon Industrial (polizur)",
           "COD_PARADA": 5490,
           "ID_GRUPO": 1,
           "ID_PARADA": 5490,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE SANTA ROSA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Santa Rosa",
           "COD_PARADA": 6028,
           "ID_GRUPO": 1,
           "ID_PARADA": 13143,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/PTGE. DE LA TELEFÒNICA",
+          "DESC_PARADA": "Carretera De Barcelona/ptge. De La Telefònica",
           "COD_PARADA": 1302,
           "ID_GRUPO": 1,
           "ID_PARADA": 1302,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE TARRAGONA (CAP III)",
+          "DESC_PARADA": "Carrer De Tarragona (cap Iii)",
           "COD_PARADA": 5465,
           "ID_GRUPO": 1,
           "ID_PARADA": 13863,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BALMES/ C. DEL MOLÍ D'EN GINESTAR",
+          "DESC_PARADA": "Carrer De Balmes/ Carrer Del Molí D'en Ginestar",
           "COD_PARADA": 421,
           "ID_GRUPO": 1,
           "ID_PARADA": 12819,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. MOLÍ D`EN RATA/C. MAGALLANES (PARC DE MORERES)",
+          "DESC_PARADA": "Carrer Molí D`en Rata/carrer Magallanes (parc De m",
           "COD_PARADA": 422,
           "ID_GRUPO": 1,
           "ID_PARADA": 13882,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/ RBLA. DEL PUIGMAL",
+          "DESC_PARADA": "Avinguda De Maria Torras/ Rambla Del Puigmal",
           "COD_PARADA": 7334,
           "ID_GRUPO": 1,
           "ID_PARADA": 13883,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE FEDERICO GARCIA LORCA / PL. PALAU AUSIT",
+          "DESC_PARADA": "Carrer De Federico Garcia Lorca / Plaça Palau Ausi",
           "COD_PARADA": 3634,
           "ID_GRUPO": 1,
           "ID_PARADA": 14105,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA ST ANDREU-PAU CASALS",
+          "DESC_PARADA": "Rambla St Andreu-pau Casals",
           "COD_PARADA": 8838,
           "ID_GRUPO": 1,
           "ID_PARADA": 12358,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C.SARRIA DE TER/C.X (RASTRO RETO)",
+          "DESC_PARADA": "Carrer.sarria De Ter/carrer.x (rastro Reto)",
           "COD_PARADA": 3635,
           "ID_GRUPO": 1,
           "ID_PARADA": 14106,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG ST JORDI-PAU CASALS",
+          "DESC_PARADA": "Passeig St Jordi-pau Casals",
           "COD_PARADA": 1144,
           "ID_GRUPO": 1,
           "ID_PARADA": 12095,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA PAÏSOS CATALANS-PL ESPANYA",
+          "DESC_PARADA": "Rambla Països Catalans-plaça Espanya",
           "COD_PARADA": 8839,
           "ID_GRUPO": 1,
           "ID_PARADA": 12359,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL LLUÍS COMPANYS",
+          "DESC_PARADA": "Plaça Lluís Companys",
           "COD_PARADA": 8841,
           "ID_GRUPO": 1,
           "ID_PARADA": 12360,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA BIFURCACIÓ /C. DE LA MINA",
+          "DESC_PARADA": "Carrer De La Bifurcació /carrer De La Mina",
           "COD_PARADA": 8833,
           "ID_GRUPO": 1,
           "ID_PARADA": 12353,
@@ -647,7 +647,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA BIFURCACIÓ /C. DE LA MINA",
+          "DESC_PARADA": "Carrer De La Bifurcació /carrer De La Mina",
           "COD_PARADA": 8833,
           "ID_GRUPO": 1,
           "ID_PARADA": 12353,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL LLUÍS COMPANYS",
+          "DESC_PARADA": "Plaça Lluís Companys",
           "COD_PARADA": 8834,
           "ID_GRUPO": 1,
           "ID_PARADA": 12354,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA PAÏSOS CATALANS-PL ESPANYA",
+          "DESC_PARADA": "Rambla Països Catalans-plaça Espanya",
           "COD_PARADA": 8835,
           "ID_GRUPO": 1,
           "ID_PARADA": 12355,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA RIPOLLET-PAU CASALS",
+          "DESC_PARADA": "Carretera Ripollet-pau Casals",
           "COD_PARADA": 1032,
           "ID_GRUPO": 1,
           "ID_PARADA": 12085,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SARRIÀ DE TER / C. X (RASTRO RETO)",
+          "DESC_PARADA": "Carrer De Sarrià De Ter / Carrer x (rastro Reto)",
           "COD_PARADA": 8703,
           "ID_GRUPO": 1,
           "ID_PARADA": 13874,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST .ANDREU/C. DE PAU CASALS",
+          "DESC_PARADA": "Carrer De St .andreu/carrer De Pau Casals",
           "COD_PARADA": 8836,
           "ID_GRUPO": 1,
           "ID_PARADA": 12356,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE FEDERICO GARCÍA LORCA/PL. DE PALAU AUSIT",
+          "DESC_PARADA": "Carrer De Federico García Lorca/plaça De Palau Aus",
           "COD_PARADA": 8704,
           "ID_GRUPO": 1,
           "ID_PARADA": 13875,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/ RBLA. DEL PUIGMAL",
+          "DESC_PARADA": "Avinguda De Maria Torras/ Rambla Del Puigmal",
           "COD_PARADA": 7332,
           "ID_GRUPO": 1,
           "ID_PARADA": 13890,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. MOLÍ D`EN RATA/C. MAGALLANES (PARC DE MORERES)",
+          "DESC_PARADA": "Carrer Molí D`en Rata/carrer Magallanes (parc De m",
           "COD_PARADA": 5460,
           "ID_GRUPO": 1,
           "ID_PARADA": 13878,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BALMES/C. DEL MOLÍ D´EN GINESTAR",
+          "DESC_PARADA": "Carrer De Balmes/carrer Del Molí D´en Ginestar",
           "COD_PARADA": 5470,
           "ID_GRUPO": 1,
           "ID_PARADA": 12250,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA / C. DE BONAVISTA",
+          "DESC_PARADA": "Carretera De Barcelona / Carrer De Bonavista",
           "COD_PARADA": 5190,
           "ID_GRUPO": 1,
           "ID_PARADA": 12626,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/ C. DE RAMÓN Y CAJAL",
+          "DESC_PARADA": "Carretera De Barcelona/ Carrer De Ramón y Cajal",
           "COD_PARADA": 6030,
           "ID_GRUPO": 1,
           "ID_PARADA": 6030,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN PALLARÈS/POLÍGON INDUSTRIAL (POLIZUR)",
+          "DESC_PARADA": "Can Pallarès/polígon Industrial (polizur)",
           "COD_PARADA": 419,
           "ID_GRUPO": 1,
           "ID_PARADA": 419,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV.EUROPA(CEIP SALTELLS)",
+          "DESC_PARADA": "Avinguda.roma/avinguda.europa(ceip Saltells)",
           "COD_PARADA": 653,
           "ID_GRUPO": 1,
           "ID_PARADA": 10550,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5764,
           "ID_GRUPO": 1,
           "ID_PARADA": 5764,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / LONDRES",
+          "DESC_PARADA": "Serragalliners / Londres",
           "COD_PARADA": 654,
           "ID_GRUPO": 1,
           "ID_PARADA": 10551,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES",
+          "DESC_PARADA": "Uab Ciències",
           "COD_PARADA": 5552,
           "ID_GRUPO": 1,
           "ID_PARADA": 5552,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES EDUCACIÓ",
+          "DESC_PARADA": "Uab Ciències Educació",
           "COD_PARADA": 5554,
           "ID_GRUPO": 1,
           "ID_PARADA": 5554,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TURÓ DE SANT PAU",
+          "DESC_PARADA": "Turó De Sant Pau",
           "COD_PARADA": 5765,
           "ID_GRUPO": 1,
           "ID_PARADA": 5765,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA VALL",
+          "DESC_PARADA": "La Vall",
           "COD_PARADA": 5997,
           "ID_GRUPO": 1,
           "ID_PARADA": 13131,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL DEL PI",
+          "DESC_PARADA": "Plaça Del Pi",
           "COD_PARADA": 5859,
           "ID_GRUPO": 1,
           "ID_PARADA": 5859,

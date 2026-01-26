@@ -17,7 +17,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "FONT D'EN COLOM",
+          "DESC_PARADA": "Font D'en Colom",
           "COD_PARADA": 9113,
           "ID_GRUPO": 1,
           "ID_PARADA": 9113,
@@ -45,7 +45,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MOLÍ DE LES PLANES",
+          "DESC_PARADA": "Molí De Les Planes",
           "COD_PARADA": 9114,
           "ID_GRUPO": 1,
           "ID_PARADA": 9114,
@@ -73,7 +73,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL COLL DE LA CREU D'EN BLAU",
+          "DESC_PARADA": "Plaça Del Coll De La Creu D'en Blau",
           "COD_PARADA": 9115,
           "ID_GRUPO": 1,
           "ID_PARADA": 9115,
@@ -101,7 +101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE CAN FLO / AV. PERE PLANAS",
+          "DESC_PARADA": "Camí De Can Flo / Avinguda Pere Planas",
           "COD_PARADA": 9117,
           "ID_GRUPO": 1,
           "ID_PARADA": 9117,
@@ -129,7 +129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MONTSENY",
+          "DESC_PARADA": "Avinguda Montseny",
           "COD_PARADA": 9118,
           "ID_GRUPO": 1,
           "ID_PARADA": 9118,
@@ -157,7 +157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MONTSENY / NIU GUERRER",
+          "DESC_PARADA": "Avinguda Montseny / Niu Guerrer",
           "COD_PARADA": 9119,
           "ID_GRUPO": 1,
           "ID_PARADA": 9119,
@@ -185,7 +185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS PORTERS",
+          "DESC_PARADA": "Plaça Dels Porters",
           "COD_PARADA": 9120,
           "ID_GRUPO": 1,
           "ID_PARADA": 9120,
@@ -213,7 +213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. EMETERIO ESCUDERO / TURÓ",
+          "DESC_PARADA": "Avinguda Emeterio Escudero / Turó",
           "COD_PARADA": 9121,
           "ID_GRUPO": 1,
           "ID_PARADA": 9121,
@@ -241,7 +241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. EMETERIO ESCUDERO",
+          "DESC_PARADA": "Avinguda Emeterio Escudero",
           "COD_PARADA": 9122,
           "ID_GRUPO": 1,
           "ID_PARADA": 9122,
@@ -269,7 +269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. EMETERIO ESCUDERO / PTGE. BONFILL",
+          "DESC_PARADA": "Avinguda Emeterio Escudero / Ptge. Bonfill",
           "COD_PARADA": 9123,
           "ID_GRUPO": 1,
           "ID_PARADA": 9123,
@@ -297,7 +297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. PONT DEL  DIARI / CAMÍ ANTIC DE TERRASSA",
+          "DESC_PARADA": "Plaça Pont Del  Diari / Camí Antic De Terrassa",
           "COD_PARADA": 8271,
           "ID_GRUPO": 1,
           "ID_PARADA": 12328,
@@ -325,7 +325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARGARIT / CAN LLOBET",
+          "DESC_PARADA": "Margarit / Can Llobet",
           "COD_PARADA": 9125,
           "ID_GRUPO": 1,
           "ID_PARADA": 9125,
@@ -353,7 +353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA.DE VALLVIDRERA/CAMÍ DE CAN PAGAN",
+          "DESC_PARADA": "Carretera.de Vallvidrera/camí De Can Pagan",
           "COD_PARADA": 3495,
           "ID_GRUPO": 1,
           "ID_PARADA": 13869,
@@ -381,7 +381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL CENTRE",
+          "DESC_PARADA": "Plaça Del Centre",
           "COD_PARADA": 9126,
           "ID_GRUPO": 1,
           "ID_PARADA": 9126,
@@ -409,7 +409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. VERGE DE MONTSERRAT",
+          "DESC_PARADA": "Avinguda Verge De Montserrat",
           "COD_PARADA": 9127,
           "ID_GRUPO": 1,
           "ID_PARADA": 9127,
@@ -437,7 +437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. JOSEP PLAYÀ (ESTACIÓ LA FLORESTA)",
+          "DESC_PARADA": "Plaça Josep Playà (estació La Floresta)",
           "COD_PARADA": 9128,
           "ID_GRUPO": 1,
           "ID_PARADA": 9128,
@@ -465,7 +465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DOCTOR VILLAR",
+          "DESC_PARADA": "Plaça Doctor Villar",
           "COD_PARADA": 9129,
           "ID_GRUPO": 1,
           "ID_PARADA": 9129,
@@ -493,7 +493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. PONT DEL DIARI",
+          "DESC_PARADA": "Plaça Pont Del Diari",
           "COD_PARADA": 9124,
           "ID_GRUPO": 1,
           "ID_PARADA": 9124,
@@ -521,7 +521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DELS POLLANCRES",
+          "DESC_PARADA": "Passeig Dels Pollancres",
           "COD_PARADA": 9131,
           "ID_GRUPO": 1,
           "ID_PARADA": 9131,
@@ -549,7 +549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DELS TIL·LERS/PG. MIMOSA",
+          "DESC_PARADA": "Passeig Dels Til·lers/passeig Mimosa",
           "COD_PARADA": 9132,
           "ID_GRUPO": 1,
           "ID_PARADA": 9132,
@@ -577,7 +577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GOLF DE BISCAIA",
+          "DESC_PARADA": "Golf De Biscaia",
           "COD_PARADA": 9133,
           "ID_GRUPO": 1,
           "ID_PARADA": 9133,
@@ -605,7 +605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS ESTRETS",
+          "DESC_PARADA": "Plaça Dels Estrets",
           "COD_PARADA": 9157,
           "ID_GRUPO": 1,
           "ID_PARADA": 9157,
@@ -633,7 +633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CANAL DE LA MÀNEGA (COL·LEGI EL PINAR)",
+          "DESC_PARADA": "Canal De La Mànega (col·legi El Pinar)",
           "COD_PARADA": 9134,
           "ID_GRUPO": 1,
           "ID_PARADA": 9134,
@@ -661,7 +661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -689,7 +689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -717,7 +717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLA D´EN VINYET/FERRAN ROMEU (MERCAT TORRE BLANCA)",
+          "DESC_PARADA": "Pla D´en Vinyet/ferran Romeu (mercat Torre Blanca)",
           "COD_PARADA": 9076,
           "ID_GRUPO": 1,
           "ID_PARADA": 9076,
@@ -745,7 +745,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -773,7 +773,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT MAGÍ",
+          "DESC_PARADA": "Sant Magí",
           "COD_PARADA": 9078,
           "ID_GRUPO": 1,
           "ID_PARADA": 9078,
@@ -801,7 +801,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA MINA (CAP)",
+          "DESC_PARADA": "La Mina (cap)",
           "COD_PARADA": 9079,
           "ID_GRUPO": 1,
           "ID_PARADA": 9079,
@@ -829,7 +829,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+          "DESC_PARADA": "Passeig Francesc Macià (monestir)",
           "COD_PARADA": 9158,
           "ID_GRUPO": 1,
           "ID_PARADA": 9158,
@@ -857,7 +857,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -885,7 +885,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -913,7 +913,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -941,7 +941,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARTORELL",
+          "DESC_PARADA": "Martorell",
           "COD_PARADA": 6947,
           "ID_GRUPO": 1,
           "ID_PARADA": 12553,
@@ -969,7 +969,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,
@@ -997,7 +997,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,
@@ -1025,7 +1025,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VILLÀ / GOLF",
+          "DESC_PARADA": "Villà / Golf",
           "COD_PARADA": 9136,
           "ID_GRUPO": 1,
           "ID_PARADA": 9136,
@@ -1053,7 +1053,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "COL·LEGI EL PINAR",
+          "DESC_PARADA": "Col·legi El Pinar",
           "COD_PARADA": 8272,
           "ID_GRUPO": 1,
           "ID_PARADA": 12329,
@@ -1081,7 +1081,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS ESTRETS",
+          "DESC_PARADA": "Plaça Dels Estrets",
           "COD_PARADA": 8273,
           "ID_GRUPO": 1,
           "ID_PARADA": 12330,
@@ -1109,7 +1109,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GOLF DE BISCAIA",
+          "DESC_PARADA": "Golf De Biscaia",
           "COD_PARADA": 9137,
           "ID_GRUPO": 1,
           "ID_PARADA": 9137,
@@ -1137,7 +1137,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DELS TIL·LERS / PG. MIMOSA",
+          "DESC_PARADA": "Passeig Dels Til·lers / Passeig Mimosa",
           "COD_PARADA": 8274,
           "ID_GRUPO": 1,
           "ID_PARADA": 12331,
@@ -1165,7 +1165,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.DELS ÀLBERS / PG. DEL TIL·LERS",
+          "DESC_PARADA": "Passeig.dels Àlbers / Passeig Del Til·lers",
           "COD_PARADA": 9139,
           "ID_GRUPO": 1,
           "ID_PARADA": 9139,
@@ -1193,7 +1193,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DELS ÀLBERS/AV. D´EMETERIO ESCUDERO",
+          "DESC_PARADA": "Passeig Dels Àlbers/avinguda D´emeterio Escudero",
           "COD_PARADA": 9140,
           "ID_GRUPO": 1,
           "ID_PARADA": 9140,
@@ -1221,7 +1221,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. EMETERIO ESCUDERO",
+          "DESC_PARADA": "Avinguda Emeterio Escudero",
           "COD_PARADA": 9122,
           "ID_GRUPO": 1,
           "ID_PARADA": 9122,
@@ -1249,7 +1249,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. EMETERIO ESCUDERO / PTGE. BONFILL",
+          "DESC_PARADA": "Avinguda Emeterio Escudero / Ptge. Bonfill",
           "COD_PARADA": 9123,
           "ID_GRUPO": 1,
           "ID_PARADA": 9123,
@@ -1277,7 +1277,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. PONT DEL  DIARI / CAMÍ ANTIC DE TERRASSA",
+          "DESC_PARADA": "Plaça Pont Del  Diari / Camí Antic De Terrassa",
           "COD_PARADA": 8271,
           "ID_GRUPO": 1,
           "ID_PARADA": 12328,
@@ -1305,7 +1305,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARGARIT / CAN LLOBET",
+          "DESC_PARADA": "Margarit / Can Llobet",
           "COD_PARADA": 9125,
           "ID_GRUPO": 1,
           "ID_PARADA": 9125,
@@ -1333,7 +1333,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA.DE VALLVIDRERA/CAMÍ DE CAN PAGAN",
+          "DESC_PARADA": "Carretera.de Vallvidrera/camí De Can Pagan",
           "COD_PARADA": 3495,
           "ID_GRUPO": 1,
           "ID_PARADA": 13869,
@@ -1361,7 +1361,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL CENTRE",
+          "DESC_PARADA": "Plaça Del Centre",
           "COD_PARADA": 9126,
           "ID_GRUPO": 1,
           "ID_PARADA": 9126,
@@ -1389,7 +1389,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. VERGE DE MONTSERRAT",
+          "DESC_PARADA": "Avinguda Verge De Montserrat",
           "COD_PARADA": 9127,
           "ID_GRUPO": 1,
           "ID_PARADA": 9127,
@@ -1417,7 +1417,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. JOSEP PLAYÀ (ESTACIÓ LA FLORESTA)",
+          "DESC_PARADA": "Plaça Josep Playà (estació La Floresta)",
           "COD_PARADA": 9128,
           "ID_GRUPO": 1,
           "ID_PARADA": 9128,
@@ -1445,7 +1445,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DOCTOR VILLAR",
+          "DESC_PARADA": "Plaça Doctor Villar",
           "COD_PARADA": 9129,
           "ID_GRUPO": 1,
           "ID_PARADA": 9129,
@@ -1473,7 +1473,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA FLORESTA / PTGE. DALMAU",
+          "DESC_PARADA": "Passeig De La Floresta / Ptge. Dalmau",
           "COD_PARADA": 8067,
           "ID_GRUPO": 1,
           "ID_PARADA": 8067,
@@ -1501,7 +1501,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. PERE PLANAS",
+          "DESC_PARADA": "Plaça Pere Planas",
           "COD_PARADA": 9142,
           "ID_GRUPO": 1,
           "ID_PARADA": 9142,
@@ -1529,7 +1529,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PERE PLANAS / ADRIÀ PARDOS",
+          "DESC_PARADA": "Avinguda Pere Planas / Adrià Pardos",
           "COD_PARADA": 9143,
           "ID_GRUPO": 1,
           "ID_PARADA": 9143,
@@ -1557,7 +1557,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PERE PLANAS",
+          "DESC_PARADA": "Avinguda Pere Planas",
           "COD_PARADA": 9144,
           "ID_GRUPO": 1,
           "ID_PARADA": 9144,
@@ -1585,7 +1585,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PERE PLANAS / PTGE. SANATORI DEL FUMET",
+          "DESC_PARADA": "Avinguda Pere Planas / Ptge. Sanatori Del Fumet",
           "COD_PARADA": 8069,
           "ID_GRUPO": 1,
           "ID_PARADA": 8069,
@@ -1613,7 +1613,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PERE PLANAS / CAMÍ DE CAN FLO",
+          "DESC_PARADA": "Avinguda Pere Planas / Camí De Can Flo",
           "COD_PARADA": 9145,
           "ID_GRUPO": 1,
           "ID_PARADA": 9145,
@@ -1641,7 +1641,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL COLL DE LA CREU D'EN BLAU",
+          "DESC_PARADA": "Plaça Del Coll De La Creu D'en Blau",
           "COD_PARADA": 9115,
           "ID_GRUPO": 1,
           "ID_PARADA": 9115,
@@ -1669,7 +1669,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MOLÍ DE LES PLANES",
+          "DESC_PARADA": "Molí De Les Planes",
           "COD_PARADA": 8269,
           "ID_GRUPO": 1,
           "ID_PARADA": 12327,
@@ -1697,7 +1697,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FONT D'EN COLOM",
+          "DESC_PARADA": "Font D'en Colom",
           "COD_PARADA": 9113,
           "ID_GRUPO": 1,
           "ID_PARADA": 9113,

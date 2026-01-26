@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+      "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
       "COD_PARADA": 5085,
       "ID_GRUPO": 1,
       "ID_PARADA": 5085,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+      "DESC_PARADA": "Plaça Dels Quatre Cantons",
       "COD_PARADA": 9135,
       "ID_GRUPO": 1,
       "ID_PARADA": 9135,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+      "DESC_PARADA": "Avinguda De Lluís Companys",
       "COD_PARADA": 5090,
       "ID_GRUPO": 1,
       "ID_PARADA": 5090,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MARTORELL",
+      "DESC_PARADA": "Martorell",
       "COD_PARADA": 6947,
       "ID_GRUPO": 1,
       "ID_PARADA": 12553,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLSECA (ETSAV)",
+      "DESC_PARADA": "Vallseca (etsav)",
       "COD_PARADA": 9092,
       "ID_GRUPO": 1,
       "ID_PARADA": 9092,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLSECA-LA COMA",
+      "DESC_PARADA": "Vallseca-la Coma",
       "COD_PARADA": 6949,
       "ID_GRUPO": 1,
       "ID_PARADA": 12555,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLSECA / BELL INDRET",
+      "DESC_PARADA": "Vallseca / Bell Indret",
       "COD_PARADA": 6951,
       "ID_GRUPO": 1,
       "ID_PARADA": 12556,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLSECA / BONAVENTURA DE GAYOLÀ",
+      "DESC_PARADA": "Vallseca / Bonaventura De Gayolà",
       "COD_PARADA": 6952,
       "ID_GRUPO": 1,
       "ID_PARADA": 12557,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP IRLA / J. DE MONTCORB",
+      "DESC_PARADA": "Josep Irla / J. De Montcorb",
       "COD_PARADA": 6953,
       "ID_GRUPO": 1,
       "ID_PARADA": 12558,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP IRLA / AV DEL BELL INDRET",
+      "DESC_PARADA": "Josep Irla / Avinguda Del Bell Indret",
       "COD_PARADA": 6954,
       "ID_GRUPO": 1,
       "ID_PARADA": 12559,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP IRLA / C. DE LA COMA",
+      "DESC_PARADA": "Josep Irla / Carrer De La Coma",
       "COD_PARADA": 6962,
       "ID_GRUPO": 1,
       "ID_PARADA": 12560,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MANEL FARRÉS / ALELLA",
+      "DESC_PARADA": "Manel Farrés / Alella",
       "COD_PARADA": 9098,
       "ID_GRUPO": 1,
       "ID_PARADA": 9098,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MANEL FARRÈS / PERE SERRA",
+      "DESC_PARADA": "Manel Farrès / Pere Serra",
       "COD_PARADA": 9099,
       "ID_GRUPO": 1,
       "ID_PARADA": 9099,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE MANEL FARRÉS / C. DE ROVELLAT",
+      "DESC_PARADA": "Carrer De Manel Farrés / Carrer De Rovellat",
       "COD_PARADA": 9100,
       "ID_GRUPO": 1,
       "ID_PARADA": 9100,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ÀNGEL GUIMERÀ/VILLA",
+      "DESC_PARADA": "Àngel Guimerà/villa",
       "COD_PARADA": 4970,
       "ID_GRUPO": 1,
       "ID_PARADA": 4970,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
       "COD_PARADA": 9075,
       "ID_GRUPO": 1,
       "ID_PARADA": 12373,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
       "COD_PARADA": 4980,
       "ID_GRUPO": 1,
       "ID_PARADA": 4980,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PLA D´EN VINYET (AUDITORI)",
+      "DESC_PARADA": "Avinguda Pla D´en Vinyet (auditori)",
       "COD_PARADA": 2613,
       "ID_GRUPO": 1,
       "ID_PARADA": 18232,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DOMÈNECH I MONTANER (COL·LEGI EUROPA)",
+      "DESC_PARADA": "Passeig Domènech i Montaner (col·legi Europa)",
       "COD_PARADA": 3229,
       "ID_GRUPO": 1,
       "ID_PARADA": 10642,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER (PARC DE LA POLLANCREDA)",
+      "DESC_PARADA": "Rambla Del Celler (parc De La Pollancreda)",
       "COD_PARADA": 399,
       "ID_GRUPO": 1,
       "ID_PARADA": 399,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. CERDANYOLA / AV. DE LES ROQUETES (CAN MAGI)",
+      "DESC_PARADA": "Carretera Cerdanyola / Avinguda De Les Roquetes (C",
       "COD_PARADA": 401,
       "ID_GRUPO": 1,
       "ID_PARADA": 401,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CALDERS",
+      "DESC_PARADA": "Can Calders",
       "COD_PARADA": 9205,
       "ID_GRUPO": 1,
       "ID_PARADA": 10437,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMI DE CAN CALDERS",
+      "DESC_PARADA": "Cami De Can Calders",
       "COD_PARADA": 9206,
       "ID_GRUPO": 1,
       "ID_PARADA": 10438,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER / PLAÇA DE LA PELLERIA",
+      "DESC_PARADA": "Rambla Del Celler / Plaça De La Pelleria",
       "COD_PARADA": 5060,
       "ID_GRUPO": 1,
       "ID_PARADA": 5060,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / PG. TORRE BLANCA",
+      "DESC_PARADA": "Rambla Del Celler / Passeig Torre Blanca",
       "COD_PARADA": 5040,
       "ID_GRUPO": 1,
       "ID_PARADA": 5040,

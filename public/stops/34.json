@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "CAN CERDA",
+      "DESC_PARADA": "Can Cerda",
       "COD_PARADA": 5756,
       "ID_GRUPO": 1,
       "ID_PARADA": 5756,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. D´HORTA (CENTRE DE FORMACIÓ FLOR DE MAIG)",
+      "DESC_PARADA": "Carretera D´horta (centre De Formació Flor De Maig",
       "COD_PARADA": 5755,
       "ID_GRUPO": 1,
       "ID_PARADA": 5755,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN COLL",
+      "DESC_PARADA": "Can Coll",
       "COD_PARADA": 5762,
       "ID_GRUPO": 1,
       "ID_PARADA": 5762,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV FLOR DE MAIG-VALLDAURA",
+      "DESC_PARADA": "Avinguda Flor De Maig-valldaura",
       "COD_PARADA": 5754,
       "ID_GRUPO": 1,
       "ID_PARADA": 5754,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV FLOR DE MAIG-PROVENÇA",
+      "DESC_PARADA": "Avinguda Flor De Maig-provença",
       "COD_PARADA": 5752,
       "ID_GRUPO": 1,
       "ID_PARADA": 5752,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALENCIA/CATALUNYA",
+      "DESC_PARADA": "Valencia/catalunya",
       "COD_PARADA": 5758,
       "ID_GRUPO": 1,
       "ID_PARADA": 5758,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA FLOR DE MAIG/PL. OLIVÉ",
+      "DESC_PARADA": "Avinguda De La Flor De Maig/plaça Olivé",
       "COD_PARADA": 5760,
       "ID_GRUPO": 1,
       "ID_PARADA": 5760,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV FLOR DE MAIG-ST. JERONI",
+      "DESC_PARADA": "Avinguda Flor De Maig-st. Jeroni",
       "COD_PARADA": 5770,
       "ID_GRUPO": 1,
       "ID_PARADA": 5770,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA  FLOR DE MAIG / C. DE SANTA ROSA",
+      "DESC_PARADA": "Avinguda De La  Flor De Maig / Carrer De Santa Ros",
       "COD_PARADA": 8093,
       "ID_GRUPO": 1,
       "ID_PARADA": 12316,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE  PRIMAVERA / C. DEL MONT",
+      "DESC_PARADA": "Avinguda De  Primavera / Carrer Del Mont",
       "COD_PARADA": 5130,
       "ID_GRUPO": 1,
       "ID_PARADA": 5130,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+      "DESC_PARADA": "Avinguda Primavera/pineda",
       "COD_PARADA": 9182,
       "ID_GRUPO": 1,
       "ID_PARADA": 9182,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+      "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
       "COD_PARADA": 3271,
       "ID_GRUPO": 1,
       "ID_PARADA": 13675,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+      "DESC_PARADA": "Passeig Cordelles-francolí",
       "COD_PARADA": 5315,
       "ID_GRUPO": 1,
       "ID_PARADA": 5315,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "2199 - AV. DE ROMA / AV. D´ESPANYA",
+      "DESC_PARADA": "2199 - Avinguda De Roma / Avinguda D´espanya",
       "COD_PARADA": 2199,
       "ID_GRUPO": 1,
       "ID_PARADA": 27049,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV.ROMA/AV.EUROPA(CEIP SALTELLS)",
+      "DESC_PARADA": "Avinguda.roma/avinguda.europa(ceip Saltells)",
       "COD_PARADA": 653,
       "ID_GRUPO": 1,
       "ID_PARADA": 10550,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+      "DESC_PARADA": "Serra De Galliners-castella",
       "COD_PARADA": 5764,
       "ID_GRUPO": 1,
       "ID_PARADA": 5764,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SERRAGALLINERS / LONDRES",
+      "DESC_PARADA": "Serragalliners / Londres",
       "COD_PARADA": 654,
       "ID_GRUPO": 1,
       "ID_PARADA": 10551,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "5010 - L'ESCOLETA (IES PERE CALDERS)",
+      "DESC_PARADA": "5010 - L'escoleta (ies Pere Calders)",
       "COD_PARADA": 5010,
       "ID_GRUPO": 1,
       "ID_PARADA": 25365,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "UAB CIÈNCIES EDUCACIÓ",
+      "DESC_PARADA": "Uab Ciències Educació",
       "COD_PARADA": 5554,
       "ID_GRUPO": 1,
       "ID_PARADA": 5554,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TURÓ DE SANT PAU",
+      "DESC_PARADA": "Turó De Sant Pau",
       "COD_PARADA": 5765,
       "ID_GRUPO": 1,
       "ID_PARADA": 5765,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PIN I SOLER",
+      "DESC_PARADA": "Pin i Soler",
       "COD_PARADA": 5831,
       "ID_GRUPO": 1,
       "ID_PARADA": 5831,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. MARE DE DEU DE MONSERRAT",
+      "DESC_PARADA": "Plaça Mare De Deu De Monserrat",
       "COD_PARADA": 5832,
       "ID_GRUPO": 1,
       "ID_PARADA": 5832,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALLMITJANA/RAMON FUSTER",
+      "DESC_PARADA": "Vallmitjana/ramon Fuster",
       "COD_PARADA": 5833,
       "ID_GRUPO": 1,
       "ID_PARADA": 5833,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMI ANTIC DE SANT CUGAT/MESTRE NICOLAU",
+      "DESC_PARADA": "Cami Antic De Sant Cugat/mestre Nicolau",
       "COD_PARADA": 5834,
       "ID_GRUPO": 1,
       "ID_PARADA": 5834,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMI ANTIC DE SANT CUGAT/TERRANOVA",
+      "DESC_PARADA": "Cami Antic De Sant Cugat/terranova",
       "COD_PARADA": 5835,
       "ID_GRUPO": 1,
       "ID_PARADA": 5835,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLEÓ XIII (EL GALLINER)",
+      "DESC_PARADA": "Lleó Xiii (el Galliner)",
       "COD_PARADA": 5957,
       "ID_GRUPO": 1,
       "ID_PARADA": 10750,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL.GRECO",
+      "DESC_PARADA": "Plaça.greco",
       "COD_PARADA": 5836,
       "ID_GRUPO": 1,
       "ID_PARADA": 5836,

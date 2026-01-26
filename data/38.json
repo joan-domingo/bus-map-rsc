@@ -8,13 +8,13 @@
     "DESC_REDUCIDA": "MTDP/TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1465,
-    "FIN_TRAYECTO": 1825,
+    "INI_TRAYECTO": 1406,
+    "FIN_TRAYECTO": 1765,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 7840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7840,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE MATADEPERA-CTRA DE TALAMANCA",
+          "DESC_PARADA": "Carretera De Matadepera-carretera De Talamanca",
           "COD_PARADA": 1111,
           "ID_GRUPO": 1,
           "ID_PARADA": 12852,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE MATADEPERA - PLA DEL BON AIRE",
+          "DESC_PARADA": "Carretera De Matadepera - Pla Del Bon Aire",
           "COD_PARADA": 1123,
           "ID_GRUPO": 1,
           "ID_PARADA": 12853,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BÉJAR",
+          "DESC_PARADA": "Béjar",
           "COD_PARADA": 8908,
           "ID_GRUPO": 1,
           "ID_PARADA": 21841,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VOLUNTARIS",
+          "DESC_PARADA": "Voluntaris",
           "COD_PARADA": 8909,
           "ID_GRUPO": 1,
           "ID_PARADA": 21843,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC MACIÀ",
+          "DESC_PARADA": "Francesc Macià",
           "COD_PARADA": 4345,
           "ID_GRUPO": 1,
           "ID_PARADA": 12854,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE CASTELLAR",
+          "DESC_PARADA": "Camí De Castellar",
           "COD_PARADA": 8913,
           "ID_GRUPO": 1,
           "ID_PARADA": 21848,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PERIODISTA GRAÑÉ",
+          "DESC_PARADA": "Periodista Grañé",
           "COD_PARADA": 3807,
           "ID_GRUPO": 1,
           "ID_PARADA": 3807,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESCOLA D´ÒPTICA",
+          "DESC_PARADA": "Escola D´òptica",
           "COD_PARADA": 8914,
           "ID_GRUPO": 1,
           "ID_PARADA": 21849,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SEU D´ÈGARA",
+          "DESC_PARADA": "Seu D´ègara",
           "COD_PARADA": 8915,
           "ID_GRUPO": 1,
           "ID_PARADA": 21850,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ DEL NORD",
+          "DESC_PARADA": "Estació Del Nord",
           "COD_PARADA": 1114,
           "ID_GRUPO": 1,
           "ID_PARADA": 12847,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RECINTE FIRAL",
+          "DESC_PARADA": "Recinte Firal",
           "COD_PARADA": 8916,
           "ID_GRUPO": 1,
           "ID_PARADA": 21851,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD CAMÍ (POLITÈCNIC)",
+          "DESC_PARADA": "Ricard Camí (politècnic)",
           "COD_PARADA": 1118,
           "ID_GRUPO": 1,
           "ID_PARADA": 12848,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD CAMÍ",
+          "DESC_PARADA": "Ricard Camí",
           "COD_PARADA": 8920,
           "ID_GRUPO": 1,
           "ID_PARADA": 21853,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MERCAT",
+          "DESC_PARADA": "Mercat",
           "COD_PARADA": 8923,
           "ID_GRUPO": 1,
           "ID_PARADA": 21854,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+          "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
           "COD_PARADA": 7920,
           "ID_GRUPO": 1,
           "ID_PARADA": 7920,
@@ -473,13 +473,13 @@
     "DESC_REDUCIDA": "TERR/MTDP",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1444,
-    "FIN_TRAYECTO": 1806,
+    "INI_TRAYECTO": 1385,
+    "FIN_TRAYECTO": 1746,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA FGC",
+          "DESC_PARADA": "Rambla Fgc",
           "COD_PARADA": 7336,
           "ID_GRUPO": 1,
           "ID_PARADA": 12834,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MERCAT",
+          "DESC_PARADA": "Mercat",
           "COD_PARADA": 8900,
           "ID_GRUPO": 1,
           "ID_PARADA": 21829,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD CAMÍ",
+          "DESC_PARADA": "Ricard Camí",
           "COD_PARADA": 8901,
           "ID_GRUPO": 1,
           "ID_PARADA": 21830,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POLITÈCNIC",
+          "DESC_PARADA": "Politècnic",
           "COD_PARADA": 4323,
           "ID_GRUPO": 1,
           "ID_PARADA": 12835,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RECINTE FIRAL",
+          "DESC_PARADA": "Recinte Firal",
           "COD_PARADA": 8902,
           "ID_GRUPO": 1,
           "ID_PARADA": 21831,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ RENFE",
+          "DESC_PARADA": "Estació Renfe",
           "COD_PARADA": 7790,
           "ID_GRUPO": 1,
           "ID_PARADA": 12836,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SEU D´ÈGARA",
+          "DESC_PARADA": "Seu D´ègara",
           "COD_PARADA": 8903,
           "ID_GRUPO": 1,
           "ID_PARADA": 21832,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESCOLA D´ÒPTICA",
+          "DESC_PARADA": "Escola D´òptica",
           "COD_PARADA": 8904,
           "ID_GRUPO": 1,
           "ID_PARADA": 21836,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PERIODISTA GRAÑÉ",
+          "DESC_PARADA": "Periodista Grañé",
           "COD_PARADA": 3804,
           "ID_GRUPO": 1,
           "ID_PARADA": 3804,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE CASTELLAR",
+          "DESC_PARADA": "Camí De Castellar",
           "COD_PARADA": 8905,
           "ID_GRUPO": 1,
           "ID_PARADA": 21837,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC MACIÀ",
+          "DESC_PARADA": "Francesc Macià",
           "COD_PARADA": 7800,
           "ID_GRUPO": 1,
           "ID_PARADA": 12850,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VOLUNTARIS",
+          "DESC_PARADA": "Voluntaris",
           "COD_PARADA": 8906,
           "ID_GRUPO": 1,
           "ID_PARADA": 21839,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BÉJAR",
+          "DESC_PARADA": "Béjar",
           "COD_PARADA": 8907,
           "ID_GRUPO": 1,
           "ID_PARADA": 21840,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE MATADEPERA-PLA DEL BON AIRE",
+          "DESC_PARADA": "Carretera De Matadepera-pla Del Bon Aire",
           "COD_PARADA": 7810,
           "ID_GRUPO": 1,
           "ID_PARADA": 12851,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE MATADEPERA-CTRA DE TALAMANCA",
+          "DESC_PARADA": "Carretera De Matadepera-carretera De Talamanca",
           "COD_PARADA": 8310,
           "ID_GRUPO": 1,
           "ID_PARADA": 12865,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 7840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7840,

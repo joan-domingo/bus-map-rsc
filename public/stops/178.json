@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS",
+      "DESC_PARADA": "Estació D´autobusos",
       "COD_PARADA": 21030,
       "ID_GRUPO": 1,
       "ID_PARADA": 10600,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS 2",
+      "DESC_PARADA": "Garrigues/sicoris 2",
       "COD_PARADA": 20063,
       "ID_GRUPO": 1,
       "ID_PARADA": 14339,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA BORDETA",
+      "DESC_PARADA": "La Bordeta",
       "COD_PARADA": 21068,
       "ID_GRUPO": 1,
       "ID_PARADA": 10610,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ARTESA DE LLEIDA",
+      "DESC_PARADA": "Artesa De Lleida",
       "COD_PARADA": 21018,
       "ID_GRUPO": 1,
       "ID_PARADA": 10609,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PUIGVERD DE LLEIDA",
+      "DESC_PARADA": "Puigverd De Lleida",
       "COD_PARADA": 21049,
       "ID_GRUPO": 1,
       "ID_PARADA": 10608,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELLDANS",
+      "DESC_PARADA": "Castelldans",
       "COD_PARADA": 21169,
       "ID_GRUPO": 1,
       "ID_PARADA": 10607,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS",
+      "DESC_PARADA": "Garrigues/sicoris",
       "COD_PARADA": 20072,
       "ID_GRUPO": 1,
       "ID_PARADA": 14340,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "L`ALBAGÉS",
+      "DESC_PARADA": "L`albagés",
       "COD_PARADA": 21168,
       "ID_GRUPO": 1,
       "ID_PARADA": 10606,

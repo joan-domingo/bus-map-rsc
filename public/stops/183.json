@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "TORRENT DE FERRUSSONS (PARC)",
+      "DESC_PARADA": "Torrent De Ferrussons (parc)",
       "COD_PARADA": 2682,
       "ID_GRUPO": 1,
       "ID_PARADA": 10621,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CLEMENTINA ARDERIU",
+      "DESC_PARADA": "Clementina Arderiu",
       "COD_PARADA": 9152,
       "ID_GRUPO": 1,
       "ID_PARADA": 9152,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU / JOAN ALCOVER",
+      "DESC_PARADA": "Salvador Espriu / Joan Alcover",
       "COD_PARADA": 9153,
       "ID_GRUPO": 1,
       "ID_PARADA": 9153,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP CARNER",
+      "DESC_PARADA": "Josep Carner",
       "COD_PARADA": 4348,
       "ID_GRUPO": 1,
       "ID_PARADA": 12220,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ / JOSEP CARNER",
+      "DESC_PARADA": "Passeig Francesc Macià / Josep Carner",
       "COD_PARADA": 9106,
       "ID_GRUPO": 1,
       "ID_PARADA": 9106,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU (CAP)",
+      "DESC_PARADA": "Salvador Espriu (cap)",
       "COD_PARADA": 9937,
       "ID_GRUPO": 1,
       "ID_PARADA": 11649,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU / PG. FRANCESC MACIÀ",
+      "DESC_PARADA": "Salvador Espriu / Passeig Francesc Macià",
       "COD_PARADA": 8311,
       "ID_GRUPO": 1,
       "ID_PARADA": 12333,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOAN XXIII",
+      "DESC_PARADA": "Joan XXIII",
       "COD_PARADA": 9108,
       "ID_GRUPO": 1,
       "ID_PARADA": 9108,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL.SANT FRANCESC",
+      "DESC_PARADA": "Plaça.sant Francesc",
       "COD_PARADA": 9109,
       "ID_GRUPO": 1,
       "ID_PARADA": 9109,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ABAT GUILLEM D'AVINYÓ (LLAR D'AVIS)",
+      "DESC_PARADA": "Abat Guillem D'avinyó (llar D'avis)",
       "COD_PARADA": 9110,
       "ID_GRUPO": 1,
       "ID_PARADA": 9110,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE TORRENT D´EN XANDRI / AV. DE RAGULL",
+      "DESC_PARADA": "Rambla De Torrent D´en Xandri / Avinguda De Ragull",
       "COD_PARADA": 2683,
       "ID_GRUPO": 1,
       "ID_PARADA": 10622,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. CERDANYOLA / AV. DE LES ROQUETES (CAN MAGI)",
+      "DESC_PARADA": "Carretera Cerdanyola / Avinguda De Les Roquetes (C",
       "COD_PARADA": 401,
       "ID_GRUPO": 1,
       "ID_PARADA": 401,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CALDERS",
+      "DESC_PARADA": "Can Calders",
       "COD_PARADA": 9205,
       "ID_GRUPO": 1,
       "ID_PARADA": 10437,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMI DE CAN CALDERS",
+      "DESC_PARADA": "Cami De Can Calders",
       "COD_PARADA": 9206,
       "ID_GRUPO": 1,
       "ID_PARADA": 10438,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER / PLAÇA DE LA PELLERIA",
+      "DESC_PARADA": "Rambla Del Celler / Plaça De La Pelleria",
       "COD_PARADA": 5060,
       "ID_GRUPO": 1,
       "ID_PARADA": 5060,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. TORRE BLANCA (ESADE)",
+      "DESC_PARADA": "Avinguda Torre Blanca (esade)",
       "COD_PARADA": 3228,
       "ID_GRUPO": 1,
       "ID_PARADA": 10641,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLA D´EN VINYET/FERRAN ROMEU (MERCAT TORRE BLANCA)",
+      "DESC_PARADA": "Pla D´en Vinyet/ferran Romeu (mercat Torre Blanca)",
       "COD_PARADA": 9076,
       "ID_GRUPO": 1,
       "ID_PARADA": 9076,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE CÈSAR MARTINELL / PL. DEL MIL.LENARI",
+      "DESC_PARADA": "Carrer De Cèsar Martinell / Plaça Del Mil.lenari",
       "COD_PARADA": 9101,
       "ID_GRUPO": 1,
       "ID_PARADA": 9101,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / C. CÈSAR MARTINELL",
+      "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Carrer Cèsar Ma",
       "COD_PARADA": 5020,
       "ID_GRUPO": 1,
       "ID_PARADA": 5020,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+      "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
       "COD_PARADA": 5085,
       "ID_GRUPO": 1,
       "ID_PARADA": 5085,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+      "DESC_PARADA": "Plaça Dels Quatre Cantons",
       "COD_PARADA": 9135,
       "ID_GRUPO": 1,
       "ID_PARADA": 9135,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+      "DESC_PARADA": "Avinguda De Lluís Companys",
       "COD_PARADA": 5090,
       "ID_GRUPO": 1,
       "ID_PARADA": 5090,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MARTORELL",
+      "DESC_PARADA": "Martorell",
       "COD_PARADA": 6947,
       "ID_GRUPO": 1,
       "ID_PARADA": 12553,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DELS SAFAREIGS",
+      "DESC_PARADA": "Carrer Dels Safareigs",
       "COD_PARADA": 3126,
       "ID_GRUPO": 1,
       "ID_PARADA": 10644,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
       "COD_PARADA": 9075,
       "ID_GRUPO": 1,
       "ID_PARADA": 12373,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+      "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
       "COD_PARADA": 4980,
       "ID_GRUPO": 1,
       "ID_PARADA": 4980,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GRÀCIA / MARINÉ",
+      "DESC_PARADA": "Avinguda Gràcia / Mariné",
       "COD_PARADA": 8084,
       "ID_GRUPO": 1,
       "ID_PARADA": 8084,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GRÀCIA / ST. FRANCESC XAVIER",
+      "DESC_PARADA": "Avinguda Gràcia / St. Francesc Xavier",
       "COD_PARADA": 8085,
       "ID_GRUPO": 1,
       "ID_PARADA": 8085,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLACERES / ST JOSEP",
+      "DESC_PARADA": "Llaceres / St Josep",
       "COD_PARADA": 8086,
       "ID_GRUPO": 1,
       "ID_PARADA": 8086,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLACERES / PG. ANTONI GAUDÍ",
+      "DESC_PARADA": "Llaceres / Passeig Antoni Gaudí",
       "COD_PARADA": 8087,
       "ID_GRUPO": 1,
       "ID_PARADA": 8087,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DOMÈNECH I MONTANER (COL·LEGI EUROPA)",
+      "DESC_PARADA": "Passeig Domènech i Montaner (col·legi Europa)",
       "COD_PARADA": 3229,
       "ID_GRUPO": 1,
       "ID_PARADA": 10642,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER (PARC DE LA POLLANCREDA)",
+      "DESC_PARADA": "Rambla Del Celler (parc De La Pollancreda)",
       "COD_PARADA": 399,
       "ID_GRUPO": 1,
       "ID_PARADA": 399,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DE TORRENT D´EN XANDRI / AV. DE RAGULL",
+      "DESC_PARADA": "Rambla De Torrent D´en Xandri / Avinguda De Ragull",
       "COD_PARADA": 9087,
       "ID_GRUPO": 1,
       "ID_PARADA": 9087,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. RAGULL",
+      "DESC_PARADA": "Avinguda Ragull",
       "COD_PARADA": 9088,
       "ID_GRUPO": 1,
       "ID_PARADA": 9088,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV ROQUETES-TORRENT DE FERRUSSONS",
+      "DESC_PARADA": "Avinguda Roquetes-torrent De Ferrussons",
       "COD_PARADA": 9207,
       "ID_GRUPO": 1,
       "ID_PARADA": 10439,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "T. FERRUSSONS / ADRIÀ GUAL",
+      "DESC_PARADA": "T. Ferrussons / Adrià Gual",
       "COD_PARADA": 9104,
       "ID_GRUPO": 1,
       "ID_PARADA": 9104,

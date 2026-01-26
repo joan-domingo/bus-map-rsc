@@ -16,7 +16,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -44,7 +44,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (EUREKA)",
+          "DESC_PARADA": "Avinguda De Can Domènech (eureka)",
           "COD_PARADA": 5177,
           "ID_GRUPO": 1,
           "ID_PARADA": 14346,
@@ -72,7 +72,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5670,
           "ID_GRUPO": 1,
           "ID_PARADA": 5670,
@@ -100,7 +100,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (VILA CENTRE)",
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
           "COD_PARADA": 4667,
           "ID_GRUPO": 1,
           "ID_PARADA": 12971,
@@ -128,7 +128,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ BELLATERRA FGC",
+          "DESC_PARADA": "Estació Bellaterra Fgc",
           "COD_PARADA": 3831,
           "ID_GRUPO": 1,
           "ID_PARADA": 3831,
@@ -177,7 +177,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -205,7 +205,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (EUREKA)",
+          "DESC_PARADA": "Avinguda De Can Domènech (eureka)",
           "COD_PARADA": 5177,
           "ID_GRUPO": 1,
           "ID_PARADA": 14346,
@@ -233,7 +233,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5670,
           "ID_GRUPO": 1,
           "ID_PARADA": 5670,
@@ -261,7 +261,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (VILA CENTRE)",
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
           "COD_PARADA": 4667,
           "ID_GRUPO": 1,
           "ID_PARADA": 12971,
@@ -289,7 +289,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ BELLATERRA FGC",
+          "DESC_PARADA": "Estació Bellaterra Fgc",
           "COD_PARADA": 3831,
           "ID_GRUPO": 1,
           "ID_PARADA": 3831,
@@ -317,7 +317,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -345,7 +345,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA LLUM (SINCROTRÓ)",
+          "DESC_PARADA": "Carrer De La Llum (sincrotró)",
           "COD_PARADA": 2233,
           "ID_GRUPO": 1,
           "ID_PARADA": 21810,
@@ -373,7 +373,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CREU CASAS (NATURE BISSÉ)",
+          "DESC_PARADA": "Carrer Creu Casas (nature Bissé)",
           "COD_PARADA": 2234,
           "ID_GRUPO": 1,
           "ID_PARADA": 21811,
@@ -401,7 +401,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -429,7 +429,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -457,7 +457,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (EUREKA)",
+          "DESC_PARADA": "Avinguda De Can Domènech (eureka)",
           "COD_PARADA": 5177,
           "ID_GRUPO": 1,
           "ID_PARADA": 14346,
@@ -485,7 +485,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5670,
           "ID_GRUPO": 1,
           "ID_PARADA": 5670,
@@ -513,7 +513,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (VILA CENTRE)",
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
           "COD_PARADA": 4667,
           "ID_GRUPO": 1,
           "ID_PARADA": 12971,
@@ -541,7 +541,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ BELLATERRA FGC",
+          "DESC_PARADA": "Estació Bellaterra Fgc",
           "COD_PARADA": 3831,
           "ID_GRUPO": 1,
           "ID_PARADA": 3831,
@@ -589,7 +589,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ BELLATERRA FGC",
+          "DESC_PARADA": "Estació Bellaterra Fgc",
           "COD_PARADA": 3831,
           "ID_GRUPO": 1,
           "ID_PARADA": 3831,
@@ -617,7 +617,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA VILA (HOTEL CAMPUS)",
+          "DESC_PARADA": "Carrer De La Vila (hotel Campus)",
           "COD_PARADA": 1058,
           "ID_GRUPO": 1,
           "ID_PARADA": 13189,
@@ -645,7 +645,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5558,
           "ID_GRUPO": 1,
           "ID_PARADA": 13190,
@@ -673,7 +673,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (EUREKA)",
+          "DESC_PARADA": "Avinguda De Can Domènech (eureka)",
           "COD_PARADA": 2230,
           "ID_GRUPO": 1,
           "ID_PARADA": 14345,
@@ -701,7 +701,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5862,
           "ID_GRUPO": 1,
           "ID_PARADA": 13181,
@@ -729,7 +729,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -777,7 +777,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -805,7 +805,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA LLUM (SINCROTRÓ)",
+          "DESC_PARADA": "Carrer De La Llum (sincrotró)",
           "COD_PARADA": 2233,
           "ID_GRUPO": 1,
           "ID_PARADA": 21810,
@@ -833,7 +833,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CREU CASAS (NATURE BISSÉ)",
+          "DESC_PARADA": "Carrer Creu Casas (nature Bissé)",
           "COD_PARADA": 2234,
           "ID_GRUPO": 1,
           "ID_PARADA": 21811,
@@ -861,7 +861,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -909,7 +909,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -937,7 +937,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA LLUM (SINCROTRÓ)",
+          "DESC_PARADA": "Carrer De La Llum (sincrotró)",
           "COD_PARADA": 2233,
           "ID_GRUPO": 1,
           "ID_PARADA": 21810,
@@ -965,7 +965,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CREU CASAS (NATURE BISSÉ)",
+          "DESC_PARADA": "Carrer Creu Casas (nature Bissé)",
           "COD_PARADA": 2234,
           "ID_GRUPO": 1,
           "ID_PARADA": 21811,
@@ -993,7 +993,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -1021,7 +1021,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (EUREKA)",
+          "DESC_PARADA": "Avinguda De Can Domènech (eureka)",
           "COD_PARADA": 5177,
           "ID_GRUPO": 1,
           "ID_PARADA": 14346,
@@ -1049,7 +1049,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5670,
           "ID_GRUPO": 1,
           "ID_PARADA": 5670,
@@ -1077,7 +1077,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (VILA CENTRE)",
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
           "COD_PARADA": 4667,
           "ID_GRUPO": 1,
           "ID_PARADA": 12971,
@@ -1105,7 +1105,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ BELLATERRA FGC",
+          "DESC_PARADA": "Estació Bellaterra Fgc",
           "COD_PARADA": 3831,
           "ID_GRUPO": 1,
           "ID_PARADA": 3831,
@@ -1153,7 +1153,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -1181,7 +1181,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5862,
           "ID_GRUPO": 1,
           "ID_PARADA": 13181,
@@ -1209,7 +1209,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -1257,7 +1257,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/BP-1413 (PARC ALBA)",
+          "DESC_PARADA": "Avinguda De La Ciència/bp-1413 (parc Alba)",
           "COD_PARADA": 5864,
           "ID_GRUPO": 1,
           "ID_PARADA": 13182,
@@ -1285,7 +1285,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA LLUM (SINCROTRÓ)",
+          "DESC_PARADA": "Carrer De La Llum (sincrotró)",
           "COD_PARADA": 2233,
           "ID_GRUPO": 1,
           "ID_PARADA": 21810,
@@ -1313,7 +1313,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CREU CASAS (NATURE BISSÉ)",
+          "DESC_PARADA": "Carrer Creu Casas (nature Bissé)",
           "COD_PARADA": 2234,
           "ID_GRUPO": 1,
           "ID_PARADA": 21811,
@@ -1341,7 +1341,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA CIÈNCIA/C. CREU CASAS (SENER)",
+          "DESC_PARADA": "Avinguda De La Ciència/carrer Creu Casas (sener)",
           "COD_PARADA": 5863,
           "ID_GRUPO": 1,
           "ID_PARADA": 13183,
@@ -1369,7 +1369,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,

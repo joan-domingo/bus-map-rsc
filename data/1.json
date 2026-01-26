@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 441,
           "ID_GRUPO": 1,
           "ID_PARADA": 441,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 7640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7640,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+          "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
           "COD_PARADA": 4390,
           "ID_GRUPO": 1,
           "ID_PARADA": 4390,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL NORD RENFE",
+          "DESC_PARADA": "Sabadell Nord Renfe",
           "COD_PARADA": 3847,
           "ID_GRUPO": 1,
           "ID_PARADA": 3847,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D´ALCALDE MOIX / C. DEL MAESTRAT",
+          "DESC_PARADA": "Avinguda D´alcalde Moix / Carrer Del Maestrat",
           "COD_PARADA": 4881,
           "ID_GRUPO": 1,
           "ID_PARADA": 4881,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CAPELLÀ",
+          "DESC_PARADA": "Torrent Capellà",
           "COD_PARADA": 4370,
           "ID_GRUPO": 1,
           "ID_PARADA": 4370,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+          "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
           "COD_PARADA": 4360,
           "ID_GRUPO": 1,
           "ID_PARADA": 4360,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 4320,
           "ID_GRUPO": 1,
           "ID_PARADA": 4320,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE TOLOSA / CTRA. DE SABADELL (CAN CARNER)",
+          "DESC_PARADA": "Ronda De Tolosa / Carretera De Sabadell (can Carne",
           "COD_PARADA": 4605,
           "ID_GRUPO": 1,
           "ID_PARADA": 4605,
@@ -283,7 +283,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE TOLOSA / CTRA. DE SABADELL (CAN CARNER)",
+          "DESC_PARADA": "Ronda De Tolosa / Carretera De Sabadell (can Carne",
           "COD_PARADA": 4605,
           "ID_GRUPO": 1,
           "ID_PARADA": 4605,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE TARRAGONA / PL. D´EUROPA",
+          "DESC_PARADA": "Carrer De Tarragona / Plaça D´europa",
           "COD_PARADA": 4615,
           "ID_GRUPO": 1,
           "ID_PARADA": 4615,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE TARRAGONA / C. DE JAUME I (CAMP DE FUTBOL)",
+          "DESC_PARADA": "Carrer De Tarragona / Carrer De Jaume i (camp De f",
           "COD_PARADA": 4623,
           "ID_GRUPO": 1,
           "ID_PARADA": 4623,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JAUME I / C. DE RIPOLLET (CAP)",
+          "DESC_PARADA": "Carrer De Jaume i / Carrer De Ripollet (cap)",
           "COD_PARADA": 4305,
           "ID_GRUPO": 1,
           "ID_PARADA": 4305,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CATALUNYA",
+          "DESC_PARADA": "Plaça De Catalunya",
           "COD_PARADA": 9867,
           "ID_GRUPO": 1,
           "ID_PARADA": 10781,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LLEVANT (DONA ACOLLIDORA-ELS FRUITERS)",
+          "DESC_PARADA": "Ronda De Llevant (dona Acollidora-els Fruiters)",
           "COD_PARADA": 4608,
           "ID_GRUPO": 1,
           "ID_PARADA": 4608,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SENTMENAT / C. DEL RACÓ",
+          "DESC_PARADA": "Carretera De Sentmenat / Carrer Del Racó",
           "COD_PARADA": 4325,
           "ID_GRUPO": 1,
           "ID_PARADA": 4325,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL MAJOR",
+          "DESC_PARADA": "Plaça Major",
           "COD_PARADA": 4335,
           "ID_GRUPO": 1,
           "ID_PARADA": 4335,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG (CAL CALISSÓ)",
+          "DESC_PARADA": "Passeig (cal Calissó)",
           "COD_PARADA": 4290,
           "ID_GRUPO": 1,
           "ID_PARADA": 4290,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG-CTRA DE SABADELL",
+          "DESC_PARADA": "Passeig-carretera De Sabadell",
           "COD_PARADA": 4627,
           "ID_GRUPO": 1,
           "ID_PARADA": 4627,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
           "COD_PARADA": 4856,
           "ID_GRUPO": 1,
           "ID_PARADA": 4856,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE SABADELL / C. DE CAN CARNER",
+          "DESC_PARADA": "Carretera De Sabadell / Carrer De Can Carner",
           "COD_PARADA": 4310,
           "ID_GRUPO": 1,
           "ID_PARADA": 4310,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+          "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
           "COD_PARADA": 442,
           "ID_GRUPO": 1,
           "ID_PARADA": 442,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+          "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
           "COD_PARADA": 444,
           "ID_GRUPO": 1,
           "ID_PARADA": 444,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CAPELLÀ",
+          "DESC_PARADA": "Torrent Capellà",
           "COD_PARADA": 4380,
           "ID_GRUPO": 1,
           "ID_PARADA": 4380,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV ALCALDE MOIX-FONT CANALETA",
+          "DESC_PARADA": "Avinguda Alcalde Moix-font Canaleta",
           "COD_PARADA": 4882,
           "ID_GRUPO": 1,
           "ID_PARADA": 4882,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+          "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
           "COD_PARADA": 6100,
           "ID_GRUPO": 1,
           "ID_PARADA": 6100,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+          "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
           "COD_PARADA": 96,
           "ID_GRUPO": 1,
           "ID_PARADA": 96,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 97,
           "ID_GRUPO": 1,
           "ID_PARADA": 97,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 441,
           "ID_GRUPO": 1,
           "ID_PARADA": 441,

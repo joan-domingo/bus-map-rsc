@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "CEM ESTRUCH",
+      "DESC_PARADA": "Cem Estruch",
       "COD_PARADA": 7003296,
       "ID_GRUPO": 1,
       "ID_PARADA": 24673,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAP RAMONA VIA",
+      "DESC_PARADA": "Cap Ramona Via",
       "COD_PARADA": 7002603,
       "ID_GRUPO": 1,
       "ID_PARADA": 24650,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VERGE DE MONTSERRAT - CTRA. MARINA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Carretera Marina",
       "COD_PARADA": 7001015,
       "ID_GRUPO": 1,
       "ID_PARADA": 24592,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - CASTELLA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Castella",
       "COD_PARADA": 1016,
       "ID_GRUPO": 1,
       "ID_PARADA": 23400,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CORONEL SANFELIU - CATALUNYA",
+      "DESC_PARADA": "Coronel Sanfeliu - Catalunya",
       "COD_PARADA": 7112242,
       "ID_GRUPO": 1,
       "ID_PARADA": 25054,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JARDINS DE LA PAU",
+      "DESC_PARADA": "Jardins De La Pau",
       "COD_PARADA": 7112243,
       "ID_GRUPO": 1,
       "ID_PARADA": 25059,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ONZE DE SETEMBRE - CORONEL SANFELIU",
+      "DESC_PARADA": "Avinguda Onze De Setembre - Coronel Sanfeliu",
       "COD_PARADA": 7110363,
       "ID_GRUPO": 1,
       "ID_PARADA": 24927,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASES DE LA SEDA",
+      "DESC_PARADA": "Cases De La Seda",
       "COD_PARADA": 7003494,
       "ID_GRUPO": 1,
       "ID_PARADA": 24695,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA GRANJA",
+      "DESC_PARADA": "La Granja",
       "COD_PARADA": 7000585,
       "ID_GRUPO": 1,
       "ID_PARADA": 24577,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TANATORI",
+      "DESC_PARADA": "Tanatori",
       "COD_PARADA": 7107629,
       "ID_GRUPO": 1,
       "ID_PARADA": 24865,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA RICARDA",
+      "DESC_PARADA": "La Ricarda",
       "COD_PARADA": 7110384,
       "ID_GRUPO": 1,
       "ID_PARADA": 24931,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CAMINS",
+      "DESC_PARADA": "Can Camins",
       "COD_PARADA": 7109820,
       "ID_GRUPO": 1,
       "ID_PARADA": 24911,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - ACCÉS 20",
+      "DESC_PARADA": "Platja - Accés 20",
       "COD_PARADA": 7108620,
       "ID_GRUPO": 1,
       "ID_PARADA": 24878,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - CRAM",
+      "DESC_PARADA": "Platja - Cram",
       "COD_PARADA": 7108621,
       "ID_GRUPO": 1,
       "ID_PARADA": 24879,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - ACCÉS 8",
+      "DESC_PARADA": "Platja - Accés 8",
       "COD_PARADA": 7112396,
       "ID_GRUPO": 1,
       "ID_PARADA": 25056,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA-MIRADOR",
+      "DESC_PARADA": "Platja-mirador",
       "COD_PARADA": 7112399,
       "ID_GRUPO": 1,
       "ID_PARADA": 25057,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - CRAM",
+      "DESC_PARADA": "Platja - Cram",
       "COD_PARADA": 7108623,
       "ID_GRUPO": 1,
       "ID_PARADA": 24881,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - ACCÉS 15",
+      "DESC_PARADA": "Platja - Accés 15",
       "COD_PARADA": 7112397,
       "ID_GRUPO": 1,
       "ID_PARADA": 25058,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA - ACCÉS 20",
+      "DESC_PARADA": "Platja - Accés 20",
       "COD_PARADA": 7108624,
       "ID_GRUPO": 1,
       "ID_PARADA": 24882,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CAMINS",
+      "DESC_PARADA": "Can Camins",
       "COD_PARADA": 7109821,
       "ID_GRUPO": 1,
       "ID_PARADA": 24912,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE LA BUNYOLA - TANATORI",
+      "DESC_PARADA": "Carretera De La Bunyola - Tanatori",
       "COD_PARADA": 7108765,
       "ID_GRUPO": 1,
       "ID_PARADA": 24887,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. AVIACIÓ - RONDA SUD",
+      "DESC_PARADA": "Carretera Aviació - Ronda Sud",
       "COD_PARADA": 7109962,
       "ID_GRUPO": 1,
       "ID_PARADA": 24918,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA GRANJA",
+      "DESC_PARADA": "La Granja",
       "COD_PARADA": 7001044,
       "ID_GRUPO": 1,
       "ID_PARADA": 24596,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASES DE LA SEDA",
+      "DESC_PARADA": "Cases De La Seda",
       "COD_PARADA": 7003495,
       "ID_GRUPO": 1,
       "ID_PARADA": 24696,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ONZE DE SETEMBRE - JAUME CASANOVAS",
+      "DESC_PARADA": "Avinguda Onze De Setembre - Jaume Casanovas",
       "COD_PARADA": 7110364,
       "ID_GRUPO": 1,
       "ID_PARADA": 24928,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JARDINS DE LA PAU",
+      "DESC_PARADA": "Jardins De La Pau",
       "COD_PARADA": 7112244,
       "ID_GRUPO": 1,
       "ID_PARADA": 25055,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CORONEL SANFELIU - LLEIDA",
+      "DESC_PARADA": "Coronel Sanfeliu - Lleida",
       "COD_PARADA": 7003299,
       "ID_GRUPO": 1,
       "ID_PARADA": 25060,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VERGE DE MONTSERRAT - CORONEL SANFELIU",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Coronel Sanfeliu",
       "COD_PARADA": 7001014,
       "ID_GRUPO": 1,
       "ID_PARADA": 24591,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VERGE DE MONTSERRAT - CTRA. MARINA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Carretera Marina",
       "COD_PARADA": 7001442,
       "ID_GRUPO": 1,
       "ID_PARADA": 24614,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO LES MORERES",
+      "DESC_PARADA": "Metro Les Moreres",
       "COD_PARADA": 7002824,
       "ID_GRUPO": 1,
       "ID_PARADA": 24657,

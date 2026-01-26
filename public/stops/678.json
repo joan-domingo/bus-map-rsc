@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL MOISÈS BROGGI",
+      "DESC_PARADA": "Hospital Moisès Broggi",
       "COD_PARADA": 7110519,
       "ID_GRUPO": 1,
       "ID_PARADA": 24944,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTUDIS TV3",
+      "DESC_PARADA": "Estudis Tv3",
       "COD_PARADA": 7000470,
       "ID_GRUPO": 1,
       "ID_PARADA": 24573,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FRUCTUÓS GELABERT - ORIOL MARTORELL",
+      "DESC_PARADA": "Fructuós Gelabert - Oriol Martorell",
       "COD_PARADA": 7001739,
       "ID_GRUPO": 1,
       "ID_PARADA": 24629,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ST MARTÍ DE L'ERM - ZONA ESPORTIVA FONTSANTA",
+      "DESC_PARADA": "St Martí De L'erm - Zona Esportiva Fontsanta",
       "COD_PARADA": 7001658,
       "ID_GRUPO": 1,
       "ID_PARADA": 24624,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV BARCELONA - EXTREMADURA",
+      "DESC_PARADA": "Avinguda Barcelona - Extremadura",
       "COD_PARADA": 7001922,
       "ID_GRUPO": 1,
       "ID_PARADA": 24637,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLEVANT - LES PLANES",
+      "DESC_PARADA": "Llevant - Les Planes",
       "COD_PARADA": 7001902,
       "ID_GRUPO": 1,
       "ID_PARADA": 24633,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ÀNGEL GUIMERÀ - AV. BAIX LLOBREGAT",
+      "DESC_PARADA": "Àngel Guimerà - Avinguda Baix Llobregat",
       "COD_PARADA": 7100118,
       "ID_GRUPO": 1,
       "ID_PARADA": 24721,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ÀNGEL GUIMERÀ - JOSEP ARGEMÍ",
+      "DESC_PARADA": "Àngel Guimerà - Josep Argemí",
       "COD_PARADA": 7100121,
       "ID_GRUPO": 1,
       "ID_PARADA": 24722,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ISIDRE MARTÍ - ÀNGEL GUIMERÀ",
+      "DESC_PARADA": "Avinguda Isidre Martí - Àngel Guimerà",
       "COD_PARADA": 7100687,
       "ID_GRUPO": 1,
       "ID_PARADA": 24742,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ISIDRE MARTÍ - JOSEP RODOREDA",
+      "DESC_PARADA": "Avinguda Isidre Martí - Josep Rodoreda",
       "COD_PARADA": 7100688,
       "ID_GRUPO": 1,
       "ID_PARADA": 24743,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE CORNELLÀ - MILÀ I PI",
+      "DESC_PARADA": "Avinguda De Cornellà - Milà i Pi",
       "COD_PARADA": 7000644,
       "ID_GRUPO": 1,
       "ID_PARADA": 24580,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE CORNELLÀ - GALL",
+      "DESC_PARADA": "Avinguda De Cornellà - Gall",
       "COD_PARADA": 7000645,
       "ID_GRUPO": 1,
       "ID_PARADA": 24581,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE SANT ILDEFONS - CTRA D'ESPLUGUES",
+      "DESC_PARADA": "Avinguda De Sant Ildefons - Carretera D'esplugues",
       "COD_PARADA": 7001203,
       "ID_GRUPO": 1,
       "ID_PARADA": 24604,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE SANT ILDEFONS - AVET",
+      "DESC_PARADA": "Avinguda De Sant Ildefons - Avet",
       "COD_PARADA": 7001202,
       "ID_GRUPO": 1,
       "ID_PARADA": 24603,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO SANT ILDEFONS - CAP",
+      "DESC_PARADA": "Metro Sant Ildefons - Cap",
       "COD_PARADA": 7101112,
       "ID_GRUPO": 1,
       "ID_PARADA": 24752,
@@ -403,10 +403,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423486,
-      "UTMY": 4579532,
-      "LATITUD": 41.36366334,
-      "LONGITUD": 2.08518632,
+      "UTMX": 423580,
+      "UTMY": 4579726,
+      "LATITUD": 41.363602947596,
+      "LONGITUD": 2.0851997310451,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MIRALTA - VIA ENLLAÇ",
+      "DESC_PARADA": "Miralta - Via Enllaç",
       "COD_PARADA": 7105108,
       "ID_GRUPO": 1,
       "ID_PARADA": 24814,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO CAN BOIXERES",
+      "DESC_PARADA": "Metro Can Boixeres",
       "COD_PARADA": 7102915,
       "ID_GRUPO": 1,
       "ID_PARADA": 24782,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE CAN BUXERES",
+      "DESC_PARADA": "Parc De Can Buxeres",
       "COD_PARADA": 7109956,
       "ID_GRUPO": 1,
       "ID_PARADA": 24917,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT JOAN - XIPRERET",
+      "DESC_PARADA": "Sant Joan - Xipreret",
       "COD_PARADA": 7104228,
       "ID_GRUPO": 1,
       "ID_PARADA": 24795,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESGLÉSIA - MOLINES",
+      "DESC_PARADA": "Església - Molines",
       "COD_PARADA": 7102177,
       "ID_GRUPO": 1,
       "ID_PARADA": 24772,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COL·LEGI TECLA SALA",
+      "DESC_PARADA": "Col·legi Tecla Sala",
       "COD_PARADA": 7101334,
       "ID_GRUPO": 1,
       "ID_PARADA": 24755,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FRANCESC MORAGAS - JOSEP PRATS",
+      "DESC_PARADA": "Francesc Moragas - Josep Prats",
       "COD_PARADA": 7106867,
       "ID_GRUPO": 1,
       "ID_PARADA": 24846,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FRANCESC MORAGAS - AV. CARRILET",
+      "DESC_PARADA": "Francesc Moragas - Avinguda Carrilet",
       "COD_PARADA": 7106868,
       "ID_GRUPO": 1,
       "ID_PARADA": 24847,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO/FGC AV. CARRILET",
+      "DESC_PARADA": "Metro/fgc Avinguda Carrilet",
       "COD_PARADA": 7106869,
       "ID_GRUPO": 1,
       "ID_PARADA": 24848,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT MERCÈ RODOREDA",
+      "DESC_PARADA": "Institut Mercè Rodoreda",
       "COD_PARADA": 7002517,
       "ID_GRUPO": 1,
       "ID_PARADA": 24645,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA MARINA - CTRA DEL MIG",
+      "DESC_PARADA": "Rambla Marina - Carretera Del Mig",
       "COD_PARADA": 7003687,
       "ID_GRUPO": 1,
       "ID_PARADA": 24707,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D'AMALVÍGIA",
+      "DESC_PARADA": "Plaça D'amalvígia",
       "COD_PARADA": 7000163,
       "ID_GRUPO": 1,
       "ID_PARADA": 24557,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO BELLVITGE RAMBLA MARINA",
+      "DESC_PARADA": "Metro Bellvitge Rambla Marina",
       "COD_PARADA": 7001613,
       "ID_GRUPO": 1,
       "ID_PARADA": 24621,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE BELLVITGE",
+      "DESC_PARADA": "Parc De Bellvitge",
       "COD_PARADA": 7000581,
       "ID_GRUPO": 1,
       "ID_PARADA": 24576,
@@ -795,10 +795,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425647,
-      "UTMY": 4577982,
-      "LATITUD": 41.34987029,
-      "LONGITUD": 2.11117573,
+      "UTMX": 425742,
+      "UTMY": 4578184,
+      "LATITUD": 41.349912070233,
+      "LONGITUD": 2.1112354091506,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JAUME VENTURA I TORT - RBLA. MARINA",
+      "DESC_PARADA": "Jaume Ventura i Tort - Rambla Marina",
       "COD_PARADA": 7110518,
       "ID_GRUPO": 1,
       "ID_PARADA": 24943,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMPUS UNIVERSITARI BELLVITGE",
+      "DESC_PARADA": "Campus Universitari Bellvitge",
       "COD_PARADA": 7107489,
       "ID_GRUPO": 1,
       "ID_PARADA": 24856,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL DE BELLVITGE",
+      "DESC_PARADA": "Hospital De Bellvitge",
       "COD_PARADA": 7001789,
       "ID_GRUPO": 1,
       "ID_PARADA": 24630,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ANSELM CLAVÉ - RONDA LLEVANT",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Ronda Llevant",
       "COD_PARADA": 7104721,
       "ID_GRUPO": 1,
       "ID_PARADA": 24812,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ANSELM CLAVÉ - ENRIC BORRÀS",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Enric Borràs",
       "COD_PARADA": 7100712,
       "ID_GRUPO": 1,
       "ID_PARADA": 24744,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOAN MARAGALL - IGNASI IGLESIAS",
+      "DESC_PARADA": "Joan Maragall - Ignasi Iglesias",
       "COD_PARADA": 7107617,
       "ID_GRUPO": 1,
       "ID_PARADA": 24859,
@@ -963,10 +963,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424415,
-      "UTMY": 4575894,
-      "LATITUD": 41.33094795,
-      "LONGITUD": 2.09670655,
+      "UTMX": 424507,
+      "UTMY": 4576092,
+      "LATITUD": 41.33096305568,
+      "LONGITUD": 2.0967286782244,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA ROIGÉ I BADIA",
+      "DESC_PARADA": "Plaça Roigé i Badia",
       "COD_PARADA": 7003300,
       "ID_GRUPO": 1,
       "ID_PARADA": 24674,
@@ -991,10 +991,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424560,
-      "UTMY": 4575697,
-      "LATITUD": 41.32918205,
-      "LONGITUD": 2.09846839,
+      "UTMX": 424654,
+      "UTMY": 4575898,
+      "LATITUD": 41.329228878867,
+      "LONGITUD": 2.0985146581055,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. VERGE DE MONTSERRAT",
+      "DESC_PARADA": "Carretera Marina - Avinguda Verge De Montserrat",
       "COD_PARADA": 7003363,
       "ID_GRUPO": 1,
       "ID_PARADA": 24680,
@@ -1019,10 +1019,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424666,
-      "UTMY": 4575471,
-      "LATITUD": 41.32720442,
-      "LONGITUD": 2.09979038,
+      "UTMX": 424763,
+      "UTMY": 4575678,
+      "LATITUD": 41.32725175384,
+      "LONGITUD": 2.0998386597623,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - CATALUNYA",
+      "DESC_PARADA": "Carretera Marina - Catalunya",
       "COD_PARADA": 7003364,
       "ID_GRUPO": 1,
       "ID_PARADA": 24681,
@@ -1047,10 +1047,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424776,
-      "UTMY": 4575264,
-      "LATITUD": 41.32530415,
-      "LONGITUD": 2.10109939,
+      "UTMX": 424871,
+      "UTMY": 4575465,
+      "LATITUD": 41.3253414139,
+      "LONGITUD": 2.1011583985983,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA CONSTITUCIÓ",
+      "DESC_PARADA": "Plaça Constitució",
       "COD_PARADA": 7003375,
       "ID_GRUPO": 1,
       "ID_PARADA": 24682,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. ONZE DE SETEMBRE",
+      "DESC_PARADA": "Carretera Marina - Avinguda Onze De Setembre",
       "COD_PARADA": 7003376,
       "ID_GRUPO": 1,
       "ID_PARADA": 24683,
@@ -1121,7 +1121,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONETA",
+      "DESC_PARADA": "Barceloneta",
       "COD_PARADA": 7003497,
       "ID_GRUPO": 1,
       "ID_PARADA": 24698,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ONZE DE SETEMBRE - CORONEL SANFELIU",
+      "DESC_PARADA": "Avinguda Onze De Setembre - Coronel Sanfeliu",
       "COD_PARADA": 7110363,
       "ID_GRUPO": 1,
       "ID_PARADA": 24927,
@@ -1177,7 +1177,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASES DE LA SEDA",
+      "DESC_PARADA": "Cases De La Seda",
       "COD_PARADA": 7003494,
       "ID_GRUPO": 1,
       "ID_PARADA": 24695,
@@ -1205,7 +1205,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA GRANJA",
+      "DESC_PARADA": "La Granja",
       "COD_PARADA": 7000585,
       "ID_GRUPO": 1,
       "ID_PARADA": 24577,
@@ -1233,7 +1233,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC NOU",
+      "DESC_PARADA": "Parc Nou",
       "COD_PARADA": 7001383,
       "ID_GRUPO": 1,
       "ID_PARADA": 24611,
@@ -1261,7 +1261,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO PARC NOU",
+      "DESC_PARADA": "Metro Parc Nou",
       "COD_PARADA": 7001652,
       "ID_GRUPO": 1,
       "ID_PARADA": 24623,
@@ -1289,7 +1289,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE CÍVIC SANT JORDI - RIBERA BAIXA",
+      "DESC_PARADA": "Centre Cívic Sant Jordi - Ribera Baixa",
       "COD_PARADA": 7002379,
       "ID_GRUPO": 1,
       "ID_PARADA": 24642,
@@ -1299,10 +1299,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423531,
-      "UTMY": 4574638,
-      "LATITUD": 41.31959511,
-      "LONGITUD": 2.08633942,
+      "UTMX": 423627,
+      "UTMY": 4574837,
+      "LATITUD": 41.319574965578,
+      "LONGITUD": 2.0863783120307,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1317,7 +1317,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT COSME - RIU LLOBREGAT",
+      "DESC_PARADA": "Sant Cosme - Riu Llobregat",
       "COD_PARADA": 7107238,
       "ID_GRUPO": 1,
       "ID_PARADA": 24854,
@@ -1345,7 +1345,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POLICIA LOCAL",
+      "DESC_PARADA": "Policia Local",
       "COD_PARADA": 7001691,
       "ID_GRUPO": 1,
       "ID_PARADA": 24626,
@@ -1373,7 +1373,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ANTONI MARTÍN I SÁNCHEZ",
+      "DESC_PARADA": "Antoni Martín i Sánchez",
       "COD_PARADA": 7000821,
       "ID_GRUPO": 1,
       "ID_PARADA": 24584,
@@ -1401,7 +1401,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO PARC NOU",
+      "DESC_PARADA": "Metro Parc Nou",
       "COD_PARADA": 7001384,
       "ID_GRUPO": 1,
       "ID_PARADA": 24612,
@@ -1429,7 +1429,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CEM JULIO MÉNDEZ",
+      "DESC_PARADA": "Cem Julio Méndez",
       "COD_PARADA": 7001206,
       "ID_GRUPO": 1,
       "ID_PARADA": 24605,
@@ -1457,7 +1457,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA GRANJA",
+      "DESC_PARADA": "La Granja",
       "COD_PARADA": 7001044,
       "ID_GRUPO": 1,
       "ID_PARADA": 24596,
@@ -1485,7 +1485,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASES DE LA SEDA",
+      "DESC_PARADA": "Cases De La Seda",
       "COD_PARADA": 7003495,
       "ID_GRUPO": 1,
       "ID_PARADA": 24696,
@@ -1513,7 +1513,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ONZE DE SETEMBRE - JAUME CASANOVAS",
+      "DESC_PARADA": "Avinguda Onze De Setembre - Jaume Casanovas",
       "COD_PARADA": 7110364,
       "ID_GRUPO": 1,
       "ID_PARADA": 24928,
@@ -1541,7 +1541,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONETA",
+      "DESC_PARADA": "Barceloneta",
       "COD_PARADA": 7003496,
       "ID_GRUPO": 1,
       "ID_PARADA": 24697,
@@ -1569,7 +1569,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. ONZE DE SETEMBRE",
+      "DESC_PARADA": "Carretera Marina - Avinguda Onze De Setembre",
       "COD_PARADA": 7003359,
       "ID_GRUPO": 1,
       "ID_PARADA": 24676,
@@ -1597,7 +1597,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA CONSTITUCIÓ",
+      "DESC_PARADA": "Plaça Constitució",
       "COD_PARADA": 7003360,
       "ID_GRUPO": 1,
       "ID_PARADA": 24677,
@@ -1625,7 +1625,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - PABLO NERUDA",
+      "DESC_PARADA": "Carretera Marina - Pablo Neruda",
       "COD_PARADA": 7003361,
       "ID_GRUPO": 1,
       "ID_PARADA": 24678,
@@ -1635,10 +1635,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424801,
-      "UTMY": 4575244,
-      "LATITUD": 41.32520429,
-      "LONGITUD": 2.10146202,
+      "UTMX": 424894,
+      "UTMY": 4575442,
+      "LATITUD": 41.325143861917,
+      "LONGITUD": 2.1014351979098,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1653,7 +1653,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. MARINA - AV. VERGE DE MONTSERRAT",
+      "DESC_PARADA": "Carretera Marina - Avinguda Verge De Montserrat",
       "COD_PARADA": 7003362,
       "ID_GRUPO": 1,
       "ID_PARADA": 24679,
@@ -1663,10 +1663,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424677,
-      "UTMY": 4575478,
-      "LATITUD": 41.32726853,
-      "LONGITUD": 2.09992539,
+      "UTMX": 424772,
+      "UTMY": 4575680,
+      "LATITUD": 41.327272558409,
+      "LONGITUD": 2.0999468476721,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1681,7 +1681,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA ROIGÉ I BADIA",
+      "DESC_PARADA": "Plaça Roigé i Badia",
       "COD_PARADA": 7003488,
       "ID_GRUPO": 1,
       "ID_PARADA": 24692,
@@ -1709,7 +1709,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "INSTITUT ILLA DELS BANYOLS",
+      "DESC_PARADA": "Institut Illa Dels Banyols",
       "COD_PARADA": 7003489,
       "ID_GRUPO": 1,
       "ID_PARADA": 25294,
@@ -1737,7 +1737,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LES MORERES - IGNASI IGLÉSIAS",
+      "DESC_PARADA": "Les Moreres - Ignasi Iglésias",
       "COD_PARADA": 7003490,
       "ID_GRUPO": 1,
       "ID_PARADA": 25295,
@@ -1765,7 +1765,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV ANSELM CLAVÉ - LES MORERES",
+      "DESC_PARADA": "Avinguda Anselm Clavé - Les Moreres",
       "COD_PARADA": 7001553,
       "ID_GRUPO": 1,
       "ID_PARADA": 24619,
@@ -1793,7 +1793,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GRANVIA - HOSPITAL DE BELLVITGE",
+      "DESC_PARADA": "Avinguda Granvia - Hospital De Bellvitge",
       "COD_PARADA": 7000917,
       "ID_GRUPO": 1,
       "ID_PARADA": 24588,
@@ -1821,7 +1821,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ PAU REDÓ - AV. GRANVIA",
+      "DESC_PARADA": "Camí Pau Redó - Avinguda Granvia",
       "COD_PARADA": 7109286,
       "ID_GRUPO": 1,
       "ID_PARADA": 24906,
@@ -1849,7 +1849,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMPUS UNIVERSITARI BELLVITGE",
+      "DESC_PARADA": "Campus Universitari Bellvitge",
       "COD_PARADA": 7109281,
       "ID_GRUPO": 1,
       "ID_PARADA": 24904,
@@ -1859,10 +1859,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 425340,
-      "UTMY": 4577617,
-      "LATITUD": 41.34659607,
-      "LONGITUD": 2.10758309,
+      "UTMX": 425432,
+      "UTMY": 4577818,
+      "LATITUD": 41.346593804692,
+      "LONGITUD": 2.1075659909175,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -1877,7 +1877,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ERMITA DE BELLVITGE",
+      "DESC_PARADA": "Ermita De Bellvitge",
       "COD_PARADA": 7100756,
       "ID_GRUPO": 1,
       "ID_PARADA": 24747,
@@ -1905,7 +1905,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAP BELLVITGE",
+      "DESC_PARADA": "Cap Bellvitge",
       "COD_PARADA": 7102163,
       "ID_GRUPO": 1,
       "ID_PARADA": 24771,
@@ -1933,7 +1933,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO BELLVITGE RAMBLA MARINA",
+      "DESC_PARADA": "Metro Bellvitge Rambla Marina",
       "COD_PARADA": 7002137,
       "ID_GRUPO": 1,
       "ID_PARADA": 24638,
@@ -1961,7 +1961,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA LA MARINA",
+      "DESC_PARADA": "Escola La Marina",
       "COD_PARADA": 7000648,
       "ID_GRUPO": 1,
       "ID_PARADA": 24582,
@@ -1989,7 +1989,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D'AMALVÍGIA",
+      "DESC_PARADA": "Plaça D'amalvígia",
       "COD_PARADA": 7003461,
       "ID_GRUPO": 1,
       "ID_PARADA": 24686,
@@ -2017,7 +2017,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CUAP PURA FERNÁNDEZ",
+      "DESC_PARADA": "Cuap Pura Fernández",
       "COD_PARADA": 7003686,
       "ID_GRUPO": 1,
       "ID_PARADA": 24706,
@@ -2045,7 +2045,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO/FGC AV. CARRILET",
+      "DESC_PARADA": "Metro/fgc Avinguda Carrilet",
       "COD_PARADA": 7110586,
       "ID_GRUPO": 1,
       "ID_PARADA": 24951,
@@ -2073,7 +2073,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ENRIC PRAT DE LA RIBA - RBLA. MARINA",
+      "DESC_PARADA": "Enric Prat De La Riba - Rambla Marina",
       "COD_PARADA": 7003463,
       "ID_GRUPO": 1,
       "ID_PARADA": 24687,
@@ -2101,7 +2101,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA FARGA",
+      "DESC_PARADA": "La Farga",
       "COD_PARADA": 7102339,
       "ID_GRUPO": 1,
       "ID_PARADA": 24777,
@@ -2129,7 +2129,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES",
+      "DESC_PARADA": "Estació Rodalies",
       "COD_PARADA": 7100716,
       "ID_GRUPO": 1,
       "ID_PARADA": 24745,
@@ -2157,7 +2157,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA BUSQUETS I PUNSET",
+      "DESC_PARADA": "Escola Busquets i Punset",
       "COD_PARADA": 7100005,
       "ID_GRUPO": 1,
       "ID_PARADA": 24718,
@@ -2185,7 +2185,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC DE CAN BUXERES",
+      "DESC_PARADA": "Parc De Can Buxeres",
       "COD_PARADA": 7102200,
       "ID_GRUPO": 1,
       "ID_PARADA": 24773,
@@ -2213,7 +2213,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO CAN BOIXERES",
+      "DESC_PARADA": "Metro Can Boixeres",
       "COD_PARADA": 7104196,
       "ID_GRUPO": 1,
       "ID_PARADA": 24794,
@@ -2241,7 +2241,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA PABLO NERUDA",
+      "DESC_PARADA": "Escola Pablo Neruda",
       "COD_PARADA": 7101888,
       "ID_GRUPO": 1,
       "ID_PARADA": 24762,
@@ -2269,7 +2269,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "METRO SANT ILDEFONS",
+      "DESC_PARADA": "Metro Sant Ildefons",
       "COD_PARADA": 7003435,
       "ID_GRUPO": 1,
       "ID_PARADA": 24684,
@@ -2279,10 +2279,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 423359,
-      "UTMY": 4579525,
-      "LATITUD": 41.36361519,
-      "LONGITUD": 2.08363995,
+      "UTMX": 423450,
+      "UTMY": 4579726,
+      "LATITUD": 41.363584490512,
+      "LONGITUD": 2.0836359266865,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -2297,7 +2297,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE SANT ILDEFONS - CIRERER",
+      "DESC_PARADA": "Avinguda De Sant Ildefons - Cirerer",
       "COD_PARADA": 7000352,
       "ID_GRUPO": 1,
       "ID_PARADA": 24568,
@@ -2325,7 +2325,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DEL BAIX LLOBREGAT - SANT ANTONI MARIA CLARET",
+      "DESC_PARADA": "Avinguda Del Baix Llobregat - Sant Antoni Maria Cl",
       "COD_PARADA": 7003038,
       "ID_GRUPO": 1,
       "ID_PARADA": 24964,
@@ -2353,7 +2353,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV DE CORNELLÀ - MONTESA",
+      "DESC_PARADA": "Avinguda De Cornellà - Montesa",
       "COD_PARADA": 7000151,
       "ID_GRUPO": 1,
       "ID_PARADA": 24556,
@@ -2381,7 +2381,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE CORNELLÀ - FRANCESC LAYRET",
+      "DESC_PARADA": "Avinguda De Cornellà - Francesc Layret",
       "COD_PARADA": 7108557,
       "ID_GRUPO": 1,
       "ID_PARADA": 24875,
@@ -2409,7 +2409,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MILÀ I PI - AV. DE CORNELLÀ",
+      "DESC_PARADA": "Milà i Pi - Avinguda De Cornellà",
       "COD_PARADA": 7109109,
       "ID_GRUPO": 1,
       "ID_PARADA": 24894,
@@ -2437,7 +2437,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESCOLA GRAS I SOLER",
+      "DESC_PARADA": "Escola Gras i Soler",
       "COD_PARADA": 7109108,
       "ID_GRUPO": 1,
       "ID_PARADA": 24893,
@@ -2465,7 +2465,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP ARGEMÍ - GASPAR FÀBREGAS",
+      "DESC_PARADA": "Josep Argemí - Gaspar Fàbregas",
       "COD_PARADA": 7102601,
       "ID_GRUPO": 1,
       "ID_PARADA": 24778,
@@ -2493,7 +2493,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLEVANT - LES PLANES",
+      "DESC_PARADA": "Llevant - Les Planes",
       "COD_PARADA": 7100294,
       "ID_GRUPO": 1,
       "ID_PARADA": 24729,
@@ -2521,7 +2521,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE BARCELONA - EXTREMADURA",
+      "DESC_PARADA": "Avinguda De Barcelona - Extremadura",
       "COD_PARADA": 7100292,
       "ID_GRUPO": 1,
       "ID_PARADA": 24728,
@@ -2549,7 +2549,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ST MARTÍ DE L'ERM - ZONA ESPORTIVA FONTSANTA",
+      "DESC_PARADA": "St Martí De L'erm - Zona Esportiva Fontsanta",
       "COD_PARADA": 7001485,
       "ID_GRUPO": 1,
       "ID_PARADA": 24616,
@@ -2577,7 +2577,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FRUCTUÓS GELABERT - SANT MARTÍ DE L'ERM",
+      "DESC_PARADA": "Fructuós Gelabert - Sant Martí De L'erm",
       "COD_PARADA": 7000632,
       "ID_GRUPO": 1,
       "ID_PARADA": 24579,
@@ -2605,7 +2605,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTUDIS TV3",
+      "DESC_PARADA": "Estudis Tv3",
       "COD_PARADA": 7001486,
       "ID_GRUPO": 1,
       "ID_PARADA": 24617,
@@ -2633,7 +2633,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL MOISÈS BROGGI",
+      "DESC_PARADA": "Hospital Moisès Broggi",
       "COD_PARADA": 7003135,
       "ID_GRUPO": 1,
       "ID_PARADA": 24665,
@@ -2661,7 +2661,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BAIX LLOBREGAT - ORIOL MARTORELL",
+      "DESC_PARADA": "Avinguda Baix Llobregat - Oriol Martorell",
       "COD_PARADA": 7003136,
       "ID_GRUPO": 1,
       "ID_PARADA": 24666,
@@ -2689,7 +2689,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV BAIX LLOBREGAT - ST MARTÍ DE L'ERM",
+      "DESC_PARADA": "Avinguda Baix Llobregat - St Martí De L'erm",
       "COD_PARADA": 7001919,
       "ID_GRUPO": 1,
       "ID_PARADA": 24634,

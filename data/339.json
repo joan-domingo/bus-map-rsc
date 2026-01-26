@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DELS PARAIRES/AV. DE FRANCESC MACIÀ",
+          "DESC_PARADA": "Avinguda Dels Paraires/avinguda De Francesc Macià",
           "COD_PARADA": 3855,
           "ID_GRUPO": 1,
           "ID_PARADA": 13880,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 97,
           "ID_GRUPO": 1,
           "ID_PARADA": 97,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 441,
           "ID_GRUPO": 1,
           "ID_PARADA": 441,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA/LA RAMBLA (BAIXADOR)",
+          "DESC_PARADA": "Gran Via/la Rambla (baixador)",
           "COD_PARADA": 3854,
           "ID_GRUPO": 1,
           "ID_PARADA": 3854,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CRTA. DE BARCELONA/C. DEL CARDONER (LA FARIGOLA)",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Del Cardoner (la Far",
           "COD_PARADA": 5978,
           "ID_GRUPO": 1,
           "ID_PARADA": 13145,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE SANTA ROSA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Santa Rosa",
           "COD_PARADA": 6028,
           "ID_GRUPO": 1,
           "ID_PARADA": 13143,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE SANT QUINTÍ",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Sant Quintí",
           "COD_PARADA": 428,
           "ID_GRUPO": 1,
           "ID_PARADA": 428,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/PTGE. DE LA TELEFÒNICA",
+          "DESC_PARADA": "Carretera De Barcelona/ptge. De La Telefònica",
           "COD_PARADA": 6016,
           "ID_GRUPO": 1,
           "ID_PARADA": 13881,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE TARRAGONA (CAP III)",
+          "DESC_PARADA": "Carrer De Tarragona (cap Iii)",
           "COD_PARADA": 5465,
           "ID_GRUPO": 1,
           "ID_PARADA": 13863,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BALMES/ C. DEL MOLÍ D'EN GINESTAR",
+          "DESC_PARADA": "Carrer De Balmes/ Carrer Del Molí D'en Ginestar",
           "COD_PARADA": 421,
           "ID_GRUPO": 1,
           "ID_PARADA": 12819,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. MOLÍ D`EN RATA/C. MAGALLANES (PARC DE MORERES)",
+          "DESC_PARADA": "Carrer Molí D`en Rata/carrer Magallanes (parc De m",
           "COD_PARADA": 422,
           "ID_GRUPO": 1,
           "ID_PARADA": 13882,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SANT JOSEP/C. DE PIZARRO",
+          "DESC_PARADA": "Carrer De Sant Josep/carrer De Pizarro",
           "COD_PARADA": 423,
           "ID_GRUPO": 1,
           "ID_PARADA": 12820,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/ RBLA. DEL PUIGMAL",
+          "DESC_PARADA": "Avinguda De Maria Torras/ Rambla Del Puigmal",
           "COD_PARADA": 7334,
           "ID_GRUPO": 1,
           "ID_PARADA": 13883,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/RBLA. DELS PINETONS",
+          "DESC_PARADA": "Avinguda De Maria Torras/rambla Dels Pinetons",
           "COD_PARADA": 424,
           "ID_GRUPO": 1,
           "ID_PARADA": 13884,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA.DELS PINETONS (PAVELLÓ MUNICIPAL JOAN CREUS)",
+          "DESC_PARADA": "Rambla.dels Pinetons (pavelló Municipal Joan Creus",
           "COD_PARADA": 5425,
           "ID_GRUPO": 1,
           "ID_PARADA": 13885,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA.DE SANT JORDI (PATRONAT MUNICIPAL DE CULTURA)",
+          "DESC_PARADA": "Rambla.de Sant Jordi (patronat Municipal De Cultur",
           "COD_PARADA": 425,
           "ID_GRUPO": 1,
           "ID_PARADA": 13886,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE SANT JORDI/PL. DE LA FONT",
+          "DESC_PARADA": "Rambla De Sant Jordi/plaça De La Font",
           "COD_PARADA": 426,
           "ID_GRUPO": 1,
           "ID_PARADA": 13888,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA.DE SANT JORDI / C. DE SARRIÀ DE TER",
+          "DESC_PARADA": "Rambla.de Sant Jordi / Carrer De Sarrià De Ter",
           "COD_PARADA": 9815,
           "ID_GRUPO": 1,
           "ID_PARADA": 13889,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SARRIA DE TER/C.X(RASTRO RETO)",
+          "DESC_PARADA": "Carrer De Sarria De Ter/carrer.x(rastro Reto)",
           "COD_PARADA": 8702,
           "ID_GRUPO": 1,
           "ID_PARADA": 12352,
@@ -563,7 +563,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SARRIA DE TER/C.X(RASTRO RETO)",
+          "DESC_PARADA": "Carrer De Sarria De Ter/carrer.x(rastro Reto)",
           "COD_PARADA": 8702,
           "ID_GRUPO": 1,
           "ID_PARADA": 12352,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE ST .ANDREU/C. DE PAU CASALS",
+          "DESC_PARADA": "Carrer De St .andreu/carrer De Pau Casals",
           "COD_PARADA": 8836,
           "ID_GRUPO": 1,
           "ID_PARADA": 12356,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE FEDERICO GARCÍA LORCA/PL. DE PALAU AUSIT",
+          "DESC_PARADA": "Carrer De Federico García Lorca/plaça De Palau Aus",
           "COD_PARADA": 8704,
           "ID_GRUPO": 1,
           "ID_PARADA": 13875,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/RBLA. DELS PINETONS",
+          "DESC_PARADA": "Avinguda De Maria Torras/rambla Dels Pinetons",
           "COD_PARADA": 8705,
           "ID_GRUPO": 1,
           "ID_PARADA": 13877,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MARIA TORRAS/ RBLA. DEL PUIGMAL",
+          "DESC_PARADA": "Avinguda De Maria Torras/ Rambla Del Puigmal",
           "COD_PARADA": 7332,
           "ID_GRUPO": 1,
           "ID_PARADA": 13890,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SANT JOSEP/C. DE PIZARRO",
+          "DESC_PARADA": "Carrer De Sant Josep/carrer De Pizarro",
           "COD_PARADA": 5450,
           "ID_GRUPO": 1,
           "ID_PARADA": 12249,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. MOLÍ D`EN RATA/C. MAGALLANES (PARC DE MORERES)",
+          "DESC_PARADA": "Carrer Molí D`en Rata/carrer Magallanes (parc De m",
           "COD_PARADA": 5460,
           "ID_GRUPO": 1,
           "ID_PARADA": 13878,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BALMES/C. DEL MOLÍ D´EN GINESTAR",
+          "DESC_PARADA": "Carrer De Balmes/carrer Del Molí D´en Ginestar",
           "COD_PARADA": 5470,
           "ID_GRUPO": 1,
           "ID_PARADA": 12250,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA / C. DE BONAVISTA",
+          "DESC_PARADA": "Carretera De Barcelona / Carrer De Bonavista",
           "COD_PARADA": 5190,
           "ID_GRUPO": 1,
           "ID_PARADA": 12626,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA /C. DE TIANA",
+          "DESC_PARADA": "Carretera De Barcelona /carrer De Tiana",
           "COD_PARADA": 6040,
           "ID_GRUPO": 1,
           "ID_PARADA": 6040,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/ C. DE RAMÓN Y CAJAL",
+          "DESC_PARADA": "Carretera De Barcelona/ Carrer De Ramón y Cajal",
           "COD_PARADA": 6030,
           "ID_GRUPO": 1,
           "ID_PARADA": 6030,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE LA URALITA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De La Uralita",
           "COD_PARADA": 5500,
           "ID_GRUPO": 1,
           "ID_PARADA": 5500,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / AV. DE BARBERÀ (BAIXADOR)",
+          "DESC_PARADA": "Gran Via / Avinguda De Barberà (baixador)",
           "COD_PARADA": 4930,
           "ID_GRUPO": 1,
           "ID_PARADA": 4930,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 2926,
           "ID_GRUPO": 1,
           "ID_PARADA": 2926,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 7640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7640,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DELS PARAIRES/AV. DE FRANCESC MACIÀ",
+          "DESC_PARADA": "Avinguda Dels Paraires/avinguda De Francesc Macià",
           "COD_PARADA": 3855,
           "ID_GRUPO": 1,
           "ID_PARADA": 13880,

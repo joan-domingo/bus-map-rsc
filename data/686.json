@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "MAS LLUÍ",
+          "DESC_PARADA": "Mas Lluí",
           "COD_PARADA": 7109952,
           "ID_GRUPO": 1,
           "ID_PARADA": 24915,
@@ -24,10 +24,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421261,
-          "UTMY": 4582258,
-          "LATITUD": 41.387996595623,
-          "LONGITUD": 2.0582207376969,
+          "UTMX": 421356,
+          "UTMY": 4582462,
+          "LATITUD": 41.38802325894,
+          "LONGITUD": 2.0582579533469,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROSA LEVERONI",
+          "DESC_PARADA": "Rosa Leveroni",
           "COD_PARADA": 7109953,
           "ID_GRUPO": 1,
           "ID_PARADA": 24916,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POLÍGON SUD-OEST",
+          "DESC_PARADA": "Polígon Sud-oest",
           "COD_PARADA": 7110044,
           "ID_GRUPO": 1,
           "ID_PARADA": 24923,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TANATORI",
+          "DESC_PARADA": "Tanatori",
           "COD_PARADA": 7108009,
           "ID_GRUPO": 1,
           "ID_PARADA": 24872,
@@ -108,10 +108,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421873,
-          "UTMY": 4581556,
-          "LATITUD": 41.38174131,
-          "LONGITUD": 2.06563603,
+          "UTMX": 421962,
+          "UTMY": 4581764,
+          "LATITUD": 41.381800679308,
+          "LONGITUD": 2.0655917735513,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAP SANT JUST DESVERN",
+          "DESC_PARADA": "Cap Sant Just Desvern",
           "COD_PARADA": 7000408,
           "ID_GRUPO": 1,
           "ID_PARADA": 24572,
@@ -136,10 +136,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422224,
-          "UTMY": 4581632,
-          "LATITUD": 41.38249187928,
-          "LONGITUD": 2.0698645765382,
+          "UTMX": 422320,
+          "UTMY": 4581838,
+          "LATITUD": 41.382503199572,
+          "LONGITUD": 2.0698595473963,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARAL·LEL - VILA I VILÀ",
+          "DESC_PARADA": "Paral·lel - Vila i Vilà",
           "COD_PARADA": 7001054,
           "ID_GRUPO": 1,
           "ID_PARADA": 24599,
@@ -164,10 +164,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422359,
-          "UTMY": 4581663,
-          "LATITUD": 41.38270786,
-          "LONGITUD": 2.07140562,
+          "UTMX": 422455,
+          "UTMY": 4581864,
+          "LATITUD": 41.382751128519,
+          "LONGITUD": 2.0714726752254,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TUDONA - PL. PARADOR",
+          "DESC_PARADA": "Tudona - Plaça Parador",
           "COD_PARADA": 7110500,
           "ID_GRUPO": 1,
           "ID_PARADA": 24941,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EL PARADOR",
+          "DESC_PARADA": "El Parador",
           "COD_PARADA": 7001456,
           "ID_GRUPO": 1,
           "ID_PARADA": 24615,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC DE LA RAMBLA",
+          "DESC_PARADA": "Parc De La Rambla",
           "COD_PARADA": 7001212,
           "ID_GRUPO": 1,
           "ID_PARADA": 24607,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. GASPAR MODOLELL - CTRA. REIAL",
+          "DESC_PARADA": "Rambla Gaspar Modolell - Carretera Reial",
           "COD_PARADA": 7107557,
           "ID_GRUPO": 1,
           "ID_PARADA": 24858,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT MARTÍ DE L'ERM - RBLA. MODOLELL",
+          "DESC_PARADA": "Sant Martí De L'erm - Rambla Modolell",
           "COD_PARADA": 7110498,
           "ID_GRUPO": 1,
           "ID_PARADA": 24940,
@@ -304,10 +304,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422806,
-          "UTMY": 4580908,
-          "LATITUD": 41.37599126,
-          "LONGITUD": 2.07688082,
+          "UTMX": 422902,
+          "UTMY": 4581111,
+          "LATITUD": 41.376008367929,
+          "LONGITUD": 2.0769143476127,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PORTA DIAGONAL",
+          "DESC_PARADA": "Porta Diagonal",
           "COD_PARADA": 7108011,
           "ID_GRUPO": 1,
           "ID_PARADA": 24873,
@@ -332,10 +332,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422710,
-          "UTMY": 4580803,
-          "LATITUD": 41.37503834,
-          "LONGITUD": 2.07574578,
+          "UTMX": 422807,
+          "UTMY": 4581008,
+          "LATITUD": 41.375070543628,
+          "LONGITUD": 2.0757940597623,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV BAIX LLOBREGAT - ST MARTÍ DE L'ERM",
+          "DESC_PARADA": "Avinguda Baix Llobregat - St Martí De L'erm",
           "COD_PARADA": 7001919,
           "ID_GRUPO": 1,
           "ID_PARADA": 24634,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - COMPLEX ESPORTIU UNIVERSITARI",
+          "DESC_PARADA": "Diagonal - Complex Esportiu Universitari",
           "COD_PARADA": 7000309,
           "ID_GRUPO": 1,
           "ID_PARADA": 24564,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - AV DOCTOR MARAÑÓN",
+          "DESC_PARADA": "Diagonal - Avinguda Doctor Marañón",
           "COD_PARADA": 7000310,
           "ID_GRUPO": 1,
           "ID_PARADA": 24565,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ETS D'ARQUITECTURA",
+          "DESC_PARADA": "Ets D'arquitectura",
           "COD_PARADA": 7003233,
           "ID_GRUPO": 1,
           "ID_PARADA": 24669,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAU REIAL",
+          "DESC_PARADA": "Palau Reial",
           "COD_PARADA": 7003222,
           "ID_GRUPO": 1,
           "ID_PARADA": 24667,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. PIUS XII",
+          "DESC_PARADA": "Plaça Pius Xii",
           "COD_PARADA": 7003234,
           "ID_GRUPO": 1,
           "ID_PARADA": 24670,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL REINA MARIA CRISTINA",
+          "DESC_PARADA": "Plaça Reina Maria Cristina",
           "COD_PARADA": 7003223,
           "ID_GRUPO": 1,
           "ID_PARADA": 24668,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - L'ILLA DIAGONAL",
+          "DESC_PARADA": "Diagonal - L'illa Diagonal",
           "COD_PARADA": 7000042,
           "ID_GRUPO": 1,
           "ID_PARADA": 24551,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - ENTENÇA",
+          "DESC_PARADA": "Diagonal - Entença",
           "COD_PARADA": 7000373,
           "ID_GRUPO": 1,
           "ID_PARADA": 24569,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PAU ROMEVA - AV. DIAGONAL",
+          "DESC_PARADA": "Pau Romeva - Avinguda Diagonal",
           "COD_PARADA": 7110520,
           "ID_GRUPO": 1,
           "ID_PARADA": 24945,
@@ -612,10 +612,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 427883,
-          "UTMY": 4582375,
-          "LATITUD": 41.38967987,
-          "LONGITUD": 2.13740768,
+          "UTMX": 427977,
+          "UTMY": 4582580,
+          "LATITUD": 41.389707538763,
+          "LONGITUD": 2.1374231027018,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -647,7 +647,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PAU ROMEVA - AV. DIAGONAL",
+          "DESC_PARADA": "Pau Romeva - Avinguda Diagonal",
           "COD_PARADA": 7110520,
           "ID_GRUPO": 1,
           "ID_PARADA": 24945,
@@ -657,10 +657,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 427883,
-          "UTMY": 4582375,
-          "LATITUD": 41.38967987,
-          "LONGITUD": 2.13740768,
+          "UTMX": 427977,
+          "UTMY": 4582580,
+          "LATITUD": 41.389707538763,
+          "LONGITUD": 2.1374231027018,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - DOCTOR FLEMING",
+          "DESC_PARADA": "Diagonal - Doctor Fleming",
           "COD_PARADA": 7000041,
           "ID_GRUPO": 1,
           "ID_PARADA": 24550,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - NUMÀNCIA",
+          "DESC_PARADA": "Diagonal - Numància",
           "COD_PARADA": 7000483,
           "ID_GRUPO": 1,
           "ID_PARADA": 24574,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - PL REINA MARIA CRISTINA",
+          "DESC_PARADA": "Diagonal - Plaça Reina Maria Cristina",
           "COD_PARADA": 7000237,
           "ID_GRUPO": 1,
           "ID_PARADA": 24560,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - PL PIUS XII",
+          "DESC_PARADA": "Diagonal - Plaça Pius Xii",
           "COD_PARADA": 7000766,
           "ID_GRUPO": 1,
           "ID_PARADA": 24583,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAU REIAL",
+          "DESC_PARADA": "Palau Reial",
           "COD_PARADA": 7000021,
           "ID_GRUPO": 1,
           "ID_PARADA": 24549,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - METRO ZONA UNIVERSITÀRIA",
+          "DESC_PARADA": "Diagonal - Metro Zona Universitària",
           "COD_PARADA": 7002541,
           "ID_GRUPO": 1,
           "ID_PARADA": 24646,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DIAGONAL - PARC DE CERVANTES",
+          "DESC_PARADA": "Diagonal - Parc De Cervantes",
           "COD_PARADA": 7000251,
           "ID_GRUPO": 1,
           "ID_PARADA": 24562,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "HOSPITAL MOISÈS BROGGI",
+          "DESC_PARADA": "Hospital Moisès Broggi",
           "COD_PARADA": 7001633,
           "ID_GRUPO": 1,
           "ID_PARADA": 24622,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "JOSEP TRUETA - JOSEP TARRADELLAS",
+          "DESC_PARADA": "Josep Trueta - Josep Tarradellas",
           "COD_PARADA": 7001920,
           "ID_GRUPO": 1,
           "ID_PARADA": 24635,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT MARTÍ DE L'ERM - AV. BAIX LLOBREGAT",
+          "DESC_PARADA": "Sant Martí De L'erm - Avinguda Baix Llobregat",
           "COD_PARADA": 7110523,
           "ID_GRUPO": 1,
           "ID_PARADA": 24946,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PORTA DIAGONAL",
+          "DESC_PARADA": "Porta Diagonal",
           "COD_PARADA": 7108518,
           "ID_GRUPO": 1,
           "ID_PARADA": 24874,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT MARTÍ DE L'ERM - MESTRE MANUEL DE FALLA",
+          "DESC_PARADA": "Sant Martí De L'erm - Mestre Manuel De Falla",
           "COD_PARADA": 7110497,
           "ID_GRUPO": 1,
           "ID_PARADA": 24939,
@@ -993,10 +993,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422858,
-          "UTMY": 4580863,
-          "LATITUD": 41.37559107,
-          "LONGITUD": 2.07750029,
+          "UTMX": 422954,
+          "UTMY": 4581067,
+          "LATITUD": 41.375622267,
+          "LONGITUD": 2.0775418642397,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA SANT JUST - CTRA REIAL",
+          "DESC_PARADA": "Rambla Sant Just - Carretera Reial",
           "COD_PARADA": 7001211,
           "ID_GRUPO": 1,
           "ID_PARADA": 24606,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC DE LA RAMBLA",
+          "DESC_PARADA": "Parc De La Rambla",
           "COD_PARADA": 7001052,
           "ID_GRUPO": 1,
           "ID_PARADA": 24597,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EL PARADOR",
+          "DESC_PARADA": "El Parador",
           "COD_PARADA": 7001053,
           "ID_GRUPO": 1,
           "ID_PARADA": 24598,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MIQUEL REVERTER",
+          "DESC_PARADA": "Miquel Reverter",
           "COD_PARADA": 7110576,
           "ID_GRUPO": 1,
           "ID_PARADA": 24998,
@@ -1105,10 +1105,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422556,
-          "UTMY": 4581863,
-          "LATITUD": 41.3846831,
-          "LONGITUD": 2.0738038,
+          "UTMX": 422649,
+          "UTMY": 4582070,
+          "LATITUD": 41.384623230216,
+          "LONGITUD": 2.0737649079693,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "JUTJATS DE PAU",
+          "DESC_PARADA": "Jutjats De Pau",
           "COD_PARADA": 7000203,
           "ID_GRUPO": 1,
           "ID_PARADA": 24559,
@@ -1133,10 +1133,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 422493,
-          "UTMY": 4581921,
-          "LATITUD": 41.38451786,
-          "LONGITUD": 2.07244764,
+          "UTMX": 422560,
+          "UTMY": 4582086,
+          "LATITUD": 41.384755326767,
+          "LONGITUD": 2.0726944032294,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAP SANT JUST DESVERN",
+          "DESC_PARADA": "Cap Sant Just Desvern",
           "COD_PARADA": 7001829,
           "ID_GRUPO": 1,
           "ID_PARADA": 24631,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TANATORI",
+          "DESC_PARADA": "Tanatori",
           "COD_PARADA": 7109352,
           "ID_GRUPO": 1,
           "ID_PARADA": 24910,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POLÍGON SUD-OEST",
+          "DESC_PARADA": "Polígon Sud-oest",
           "COD_PARADA": 7110043,
           "ID_GRUPO": 1,
           "ID_PARADA": 24922,
@@ -1217,10 +1217,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421630,
-          "UTMY": 4581781,
-          "LATITUD": 41.38374604,
-          "LONGITUD": 2.0627034,
+          "UTMX": 421721,
+          "UTMY": 4581986,
+          "LATITUD": 41.383774214403,
+          "LONGITUD": 2.0626779190144,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC EUROPA",
+          "DESC_PARADA": "Parc Europa",
           "COD_PARADA": 7105932,
           "ID_GRUPO": 1,
           "ID_PARADA": 24823,
@@ -1245,10 +1245,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421185,
-          "UTMY": 4581919,
-          "LATITUD": 41.38495821,
-          "LONGITUD": 2.05740351,
+          "UTMX": 421277,
+          "UTMY": 4582121,
+          "LATITUD": 41.384950160318,
+          "LONGITUD": 2.0573471836107,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. COMTE DE VILARDAGA - FREDERICA MONTSENY",
+          "DESC_PARADA": "Passeig Comte De Vilardaga - Frederica Montseny",
           "COD_PARADA": 7110466,
           "ID_GRUPO": 1,
           "ID_PARADA": 24934,
@@ -1273,10 +1273,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421073,
-          "UTMY": 4582196,
-          "LATITUD": 41.38706688,
-          "LONGITUD": 2.05534139,
+          "UTMX": 421166,
+          "UTMY": 4582397,
+          "LATITUD": 41.387421053517,
+          "LONGITUD": 2.0559904845816,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MAS LLUÍ",
+          "DESC_PARADA": "Mas Lluí",
           "COD_PARADA": 7109952,
           "ID_GRUPO": 1,
           "ID_PARADA": 24915,
@@ -1301,10 +1301,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 421261,
-          "UTMY": 4582258,
-          "LATITUD": 41.387996595623,
-          "LONGITUD": 2.0582207376969,
+          "UTMX": 421356,
+          "UTMY": 4582462,
+          "LATITUD": 41.38802325894,
+          "LONGITUD": 2.0582579533469,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null

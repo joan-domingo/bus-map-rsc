@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
           "COD_PARADA": 5510,
           "ID_GRUPO": 1,
           "ID_PARADA": 5510,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 4870,
           "ID_GRUPO": 1,
           "ID_PARADA": 4870,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 4860,
           "ID_GRUPO": 1,
           "ID_PARADA": 4860,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA,7",
+          "DESC_PARADA": "Avinguda Costa Brava,7",
           "COD_PARADA": 4850,
           "ID_GRUPO": 1,
           "ID_PARADA": 4850,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MEDITERRANI, 30",
+          "DESC_PARADA": "Avinguda Mediterrani, 30",
           "COD_PARADA": 5931,
           "ID_GRUPO": 1,
           "ID_PARADA": 5931,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BÈTICA (CAP)",
+          "DESC_PARADA": "Carrer Bètica (cap)",
           "COD_PARADA": 5400,
           "ID_GRUPO": 1,
           "ID_PARADA": 5400,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -311,7 +311,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. MEDITERRANI, 30",
+          "DESC_PARADA": "Avinguda Mediterrani, 30",
           "COD_PARADA": 5931,
           "ID_GRUPO": 1,
           "ID_PARADA": 5931,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BÈTICA (CAP)",
+          "DESC_PARADA": "Carrer Bètica (cap)",
           "COD_PARADA": 5400,
           "ID_GRUPO": 1,
           "ID_PARADA": 5400,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -440,7 +440,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -468,7 +468,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -496,7 +496,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -524,7 +524,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
           "COD_PARADA": 5510,
           "ID_GRUPO": 1,
           "ID_PARADA": 5510,
@@ -552,7 +552,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 4870,
           "ID_GRUPO": 1,
           "ID_PARADA": 4870,
@@ -580,7 +580,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 4860,
           "ID_GRUPO": 1,
           "ID_PARADA": 4860,
@@ -608,7 +608,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA,7",
+          "DESC_PARADA": "Avinguda Costa Brava,7",
           "COD_PARADA": 4850,
           "ID_GRUPO": 1,
           "ID_PARADA": 4850,
@@ -636,7 +636,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MEDITERRANI, 30",
+          "DESC_PARADA": "Avinguda Mediterrani, 30",
           "COD_PARADA": 5931,
           "ID_GRUPO": 1,
           "ID_PARADA": 5931,
@@ -664,7 +664,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BÈTICA (CAP)",
+          "DESC_PARADA": "Carrer Bètica (cap)",
           "COD_PARADA": 5400,
           "ID_GRUPO": 1,
           "ID_PARADA": 5400,
@@ -692,7 +692,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -720,7 +720,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 8635,
           "ID_GRUPO": 1,
           "ID_PARADA": 12585,
@@ -748,7 +748,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PAU DE RIU-SEC",
+          "DESC_PARADA": "Sant Pau De Riu-sec",
           "COD_PARADA": 5830,
           "ID_GRUPO": 1,
           "ID_PARADA": 13187,
@@ -776,7 +776,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL (IKEA)",
+          "DESC_PARADA": "Sabadell (ikea)",
           "COD_PARADA": 5820,
           "ID_GRUPO": 1,
           "ID_PARADA": 13184,
@@ -821,7 +821,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL (IKEA)",
+          "DESC_PARADA": "Sabadell (ikea)",
           "COD_PARADA": 5820,
           "ID_GRUPO": 1,
           "ID_PARADA": 13184,
@@ -849,7 +849,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PAU DE RIU-SEC",
+          "DESC_PARADA": "Sant Pau De Riu-sec",
           "COD_PARADA": 5827,
           "ID_GRUPO": 1,
           "ID_PARADA": 13185,
@@ -877,7 +877,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 5865,
           "ID_GRUPO": 1,
           "ID_PARADA": 13186,
@@ -905,7 +905,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -933,7 +933,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS/C. BÈTICA",
+          "DESC_PARADA": "Avinguda Burgos/carrer Bètica",
           "COD_PARADA": 1601,
           "ID_GRUPO": 1,
           "ID_PARADA": 12107,
@@ -961,7 +961,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA/AV. COSTA AZUL",
+          "DESC_PARADA": "Avinguda Costa Brava/avinguda Costa Azul",
           "COD_PARADA": 116,
           "ID_GRUPO": 1,
           "ID_PARADA": 116,
@@ -989,7 +989,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 117,
           "ID_GRUPO": 1,
           "ID_PARADA": 117,
@@ -1017,7 +1017,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 118,
           "ID_GRUPO": 1,
           "ID_PARADA": 118,
@@ -1045,7 +1045,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
           "COD_PARADA": 107,
           "ID_GRUPO": 1,
           "ID_PARADA": 107,
@@ -1073,7 +1073,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE S'AGARÓ",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De S'agaró",
           "COD_PARADA": 113,
           "ID_GRUPO": 1,
           "ID_PARADA": 113,
@@ -1101,7 +1101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -1129,7 +1129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -1174,7 +1174,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -1202,7 +1202,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS/C. BÈTICA",
+          "DESC_PARADA": "Avinguda Burgos/carrer Bètica",
           "COD_PARADA": 1601,
           "ID_GRUPO": 1,
           "ID_PARADA": 12107,
@@ -1230,7 +1230,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA/AV. COSTA AZUL",
+          "DESC_PARADA": "Avinguda Costa Brava/avinguda Costa Azul",
           "COD_PARADA": 116,
           "ID_GRUPO": 1,
           "ID_PARADA": 116,
@@ -1258,7 +1258,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 117,
           "ID_GRUPO": 1,
           "ID_PARADA": 117,
@@ -1286,7 +1286,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 118,
           "ID_GRUPO": 1,
           "ID_PARADA": 118,
@@ -1314,7 +1314,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
           "COD_PARADA": 107,
           "ID_GRUPO": 1,
           "ID_PARADA": 107,
@@ -1342,7 +1342,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE S'AGARÓ",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De S'agaró",
           "COD_PARADA": 113,
           "ID_GRUPO": 1,
           "ID_PARADA": 113,
@@ -1370,7 +1370,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -1398,7 +1398,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -1443,7 +1443,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL (IKEA)",
+          "DESC_PARADA": "Sabadell (ikea)",
           "COD_PARADA": 5820,
           "ID_GRUPO": 1,
           "ID_PARADA": 13184,
@@ -1471,7 +1471,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PAU DE RIU-SEC",
+          "DESC_PARADA": "Sant Pau De Riu-sec",
           "COD_PARADA": 5827,
           "ID_GRUPO": 1,
           "ID_PARADA": 13185,
@@ -1499,7 +1499,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 5865,
           "ID_GRUPO": 1,
           "ID_PARADA": 13186,
@@ -1527,7 +1527,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -1555,7 +1555,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS/C. BÈTICA",
+          "DESC_PARADA": "Avinguda Burgos/carrer Bètica",
           "COD_PARADA": 1601,
           "ID_GRUPO": 1,
           "ID_PARADA": 12107,
@@ -1583,7 +1583,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA/AV. COSTA AZUL",
+          "DESC_PARADA": "Avinguda Costa Brava/avinguda Costa Azul",
           "COD_PARADA": 116,
           "ID_GRUPO": 1,
           "ID_PARADA": 116,
@@ -1611,7 +1611,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 117,
           "ID_GRUPO": 1,
           "ID_PARADA": 117,
@@ -1639,7 +1639,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 118,
           "ID_GRUPO": 1,
           "ID_PARADA": 118,
@@ -1667,7 +1667,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. DE GIRONA",
+          "DESC_PARADA": "Carretera De Barcelona/carrer De Girona",
           "COD_PARADA": 107,
           "ID_GRUPO": 1,
           "ID_PARADA": 107,
@@ -1695,7 +1695,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE S'AGARÓ",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De S'agaró",
           "COD_PARADA": 113,
           "ID_GRUPO": 1,
           "ID_PARADA": 113,
@@ -1723,7 +1723,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -1751,7 +1751,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN DRAGÓ",
+          "DESC_PARADA": "Can Dragó",
           "COD_PARADA": 9083,
           "ID_GRUPO": 1,
           "ID_PARADA": 25298,
@@ -1779,7 +1779,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
           "ID_PARADA": 12966,
@@ -1807,7 +1807,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -1852,7 +1852,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -1880,7 +1880,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -1908,7 +1908,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -1936,7 +1936,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
           "COD_PARADA": 5510,
           "ID_GRUPO": 1,
           "ID_PARADA": 5510,
@@ -1964,7 +1964,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 4870,
           "ID_GRUPO": 1,
           "ID_PARADA": 4870,
@@ -1992,7 +1992,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 4860,
           "ID_GRUPO": 1,
           "ID_PARADA": 4860,
@@ -2020,7 +2020,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA,7",
+          "DESC_PARADA": "Avinguda Costa Brava,7",
           "COD_PARADA": 4850,
           "ID_GRUPO": 1,
           "ID_PARADA": 4850,
@@ -2048,7 +2048,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MEDITERRANI, 30",
+          "DESC_PARADA": "Avinguda Mediterrani, 30",
           "COD_PARADA": 5931,
           "ID_GRUPO": 1,
           "ID_PARADA": 5931,
@@ -2076,7 +2076,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BÈTICA (CAP)",
+          "DESC_PARADA": "Carrer Bètica (cap)",
           "COD_PARADA": 5400,
           "ID_GRUPO": 1,
           "ID_PARADA": 5400,
@@ -2104,7 +2104,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -2132,7 +2132,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS INFANTS/C. PORTO",
+          "DESC_PARADA": "Carrer Dels Infants/carrer Porto",
           "COD_PARADA": 7676,
           "ID_GRUPO": 1,
           "ID_PARADA": 12566,
@@ -2177,7 +2177,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -2205,7 +2205,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -2233,7 +2233,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/C. MARIE CURIE",
+          "DESC_PARADA": "Carretera De Barcelona/carrer Marie Curie",
           "COD_PARADA": 5510,
           "ID_GRUPO": 1,
           "ID_PARADA": 5510,
@@ -2261,7 +2261,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MORAGAS/RDA. DE L´EST",
+          "DESC_PARADA": "Dr. Moragas/ronda De L´est",
           "COD_PARADA": 4870,
           "ID_GRUPO": 1,
           "ID_PARADA": 4870,
@@ -2289,7 +2289,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. URGELL/RDA. DE CATALUNYA",
+          "DESC_PARADA": "Carrer Urgell/ronda De Catalunya",
           "COD_PARADA": 4860,
           "ID_GRUPO": 1,
           "ID_PARADA": 4860,
@@ -2317,7 +2317,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. COSTA BRAVA,7",
+          "DESC_PARADA": "Avinguda Costa Brava,7",
           "COD_PARADA": 4850,
           "ID_GRUPO": 1,
           "ID_PARADA": 4850,
@@ -2345,7 +2345,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MEDITERRANI, 30",
+          "DESC_PARADA": "Avinguda Mediterrani, 30",
           "COD_PARADA": 5931,
           "ID_GRUPO": 1,
           "ID_PARADA": 5931,
@@ -2373,7 +2373,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BÈTICA (CAP)",
+          "DESC_PARADA": "Carrer Bètica (cap)",
           "COD_PARADA": 5400,
           "ID_GRUPO": 1,
           "ID_PARADA": 5400,
@@ -2401,7 +2401,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. BURGOS (AJUNTAMENT)",
+          "DESC_PARADA": "Avinguda Burgos (ajuntament)",
           "COD_PARADA": 115,
           "ID_GRUPO": 1,
           "ID_PARADA": 115,
@@ -2429,7 +2429,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TIBIDABO",
+          "DESC_PARADA": "Tibidabo",
           "COD_PARADA": 8635,
           "ID_GRUPO": 1,
           "ID_PARADA": 12585,
@@ -2457,7 +2457,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PAU DE RIU-SEC",
+          "DESC_PARADA": "Sant Pau De Riu-sec",
           "COD_PARADA": 5830,
           "ID_GRUPO": 1,
           "ID_PARADA": 13187,
@@ -2485,7 +2485,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SABADELL (IKEA)",
+          "DESC_PARADA": "Sabadell (ikea)",
           "COD_PARADA": 5820,
           "ID_GRUPO": 1,
           "ID_PARADA": 13184,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 441,
       "ID_GRUPO": 1,
       "ID_PARADA": 441,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. TAULÍ",
+      "DESC_PARADA": "Plaça Taulí",
       "COD_PARADA": 4720,
       "ID_GRUPO": 1,
       "ID_PARADA": 4720,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+      "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
       "COD_PARADA": 445,
       "ID_GRUPO": 1,
       "ID_PARADA": 445,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. SASTRE",
+      "DESC_PARADA": "Plaça Sastre",
       "COD_PARADA": 446,
       "ID_GRUPO": 1,
       "ID_PARADA": 446,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. ZAMENHOF/PL. CATALUNYA",
+      "DESC_PARADA": "Ronda Zamenhof/plaça Catalunya",
       "COD_PARADA": 447,
       "ID_GRUPO": 1,
       "ID_PARADA": 447,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. PONENT/MARGENAT",
+      "DESC_PARADA": "Ronda Ponent/margenat",
       "COD_PARADA": 448,
       "ID_GRUPO": 1,
       "ID_PARADA": 448,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/MARGENAT",
+      "DESC_PARADA": "Carretera Terrassa/margenat",
       "COD_PARADA": 9731,
       "ID_GRUPO": 1,
       "ID_PARADA": 12462,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/COSTA I LLOBERA",
+      "DESC_PARADA": "Carretera Terrassa/costa i Llobera",
       "COD_PARADA": 449,
       "ID_GRUPO": 1,
       "ID_PARADA": 449,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/LARRA",
+      "DESC_PARADA": "Carretera Terrassa/larra",
       "COD_PARADA": 551,
       "ID_GRUPO": 1,
       "ID_PARADA": 551,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/BEETHOVEN",
+      "DESC_PARADA": "Carretera Terrassa/beethoven",
       "COD_PARADA": 552,
       "ID_GRUPO": 1,
       "ID_PARADA": 552,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/NOU",
+      "DESC_PARADA": "Carretera Terrassa/nou",
       "COD_PARADA": 553,
       "ID_GRUPO": 1,
       "ID_PARADA": 553,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA (INSTITUTS)",
+      "DESC_PARADA": "Carretera Terrassa (instituts)",
       "COD_PARADA": 554,
       "ID_GRUPO": 1,
       "ID_PARADA": 554,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT COMARCAL",
+      "DESC_PARADA": "Mercat Comarcal",
       "COD_PARADA": 555,
       "ID_GRUPO": 1,
       "ID_PARADA": 555,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "HOSPITAL DE TERRASSA",
+      "DESC_PARADA": "Hospital De Terrassa",
       "COD_PARADA": 2460,
       "ID_GRUPO": 1,
       "ID_PARADA": 2460,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COMPLEX FUNERARI",
+      "DESC_PARADA": "Complex Funerari",
       "COD_PARADA": 557,
       "ID_GRUPO": 1,
       "ID_PARADA": 557,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARRI DE MONTSERRAT",
+      "DESC_PARADA": "Barri De Montserrat",
       "COD_PARADA": 558,
       "ID_GRUPO": 1,
       "ID_PARADA": 558,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PAÏSOS CATALANS",
+      "DESC_PARADA": "Països Catalans",
       "COD_PARADA": 5902,
       "ID_GRUPO": 1,
       "ID_PARADA": 13950,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VAPOR UNIVERSITARI",
+      "DESC_PARADA": "Vapor Universitari",
       "COD_PARADA": 559,
       "ID_GRUPO": 1,
       "ID_PARADA": 559,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TERRASSA INDUSTRIAL",
+      "DESC_PARADA": "Terrassa Industrial",
       "COD_PARADA": 561,
       "ID_GRUPO": 1,
       "ID_PARADA": 561,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "DORÉ",
+      "DESC_PARADA": "Doré",
       "COD_PARADA": 4902,
       "ID_GRUPO": 1,
       "ID_PARADA": 4902,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+      "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
       "COD_PARADA": 7920,
       "ID_GRUPO": 1,
       "ID_PARADA": 7920,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D'AUTOBUSOS DE TERRASSA",
+      "DESC_PARADA": "Estació D'autobusos De Terrassa",
       "COD_PARADA": 4560,
       "ID_GRUPO": 1,
       "ID_PARADA": 4560,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TERRASSA INDUSTRIAL",
+      "DESC_PARADA": "Terrassa Industrial",
       "COD_PARADA": 4550,
       "ID_GRUPO": 1,
       "ID_PARADA": 4550,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VAPOR UNIVERSITARI",
+      "DESC_PARADA": "Vapor Universitari",
       "COD_PARADA": 4540,
       "ID_GRUPO": 1,
       "ID_PARADA": 4540,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PAÏSOS CATALANS",
+      "DESC_PARADA": "Països Catalans",
       "COD_PARADA": 5903,
       "ID_GRUPO": 1,
       "ID_PARADA": 13951,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARRI DE MONTSERRAT",
+      "DESC_PARADA": "Barri De Montserrat",
       "COD_PARADA": 2540,
       "ID_GRUPO": 1,
       "ID_PARADA": 2540,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COMPLEX FUNERARI",
+      "DESC_PARADA": "Complex Funerari",
       "COD_PARADA": 2550,
       "ID_GRUPO": 1,
       "ID_PARADA": 2550,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MERCAT COMARCAL",
+      "DESC_PARADA": "Mercat Comarcal",
       "COD_PARADA": 5540,
       "ID_GRUPO": 1,
       "ID_PARADA": 5540,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA (INSTITUTS)",
+      "DESC_PARADA": "Carretera Terrassa (instituts)",
       "COD_PARADA": 4520,
       "ID_GRUPO": 1,
       "ID_PARADA": 4520,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/NOU",
+      "DESC_PARADA": "Carretera Terrassa/nou",
       "COD_PARADA": 4510,
       "ID_GRUPO": 1,
       "ID_PARADA": 4510,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA.TERRASSA/BÒBILA",
+      "DESC_PARADA": "Carretera.terrassa/bòbila",
       "COD_PARADA": 4500,
       "ID_GRUPO": 1,
       "ID_PARADA": 4500,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/FORMENTERA",
+      "DESC_PARADA": "Carretera Terrassa/formentera",
       "COD_PARADA": 4495,
       "ID_GRUPO": 1,
       "ID_PARADA": 4495,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/MANUEL DE FALLA",
+      "DESC_PARADA": "Carretera Terrassa/manuel De Falla",
       "COD_PARADA": 4490,
       "ID_GRUPO": 1,
       "ID_PARADA": 4490,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. TERRASSA/CARESMAR",
+      "DESC_PARADA": "Carretera Terrassa/caresmar",
       "COD_PARADA": 9732,
       "ID_GRUPO": 1,
       "ID_PARADA": 12463,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. PONENT/JOAN PLANS",
+      "DESC_PARADA": "Ronda Ponent/joan Plans",
       "COD_PARADA": 7590,
       "ID_GRUPO": 1,
       "ID_PARADA": 7590,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE ZAMENHOF/PL. DE CATALUNYA",
+      "DESC_PARADA": "Ronda De Zamenhof/plaça De Catalunya",
       "COD_PARADA": 4470,
       "ID_GRUPO": 1,
       "ID_PARADA": 4470,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. DE ZAMENHOF/C. DE COROMINAS",
+      "DESC_PARADA": "Ronda De Zamenhof/carrer De Corominas",
       "COD_PARADA": 4460,
       "ID_GRUPO": 1,
       "ID_PARADA": 4460,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE VILLARRÚBIAS (DONES DEL TÈXTIL)",
+      "DESC_PARADA": "Carrer De Villarrúbias (dones Del Tèxtil)",
       "COD_PARADA": 7000,
       "ID_GRUPO": 1,
       "ID_PARADA": 7000,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA/SALUT",
+      "DESC_PARADA": "Gran Via/salut",
       "COD_PARADA": 4410,
       "ID_GRUPO": 1,
       "ID_PARADA": 4410,

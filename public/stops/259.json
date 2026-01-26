@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+      "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
       "COD_PARADA": 5085,
       "ID_GRUPO": 1,
       "ID_PARADA": 5085,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / C. FERRAN ROMEU",
+      "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Carrer Ferran r",
       "COD_PARADA": 5030,
       "ID_GRUPO": 1,
       "ID_PARADA": 5030,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / AV. DE TORRE BLANCA",
+      "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Avinguda De Tor",
       "COD_PARADA": 398,
       "ID_GRUPO": 1,
       "ID_PARADA": 398,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER (PARC DE LA POLLANCREDA)",
+      "DESC_PARADA": "Rambla Del Celler (parc De La Pollancreda)",
       "COD_PARADA": 399,
       "ID_GRUPO": 1,
       "ID_PARADA": 399,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DEL CELLER / PLAÇA DE LA PELLERIA",
+      "DESC_PARADA": "Rambla Del Celler / Plaça De La Pelleria",
       "COD_PARADA": 5060,
       "ID_GRUPO": 1,
       "ID_PARADA": 5060,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. DEL CELLER / PG. TORRE BLANCA",
+      "DESC_PARADA": "Rambla Del Celler / Passeig Torre Blanca",
       "COD_PARADA": 5040,
       "ID_GRUPO": 1,
       "ID_PARADA": 5040,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ / CREU",
+      "DESC_PARADA": "Passeig Francesc Macià / Creu",
       "COD_PARADA": 4352,
       "ID_GRUPO": 1,
       "ID_PARADA": 11648,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (CPA)",
+      "DESC_PARADA": "Passeig Francesc Macià (cpa)",
       "COD_PARADA": 9973,
       "ID_GRUPO": 1,
       "ID_PARADA": 10577,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SALVADOR ESPRIU (CAP)",
+      "DESC_PARADA": "Salvador Espriu (cap)",
       "COD_PARADA": 9937,
       "ID_GRUPO": 1,
       "ID_PARADA": 11649,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VENTURA GASSOL",
+      "DESC_PARADA": "Ventura Gassol",
       "COD_PARADA": 9944,
       "ID_GRUPO": 1,
       "ID_PARADA": 11650,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN VOLPELLERES / PONT CAN VERNET",
+      "DESC_PARADA": "Avinguda Can Volpelleres / Pont Can Vernet",
       "COD_PARADA": 9947,
       "ID_GRUPO": 1,
       "ID_PARADA": 11651,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ALFONS D'ARAGÒ / FGC VOLPELLERES",
+      "DESC_PARADA": "Alfons D'aragò / Fgc Volpelleres",
       "COD_PARADA": 9960,
       "ID_GRUPO": 1,
       "ID_PARADA": 11652,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PERE CALDERS/AV. DE LA CLOTA",
+      "DESC_PARADA": "Pere Calders/avinguda De La Clota",
       "COD_PARADA": 3496,
       "ID_GRUPO": 1,
       "ID_PARADA": 13868,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PERE CALDERS / AV. DE CAN CANYAMERES",
+      "DESC_PARADA": "Carrer De Pere Calders / Avinguda De Can Canyamere",
       "COD_PARADA": 9980,
       "ID_GRUPO": 1,
       "ID_PARADA": 11653,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE CAN BELLET / C- DE ROC CODÓ",
+      "DESC_PARADA": "Avinguda De Can Bellet / Carrer- De Roc Codó",
       "COD_PARADA": 9989,
       "ID_GRUPO": 1,
       "ID_PARADA": 11654,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CIUTAT ESPORTIVA)",
+      "DESC_PARADA": "Avinguda Via Augusta (ciutat Esportiva)",
       "COD_PARADA": 9336,
       "ID_GRUPO": 1,
       "ID_PARADA": 12993,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA, 71-73",
+      "DESC_PARADA": "Avinguda Via Augusta, 71-73",
       "COD_PARADA": 9982,
       "ID_GRUPO": 1,
       "ID_PARADA": 10588,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA, 15-25 (@)",
+      "DESC_PARADA": "Avinguda Via Augusta, 15-25 (@)",
       "COD_PARADA": 3621,
       "ID_GRUPO": 1,
       "ID_PARADA": 14037,
@@ -487,10 +487,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421008,
-      "UTMY": 4593111,
-      "LATITUD": 41.4839,
-      "LONGITUD": 2.0527,
+      "UTMX": 421178,
+      "UTMY": 4593207,
+      "LATITUD": 41.484784110221,
+      "LONGITUD": 2.0547170211792,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CENTRE COMERCIAL)",
+      "DESC_PARADA": "Avinguda Via Augusta (centre Comercial)",
       "COD_PARADA": 9983,
       "ID_GRUPO": 1,
       "ID_PARADA": 10589,
@@ -515,10 +515,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421042,
-      "UTMY": 4593110,
-      "LATITUD": 41.483894453638,
-      "LONGITUD": 2.0530999080183,
+      "UTMX": 421044,
+      "UTMY": 4593107,
+      "LATITUD": 41.483868332014,
+      "LONGITUD": 2.0531267301084,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA  / AV. EUROPA",
+      "DESC_PARADA": "Avinguda Via Augusta  / Avinguda Europa",
       "COD_PARADA": 1960,
       "ID_GRUPO": 1,
       "ID_PARADA": 10590,
@@ -543,10 +543,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421202,
-      "UTMY": 4593216,
-      "LATITUD": 41.484837759674,
-      "LONGITUD": 2.0549907382317,
+      "UTMX": 421203,
+      "UTMY": 4593208,
+      "LATITUD": 41.484793554486,
+      "LONGITUD": 2.0550229247399,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (L´ESTANY)",
+      "DESC_PARADA": "Avinguda Via Augusta (l´estany)",
       "COD_PARADA": 9985,
       "ID_GRUPO": 1,
       "ID_PARADA": 10591,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA (CIUTAT ESPORTIVA)",
+      "DESC_PARADA": "Avinguda Via Augusta (ciutat Esportiva)",
       "COD_PARADA": 170,
       "ID_GRUPO": 1,
       "ID_PARADA": 12515,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE CAN BELLET/ROC CODÓ",
+      "DESC_PARADA": "Avinguda De Can Bellet/roc Codó",
       "COD_PARADA": 7532,
       "ID_GRUPO": 1,
       "ID_PARADA": 12297,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE CAN BELLET/AV. DE CAN CANYAMERES",
+      "DESC_PARADA": "Avinguda De Can Bellet/avinguda De Can Canyameres",
       "COD_PARADA": 2,
       "ID_GRUPO": 1,
       "ID_PARADA": 11655,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN BELLET/PG. DE LA MARE DE LA FONT",
+      "DESC_PARADA": "Avinguda Can Bellet/passeig De La Mare De La Font",
       "COD_PARADA": 6,
       "ID_GRUPO": 1,
       "ID_PARADA": 11656,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ANTONI BELL (ESTACIÓ VOLPELLERES)",
+      "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
       "COD_PARADA": 7,
       "ID_GRUPO": 1,
       "ID_PARADA": 11657,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV CAN VOLPELLERES / PONT CAN VERNET",
+      "DESC_PARADA": "Avinguda Can Volpelleres / Pont Can Vernet",
       "COD_PARADA": 10,
       "ID_GRUPO": 1,
       "ID_PARADA": 11658,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN VOLPELLERES / VENTURA GASSOL",
+      "DESC_PARADA": "Avinguda Can Volpelleres / Ventura Gassol",
       "COD_PARADA": 59,
       "ID_GRUPO": 1,
       "ID_PARADA": 11659,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA MINA (CAP)",
+      "DESC_PARADA": "La Mina (cap)",
       "COD_PARADA": 9079,
       "ID_GRUPO": 1,
       "ID_PARADA": 9079,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+      "DESC_PARADA": "Passeig Francesc Macià (monestir)",
       "COD_PARADA": 9158,
       "ID_GRUPO": 1,
       "ID_PARADA": 9158,

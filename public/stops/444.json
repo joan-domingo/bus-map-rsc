@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL ESTACIÓ",
+      "DESC_PARADA": "Plaça Estació",
       "COD_PARADA": 1062,
       "ID_GRUPO": 1,
       "ID_PARADA": 19863,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1063,
       "ID_GRUPO": 1,
       "ID_PARADA": 19864,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER (CASAL DE CULTURA)",
+      "DESC_PARADA": "Rambla Verdaguer (casal De Cultura)",
       "COD_PARADA": 1070,
       "ID_GRUPO": 1,
       "ID_PARADA": 19865,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-SARRIÀ",
+      "DESC_PARADA": "Rambla Verdaguer-sarrià",
       "COD_PARADA": 1082,
       "ID_GRUPO": 1,
       "ID_PARADA": 19866,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-AV JOAN BORRÀS",
+      "DESC_PARADA": "Rambla Verdaguer-avinguda Joan Borràs",
       "COD_PARADA": 1083,
       "ID_GRUPO": 1,
       "ID_PARADA": 19867,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER (CASA DE LA VILA)",
+      "DESC_PARADA": "Rambla Verdaguer (casa De La Vila)",
       "COD_PARADA": 1086,
       "ID_GRUPO": 1,
       "ID_PARADA": 19868,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL MAS ROIG",
+      "DESC_PARADA": "Plaça Mas Roig",
       "COD_PARADA": 1087,
       "ID_GRUPO": 1,
       "ID_PARADA": 19869,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BROLLADOR-EUCALIPTUS",
+      "DESC_PARADA": "Brollador-eucaliptus",
       "COD_PARADA": 1476,
       "ID_GRUPO": 1,
       "ID_PARADA": 19892,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-PL MAS ROIG",
+      "DESC_PARADA": "Rambla Verdaguer-plaça Mas Roig",
       "COD_PARADA": 5653,
       "ID_GRUPO": 1,
       "ID_PARADA": 19904,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. VERDAGUER (CASA DE LA VILA)",
+      "DESC_PARADA": "Rambla Verdaguer (casa De La Vila)",
       "COD_PARADA": 3912,
       "ID_GRUPO": 1,
       "ID_PARADA": 19907,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-AV JOAN BORRÀS",
+      "DESC_PARADA": "Rambla Verdaguer-avinguda Joan Borràs",
       "COD_PARADA": 1372,
       "ID_GRUPO": 1,
       "ID_PARADA": 19919,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA. VERDAGUER - C. PLANES",
+      "DESC_PARADA": "Rambla Verdaguer - Carrer Planes",
       "COD_PARADA": 3913,
       "ID_GRUPO": 1,
       "ID_PARADA": 19906,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER (CASAL DE CULTURA)",
+      "DESC_PARADA": "Rambla Verdaguer (casal De Cultura)",
       "COD_PARADA": 1380,
       "ID_GRUPO": 1,
       "ID_PARADA": 19920,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1567,
       "ID_GRUPO": 1,
       "ID_PARADA": 19862,

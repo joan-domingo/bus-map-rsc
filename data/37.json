@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CÈSAR MARTINELL / PL. DEL MIL.LENARI",
+          "DESC_PARADA": "Carrer De Cèsar Martinell / Plaça Del Mil.lenari",
           "COD_PARADA": 9101,
           "ID_GRUPO": 1,
           "ID_PARADA": 9101,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / CREU",
+          "DESC_PARADA": "Passeig Francesc Macià / Creu",
           "COD_PARADA": 4352,
           "ID_GRUPO": 1,
           "ID_PARADA": 11648,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig Francesc Macià (rodalies)",
           "COD_PARADA": 8088,
           "ID_GRUPO": 1,
           "ID_PARADA": 8088,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / AV. GRAELLS",
+          "DESC_PARADA": "Avinguda Clota / Avinguda Graells",
           "COD_PARADA": 9974,
           "ID_GRUPO": 1,
           "ID_PARADA": 10578,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+          "DESC_PARADA": "Avinguda Clota / Roc Codó",
           "COD_PARADA": 9975,
           "ID_GRUPO": 1,
           "ID_PARADA": 10579,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5670,
           "ID_GRUPO": 1,
           "ID_PARADA": 5670,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB VILA NORD",
+          "DESC_PARADA": "Uab Vila Nord",
           "COD_PARADA": 5690,
           "ID_GRUPO": 1,
           "ID_PARADA": 5690,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB-CÍÈNCIES",
+          "DESC_PARADA": "Uab-cíències",
           "COD_PARADA": 9733,
           "ID_GRUPO": 1,
           "ID_PARADA": 13861,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 435,
           "ID_GRUPO": 1,
           "ID_PARADA": 435,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 436,
           "ID_GRUPO": 1,
           "ID_PARADA": 436,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 437,
           "ID_GRUPO": 1,
           "ID_PARADA": 437,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D'ESPANYA/AV. DE ROMA",
+          "DESC_PARADA": "Avinguda D'espanya/avinguda De Roma",
           "COD_PARADA": 438,
           "ID_GRUPO": 1,
           "ID_PARADA": 438,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR (MERCAT SERRAPERERA)",
+          "DESC_PARADA": "St. Casimir (mercat Serraperera)",
           "COD_PARADA": 439,
           "ID_GRUPO": 1,
           "ID_PARADA": 439,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR/C. DEL CAMP",
+          "DESC_PARADA": "St. Casimir/carrer Del Camp",
           "COD_PARADA": 5300,
           "ID_GRUPO": 1,
           "ID_PARADA": 5300,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. MARCEL.LINA (ESGLÉSIA)",
+          "DESC_PARADA": "Sta. Marcel.lina (església)",
           "COD_PARADA": 5310,
           "ID_GRUPO": 1,
           "ID_PARADA": 5310,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/PTGE. DE LA TELEFÒNICA",
+          "DESC_PARADA": "Carretera De Barcelona/ptge. De La Telefònica",
           "COD_PARADA": 1302,
           "ID_GRUPO": 1,
           "ID_PARADA": 1302,
@@ -630,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BALMES / C. COT",
+          "DESC_PARADA": "Carrer Balmes / Carrer Cot",
           "COD_PARADA": 3833,
           "ID_GRUPO": 1,
           "ID_PARADA": 3833,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. ST. JAUME / C. BALMES",
+          "DESC_PARADA": "Carrer St. Jaume / Carrer Balmes",
           "COD_PARADA": 7331,
           "ID_GRUPO": 1,
           "ID_PARADA": 12841,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. ST. JAUME (ESCOLA EL MARTINET)",
+          "DESC_PARADA": "Carrer St. Jaume (escola El Martinet)",
           "COD_PARADA": 9816,
           "ID_GRUPO": 1,
           "ID_PARADA": 12842,
@@ -714,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN DRAGÓ",
+          "DESC_PARADA": "Can Dragó",
           "COD_PARADA": 9083,
           "ID_GRUPO": 1,
           "ID_PARADA": 25298,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
           "ID_PARADA": 12966,
@@ -798,7 +798,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ARAGÓ / C. DE LA INDEPENDÈNCIA",
+          "DESC_PARADA": "Carrer D´aragó / Carrer De La Independència",
           "COD_PARADA": 2236,
           "ID_GRUPO": 1,
           "ID_PARADA": 21823,
@@ -826,7 +826,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA ST. PERE",
+          "DESC_PARADA": "Ronda St. Pere",
           "COD_PARADA": 3793,
           "ID_GRUPO": 1,
           "ID_PARADA": 3793,
@@ -871,7 +871,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RDA ST. PERE",
+          "DESC_PARADA": "Ronda St. Pere",
           "COD_PARADA": 3793,
           "ID_GRUPO": 1,
           "ID_PARADA": 3793,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL TETUÁN",
+          "DESC_PARADA": "Plaça Tetuán",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 3220,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DEL CONSELL DE CENT / AV. DE LA MERIDIANA",
+          "DESC_PARADA": "Carrer Del Consell De Cent / Avinguda De La Meridi",
           "COD_PARADA": 2235,
           "ID_GRUPO": 1,
           "ID_PARADA": 21822,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA (ESTACIÓ DE FABRA I PUIG)",
+          "DESC_PARADA": "Avinguda Meridiana (estació De Fabra i Puig)",
           "COD_PARADA": 4643,
           "ID_GRUPO": 1,
           "ID_PARADA": 12512,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. ST. JAUME/ C. DE LA MERCÈ (ESCOLA EL MARTINET)",
+          "DESC_PARADA": "Carrer St. Jaume/ Carrer De La Mercè (escola El Ma",
           "COD_PARADA": 4331,
           "ID_GRUPO": 1,
           "ID_PARADA": 12840,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. ST. JAUME / C. BALMES",
+          "DESC_PARADA": "Carrer St. Jaume / Carrer Balmes",
           "COD_PARADA": 2107,
           "ID_GRUPO": 1,
           "ID_PARADA": 14005,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. BALMES / C. COT",
+          "DESC_PARADA": "Carrer Balmes / Carrer Cot",
           "COD_PARADA": 3829,
           "ID_GRUPO": 1,
           "ID_PARADA": 3829,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CATALUNYA (RODALIES)",
+          "DESC_PARADA": "Avinguda Catalunya (rodalies)",
           "COD_PARADA": 5195,
           "ID_GRUPO": 1,
           "ID_PARADA": 5195,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PRIMAVERA (LES FONTETES)",
+          "DESC_PARADA": "Avinguda De Primavera (les Fontetes)",
           "COD_PARADA": 5180,
           "ID_GRUPO": 1,
           "ID_PARADA": 5180,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. ISCLE/M. DE DÉU DEL PILAR (AJUNTAMENT)",
+          "DESC_PARADA": "St. Iscle/m. De Déu Del Pilar (ajuntament)",
           "COD_PARADA": 5160,
           "ID_GRUPO": 1,
           "ID_PARADA": 5160,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+          "DESC_PARADA": "Passeig Cordelles-francolí",
           "COD_PARADA": 5315,
           "ID_GRUPO": 1,
           "ID_PARADA": 5315,
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "2199 - AV. DE ROMA / AV. D´ESPANYA",
+          "DESC_PARADA": "2199 - Avinguda De Roma / Avinguda D´espanya",
           "COD_PARADA": 2199,
           "ID_GRUPO": 1,
           "ID_PARADA": 27049,
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 5270,
           "ID_GRUPO": 1,
           "ID_PARADA": 5270,
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 5260,
           "ID_GRUPO": 1,
           "ID_PARADA": 5260,
@@ -1319,7 +1319,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 4820,
           "ID_GRUPO": 1,
           "ID_PARADA": 4820,
@@ -1347,7 +1347,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES",
+          "DESC_PARADA": "Uab Ciències",
           "COD_PARADA": 5552,
           "ID_GRUPO": 1,
           "ID_PARADA": 5552,
@@ -1375,7 +1375,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB VILA NORD",
+          "DESC_PARADA": "Uab Vila Nord",
           "COD_PARADA": 5690,
           "ID_GRUPO": 1,
           "ID_PARADA": 5690,
@@ -1403,7 +1403,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (MEDICINA-C.C.COMUNICACIÓ)",
+          "DESC_PARADA": "Avinguda De Can Domènech (medicina-carrer.carrer.C",
           "COD_PARADA": 5558,
           "ID_GRUPO": 1,
           "ID_PARADA": 13190,
@@ -1431,7 +1431,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+          "DESC_PARADA": "Avinguda Clota / Roc Codó",
           "COD_PARADA": 9988,
           "ID_GRUPO": 1,
           "ID_PARADA": 10583,
@@ -1459,7 +1459,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA (E. L´OLIVERA)",
+          "DESC_PARADA": "Avinguda Clota (e. L´olivera)",
           "COD_PARADA": 2689,
           "ID_GRUPO": 1,
           "ID_PARADA": 10628,
@@ -1487,7 +1487,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig.francesc Macià (rodalies)",
           "COD_PARADA": 8064,
           "ID_GRUPO": 1,
           "ID_PARADA": 8064,
@@ -1515,7 +1515,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+          "DESC_PARADA": "Passeig Francesc Macià (monestir)",
           "COD_PARADA": 9158,
           "ID_GRUPO": 1,
           "ID_PARADA": 9158,
@@ -1543,7 +1543,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -1571,7 +1571,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -1599,7 +1599,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -1627,7 +1627,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS SAFAREIGS",
+          "DESC_PARADA": "Carrer Dels Safareigs",
           "COD_PARADA": 3126,
           "ID_GRUPO": 1,
           "ID_PARADA": 10644,

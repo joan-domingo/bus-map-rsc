@@ -16,7 +16,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -44,7 +44,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "5010 - L'ESCOLETA (IES PERE CALDERS)",
+          "DESC_PARADA": "5010 - L'escoleta (ies Pere Calders)",
           "COD_PARADA": 5010,
           "ID_GRUPO": 1,
           "ID_PARADA": 25365,
@@ -72,7 +72,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CIÈNCIES DE L'EDUCACIÓ",
+          "DESC_PARADA": "Ciències De L'educació",
           "COD_PARADA": 8837,
           "ID_GRUPO": 1,
           "ID_PARADA": 12357,
@@ -100,7 +100,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / TARRADELLAS",
+          "DESC_PARADA": "Serragalliners / Tarradellas",
           "COD_PARADA": 656,
           "ID_GRUPO": 1,
           "ID_PARADA": 10554,
@@ -128,7 +128,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5838,
           "ID_GRUPO": 1,
           "ID_PARADA": 5838,
@@ -156,7 +156,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GALÍCIA / CF BÒBILA",
+          "DESC_PARADA": "Galícia / Cf Bòbila",
           "COD_PARADA": 657,
           "ID_GRUPO": 1,
           "ID_PARADA": 10555,
@@ -184,7 +184,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV. EUROPA",
+          "DESC_PARADA": "Avinguda.roma/avinguda Europa",
           "COD_PARADA": 2404,
           "ID_GRUPO": 1,
           "ID_PARADA": 13862,
@@ -212,7 +212,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA 69 (XARAU)",
+          "DESC_PARADA": "Sta. Anna 69 (xarau)",
           "COD_PARADA": 5320,
           "ID_GRUPO": 1,
           "ID_PARADA": 5320,
@@ -240,7 +240,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA / CAMÈLIES",
+          "DESC_PARADA": "Sta. Anna / Camèlies",
           "COD_PARADA": 659,
           "ID_GRUPO": 1,
           "ID_PARADA": 10558,
@@ -268,7 +268,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -296,7 +296,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+          "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
           "COD_PARADA": 3271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13675,
@@ -324,7 +324,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -352,7 +352,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+          "DESC_PARADA": "Avinguda Primavera/pineda",
           "COD_PARADA": 9182,
           "ID_GRUPO": 1,
           "ID_PARADA": 9182,
@@ -380,7 +380,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA CERDANYOLA/TURÓ",
+          "DESC_PARADA": "Ronda Cerdanyola/turó",
           "COD_PARADA": 660,
           "ID_GRUPO": 1,
           "ID_PARADA": 10559,
@@ -408,7 +408,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.FERRAN VII / PL. COLOM",
+          "DESC_PARADA": "Avinguda.ferran Vii / Plaça Colom",
           "COD_PARADA": 9184,
           "ID_GRUPO": 1,
           "ID_PARADA": 9184,
@@ -436,7 +436,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NUMÁNCIA/ AV. LESSEPS",
+          "DESC_PARADA": "Numáncia/ Avinguda Lesseps",
           "COD_PARADA": 675,
           "ID_GRUPO": 1,
           "ID_PARADA": 10560,
@@ -464,7 +464,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMPEU FABRA / CANALETES",
+          "DESC_PARADA": "Pompeu Fabra / Canaletes",
           "COD_PARADA": 9185,
           "ID_GRUPO": 1,
           "ID_PARADA": 9185,
@@ -492,7 +492,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -520,7 +520,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -548,7 +548,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -576,7 +576,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -625,7 +625,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -653,7 +653,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "5010 - L'ESCOLETA (IES PERE CALDERS)",
+          "DESC_PARADA": "5010 - L'escoleta (ies Pere Calders)",
           "COD_PARADA": 5010,
           "ID_GRUPO": 1,
           "ID_PARADA": 25365,
@@ -681,7 +681,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CIÈNCIES DE L'EDUCACIÓ",
+          "DESC_PARADA": "Ciències De L'educació",
           "COD_PARADA": 8837,
           "ID_GRUPO": 1,
           "ID_PARADA": 12357,
@@ -709,7 +709,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / TARRADELLAS",
+          "DESC_PARADA": "Serragalliners / Tarradellas",
           "COD_PARADA": 656,
           "ID_GRUPO": 1,
           "ID_PARADA": 10554,
@@ -737,7 +737,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5838,
           "ID_GRUPO": 1,
           "ID_PARADA": 5838,
@@ -765,7 +765,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GALÍCIA / CF BÒBILA",
+          "DESC_PARADA": "Galícia / Cf Bòbila",
           "COD_PARADA": 657,
           "ID_GRUPO": 1,
           "ID_PARADA": 10555,
@@ -793,7 +793,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV. EUROPA",
+          "DESC_PARADA": "Avinguda.roma/avinguda Europa",
           "COD_PARADA": 2404,
           "ID_GRUPO": 1,
           "ID_PARADA": 13862,
@@ -821,7 +821,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA 69 (XARAU)",
+          "DESC_PARADA": "Sta. Anna 69 (xarau)",
           "COD_PARADA": 5320,
           "ID_GRUPO": 1,
           "ID_PARADA": 5320,
@@ -849,7 +849,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA / CAMÈLIES",
+          "DESC_PARADA": "Sta. Anna / Camèlies",
           "COD_PARADA": 659,
           "ID_GRUPO": 1,
           "ID_PARADA": 10558,
@@ -877,7 +877,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -905,7 +905,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+          "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
           "COD_PARADA": 3271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13675,
@@ -933,7 +933,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -961,7 +961,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+          "DESC_PARADA": "Avinguda Primavera/pineda",
           "COD_PARADA": 9182,
           "ID_GRUPO": 1,
           "ID_PARADA": 9182,
@@ -989,7 +989,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA CERDANYOLA/TURÓ",
+          "DESC_PARADA": "Ronda Cerdanyola/turó",
           "COD_PARADA": 660,
           "ID_GRUPO": 1,
           "ID_PARADA": 10559,
@@ -1017,7 +1017,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.FERRAN VII / PL. COLOM",
+          "DESC_PARADA": "Avinguda.ferran Vii / Plaça Colom",
           "COD_PARADA": 9184,
           "ID_GRUPO": 1,
           "ID_PARADA": 9184,
@@ -1045,7 +1045,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NUMÁNCIA/ AV. LESSEPS",
+          "DESC_PARADA": "Numáncia/ Avinguda Lesseps",
           "COD_PARADA": 675,
           "ID_GRUPO": 1,
           "ID_PARADA": 10560,
@@ -1073,7 +1073,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMPEU FABRA / CANALETES",
+          "DESC_PARADA": "Pompeu Fabra / Canaletes",
           "COD_PARADA": 9185,
           "ID_GRUPO": 1,
           "ID_PARADA": 9185,
@@ -1101,7 +1101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -1129,7 +1129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -1157,7 +1157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -1185,7 +1185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1213,7 +1213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -1241,7 +1241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / TARRADELLAS",
+          "DESC_PARADA": "Serragalliners / Tarradellas",
           "COD_PARADA": 656,
           "ID_GRUPO": 1,
           "ID_PARADA": 10554,
@@ -1269,7 +1269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5838,
           "ID_GRUPO": 1,
           "ID_PARADA": 5838,
@@ -1297,7 +1297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GALÍCIA / CF BÒBILA",
+          "DESC_PARADA": "Galícia / Cf Bòbila",
           "COD_PARADA": 657,
           "ID_GRUPO": 1,
           "ID_PARADA": 10555,
@@ -1325,7 +1325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV. EUROPA",
+          "DESC_PARADA": "Avinguda.roma/avinguda Europa",
           "COD_PARADA": 2404,
           "ID_GRUPO": 1,
           "ID_PARADA": 13862,
@@ -1353,7 +1353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA 69 (XARAU)",
+          "DESC_PARADA": "Sta. Anna 69 (xarau)",
           "COD_PARADA": 5320,
           "ID_GRUPO": 1,
           "ID_PARADA": 5320,
@@ -1381,7 +1381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. ANNA / CAMÈLIES",
+          "DESC_PARADA": "Sta. Anna / Camèlies",
           "COD_PARADA": 659,
           "ID_GRUPO": 1,
           "ID_PARADA": 10558,
@@ -1409,7 +1409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Plaça D´enric Granados",
           "COD_PARADA": 9171,
           "ID_GRUPO": 1,
           "ID_PARADA": 9171,
@@ -1437,7 +1437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALTIMIRA/SANT ISCLE (AJUNTAMENT)",
+          "DESC_PARADA": "Altimira/sant Iscle (ajuntament)",
           "COD_PARADA": 3271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13675,
@@ -1465,7 +1465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -1493,7 +1493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRIMAVERA/PINEDA",
+          "DESC_PARADA": "Avinguda Primavera/pineda",
           "COD_PARADA": 9182,
           "ID_GRUPO": 1,
           "ID_PARADA": 9182,
@@ -1521,7 +1521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA CERDANYOLA/TURÓ",
+          "DESC_PARADA": "Ronda Cerdanyola/turó",
           "COD_PARADA": 660,
           "ID_GRUPO": 1,
           "ID_PARADA": 10559,
@@ -1549,7 +1549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.FERRAN VII / PL. COLOM",
+          "DESC_PARADA": "Avinguda.ferran Vii / Plaça Colom",
           "COD_PARADA": 9184,
           "ID_GRUPO": 1,
           "ID_PARADA": 9184,
@@ -1577,7 +1577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NUMÁNCIA/ AV. LESSEPS",
+          "DESC_PARADA": "Numáncia/ Avinguda Lesseps",
           "COD_PARADA": 675,
           "ID_GRUPO": 1,
           "ID_PARADA": 10560,
@@ -1605,7 +1605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMPEU FABRA / CANALETES",
+          "DESC_PARADA": "Pompeu Fabra / Canaletes",
           "COD_PARADA": 9185,
           "ID_GRUPO": 1,
           "ID_PARADA": 9185,
@@ -1633,7 +1633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -1661,7 +1661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -1689,7 +1689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -1717,7 +1717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1765,7 +1765,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,
@@ -1793,7 +1793,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´HORTA (PARC TURONET)",
+          "DESC_PARADA": "Passeig D´horta (parc Turonet)",
           "COD_PARADA": 9169,
           "ID_GRUPO": 1,
           "ID_PARADA": 9169,
@@ -1821,7 +1821,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -1849,7 +1849,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CATALUNYA/C. DE SANT JOAQUIM",
+          "DESC_PARADA": "Avinguda De Catalunya/carrer De Sant Joaquim",
           "COD_PARADA": 9170,
           "ID_GRUPO": 1,
           "ID_PARADA": 9170,
@@ -1877,7 +1877,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANTA ANNA / SANT FRANCESÇ",
+          "DESC_PARADA": "Santa Anna / Sant Francesç",
           "COD_PARADA": 651,
           "ID_GRUPO": 1,
           "ID_PARADA": 10548,
@@ -1905,7 +1905,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANTA ANNA / SANT VICENÇ",
+          "DESC_PARADA": "Santa Anna / Sant Vicenç",
           "COD_PARADA": 652,
           "ID_GRUPO": 1,
           "ID_PARADA": 10549,
@@ -1933,7 +1933,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+          "DESC_PARADA": "Passeig Cordelles-francolí",
           "COD_PARADA": 5315,
           "ID_GRUPO": 1,
           "ID_PARADA": 5315,
@@ -1961,7 +1961,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "2199 - AV. DE ROMA / AV. D´ESPANYA",
+          "DESC_PARADA": "2199 - Avinguda De Roma / Avinguda D´espanya",
           "COD_PARADA": 2199,
           "ID_GRUPO": 1,
           "ID_PARADA": 27049,
@@ -1989,7 +1989,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.ROMA/AV.EUROPA(CEIP SALTELLS)",
+          "DESC_PARADA": "Avinguda.roma/avinguda.europa(ceip Saltells)",
           "COD_PARADA": 653,
           "ID_GRUPO": 1,
           "ID_PARADA": 10550,
@@ -2017,7 +2017,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRA DE GALLINERS-CASTELLA",
+          "DESC_PARADA": "Serra De Galliners-castella",
           "COD_PARADA": 5764,
           "ID_GRUPO": 1,
           "ID_PARADA": 5764,
@@ -2045,7 +2045,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SERRAGALLINERS / LONDRES",
+          "DESC_PARADA": "Serragalliners / Londres",
           "COD_PARADA": 654,
           "ID_GRUPO": 1,
           "ID_PARADA": 10551,
@@ -2073,7 +2073,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES EDUCACIÓ",
+          "DESC_PARADA": "Uab Ciències Educació",
           "COD_PARADA": 5554,
           "ID_GRUPO": 1,
           "ID_PARADA": 5554,
@@ -2101,7 +2101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "5010 - L'ESCOLETA (IES PERE CALDERS)",
+          "DESC_PARADA": "5010 - L'escoleta (ies Pere Calders)",
           "COD_PARADA": 5010,
           "ID_GRUPO": 1,
           "ID_PARADA": 25365,
@@ -2129,7 +2129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RODALIES CERDANYOLA UNIVERSITAT",
+          "DESC_PARADA": "Rodalies Cerdanyola Universitat",
           "COD_PARADA": 5861,
           "ID_GRUPO": 1,
           "ID_PARADA": 13180,
@@ -2177,7 +2177,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETES/C. DE LA COSTA",
+          "DESC_PARADA": "Avinguda Canaletes/carrer De La Costa",
           "COD_PARADA": 9166,
           "ID_GRUPO": 1,
           "ID_PARADA": 9166,
@@ -2205,7 +2205,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANALETAS / PG. D`HORTA",
+          "DESC_PARADA": "Avinguda Canaletas / Passeig D`horta",
           "COD_PARADA": 684,
           "ID_GRUPO": 1,
           "ID_PARADA": 10561,
@@ -2233,7 +2233,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.GUIERA / ST. EDUARD",
+          "DESC_PARADA": "Avinguda.guiera / St. Eduard",
           "COD_PARADA": 5961,
           "ID_GRUPO": 1,
           "ID_PARADA": 5961,
@@ -2261,7 +2261,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.D´HORTA (CAP CANALETES)",
+          "DESC_PARADA": "Passeig.d´horta (cap Canaletes)",
           "COD_PARADA": 9168,
           "ID_GRUPO": 1,
           "ID_PARADA": 9168,

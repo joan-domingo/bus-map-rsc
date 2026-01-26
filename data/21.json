@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "LESSEPS / RIERA DE CASSOLES",
+          "DESC_PARADA": "Lesseps / Riera De Cassoles",
           "COD_PARADA": 5850,
           "ID_GRUPO": 1,
           "ID_PARADA": 5850,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAU D´ESPORTS DE LA VALL D´HEBRON",
+          "DESC_PARADA": "Palau D´esports De La Vall D´hebron",
           "COD_PARADA": 1559,
           "ID_GRUPO": 1,
           "ID_PARADA": 12103,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D'HORTA/PG. DE VALLDAURA",
+          "DESC_PARADA": "Carretera D'horta/passeig De Valldaura",
           "COD_PARADA": 5740,
           "ID_GRUPO": 1,
           "ID_PARADA": 5740,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FORAT DEL VENT",
+          "DESC_PARADA": "Forat Del Vent",
           "COD_PARADA": 5745,
           "ID_GRUPO": 1,
           "ID_PARADA": 5745,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "COLÒNIA SARDÀ",
+          "DESC_PARADA": "Colònia Sardà",
           "COD_PARADA": 5750,
           "ID_GRUPO": 1,
           "ID_PARADA": 5750,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CENTRE DE FORMACIÓ FLOR DE MAIG)",
+          "DESC_PARADA": "Carretera D´horta (centre De Formació Flor De Maig",
           "COD_PARADA": 5755,
           "ID_GRUPO": 1,
           "ID_PARADA": 5755,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN COLL",
+          "DESC_PARADA": "Can Coll",
           "COD_PARADA": 5762,
           "ID_GRUPO": 1,
           "ID_PARADA": 5762,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-VALLDAURA",
+          "DESC_PARADA": "Avinguda Flor De Maig-valldaura",
           "COD_PARADA": 5754,
           "ID_GRUPO": 1,
           "ID_PARADA": 5754,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-PROVENÇA",
+          "DESC_PARADA": "Avinguda Flor De Maig-provença",
           "COD_PARADA": 5752,
           "ID_GRUPO": 1,
           "ID_PARADA": 5752,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/plaça Olivé",
           "COD_PARADA": 5760,
           "ID_GRUPO": 1,
           "ID_PARADA": 5760,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG-ST. JERONI",
+          "DESC_PARADA": "Avinguda Flor De Maig-st. Jeroni",
           "COD_PARADA": 5770,
           "ID_GRUPO": 1,
           "ID_PARADA": 5770,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  PRIMAVERA / C. DEL MONT",
+          "DESC_PARADA": "Avinguda De  Primavera / Carrer Del Mont",
           "COD_PARADA": 5130,
           "ID_GRUPO": 1,
           "ID_PARADA": 5130,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -423,7 +423,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PRIMAVERA (LES FONTETES)",
+          "DESC_PARADA": "Avinguda De Primavera (les Fontetes)",
           "COD_PARADA": 5180,
           "ID_GRUPO": 1,
           "ID_PARADA": 5180,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DE SANT RAMON",
+          "DESC_PARADA": "Plaça De Sant Ramon",
           "COD_PARADA": 8094,
           "ID_GRUPO": 1,
           "ID_PARADA": 12317,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ANSELM CLAVÉ / C. DE ST. RAMON",
+          "DESC_PARADA": "Carrer D´anselm Clavé / Carrer De St. Ramon",
           "COD_PARADA": 8158,
           "ID_GRUPO": 1,
           "ID_PARADA": 12625,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV FLOR DE MAIG",
+          "DESC_PARADA": "Avinguda Flor De Maig",
           "COD_PARADA": 1577,
           "ID_GRUPO": 1,
           "ID_PARADA": 12105,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA FLOR DE MAIG/C. DE ST. JERONI",
+          "DESC_PARADA": "Avinguda De La Flor De Maig/carrer De St. Jeroni",
           "COD_PARADA": 429,
           "ID_GRUPO": 1,
           "ID_PARADA": 429,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/PL. OLIVÉ",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/plaça Olivé",
           "COD_PARADA": 431,
           "ID_GRUPO": 1,
           "ID_PARADA": 431,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE PROVENÇA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Provença",
           "COD_PARADA": 432,
           "ID_GRUPO": 1,
           "ID_PARADA": 432,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA  FLOR DE MAIG/C. DE VALLDAURA",
+          "DESC_PARADA": "Avinguda De La  Flor De Maig/carrer De Valldaura",
           "COD_PARADA": 433,
           "ID_GRUPO": 1,
           "ID_PARADA": 433,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CAN COLL)",
+          "DESC_PARADA": "Carretera D´horta (can Coll)",
           "COD_PARADA": 434,
           "ID_GRUPO": 1,
           "ID_PARADA": 434,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´HORTA (CENTRE DE FORMACIÓ FLOR DE MAIG)",
+          "DESC_PARADA": "Carretera D´horta (centre De Formació Flor De Maig",
           "COD_PARADA": 5755,
           "ID_GRUPO": 1,
           "ID_PARADA": 5755,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "COLÒNIA SARDÀ",
+          "DESC_PARADA": "Colònia Sardà",
           "COD_PARADA": 414,
           "ID_GRUPO": 1,
           "ID_PARADA": 414,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FORAT DEL VENT",
+          "DESC_PARADA": "Forat Del Vent",
           "COD_PARADA": 415,
           "ID_GRUPO": 1,
           "ID_PARADA": 415,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D'HORTA/RONDA DE DALT",
+          "DESC_PARADA": "Carretera D'horta/ronda De Dalt",
           "COD_PARADA": 416,
           "ID_GRUPO": 1,
           "ID_PARADA": 416,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. VALL D'HEBRON/GRANJA VELLA",
+          "DESC_PARADA": "Passeig Vall D'hebron/granja Vella",
           "COD_PARADA": 1562,
           "ID_GRUPO": 1,
           "ID_PARADA": 12104,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LESSEPS / RIERA DE CASSOLES",
+          "DESC_PARADA": "Lesseps / Riera De Cassoles",
           "COD_PARADA": 5850,
           "ID_GRUPO": 1,
           "ID_PARADA": 5850,

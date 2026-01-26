@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PLA DEL VINYET",
+          "DESC_PARADA": "Avinguda Pla Del Vinyet",
           "COD_PARADA": 4069,
           "ID_GRUPO": 1,
           "ID_PARADA": 13709,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BERGARA / VERDI",
+          "DESC_PARADA": "Bergara / Verdi",
           "COD_PARADA": 4071,
           "ID_GRUPO": 1,
           "ID_PARADA": 13710,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CAN TRABAL",
+          "DESC_PARADA": "Avinguda Can Trabal",
           "COD_PARADA": 4072,
           "ID_GRUPO": 1,
           "ID_PARADA": 13711,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANADÀ / J. M. SERT",
+          "DESC_PARADA": "Avinguda Canadà / J. M. Sert",
           "COD_PARADA": 4076,
           "ID_GRUPO": 1,
           "ID_PARADA": 13712,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EDUARD M. BALCELLS / AV. CANADÀ",
+          "DESC_PARADA": "Eduard M. Balcells / Avinguda Canadà",
           "COD_PARADA": 4079,
           "ID_GRUPO": 1,
           "ID_PARADA": 13713,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EDUARD M. BALCELLS  /SANT CUGAT",
+          "DESC_PARADA": "Eduard M. Balcells  /sant Cugat",
           "COD_PARADA": 4256,
           "ID_GRUPO": 1,
           "ID_PARADA": 13715,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "OCEÀ ATLANTIC/SANT CUGAT",
+          "DESC_PARADA": "Oceà Atlantic/sant Cugat",
           "COD_PARADA": 4269,
           "ID_GRUPO": 1,
           "ID_PARADA": 13716,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "OCEÀ ATLÀNTIC",
+          "DESC_PARADA": "Oceà Atlàntic",
           "COD_PARADA": 4270,
           "ID_GRUPO": 1,
           "ID_PARADA": 13717,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MAR DE LA XINA",
+          "DESC_PARADA": "Mar De La Xina",
           "COD_PARADA": 4271,
           "ID_GRUPO": 1,
           "ID_PARADA": 13718,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANADÀ / GOLF DE CADIS",
+          "DESC_PARADA": "Avinguda Canadà / Golf De Cadis",
           "COD_PARADA": 4293,
           "ID_GRUPO": 1,
           "ID_PARADA": 13719,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CANADÀ",
+          "DESC_PARADA": "Avinguda Canadà",
           "COD_PARADA": 4303,
           "ID_GRUPO": 1,
           "ID_PARADA": 13720,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CÈSAR MARTINELL / PL. DEL MIL.LENARI",
+          "DESC_PARADA": "Carrer De Cèsar Martinell / Plaça Del Mil.lenari",
           "COD_PARADA": 9101,
           "ID_GRUPO": 1,
           "ID_PARADA": 9101,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BUSCARONS / PAULONIA",
+          "DESC_PARADA": "Buscarons / Paulonia",
           "COD_PARADA": 5301,
           "ID_GRUPO": 1,
           "ID_PARADA": 19188,
@@ -462,7 +462,35 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BUSCARONS / PLAÇA RÚBIES",
+          "DESC_PARADA": "3846 CAN BOVA",
+          "COD_PARADA": 3846,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 3846,
+          "ID_MUNICIPIO": 82055,
+          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 424638,
+          "UTMY": 4588830,
+          "LATITUD": 41.4456963,
+          "LONGITUD": 2.0967107,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 711,
+        "ID_TRAYECTO": 10,
+        "SECUENCIA": 165,
+        "ID_PARADA": 3846,
+        "NKM_ORIGEN": 5.912,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Buscarons / Plaça Rúbies",
           "COD_PARADA": 5302,
           "ID_GRUPO": 1,
           "ID_PARADA": 19189,
@@ -490,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BUSCARONS / AV. PERE PLANAS",
+          "DESC_PARADA": "Buscarons / Avinguda Pere Planas",
           "COD_PARADA": 5304,
           "ID_GRUPO": 1,
           "ID_PARADA": 19190,
@@ -518,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS PORTERS",
+          "DESC_PARADA": "Plaça Dels Porters",
           "COD_PARADA": 9120,
           "ID_GRUPO": 1,
           "ID_PARADA": 9120,
@@ -546,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL CAQUI / PASSATGE BROS",
+          "DESC_PARADA": "Passeig Del Caqui / Passatge Bros",
           "COD_PARADA": 5306,
           "ID_GRUPO": 1,
           "ID_PARADA": 19193,
@@ -574,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL CAQUI / PASSATGE BROS",
+          "DESC_PARADA": "Passeig Del Caqui / Passatge Bros",
           "COD_PARADA": 5306,
           "ID_GRUPO": 1,
           "ID_PARADA": 19193,
@@ -602,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL CAQUI / PASSATGE CAQUI",
+          "DESC_PARADA": "Passeig Del Caqui / Passatge Caqui",
           "COD_PARADA": 5307,
           "ID_GRUPO": 1,
           "ID_PARADA": 19194,
@@ -630,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DELS TIL·LERS/PG. MIMOSA",
+          "DESC_PARADA": "Passeig Dels Til·lers/passeig Mimosa",
           "COD_PARADA": 9132,
           "ID_GRUPO": 1,
           "ID_PARADA": 9132,
@@ -658,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GOLF DE BISCAIA",
+          "DESC_PARADA": "Golf De Biscaia",
           "COD_PARADA": 9133,
           "ID_GRUPO": 1,
           "ID_PARADA": 9133,
@@ -686,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS ESTRETS",
+          "DESC_PARADA": "Plaça Dels Estrets",
           "COD_PARADA": 9157,
           "ID_GRUPO": 1,
           "ID_PARADA": 9157,
@@ -714,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CANAL DE LA MÀNEGA (COL·LEGI EL PINAR)",
+          "DESC_PARADA": "Canal De La Mànega (col·legi El Pinar)",
           "COD_PARADA": 9134,
           "ID_GRUPO": 1,
           "ID_PARADA": 9134,
@@ -742,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,

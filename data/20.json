@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "LESSEPS / RIERA DE CASSOLES",
+          "DESC_PARADA": "Lesseps / Riera De Cassoles",
           "COD_PARADA": 5850,
           "ID_GRUPO": 1,
           "ID_PARADA": 5850,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA, KM0",
+          "DESC_PARADA": "Carretera De La Rabassada, Km0",
           "COD_PARADA": 1467,
           "ID_GRUPO": 1,
           "ID_PARADA": 12494,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA, KM1 (FECSA-ENDESA)",
+          "DESC_PARADA": "Carretera De La Rabassada, Km1 (fecsa-endesa)",
           "COD_PARADA": 1477,
           "ID_GRUPO": 1,
           "ID_PARADA": 12495,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VALL PARC",
+          "DESC_PARADA": "Vall Parc",
           "COD_PARADA": 1478,
           "ID_GRUPO": 1,
           "ID_PARADA": 12496,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FONT DEL BACALLÀ",
+          "DESC_PARADA": "Font Del Bacallà",
           "COD_PARADA": 1498,
           "ID_GRUPO": 1,
           "ID_PARADA": 12497,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BENZINERA",
+          "DESC_PARADA": "Benzinera",
           "COD_PARADA": 1499,
           "ID_GRUPO": 1,
           "ID_PARADA": 12498,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA GOSSERA",
+          "DESC_PARADA": "La Gossera",
           "COD_PARADA": 1501,
           "ID_GRUPO": 1,
           "ID_PARADA": 12499,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VISTA RICA",
+          "DESC_PARADA": "Vista Rica",
           "COD_PARADA": 5730,
           "ID_GRUPO": 1,
           "ID_PARADA": 5730,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA ARRABASSADA-TIBIDABO",
+          "DESC_PARADA": "Carretera Arrabassada-tibidabo",
           "COD_PARADA": 1518,
           "ID_GRUPO": 1,
           "ID_PARADA": 12097,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA ARRABASSADA-CAMÍ DE ST MEDIR",
+          "DESC_PARADA": "Carretera Arrabassada-camí De St Medir",
           "COD_PARADA": 5860,
           "ID_GRUPO": 1,
           "ID_PARADA": 5860,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": " CTRA ARRABASSADA-CAN CORTÉS",
+          "DESC_PARADA": "Carretera Arrabassada-can Cortés",
           "COD_PARADA": 5959,
           "ID_GRUPO": 1,
           "ID_PARADA": 12287,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SOL AIRE",
+          "DESC_PARADA": "Sol Aire",
           "COD_PARADA": 5890,
           "ID_GRUPO": 1,
           "ID_PARADA": 5890,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE LA FLORESTA",
+          "DESC_PARADA": "Carretera De La Floresta",
           "COD_PARADA": 5920,
           "ID_GRUPO": 1,
           "ID_PARADA": 5920,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA (LA FLORESTA)",
+          "DESC_PARADA": "Carretera De La Rabassada (la Floresta)",
           "COD_PARADA": 3060,
           "ID_GRUPO": 1,
           "ID_PARADA": 13872,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN VASCONSEL",
+          "DESC_PARADA": "Can Vasconsel",
           "COD_PARADA": 5950,
           "ID_GRUPO": 1,
           "ID_PARADA": 5950,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV GRÀCIA-ST FRANCESC XAVIER",
+          "DESC_PARADA": "Avinguda Gràcia-st Francesc Xavier",
           "COD_PARADA": 1521,
           "ID_GRUPO": 1,
           "ID_PARADA": 12098,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV GRÀCIA-TETUAN",
+          "DESC_PARADA": "Avinguda Gràcia-tetuan",
           "COD_PARADA": 1522,
           "ID_GRUPO": 1,
           "ID_PARADA": 12099,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -535,7 +535,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS QUATRE CANTONS",
+          "DESC_PARADA": "Plaça Dels Quatre Cantons",
           "COD_PARADA": 9135,
           "ID_GRUPO": 1,
           "ID_PARADA": 9135,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LLUÍS COMPANYS,19",
+          "DESC_PARADA": "Avinguda De Lluís Companys",
           "COD_PARADA": 5090,
           "ID_GRUPO": 1,
           "ID_PARADA": 5090,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ÀNGEL GUIMERÀ/VILLA",
+          "DESC_PARADA": "Àngel Guimerà/villa",
           "COD_PARADA": 4970,
           "ID_GRUPO": 1,
           "ID_PARADA": 4970,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ÀNGEL GUIMERÀ",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´àngel Guimerà",
           "COD_PARADA": 9075,
           "ID_GRUPO": 1,
           "ID_PARADA": 12373,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE RIBATALLADA / C. D´ELISENDA RIBATALLADA",
+          "DESC_PARADA": "Rambla De Ribatallada / Carrer D´elisenda Ribatall",
           "COD_PARADA": 4980,
           "ID_GRUPO": 1,
           "ID_PARADA": 4980,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GRÀCIA / MARINÉ",
+          "DESC_PARADA": "Avinguda Gràcia / Mariné",
           "COD_PARADA": 8084,
           "ID_GRUPO": 1,
           "ID_PARADA": 8084,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GRÀCIA / ST. FRANCESC XAVIER",
+          "DESC_PARADA": "Avinguda Gràcia / St. Francesc Xavier",
           "COD_PARADA": 8085,
           "ID_GRUPO": 1,
           "ID_PARADA": 8085,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN VASCONSEL",
+          "DESC_PARADA": "Can Vasconsel",
           "COD_PARADA": 407,
           "ID_GRUPO": 1,
           "ID_PARADA": 407,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA (LA FLORESTA)",
+          "DESC_PARADA": "Carretera De La Rabassada (la Floresta)",
           "COD_PARADA": 3061,
           "ID_GRUPO": 1,
           "ID_PARADA": 13873,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE LA FLORESTA",
+          "DESC_PARADA": "Carretera De La Floresta",
           "COD_PARADA": 408,
           "ID_GRUPO": 1,
           "ID_PARADA": 408,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SOL AIRE",
+          "DESC_PARADA": "Sol Aire",
           "COD_PARADA": 409,
           "ID_GRUPO": 1,
           "ID_PARADA": 409,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA DE L'ARRABASSADA-CAN CORTÈS",
+          "DESC_PARADA": "Carretera De L'arrabassada-can Cortès",
           "COD_PARADA": 411,
           "ID_GRUPO": 1,
           "ID_PARADA": 411,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA ARRABASSADA-CAMÍ ST MEDIR",
+          "DESC_PARADA": "Carretera Arrabassada-camí St Medir",
           "COD_PARADA": 413,
           "ID_GRUPO": 1,
           "ID_PARADA": 413,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA ARRABASSADA-TIBIDABO",
+          "DESC_PARADA": "Carretera Arrabassada-tibidabo",
           "COD_PARADA": 1533,
           "ID_GRUPO": 1,
           "ID_PARADA": 12102,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VISTA RICA",
+          "DESC_PARADA": "Vista Rica",
           "COD_PARADA": 412,
           "ID_GRUPO": 1,
           "ID_PARADA": 412,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA GOSSERA",
+          "DESC_PARADA": "La Gossera",
           "COD_PARADA": 1502,
           "ID_GRUPO": 1,
           "ID_PARADA": 12501,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BENZINERA",
+          "DESC_PARADA": "Benzinera",
           "COD_PARADA": 1505,
           "ID_GRUPO": 1,
           "ID_PARADA": 12503,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FONT DEL BACALLÀ",
+          "DESC_PARADA": "Font Del Bacallà",
           "COD_PARADA": 1508,
           "ID_GRUPO": 1,
           "ID_PARADA": 12504,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VALL PARC",
+          "DESC_PARADA": "Vall Parc",
           "COD_PARADA": 1509,
           "ID_GRUPO": 1,
           "ID_PARADA": 12505,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA, KM0 (FECSA-ENDESA)",
+          "DESC_PARADA": "Carretera De La Rabassada, Km0 (fecsa-endesa)",
           "COD_PARADA": 1513,
           "ID_GRUPO": 1,
           "ID_PARADA": 12506,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE LA RABASSADA, KM 0",
+          "DESC_PARADA": "Carretera De La Rabassada, Km 0",
           "COD_PARADA": 1514,
           "ID_GRUPO": 1,
           "ID_PARADA": 12507,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LESSEPS / RIERA DE CASSOLES",
+          "DESC_PARADA": "Lesseps / Riera De Cassoles",
           "COD_PARADA": 5850,
           "ID_GRUPO": 1,
           "ID_PARADA": 5850,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ CAN SANT JOAN",
+      "DESC_PARADA": "Estació Can Sant Joan",
       "COD_PARADA": 9201,
       "ID_GRUPO": 1,
       "ID_PARADA": 10433,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE XAVIER CUGAT (RTVE)",
+      "DESC_PARADA": "Plaça De Xavier Cugat (rtve)",
       "COD_PARADA": 2680,
       "ID_GRUPO": 1,
       "ID_PARADA": 10619,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. GENERALITAT, 201 (THAU)",
+      "DESC_PARADA": "Avinguda Generalitat, 201 (thau)",
       "COD_PARADA": 9978,
       "ID_GRUPO": 1,
       "ID_PARADA": 10582,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 189 (HEWLETT PACKARD)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 189 (hewlett Packard)",
       "COD_PARADA": 3130,
       "ID_GRUPO": 1,
       "ID_PARADA": 12754,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 171 (ROCHE DIAGNOSTICS)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 171 (roche Diagnostics",
       "COD_PARADA": 3131,
       "ID_GRUPO": 1,
       "ID_PARADA": 12755,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 167 (DEUTSCHE BANK)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 167 (deutsche Bank)",
       "COD_PARADA": 3132,
       "ID_GRUPO": 1,
       "ID_PARADA": 12756,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 153 (GRIFOLS)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 153 (grifols)",
       "COD_PARADA": 3133,
       "ID_GRUPO": 1,
       "ID_PARADA": 12757,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 160 (GRIFOLS)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 160 (grifols)",
       "COD_PARADA": 3142,
       "ID_GRUPO": 1,
       "ID_PARADA": 12758,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE LEONARDO DA VINCI, 2 (TOP CABLE)",
+      "DESC_PARADA": "Carrer De Leonardo Da Vinci, 2 (top Cable)",
       "COD_PARADA": 3136,
       "ID_GRUPO": 1,
       "ID_PARADA": 12763,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. D´EUROPA, 28 (SALVESEN LOGÍSTICA)",
+      "DESC_PARADA": "Avinguda D´europa, 28 (salvesen Logística)",
       "COD_PARADA": 3137,
       "ID_GRUPO": 1,
       "ID_PARADA": 12764,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. D´EUROPA / C. DEL DANUBI (CORREOS)",
+      "DESC_PARADA": "Avinguda D´europa / Carrer Del Danubi (correos)",
       "COD_PARADA": 3139,
       "ID_GRUPO": 1,
       "ID_PARADA": 12765,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL SENA, 2 (BANC DE SABADELL)",
+      "DESC_PARADA": "Carrer Del Sena, 2 (banc De Sabadell)",
       "COD_PARADA": 3141,
       "ID_GRUPO": 1,
       "ID_PARADA": 12766,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 164 (NESPRESSO)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 164 (nespresso)",
       "COD_PARADA": 3143,
       "ID_GRUPO": 1,
       "ID_PARADA": 12759,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 168 (IGUZZINI)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 168 (iguzzini)",
       "COD_PARADA": 3144,
       "ID_GRUPO": 1,
       "ID_PARADA": 12767,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 172 (HEWLETT PACKARD)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 172 (hewlett Packard)",
       "COD_PARADA": 3145,
       "ID_GRUPO": 1,
       "ID_PARADA": 12768,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 202 (GIMBERNAT)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 202 (gimbernat)",
       "COD_PARADA": 3146,
       "ID_GRUPO": 1,
       "ID_PARADA": 12769,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ALCALDE BARNILS / PL. XAVIER CUGAT",
+      "DESC_PARADA": "Avinguda Alcalde Barnils / Plaça Xavier Cugat",
       "COD_PARADA": 3147,
       "ID_GRUPO": 1,
       "ID_PARADA": 12770,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. VIA AUGUSTA  / AV. EUROPA",
+      "DESC_PARADA": "Avinguda Via Augusta  / Avinguda Europa",
       "COD_PARADA": 1960,
       "ID_GRUPO": 1,
       "ID_PARADA": 10590,
@@ -487,10 +487,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 421202,
-      "UTMY": 4593216,
-      "LATITUD": 41.484837759674,
-      "LONGITUD": 2.0549907382317,
+      "UTMX": 421203,
+      "UTMY": 4593208,
+      "LATITUD": 41.484793554486,
+      "LONGITUD": 2.0550229247399,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT, 149 (MORILLO)",
+      "DESC_PARADA": "Avinguda De La Generalitat, 149 (morillo)",
       "COD_PARADA": 3134,
       "ID_GRUPO": 1,
       "ID_PARADA": 12761,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LA GENERALITAT (DERMOFARM)",
+      "DESC_PARADA": "Avinguda De La Generalitat (dermofarm)",
       "COD_PARADA": 3135,
       "ID_GRUPO": 1,
       "ID_PARADA": 12762,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL SENA, 5 (BANC DE SABADELL)",
+      "DESC_PARADA": "Carrer Del Sena, 5 (banc De Sabadell)",
       "COD_PARADA": 3138,
       "ID_GRUPO": 1,
       "ID_PARADA": 12771,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. D´EUROPA. 16-21 (SALVESEN LOGÍSTICA)",
+      "DESC_PARADA": "Avinguda D´europa. 16-21 (salvesen Logística)",
       "COD_PARADA": 6920,
       "ID_GRUPO": 1,
       "ID_PARADA": 25326,

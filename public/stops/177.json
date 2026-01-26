@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS",
+      "DESC_PARADA": "Estació D´autobusos",
       "COD_PARADA": 21030,
       "ID_GRUPO": 1,
       "ID_PARADA": 10600,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS 2",
+      "DESC_PARADA": "Garrigues/sicoris 2",
       "COD_PARADA": 20063,
       "ID_GRUPO": 1,
       "ID_PARADA": 14339,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA BORDETA",
+      "DESC_PARADA": "La Bordeta",
       "COD_PARADA": 21068,
       "ID_GRUPO": 1,
       "ID_PARADA": 10610,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ARTESA DE LLEIDA",
+      "DESC_PARADA": "Artesa De Lleida",
       "COD_PARADA": 21070,
       "ID_GRUPO": 1,
       "ID_PARADA": 10598,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ASPA",
+      "DESC_PARADA": "Aspa",
       "COD_PARADA": 21069,
       "ID_GRUPO": 1,
       "ID_PARADA": 10597,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "EL COGUL",
+      "DESC_PARADA": "El Cogul",
       "COD_PARADA": 21170,
       "ID_GRUPO": 1,
       "ID_PARADA": 10596,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GARRIGUES/SICORIS",
+      "DESC_PARADA": "Garrigues/sicoris",
       "COD_PARADA": 20072,
       "ID_GRUPO": 1,
       "ID_PARADA": 14340,

@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL ESTACIÓ",
+          "DESC_PARADA": "Plaça Estació",
           "COD_PARADA": 1062,
           "ID_GRUPO": 1,
           "ID_PARADA": 19863,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. SANT JAUME / MENTA",
+          "DESC_PARADA": "Plaça Sant Jaume / Menta",
           "COD_PARADA": 9161,
           "ID_GRUPO": 1,
           "ID_PARADA": 9161,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DELS ESTRETS",
+          "DESC_PARADA": "Plaça Dels Estrets",
           "COD_PARADA": 9157,
           "ID_GRUPO": 1,
           "ID_PARADA": 9157,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CANAL DE LA MÀNEGA (COL·LEGI EL PINAR)",
+          "DESC_PARADA": "Canal De La Mànega (col·legi El Pinar)",
           "COD_PARADA": 9134,
           "ID_GRUPO": 1,
           "ID_PARADA": 9134,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARNAU CADELL",
+          "DESC_PARADA": "Arnau Cadell",
           "COD_PARADA": 9159,
           "ID_GRUPO": 1,
           "ID_PARADA": 9159,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE VILADELPRAT (ESTACIÓ VALLDOREIX)",
+          "DESC_PARADA": "Avinguda De Viladelprat (estació Valldoreix)",
           "COD_PARADA": 9160,
           "ID_GRUPO": 1,
           "ID_PARADA": 9160,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL ESTACIÓ",
+          "DESC_PARADA": "Plaça Estació",
           "COD_PARADA": 1062,
           "ID_GRUPO": 1,
           "ID_PARADA": 19863,

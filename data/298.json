@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LA  TECNOLOGIA (PARC VALLÈS)",
+          "DESC_PARADA": "Plaça De La  Tecnologia (parc Vallès)",
           "COD_PARADA": 3803,
           "ID_GRUPO": 1,
           "ID_PARADA": 3803,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. EULÀLIA",
+          "DESC_PARADA": "Sta. Eulàlia",
           "COD_PARADA": 4666,
           "ID_GRUPO": 1,
           "ID_PARADA": 12969,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GLÒRIES / PL. PAÏSOS CATALANS",
+          "DESC_PARADA": "Avinguda Glòries / Plaça Països Catalans",
           "COD_PARADA": 4333,
           "ID_GRUPO": 1,
           "ID_PARADA": 12845,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL CATALUNYA",
+          "DESC_PARADA": "Plaça Catalunya",
           "COD_PARADA": 4337,
           "ID_GRUPO": 1,
           "ID_PARADA": 12846,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ DEL NORD",
+          "DESC_PARADA": "Estació Del Nord",
           "COD_PARADA": 1114,
           "ID_GRUPO": 1,
           "ID_PARADA": 12847,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD CAMÍ (POLITÈCNIC)",
+          "DESC_PARADA": "Ricard Camí (politècnic)",
           "COD_PARADA": 1118,
           "ID_GRUPO": 1,
           "ID_PARADA": 12848,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+          "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
           "COD_PARADA": 7920,
           "ID_GRUPO": 1,
           "ID_PARADA": 7920,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CONCILI EGARENC",
+          "DESC_PARADA": "Concili Egarenc",
           "COD_PARADA": 4343,
           "ID_GRUPO": 1,
           "ID_PARADA": 12849,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -283,7 +283,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LA  TECNOLOGIA (PARC VALLÈS)",
+          "DESC_PARADA": "Plaça De La  Tecnologia (parc Vallès)",
           "COD_PARADA": 3803,
           "ID_GRUPO": 1,
           "ID_PARADA": 3803,
@@ -356,7 +356,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ D´AUTOBUSOS DE FABRA I PUIG",
+          "DESC_PARADA": "Estació D´autobusos De Fabra i Puig",
           "COD_PARADA": 4864,
           "ID_GRUPO": 1,
           "ID_PARADA": 4864,
@@ -384,7 +384,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LA  TECNOLOGIA (PARC VALLÈS)",
+          "DESC_PARADA": "Plaça De La  Tecnologia (parc Vallès)",
           "COD_PARADA": 3803,
           "ID_GRUPO": 1,
           "ID_PARADA": 3803,
@@ -412,7 +412,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. EULÀLIA",
+          "DESC_PARADA": "Sta. Eulàlia",
           "COD_PARADA": 4666,
           "ID_GRUPO": 1,
           "ID_PARADA": 12969,
@@ -440,7 +440,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GLÒRIES / PL. PAÏSOS CATALANS",
+          "DESC_PARADA": "Avinguda Glòries / Plaça Països Catalans",
           "COD_PARADA": 4333,
           "ID_GRUPO": 1,
           "ID_PARADA": 12845,
@@ -468,7 +468,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL CATALUNYA",
+          "DESC_PARADA": "Plaça Catalunya",
           "COD_PARADA": 4337,
           "ID_GRUPO": 1,
           "ID_PARADA": 12846,
@@ -496,7 +496,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ DEL NORD",
+          "DESC_PARADA": "Estació Del Nord",
           "COD_PARADA": 1114,
           "ID_GRUPO": 1,
           "ID_PARADA": 12847,
@@ -524,7 +524,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD CAMÍ (POLITÈCNIC)",
+          "DESC_PARADA": "Ricard Camí (politècnic)",
           "COD_PARADA": 1118,
           "ID_GRUPO": 1,
           "ID_PARADA": 12848,
@@ -552,7 +552,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAMBLA D´ÈGARA (TERRASSA RAMBLA)",
+          "DESC_PARADA": "Rambla D´ègara (terrassa Rambla)",
           "COD_PARADA": 7920,
           "ID_GRUPO": 1,
           "ID_PARADA": 7920,
@@ -580,7 +580,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CONCILI EGARENC",
+          "DESC_PARADA": "Concili Egarenc",
           "COD_PARADA": 4343,
           "ID_GRUPO": 1,
           "ID_PARADA": 12849,

@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / AV. DE BARBERÀ (BAIXADOR)",
+          "DESC_PARADA": "Gran Via / Avinguda De Barberà (baixador)",
           "COD_PARADA": 4930,
           "ID_GRUPO": 1,
           "ID_PARADA": 4930,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 2926,
           "ID_GRUPO": 1,
           "ID_PARADA": 2926,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 7640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7640,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+          "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
           "COD_PARADA": 4390,
           "ID_GRUPO": 1,
           "ID_PARADA": 4390,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA/C. ALCALDE RIBÉ (SABADELL NORD))",
+          "DESC_PARADA": "Plaça D´espanya/carrer Alcalde Ribé (sabadell Nord",
           "COD_PARADA": 5901,
           "ID_GRUPO": 1,
           "ID_PARADA": 13956,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL  PI",
+          "DESC_PARADA": "Plaça Del  Pi",
           "COD_PARADA": 6180,
           "ID_GRUPO": 1,
           "ID_PARADA": 6180,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV DE MATADEPERA / C. DE MERÇÈ RODOREDA",
+          "DESC_PARADA": "Avinguda De Matadepera / Carrer De Merçè Rodoreda",
           "COD_PARADA": 6120,
           "ID_GRUPO": 1,
           "ID_PARADA": 6120,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. JULIÀ",
+          "DESC_PARADA": "St. Julià",
           "COD_PARADA": 6140,
           "ID_GRUPO": 1,
           "ID_PARADA": 6140,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ / PLAÇA DE LES ACÀCIES",
+          "DESC_PARADA": "Passeig d´àngel Guimerà / Plaça De Les Acàcies",
           "COD_PARADA": 4873,
           "ID_GRUPO": 1,
           "ID_PARADA": 4873,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ/IGNASI IGLÉSIAS (RESIDÈNCIA)",
+          "DESC_PARADA": "Passeig D´àngel Guimerà/ignasi Iglésias (residènci",
           "COD_PARADA": 6150,
           "ID_GRUPO": 1,
           "ID_PARADA": 6150,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 7840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7840,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ENRIC GENESCÀ I CORTÉS / PG. DEL PLA",
+          "DESC_PARADA": "Carrer D´enric Genescà i Cortés / Passeig Del Pla",
           "COD_PARADA": 7850,
           "ID_GRUPO": 1,
           "ID_PARADA": 7850,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL PLA / PL. DEL DRAC",
+          "DESC_PARADA": "Passeig Del Pla / Plaça Del Drac",
           "COD_PARADA": 1092,
           "ID_GRUPO": 1,
           "ID_PARADA": 1092,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL PLA (PL. DE LES PALMERES)",
+          "DESC_PARADA": "Passeig Del Pla (plaça De Les Palmeres)",
           "COD_PARADA": 7860,
           "ID_GRUPO": 1,
           "ID_PARADA": 7860,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL PLA DE ST. LLORENÇ",
+          "DESC_PARADA": "Plaça Del Pla De St. Llorenç",
           "COD_PARADA": 7870,
           "ID_GRUPO": 1,
           "ID_PARADA": 7870,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN MARCET / C. DEL CAVALL BERNAT",
+          "DESC_PARADA": "Avinguda De Can Marcet / Carrer Del Cavall Bernat",
           "COD_PARADA": 1093,
           "ID_GRUPO": 1,
           "ID_PARADA": 1093,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN MARCET/C. DELS ROSSINYOLS",
+          "DESC_PARADA": "Avinguda De Can Marcet/carrer Dels Rossinyols",
           "COD_PARADA": 1094,
           "ID_GRUPO": 1,
           "ID_PARADA": 1094,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ROCAFORT/AV. DE CAN MARCET",
+          "DESC_PARADA": "Avinguda De Rocafort/avinguda De Can Marcet",
           "COD_PARADA": 1095,
           "ID_GRUPO": 1,
           "ID_PARADA": 14111,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ROCAFORT/ C. D´OLESA",
+          "DESC_PARADA": "Avinguda De Rocafort/ Carrer D´olesa",
           "COD_PARADA": 1096,
           "ID_GRUPO": 1,
           "ID_PARADA": 14112,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ROCAFORT/C. DEL CANAL DE L'ESTRET",
+          "DESC_PARADA": "Avinguda De Rocafort/carrer Del Canal De L'estret",
           "COD_PARADA": 1097,
           "ID_GRUPO": 1,
           "ID_PARADA": 1097,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE L´HOQUEI (LES PEDRITXES)",
+          "DESC_PARADA": "Plaça De L´hoquei (les Pedritxes)",
           "COD_PARADA": 6165,
           "ID_GRUPO": 1,
           "ID_PARADA": 6165,
@@ -619,7 +619,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / AV. DE BARBERÀ (BAIXADOR)",
+          "DESC_PARADA": "Gran Via / Avinguda De Barberà (baixador)",
           "COD_PARADA": 4930,
           "ID_GRUPO": 1,
           "ID_PARADA": 4930,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 2926,
           "ID_GRUPO": 1,
           "ID_PARADA": 2926,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 7640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7640,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+          "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
           "COD_PARADA": 4390,
           "ID_GRUPO": 1,
           "ID_PARADA": 4390,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA/C. ALCALDE RIBÉ (SABADELL NORD))",
+          "DESC_PARADA": "Plaça D´espanya/carrer Alcalde Ribé (sabadell Nord",
           "COD_PARADA": 5901,
           "ID_GRUPO": 1,
           "ID_PARADA": 13956,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL  PI",
+          "DESC_PARADA": "Plaça Del  Pi",
           "COD_PARADA": 6180,
           "ID_GRUPO": 1,
           "ID_PARADA": 6180,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV DE MATADEPERA / C. DE MERÇÈ RODOREDA",
+          "DESC_PARADA": "Avinguda De Matadepera / Carrer De Merçè Rodoreda",
           "COD_PARADA": 6120,
           "ID_GRUPO": 1,
           "ID_PARADA": 6120,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. JULIÀ",
+          "DESC_PARADA": "St. Julià",
           "COD_PARADA": 6140,
           "ID_GRUPO": 1,
           "ID_PARADA": 6140,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ / PLAÇA DE LES ACÀCIES",
+          "DESC_PARADA": "Passeig d´àngel Guimerà / Plaça De Les Acàcies",
           "COD_PARADA": 4873,
           "ID_GRUPO": 1,
           "ID_PARADA": 4873,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ/IGNASI IGLÉSIAS (RESIDÈNCIA)",
+          "DESC_PARADA": "Passeig D´àngel Guimerà/ignasi Iglésias (residènci",
           "COD_PARADA": 6150,
           "ID_GRUPO": 1,
           "ID_PARADA": 6150,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 7840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7840,
@@ -944,7 +944,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE L´HOQUEI (LES PEDRITXES)",
+          "DESC_PARADA": "Plaça De L´hoquei (les Pedritxes)",
           "COD_PARADA": 6165,
           "ID_GRUPO": 1,
           "ID_PARADA": 6165,
@@ -972,7 +972,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV ROCAFORT-CANAL DE L'ESTRET",
+          "DESC_PARADA": "Avinguda Rocafort-canal De L'estret",
           "COD_PARADA": 1098,
           "ID_GRUPO": 1,
           "ID_PARADA": 1098,
@@ -1000,7 +1000,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ROCAFORT/ C. D´OLESA",
+          "DESC_PARADA": "Avinguda De Rocafort/ Carrer D´olesa",
           "COD_PARADA": 1099,
           "ID_GRUPO": 1,
           "ID_PARADA": 14113,
@@ -1028,7 +1028,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ROCAFORT/AV. DE CAN MARCET",
+          "DESC_PARADA": "Avinguda De Rocafort/avinguda De Can Marcet",
           "COD_PARADA": 1101,
           "ID_GRUPO": 1,
           "ID_PARADA": 14114,
@@ -1056,7 +1056,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN MARCET/C. DELS ROSSINYOLS",
+          "DESC_PARADA": "Avinguda De Can Marcet/carrer Dels Rossinyols",
           "COD_PARADA": 1102,
           "ID_GRUPO": 1,
           "ID_PARADA": 1102,
@@ -1084,7 +1084,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN MARCET/C. DEL CAVALL BERNAT",
+          "DESC_PARADA": "Avinguda De Can Marcet/carrer Del Cavall Bernat",
           "COD_PARADA": 1103,
           "ID_GRUPO": 1,
           "ID_PARADA": 14115,
@@ -1112,7 +1112,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL PLA DE ST. LLORENÇ",
+          "DESC_PARADA": "Plaça Del Pla De St. Llorenç",
           "COD_PARADA": 4854,
           "ID_GRUPO": 1,
           "ID_PARADA": 4854,
@@ -1140,7 +1140,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL PLA (PL. DE LES PALMERES)",
+          "DESC_PARADA": "Passeig Del Pla (plaça De Les Palmeres)",
           "COD_PARADA": 1116,
           "ID_GRUPO": 1,
           "ID_PARADA": 1116,
@@ -1168,7 +1168,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL/C. DE LES  PLA-FOGUEROSES",
+          "DESC_PARADA": "Passeig Del/carrer De Les  Pla-fogueroses",
           "COD_PARADA": 1122,
           "ID_GRUPO": 1,
           "ID_PARADA": 1122,
@@ -1196,7 +1196,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL PLA / C. D´ENRIC GENESCÀ I CORTÉS",
+          "DESC_PARADA": "Passeig Del Pla / Carrer D´enric Genescà i Cortés",
           "COD_PARADA": 1117,
           "ID_GRUPO": 1,
           "ID_PARADA": 1117,
@@ -1224,7 +1224,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 89,
           "ID_GRUPO": 1,
           "ID_PARADA": 89,
@@ -1252,7 +1252,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ/NARCÍS MONTURIOL (RESIDÈNCIA)",
+          "DESC_PARADA": "Passeig D´àngel Guimerà/narcís Monturiol (residènc",
           "COD_PARADA": 91,
           "ID_GRUPO": 1,
           "ID_PARADA": 91,
@@ -1280,7 +1280,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ / PLAÇA DE LES ACÀCIES",
+          "DESC_PARADA": "Passeig D´àngel Guimerà / Plaça De Les Acàcies",
           "COD_PARADA": 4874,
           "ID_GRUPO": 1,
           "ID_PARADA": 4874,
@@ -1308,7 +1308,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. JULIÀ",
+          "DESC_PARADA": "St. Julià",
           "COD_PARADA": 92,
           "ID_GRUPO": 1,
           "ID_PARADA": 92,
@@ -1336,7 +1336,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MATADEPERA/C. DE LLES",
+          "DESC_PARADA": "Avinguda De Matadepera/carrer De Lles",
           "COD_PARADA": 93,
           "ID_GRUPO": 1,
           "ID_PARADA": 93,
@@ -1364,7 +1364,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL  FARELL",
+          "DESC_PARADA": "Plaça Del  Farell",
           "COD_PARADA": 94,
           "ID_GRUPO": 1,
           "ID_PARADA": 94,
@@ -1392,7 +1392,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+          "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
           "COD_PARADA": 95,
           "ID_GRUPO": 1,
           "ID_PARADA": 95,
@@ -1420,7 +1420,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+          "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
           "COD_PARADA": 96,
           "ID_GRUPO": 1,
           "ID_PARADA": 96,
@@ -1448,7 +1448,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 97,
           "ID_GRUPO": 1,
           "ID_PARADA": 97,
@@ -1476,7 +1476,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 441,
           "ID_GRUPO": 1,
           "ID_PARADA": 441,
@@ -1504,7 +1504,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE BARBERÀ/C. DE TETUAN",
+          "DESC_PARADA": "Avinguda De Barberà/carrer De Tetuan",
           "COD_PARADA": 99,
           "ID_GRUPO": 1,
           "ID_PARADA": 99,
@@ -1549,7 +1549,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE SANT JORDI",
+          "DESC_PARADA": "Plaça De Sant Jordi",
           "COD_PARADA": 89,
           "ID_GRUPO": 1,
           "ID_PARADA": 89,
@@ -1577,7 +1577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ/NARCÍS MONTURIOL (RESIDÈNCIA)",
+          "DESC_PARADA": "Passeig D´àngel Guimerà/narcís Monturiol (residènc",
           "COD_PARADA": 91,
           "ID_GRUPO": 1,
           "ID_PARADA": 91,
@@ -1605,7 +1605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. D´ÀNGEL GUIMERÀ / PLAÇA DE LES ACÀCIES",
+          "DESC_PARADA": "Passeig D´àngel Guimerà / Plaça De Les Acàcies",
           "COD_PARADA": 4874,
           "ID_GRUPO": 1,
           "ID_PARADA": 4874,
@@ -1633,7 +1633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. JULIÀ",
+          "DESC_PARADA": "St. Julià",
           "COD_PARADA": 92,
           "ID_GRUPO": 1,
           "ID_PARADA": 92,
@@ -1661,7 +1661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE MATADEPERA/C. DE LLES",
+          "DESC_PARADA": "Avinguda De Matadepera/carrer De Lles",
           "COD_PARADA": 93,
           "ID_GRUPO": 1,
           "ID_PARADA": 93,
@@ -1689,7 +1689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL  FARELL",
+          "DESC_PARADA": "Plaça Del  Farell",
           "COD_PARADA": 94,
           "ID_GRUPO": 1,
           "ID_PARADA": 94,
@@ -1717,7 +1717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+          "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
           "COD_PARADA": 95,
           "ID_GRUPO": 1,
           "ID_PARADA": 95,
@@ -1745,7 +1745,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+          "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
           "COD_PARADA": 96,
           "ID_GRUPO": 1,
           "ID_PARADA": 96,
@@ -1773,7 +1773,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC TAULÍ",
+          "DESC_PARADA": "Parc Taulí",
           "COD_PARADA": 97,
           "ID_GRUPO": 1,
           "ID_PARADA": 97,
@@ -1801,7 +1801,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+          "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
           "COD_PARADA": 441,
           "ID_GRUPO": 1,
           "ID_PARADA": 441,
@@ -1829,7 +1829,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE BARBERÀ/C. DE TETUAN",
+          "DESC_PARADA": "Avinguda De Barberà/carrer De Tetuan",
           "COD_PARADA": 99,
           "ID_GRUPO": 1,
           "ID_PARADA": 99,

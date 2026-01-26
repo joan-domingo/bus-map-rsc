@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE COMABELLA",
+      "DESC_PARADA": "Plaça De Comabella",
       "COD_PARADA": 4770,
       "ID_GRUPO": 1,
       "ID_PARADA": 4770,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE MONISTROL / PG. DELS ARBRES (PAVELLÓ)",
+      "DESC_PARADA": "Carretera De Monistrol / Passeig Dels Arbres (pave",
       "COD_PARADA": 5121,
       "ID_GRUPO": 1,
       "ID_PARADA": 14083,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE  CATALUNYA (EL PONT)",
+      "DESC_PARADA": "Avinguda De  Catalunya (el Pont)",
       "COD_PARADA": 4785,
       "ID_GRUPO": 1,
       "ID_PARADA": 4785,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (RESIDÈNCIA)",
+      "DESC_PARADA": "Carretera De Sabadell (residència)",
       "COD_PARADA": 4590,
       "ID_GRUPO": 1,
       "ID_PARADA": 4590,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (PONT DE LA ROCA)",
+      "DESC_PARADA": "Carretera De Sabadell (pont De La Roca)",
       "COD_PARADA": 4600,
       "ID_GRUPO": 1,
       "ID_PARADA": 4600,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (LES MARINES)",
+      "DESC_PARADA": "Carretera De Sabadell (les Marines)",
       "COD_PARADA": 1912,
       "ID_GRUPO": 1,
       "ID_PARADA": 12115,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (LES ARENES)",
+      "DESC_PARADA": "Carretera De Sabadell (les Arenes)",
       "COD_PARADA": 4610,
       "ID_GRUPO": 1,
       "ID_PARADA": 4610,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (MAS PINETÓ)",
+      "DESC_PARADA": "Carretera De Sabadell (mas Pinetó)",
       "COD_PARADA": 564,
       "ID_GRUPO": 1,
       "ID_PARADA": 564,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "EL TURELL",
+      "DESC_PARADA": "El Turell",
       "COD_PARADA": 9866,
       "ID_GRUPO": 1,
       "ID_PARADA": 12475,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AIRESOL D",
+      "DESC_PARADA": "Airesol d",
       "COD_PARADA": 9863,
       "ID_GRUPO": 1,
       "ID_PARADA": 12472,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PUIGCAPSUT (AIRESOL A-B)",
+      "DESC_PARADA": "Carrer De Puigcapsut (airesol A-b)",
       "COD_PARADA": 4630,
       "ID_GRUPO": 1,
       "ID_PARADA": 4630,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BP-124 - C. DE LA CAMAMILLA (AIRESOL C)",
+      "DESC_PARADA": "Bp-124 - Carrer De La Camamilla (airesol Carrer)",
       "COD_PARADA": 4635,
       "ID_GRUPO": 1,
       "ID_PARADA": 4635,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL DR. PUJOL (CAPELLA DE MONTSERRAT)",
+      "DESC_PARADA": "Carrer Del Dr. Pujol (capella De Montserrat)",
       "COD_PARADA": 4640,
       "ID_GRUPO": 1,
       "ID_PARADA": 4640,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE BARCELONA / C. DE GIRONA",
+      "DESC_PARADA": "Carrer De Barcelona / Carrer De Girona",
       "COD_PARADA": 4645,
       "ID_GRUPO": 1,
       "ID_PARADA": 4645,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE BARCELONA (CAMP DE FUTBOL)",
+      "DESC_PARADA": "Carrer De Barcelona (camp De Futbol)",
       "COD_PARADA": 4655,
       "ID_GRUPO": 1,
       "ID_PARADA": 4655,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE BARCELONA / C. D´ALEMANYA",
+      "DESC_PARADA": "Carrer De Barcelona / Carrer D´alemanya",
       "COD_PARADA": 4665,
       "ID_GRUPO": 1,
       "ID_PARADA": 4665,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. D´OSONA / C. DE LA CONCA DE BARBERÀ",
+      "DESC_PARADA": "Carrer D´osona / Carrer De La Conca De Barberà",
       "COD_PARADA": 4670,
       "ID_GRUPO": 1,
       "ID_PARADA": 4670,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+      "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
       "COD_PARADA": 442,
       "ID_GRUPO": 1,
       "ID_PARADA": 442,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+      "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
       "COD_PARADA": 444,
       "ID_GRUPO": 1,
       "ID_PARADA": 444,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRENT CAPELLÀ",
+      "DESC_PARADA": "Torrent Capellà",
       "COD_PARADA": 4380,
       "ID_GRUPO": 1,
       "ID_PARADA": 4380,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV ALCALDE MOIX-FONT CANALETA",
+      "DESC_PARADA": "Avinguda Alcalde Moix-font Canaleta",
       "COD_PARADA": 4882,
       "ID_GRUPO": 1,
       "ID_PARADA": 4882,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D´ESPANYA (SABADELL NORD)",
+      "DESC_PARADA": "Plaça D´espanya (sabadell Nord)",
       "COD_PARADA": 6100,
       "ID_GRUPO": 1,
       "ID_PARADA": 6100,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA/CTRA. PRATS LL. (MERCAT DE LA CREU ALTA)",
+      "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
       "COD_PARADA": 96,
       "ID_GRUPO": 1,
       "ID_PARADA": 96,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC TAULÍ",
+      "DESC_PARADA": "Parc Taulí",
       "COD_PARADA": 97,
       "ID_GRUPO": 1,
       "ID_PARADA": 97,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE CLARA CAMPOAMOR (ESTACIÓ D´AUTOBUSOS)",
+      "DESC_PARADA": "Plaça De Clara Campoamor (estació D´autobusos)",
       "COD_PARADA": 441,
       "ID_GRUPO": 1,
       "ID_PARADA": 441,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL / C. ALFONS GUBERN",
+      "DESC_PARADA": "Carretera De Sabadell / Carrer Alfons Gubern",
       "COD_PARADA": 4856,
       "ID_GRUPO": 1,
       "ID_PARADA": 4856,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL / C. DE CAN CARNER",
+      "DESC_PARADA": "Carretera De Sabadell / Carrer De Can Carner",
       "COD_PARADA": 4310,
       "ID_GRUPO": 1,
       "ID_PARADA": 4310,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RONDA DE TOLOSA / CTRA. DE SABADELL (CAN CARNER)",
+      "DESC_PARADA": "Ronda De Tolosa / Carretera De Sabadell (can Carne",
       "COD_PARADA": 4605,
       "ID_GRUPO": 1,
       "ID_PARADA": 4605,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PARC TAULÍ",
+      "DESC_PARADA": "Parc Taulí",
       "COD_PARADA": 7640,
       "ID_GRUPO": 1,
       "ID_PARADA": 7640,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "GRAN VIA / CTRA. DE PRATS DE LLUÇANÉS",
+      "DESC_PARADA": "Gran Via / Carretera De Prats De Lluçanés",
       "COD_PARADA": 4390,
       "ID_GRUPO": 1,
       "ID_PARADA": 4390,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SABADELL NORD RENFE",
+      "DESC_PARADA": "Sabadell Nord Renfe",
       "COD_PARADA": 3847,
       "ID_GRUPO": 1,
       "ID_PARADA": 3847,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. D´ALCALDE MOIX / C. DEL MAESTRAT",
+      "DESC_PARADA": "Avinguda D´alcalde Moix / Carrer Del Maestrat",
       "COD_PARADA": 4881,
       "ID_GRUPO": 1,
       "ID_PARADA": 4881,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRENT CAPELLÀ",
+      "DESC_PARADA": "Torrent Capellà",
       "COD_PARADA": 4370,
       "ID_GRUPO": 1,
       "ID_PARADA": 4370,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE PRATS DE LLUÇANÈS (LA LLANERA)",
+      "DESC_PARADA": "Carretera De Prats De Lluçanès (la Llanera)",
       "COD_PARADA": 4360,
       "ID_GRUPO": 1,
       "ID_PARADA": 4360,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA SABADELL/C. BAGES (PLA DE LA BRUGUERA)",
+      "DESC_PARADA": "Carretera Sabadell/carrer Bages (pla De La Bruguer",
       "COD_PARADA": 4320,
       "ID_GRUPO": 1,
       "ID_PARADA": 4320,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE TARRAGONA / PL. D´EUROPA",
+      "DESC_PARADA": "Carrer De Tarragona / Plaça D´europa",
       "COD_PARADA": 4615,
       "ID_GRUPO": 1,
       "ID_PARADA": 4615,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE TARRAGONA / C. DE JAUME I (CAMP DE FUTBOL)",
+      "DESC_PARADA": "Carrer De Tarragona / Carrer De Jaume i (camp De f",
       "COD_PARADA": 4623,
       "ID_GRUPO": 1,
       "ID_PARADA": 4623,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE PEDRISSOS / PL. DE LA FÀBRICA NOVA",
+      "DESC_PARADA": "Carrer De Pedrissos / Plaça De La Fàbrica Nova",
       "COD_PARADA": 4857,
       "ID_GRUPO": 1,
       "ID_PARADA": 4857,
@@ -1065,7 +1065,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA .DE SABADELL / PL. DEL FORJADOR",
+      "DESC_PARADA": "Carretera .de Sabadell / Plaça Del Forjador",
       "COD_PARADA": 4629,
       "ID_GRUPO": 1,
       "ID_PARADA": 4629,
@@ -1093,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (AIRESOL D)",
+      "DESC_PARADA": "Carretera De Sabadell (airesol D)",
       "COD_PARADA": 9862,
       "ID_GRUPO": 1,
       "ID_PARADA": 12471,
@@ -1121,7 +1121,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (TURELL)",
+      "DESC_PARADA": "Carretera De Sabadell (turell)",
       "COD_PARADA": 9865,
       "ID_GRUPO": 1,
       "ID_PARADA": 12474,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL (PONT DE LA ROCA)",
+      "DESC_PARADA": "Carretera De Sabadell (pont De La Roca)",
       "COD_PARADA": 562,
       "ID_GRUPO": 1,
       "ID_PARADA": 562,
@@ -1177,7 +1177,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE SABADELL / C. DEL RIPOLL (BENZINERA)",
+      "DESC_PARADA": "Carretera De Sabadell / Carrer Del Ripoll (benzine",
       "COD_PARADA": 4858,
       "ID_GRUPO": 1,
       "ID_PARADA": 4858,
@@ -1205,7 +1205,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE MONISTROL / AV. DE CATALUNYA",
+      "DESC_PARADA": "Carretera De Monistrol / Avinguda De Catalunya",
       "COD_PARADA": 4859,
       "ID_GRUPO": 1,
       "ID_PARADA": 4859,
@@ -1233,7 +1233,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE MONISTROL /PG. DELS ARBRES",
+      "DESC_PARADA": "Carretera De Monistrol /passeig Dels Arbres",
       "COD_PARADA": 4861,
       "ID_GRUPO": 1,
       "ID_PARADA": 12513,

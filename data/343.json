@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / CREU",
+          "DESC_PARADA": "Passeig Francesc Macià / Creu",
           "COD_PARADA": 4352,
           "ID_GRUPO": 1,
           "ID_PARADA": 11648,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (CPA)",
+          "DESC_PARADA": "Passeig Francesc Macià (cpa)",
           "COD_PARADA": 9973,
           "ID_GRUPO": 1,
           "ID_PARADA": 10577,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / JOSEP CARNER",
+          "DESC_PARADA": "Passeig Francesc Macià / Josep Carner",
           "COD_PARADA": 4353,
           "ID_GRUPO": 1,
           "ID_PARADA": 12224,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig Francesc Macià (rodalies)",
           "COD_PARADA": 8088,
           "ID_GRUPO": 1,
           "ID_PARADA": 8088,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CERDANYA (PLAÇA DEL XIC)",
+          "DESC_PARADA": "Carrer Cerdanya (plaça Del Xic)",
           "COD_PARADA": 2069,
           "ID_GRUPO": 1,
           "ID_PARADA": 21940,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / AV. GRAELLS",
+          "DESC_PARADA": "Avinguda Clota / Avinguda Graells",
           "COD_PARADA": 9974,
           "ID_GRUPO": 1,
           "ID_PARADA": 10578,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ANTONI BELL (ESTACIÓ VOLPELLERES)",
+          "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
           "COD_PARADA": 7,
           "ID_GRUPO": 1,
           "ID_PARADA": 11657,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+          "DESC_PARADA": "Avinguda Clota / Roc Codó",
           "COD_PARADA": 9975,
           "ID_GRUPO": 1,
           "ID_PARADA": 10579,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. VIA AUGUSTA (CAR)",
+          "DESC_PARADA": "Avinguda Via Augusta (car)",
           "COD_PARADA": 9976,
           "ID_GRUPO": 1,
           "ID_PARADA": 10580,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. ALCALDE BARNILS (ASEPEYO)",
+          "DESC_PARADA": "Avinguda Alcalde Barnils (asepeyo)",
           "COD_PARADA": 2679,
           "ID_GRUPO": 1,
           "ID_PARADA": 10618,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ CAN SANT JOAN",
+          "DESC_PARADA": "Estació Can Sant Joan",
           "COD_PARADA": 9201,
           "ID_GRUPO": 1,
           "ID_PARADA": 10433,
@@ -367,7 +367,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ CAN SANT JOAN",
+          "DESC_PARADA": "Estació Can Sant Joan",
           "COD_PARADA": 9201,
           "ID_GRUPO": 1,
           "ID_PARADA": 10433,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE XAVIER CUGAT (RTVE)",
+          "DESC_PARADA": "Plaça De Xavier Cugat (rtve)",
           "COD_PARADA": 2680,
           "ID_GRUPO": 1,
           "ID_PARADA": 10619,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. GENERALITAT, 201 (THAU)",
+          "DESC_PARADA": "Avinguda Generalitat, 201 (thau)",
           "COD_PARADA": 9978,
           "ID_GRUPO": 1,
           "ID_PARADA": 10582,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / ROC CODÓ",
+          "DESC_PARADA": "Avinguda Clota / Roc Codó",
           "COD_PARADA": 9988,
           "ID_GRUPO": 1,
           "ID_PARADA": 10583,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA / PG. MARE DE LA FONT",
+          "DESC_PARADA": "Avinguda Clota / Passeig Mare De La Font",
           "COD_PARADA": 4351,
           "ID_GRUPO": 1,
           "ID_PARADA": 12222,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CLOTA (E. L´OLIVERA)",
+          "DESC_PARADA": "Avinguda Clota (e. L´olivera)",
           "COD_PARADA": 2689,
           "ID_GRUPO": 1,
           "ID_PARADA": 10628,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CERDANYA (PLAÇA DEL XIC)",
+          "DESC_PARADA": "Carrer Cerdanya (plaça Del Xic)",
           "COD_PARADA": 2069,
           "ID_GRUPO": 1,
           "ID_PARADA": 21940,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG.FRANCESC MACIÀ (RODALIES)",
+          "DESC_PARADA": "Passeig.francesc Macià (rodalies)",
           "COD_PARADA": 8064,
           "ID_GRUPO": 1,
           "ID_PARADA": 8064,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ / CARLES RIBA",
+          "DESC_PARADA": "Passeig Francesc Macià / Carles Riba",
           "COD_PARADA": 9984,
           "ID_GRUPO": 1,
           "ID_PARADA": 10585,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+          "DESC_PARADA": "Passeig Francesc Macià (monestir)",
           "COD_PARADA": 9158,
           "ID_GRUPO": 1,
           "ID_PARADA": 9158,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DEL CELLER / C. DE SANT MEDIR",
+          "DESC_PARADA": "Rambla Del Celler / Carrer De Sant Medir",
           "COD_PARADA": 5085,
           "ID_GRUPO": 1,
           "ID_PARADA": 5085,

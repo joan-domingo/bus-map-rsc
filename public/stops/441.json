@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL ESTACIÓ",
+      "DESC_PARADA": "Plaça Estació",
       "COD_PARADA": 1062,
       "ID_GRUPO": 1,
       "ID_PARADA": 19863,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1063,
       "ID_GRUPO": 1,
       "ID_PARADA": 19864,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER (CASAL DE CULTURA)",
+      "DESC_PARADA": "Rambla Verdaguer (casal De Cultura)",
       "COD_PARADA": 1070,
       "ID_GRUPO": 1,
       "ID_PARADA": 19865,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-SARRIÀ",
+      "DESC_PARADA": "Rambla Verdaguer-sarrià",
       "COD_PARADA": 1082,
       "ID_GRUPO": 1,
       "ID_PARADA": 19866,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER-AV JOAN BORRÀS",
+      "DESC_PARADA": "Rambla Verdaguer-avinguda Joan Borràs",
       "COD_PARADA": 1083,
       "ID_GRUPO": 1,
       "ID_PARADA": 19867,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RBLA VERDAGUER (CASA DE LA VILA)",
+      "DESC_PARADA": "Rambla Verdaguer (casa De La Vila)",
       "COD_PARADA": 1086,
       "ID_GRUPO": 1,
       "ID_PARADA": 19868,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL MAS ROIG",
+      "DESC_PARADA": "Plaça Mas Roig",
       "COD_PARADA": 1087,
       "ID_GRUPO": 1,
       "ID_PARADA": 19869,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL OLIVERES",
+      "DESC_PARADA": "Plaça Oliveres",
       "COD_PARADA": 1107,
       "ID_GRUPO": 1,
       "ID_PARADA": 19870,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL JOAN GASSÓ",
+      "DESC_PARADA": "Plaça Joan Gassó",
       "COD_PARADA": 1115,
       "ID_GRUPO": 1,
       "ID_PARADA": 19872,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG GUINEU-PG FONT",
+      "DESC_PARADA": "Passeig Guineu-passeig Font",
       "COD_PARADA": 1127,
       "ID_GRUPO": 1,
       "ID_PARADA": 19873,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG.GUINEU-C.BROLLADOR.COMPLEX ESPORTIU",
+      "DESC_PARADA": "Passeig.guineu-carrer.brollador.complex Esportiu",
       "COD_PARADA": 1128,
       "ID_GRUPO": 1,
       "ID_PARADA": 19929,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERDAGUER-PG ORENETA",
+      "DESC_PARADA": "Avinguda Verdaguer-passeig Oreneta",
       "COD_PARADA": 1131,
       "ID_GRUPO": 1,
       "ID_PARADA": 19875,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL OCELLS",
+      "DESC_PARADA": "Plaça Ocells",
       "COD_PARADA": 1142,
       "ID_GRUPO": 1,
       "ID_PARADA": 19876,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV RAMON ESCAYOLA-PG MERLA",
+      "DESC_PARADA": "Avinguda Ramon Escayola-passeig Merla",
       "COD_PARADA": 1147,
       "ID_GRUPO": 1,
       "ID_PARADA": 19877,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. RAMON ESCAYOLA - PG. NARD",
+      "DESC_PARADA": "Avinguda Ramon Escayola - Passeig Nard",
       "COD_PARADA": 1148,
       "ID_GRUPO": 1,
       "ID_PARADA": 19878,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV RAMON ESCAYOLA-AV JOAN BORRÀS",
+      "DESC_PARADA": "Avinguda Ramon Escayola-avinguda Joan Borràs",
       "COD_PARADA": 1186,
       "ID_GRUPO": 1,
       "ID_PARADA": 19879,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. RAMON ESCAYOLA - AV BAIXADOR",
+      "DESC_PARADA": "Avinguda Ramon Escayola - Avinguda Baixador",
       "COD_PARADA": 1238,
       "ID_GRUPO": 1,
       "ID_PARADA": 19856,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG RUBÍ-PG MARISCOTA",
+      "DESC_PARADA": "Passeig Rubí-passeig Mariscota",
       "COD_PARADA": 1561,
       "ID_GRUPO": 1,
       "ID_PARADA": 19861,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG RUBÍ-EL SALVADOR",
+      "DESC_PARADA": "Passeig Rubí-el Salvador",
       "COD_PARADA": 1253,
       "ID_GRUPO": 1,
       "ID_PARADA": 19858,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG RUBÍ-ST ALBERT",
+      "DESC_PARADA": "Passeig Rubí-st Albert",
       "COD_PARADA": 1254,
       "ID_GRUPO": 1,
       "ID_PARADA": 19860,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL CAN CADENA",
+      "DESC_PARADA": "Plaça Can Cadena",
       "COD_PARADA": 1567,
       "ID_GRUPO": 1,
       "ID_PARADA": 19862,

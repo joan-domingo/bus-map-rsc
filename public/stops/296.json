@@ -1,7 +1,35 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PL. JOAN BORRÀS / FGC MIRA-SOL",
+      "DESC_PARADA": "Passeig Olabarria (cap Valldoreix)",
+      "COD_PARADA": 5091,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 5091,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 422091,
+      "UTMY": 4590351,
+      "LATITUD": 41.459121706824,
+      "LONGITUD": 2.0660087557795,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 101,
+    "SECUENCIA": 230,
+    "ID_PARADA": 5091,
+    "NKM_ORIGEN": 12.828,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Plaça Joan Borràs / Fgc Mira-sol",
       "COD_PARADA": 3816,
       "ID_GRUPO": 1,
       "ID_PARADA": 3816,
@@ -29,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / TEROL",
+      "DESC_PARADA": "Passeig Baixador / Terol",
       "COD_PARADA": 8265,
       "ID_GRUPO": 1,
       "ID_PARADA": 12323,
@@ -57,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. BAIXADOR / SARAGOSSA",
+      "DESC_PARADA": "Passeig Baixador / Saragossa",
       "COD_PARADA": 8266,
       "ID_GRUPO": 1,
       "ID_PARADA": 12324,
@@ -85,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ ST. CUGAT AL PAPIOL / SARAGOSSA",
+      "DESC_PARADA": "Sargossa / Camí de Sant Cugat el Papiol",
       "COD_PARADA": 9084,
       "ID_GRUPO": 1,
       "ID_PARADA": 9084,
@@ -113,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ ST. CUGAT AL PAPIOL / (CEIP CATALUNYA)",
+      "DESC_PARADA": "Camí St. Cugat Al Papiol / (ceip Catalunya)",
       "COD_PARADA": 9155,
       "ID_GRUPO": 1,
       "ID_PARADA": 9155,
@@ -141,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POMPEU FABRA",
+      "DESC_PARADA": "Pompeu Fabra",
       "COD_PARADA": 9085,
       "ID_GRUPO": 1,
       "ID_PARADA": 9085,
@@ -169,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DEL ROSER / MONT BLANC",
+      "DESC_PARADA": "Passeig Del Roser / Mont Blanc",
       "COD_PARADA": 9086,
       "ID_GRUPO": 1,
       "ID_PARADA": 9086,
@@ -197,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN CABASSA / C. DE JOSEP VALLS",
+      "DESC_PARADA": "Avinguda Can Cabassa / Carrer De Josep Valls",
       "COD_PARADA": 8267,
       "ID_GRUPO": 1,
       "ID_PARADA": 12325,
@@ -225,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAN CABASSA-ARAGÓ",
+      "DESC_PARADA": "Can Cabassa-aragó",
       "COD_PARADA": 8091,
       "ID_GRUPO": 1,
       "ID_PARADA": 8091,
@@ -253,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FUERTEVENTURA",
+      "DESC_PARADA": "Fuerteventura",
       "COD_PARADA": 8268,
       "ID_GRUPO": 1,
       "ID_PARADA": 12326,
@@ -281,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DELS PINS",
+      "DESC_PARADA": "Plaça Dels Pins",
       "COD_PARADA": 8256,
       "ID_GRUPO": 1,
       "ID_PARADA": 12318,
@@ -309,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FUERTEVENTURA",
+      "DESC_PARADA": "Fuerteventura",
       "COD_PARADA": 9061,
       "ID_GRUPO": 1,
       "ID_PARADA": 9061,
@@ -337,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG DEL NARD - AV. CAN CABASSA",
+      "DESC_PARADA": "Passeig Del Nard - Avinguda Can Cabassa",
       "COD_PARADA": 3796,
       "ID_GRUPO": 1,
       "ID_PARADA": 10648,
@@ -365,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DEL NARD",
+      "DESC_PARADA": "Passeig Del Nard",
       "COD_PARADA": 9062,
       "ID_GRUPO": 1,
       "ID_PARADA": 9062,
@@ -393,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MADRID / PG. DEL NARD",
+      "DESC_PARADA": "Avinguda Madrid / Passeig Del Nard",
       "COD_PARADA": 9063,
       "ID_GRUPO": 1,
       "ID_PARADA": 9063,
@@ -421,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. MADRID / VITÒRIA",
+      "DESC_PARADA": "Avinguda Madrid / Vitòria",
       "COD_PARADA": 9064,
       "ID_GRUPO": 1,
       "ID_PARADA": 9064,
@@ -449,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "POMPEU FABRA / SARAGOSSA",
+      "DESC_PARADA": "Pompeu Fabra / Saragossa",
       "COD_PARADA": 4553,
       "ID_GRUPO": 1,
       "ID_PARADA": 12954,
@@ -477,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "JOSEP IRLA / J. DE MONTCORB",
+      "DESC_PARADA": "Josep Irla / J. De Montcorb",
       "COD_PARADA": 6953,
       "ID_GRUPO": 1,
       "ID_PARADA": 12558,
@@ -505,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PRAT DE LA RIBA",
+      "DESC_PARADA": "Prat De La Riba",
       "COD_PARADA": 4554,
       "ID_GRUPO": 1,
       "ID_PARADA": 12955,
@@ -533,7 +561,35 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE RUBÍ, KM14,5 / C. DE PRAT DE LA RIBA",
+      "DESC_PARADA": "3848 PAÏSOS CATALANS",
+      "COD_PARADA": 3848,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 3848,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 421361,
+      "UTMY": 4592645,
+      "LATITUD": 41.4797428,
+      "LONGITUD": 2.0569886,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 201,
+    "SECUENCIA": 175,
+    "ID_PARADA": 3848,
+    "NKM_ORIGEN": 6.984,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Carretera De Rubí, Km14,5 / Carrer De Prat De La r",
       "COD_PARADA": 393,
       "ID_GRUPO": 1,
       "ID_PARADA": 393,
@@ -561,7 +617,35 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. DE VALLVIDRERA / CAP TURÓ DE CAN MATES",
+      "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
+      "COD_PARADA": 7,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 11657,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 422637,
+      "UTMY": 4592763,
+      "LATITUD": 41.480924954401,
+      "LONGITUD": 2.0722475325629,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 101,
+    "SECUENCIA": 190,
+    "ID_PARADA": 11657,
+    "NKM_ORIGEN": 8.521,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Carretera De Vallvidrera / Cap Turó De Can Mates",
       "COD_PARADA": 6948,
       "ID_GRUPO": 1,
       "ID_PARADA": 12554,
@@ -589,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE VALLVIDRERA-PERE FERRER",
+      "DESC_PARADA": "Carretera De Vallvidrera-pere Ferrer",
       "COD_PARADA": 4556,
       "ID_GRUPO": 1,
       "ID_PARADA": 12956,

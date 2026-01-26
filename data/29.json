@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL COLL DE LA CREU D'EN BLAU",
+          "DESC_PARADA": "Plaça Del Coll De La Creu D'en Blau",
           "COD_PARADA": 9115,
           "ID_GRUPO": 1,
           "ID_PARADA": 9115,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MOLÍ DE LES PLANES",
+          "DESC_PARADA": "Molí De Les Planes",
           "COD_PARADA": 8269,
           "ID_GRUPO": 1,
           "ID_PARADA": 12327,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FONT D'EN COLOM",
+          "DESC_PARADA": "Font D'en Colom",
           "COD_PARADA": 9113,
           "ID_GRUPO": 1,
           "ID_PARADA": 9113,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA / ST. IGNASI DE LOIOLA",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada / St. Ignasi De Loiola",
           "COD_PARADA": 9187,
           "ID_GRUPO": 1,
           "ID_PARADA": 9187,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada",
           "COD_PARADA": 9186,
           "ID_GRUPO": 1,
           "ID_PARADA": 9186,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA / CALVARI",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada / Calvari",
           "COD_PARADA": 9181,
           "ID_GRUPO": 1,
           "ID_PARADA": 9181,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL TORRENT / ST. FRANCESC D´ASSIS",
+          "DESC_PARADA": "Passeig Del Torrent / St. Francesc D´assis",
           "COD_PARADA": 4349,
           "ID_GRUPO": 1,
           "ID_PARADA": 12057,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL TORRENT / BELLADONA",
+          "DESC_PARADA": "Passeig Del Torrent / Belladona",
           "COD_PARADA": 9180,
           "ID_GRUPO": 1,
           "ID_PARADA": 9180,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL: MAJOR DEL RECTORET (ESTACIÓ  LES PLANES",
+          "DESC_PARADA": "Plaça: Major Del Rectoret (estació  Les Planes",
           "COD_PARADA": 9188,
           "ID_GRUPO": 1,
           "ID_PARADA": 9188,
@@ -283,7 +283,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL: MAJOR DEL RECTORET (ESTACIÓ  LES PLANES",
+          "DESC_PARADA": "Plaça: Major Del Rectoret (estació  Les Planes",
           "COD_PARADA": 9188,
           "ID_GRUPO": 1,
           "ID_PARADA": 9188,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL TORRENT / BELLADONA",
+          "DESC_PARADA": "Passeig Del Torrent / Belladona",
           "COD_PARADA": 9180,
           "ID_GRUPO": 1,
           "ID_PARADA": 9180,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DEL TORRENT / ST. FRANCESC D´ASSIS",
+          "DESC_PARADA": "Passeig Del Torrent / St. Francesc D´assis",
           "COD_PARADA": 4349,
           "ID_GRUPO": 1,
           "ID_PARADA": 12057,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA / CALVARI",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada / Calvari",
           "COD_PARADA": 9181,
           "ID_GRUPO": 1,
           "ID_PARADA": 9181,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada",
           "COD_PARADA": 9186,
           "ID_GRUPO": 1,
           "ID_PARADA": 9186,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "NTRA. SRA. DE L'ESTRADA / ST. IGNASI DE LOIOLA",
+          "DESC_PARADA": "Ntra. Sra. De L'estrada / St. Ignasi De Loiola",
           "COD_PARADA": 9187,
           "ID_GRUPO": 1,
           "ID_PARADA": 9187,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FONT D'EN COLOM",
+          "DESC_PARADA": "Font D'en Colom",
           "COD_PARADA": 9113,
           "ID_GRUPO": 1,
           "ID_PARADA": 9113,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MIRALLUNY / CALVARI",
+          "DESC_PARADA": "Miralluny / Calvari",
           "COD_PARADA": 1945,
           "ID_GRUPO": 1,
           "ID_PARADA": 12055,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PTGE. DEL PI",
+          "DESC_PARADA": "Ptge. Del Pi",
           "COD_PARADA": 2973,
           "ID_GRUPO": 1,
           "ID_PARADA": 14071,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PTGE. DEL PI / DR. MODREGO",
+          "DESC_PARADA": "Ptge. Del Pi / Dr. Modrego",
           "COD_PARADA": 1947,
           "ID_GRUPO": 1,
           "ID_PARADA": 12056,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "DR. MODREGO",
+          "DESC_PARADA": "Dr. Modrego",
           "COD_PARADA": 6000,
           "ID_GRUPO": 1,
           "ID_PARADA": 14075,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DEL COLL DE LA CREU D'EN BLAU",
+          "DESC_PARADA": "Plaça Del Coll De La Creu D'en Blau",
           "COD_PARADA": 9115,
           "ID_GRUPO": 1,
           "ID_PARADA": 9115,

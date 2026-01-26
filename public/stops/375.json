@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "C. DE JOSEP PUIG I CADAFALCH / C. CÈSAR MARTINELL",
+      "DESC_PARADA": "Carrer De Josep Puig i Cadafalch / Carrer Cèsar Ma",
       "COD_PARADA": 5020,
       "ID_GRUPO": 1,
       "ID_PARADA": 5020,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE LES ROQUETES / PLAÇA DE L´OLI",
+      "DESC_PARADA": "Avinguda De Les Roquetes / Plaça De L´oli",
       "COD_PARADA": 2333,
       "ID_GRUPO": 1,
       "ID_PARADA": 18138,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG.FRANCESC MACIÀ (RODALIES)",
+      "DESC_PARADA": "Passeig.francesc Macià (rodalies)",
       "COD_PARADA": 8064,
       "ID_GRUPO": 1,
       "ID_PARADA": 8064,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. FRANCESC MACIÀ (MONESTIR)",
+      "DESC_PARADA": "Passeig Francesc Macià (monestir)",
       "COD_PARADA": 9158,
       "ID_GRUPO": 1,
       "ID_PARADA": 9158,

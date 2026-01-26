@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. DIAGONAL - PL. REINA MARIA CRISTINA",
+          "DESC_PARADA": "Avinguda Diagonal - Plaça Reina Maria Cristina",
           "COD_PARADA": 7105911,
           "ID_GRUPO": 1,
           "ID_PARADA": 24822,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CARLES III - MARIA CRISTINA",
+          "DESC_PARADA": "Carles Iii - Maria Cristina",
           "COD_PARADA": 7001376,
           "ID_GRUPO": 1,
           "ID_PARADA": 24609,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CARLES III - MEJÍA LEQUERICA",
+          "DESC_PARADA": "Carles Iii - Mejía Lequerica",
           "COD_PARADA": 7001378,
           "ID_GRUPO": 1,
           "ID_PARADA": 24610,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LES CORTS - MEJÍA LEQUERICA",
+          "DESC_PARADA": "Les Corts - Mejía Lequerica",
           "COD_PARADA": 7000923,
           "ID_GRUPO": 1,
           "ID_PARADA": 24589,
@@ -126,20 +126,20 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTADI DEL FUTBOL CLUB BARCELONA",
-          "COD_PARADA": 7001238,
+          "DESC_PARADA": "7008535 TRAVESSERA DE LES CORTS, 73-129",
+          "COD_PARADA": 7008535,
           "ID_GRUPO": 1,
-          "ID_PARADA": 24608,
+          "ID_PARADA": 27069,
           "ID_MUNICIPIO": 439863,
           "MUNICIPIO": "BARCELONA",
           "EXPLOTADORA": "SARBUS",
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 426840,
-          "UTMY": 4581361,
-          "LATITUD": 41.38041356,
-          "LONGITUD": 2.1250212,
+          "UTMX": 426727,
+          "UTMY": 4581395,
+          "LATITUD": 41.378925,
+          "LONGITUD": 2.122618,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -148,13 +148,13 @@
         "ID_LINEA": 681,
         "ID_TRAYECTO": 1009,
         "SECUENCIA": 50,
-        "ID_PARADA": 24608,
+        "ID_PARADA": 27069,
         "NKM_ORIGEN": 1.102,
         "SUBE_BAJA": 1
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA BLANCA - LES CORTS",
+          "DESC_PARADA": "Riera Blanca - Les Corts",
           "COD_PARADA": 7002399,
           "ID_GRUPO": 1,
           "ID_PARADA": 24644,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MERCAT COLLBLANC",
+          "DESC_PARADA": "Mercat Collblanc",
           "COD_PARADA": 7102117,
           "ID_GRUPO": 1,
           "ID_PARADA": 24764,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RAFAEL CAMPALANS - MAS",
+          "DESC_PARADA": "Rafael Campalans - Mas",
           "COD_PARADA": 7103848,
           "ID_GRUPO": 1,
           "ID_PARADA": 24788,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MAS - LLOBREGAT",
+          "DESC_PARADA": "Mas - Llobregat",
           "COD_PARADA": 7103816,
           "ID_GRUPO": 1,
           "ID_PARADA": 24787,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MAS - LLANÇÀ",
+          "DESC_PARADA": "Mas - Llançà",
           "COD_PARADA": 7102875,
           "ID_GRUPO": 1,
           "ID_PARADA": 24781,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO TORRASSA",
+          "DESC_PARADA": "Metro Torrassa",
           "COD_PARADA": 7104158,
           "ID_GRUPO": 1,
           "ID_PARADA": 24792,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE CULTURAL TECLA SALA",
+          "DESC_PARADA": "Centre Cultural Tecla Sala",
           "COD_PARADA": 7104157,
           "ID_GRUPO": 1,
           "ID_PARADA": 24791,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PIUS X",
+          "DESC_PARADA": "Sant Pius x",
           "COD_PARADA": 7104245,
           "ID_GRUPO": 1,
           "ID_PARADA": 24797,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ENRIC PRAT DE LA RIBA - BATLLORI",
+          "DESC_PARADA": "Enric Prat De La Riba - Batllori",
           "COD_PARADA": 7102151,
           "ID_GRUPO": 1,
           "ID_PARADA": 24767,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ENRIC PRAT DE LA RIBA - ESTRELLA",
+          "DESC_PARADA": "Enric Prat De La Riba - Estrella",
           "COD_PARADA": 7102152,
           "ID_GRUPO": 1,
           "ID_PARADA": 24768,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA FARGA",
+          "DESC_PARADA": "La Farga",
           "COD_PARADA": 7101323,
           "ID_GRUPO": 1,
           "ID_PARADA": 24753,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA - RBLA. JUST OLIVERAS",
+          "DESC_PARADA": "Barcelona - Rambla Just Oliveras",
           "COD_PARADA": 7101328,
           "ID_GRUPO": 1,
           "ID_PARADA": 24754,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "COL·LEGI TECLA SALA",
+          "DESC_PARADA": "Col·legi Tecla Sala",
           "COD_PARADA": 7101334,
           "ID_GRUPO": 1,
           "ID_PARADA": 24755,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC DE LA REMUNTA",
+          "DESC_PARADA": "Parc De La Remunta",
           "COD_PARADA": 7110376,
           "ID_GRUPO": 1,
           "ID_PARADA": 24930,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - JOAN N. GARCIA NIETO",
+          "DESC_PARADA": "Carretera De L'hospitalet - Joan N. Garcia Nieto",
           "COD_PARADA": 7101549,
           "ID_GRUPO": 1,
           "ID_PARADA": 24757,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - RBLA. SOLANES",
+          "DESC_PARADA": "Carretera De L'hospitalet - Rambla Solanes",
           "COD_PARADA": 7101552,
           "ID_GRUPO": 1,
           "ID_PARADA": 24758,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. JOAN MIRÓ - CENTRE COMERCIAL",
+          "DESC_PARADA": "Plaça Joan Miró - Centre Comercial",
           "COD_PARADA": 7106866,
           "ID_GRUPO": 1,
           "ID_PARADA": 24845,
@@ -647,7 +647,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. JOAN MIRÓ - CENTRE COMERCIAL",
+          "DESC_PARADA": "Plaça Joan Miró - Centre Comercial",
           "COD_PARADA": 7106866,
           "ID_GRUPO": 1,
           "ID_PARADA": 24845,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - AV. PABLO PICASSO",
+          "DESC_PARADA": "Carretera De L'hospitalet - Avinguda Pablo Picasso",
           "COD_PARADA": 7101720,
           "ID_GRUPO": 1,
           "ID_PARADA": 24761,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - TORRENT VIDRIER",
+          "DESC_PARADA": "Carretera De L'hospitalet - Torrent Vidrier",
           "COD_PARADA": 7101719,
           "ID_GRUPO": 1,
           "ID_PARADA": 24760,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - ENERGIA",
+          "DESC_PARADA": "Carretera De L'hospitalet - Energia",
           "COD_PARADA": 7101717,
           "ID_GRUPO": 1,
           "ID_PARADA": 24759,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE L'HOSPITALET - PTGE. CAMPSA",
+          "DESC_PARADA": "Carretera De L'hospitalet - Ptge. Campsa",
           "COD_PARADA": 7109921,
           "ID_GRUPO": 1,
           "ID_PARADA": 24913,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC MORAGAS - JOSEP PRATS",
+          "DESC_PARADA": "Francesc Moragas - Josep Prats",
           "COD_PARADA": 7106867,
           "ID_GRUPO": 1,
           "ID_PARADA": 24846,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC MORAGAS - AV. CARRILET",
+          "DESC_PARADA": "Francesc Moragas - Avinguda Carrilet",
           "COD_PARADA": 7106868,
           "ID_GRUPO": 1,
           "ID_PARADA": 24847,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO/FGC AV. CARRILET",
+          "DESC_PARADA": "Metro/fgc Avinguda Carrilet",
           "COD_PARADA": 7106869,
           "ID_GRUPO": 1,
           "ID_PARADA": 24848,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ENRIC PRAT DE LA RIBA - RBLA. MARINA",
+          "DESC_PARADA": "Enric Prat De La Riba - Rambla Marina",
           "COD_PARADA": 7003463,
           "ID_GRUPO": 1,
           "ID_PARADA": 24687,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA FARGA",
+          "DESC_PARADA": "La Farga",
           "COD_PARADA": 7103684,
           "ID_GRUPO": 1,
           "ID_PARADA": 24786,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PARC DE LA SERP - FGC SANT JOSEP",
+          "DESC_PARADA": "Parc De La Serp - Fgc Sant Josep",
           "COD_PARADA": 7102154,
           "ID_GRUPO": 1,
           "ID_PARADA": 24769,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BLOCS CIUTAT COMTAL",
+          "DESC_PARADA": "Blocs Ciutat Comtal",
           "COD_PARADA": 7102155,
           "ID_GRUPO": 1,
           "ID_PARADA": 24770,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT PIUS X",
+          "DESC_PARADA": "Sant Pius x",
           "COD_PARADA": 7104244,
           "ID_GRUPO": 1,
           "ID_PARADA": 24796,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PISCINES MUNICIPALS DE L'HOSPITALET",
+          "DESC_PARADA": "Piscines Municipals De L'hospitalet",
           "COD_PARADA": 7105628,
           "ID_GRUPO": 1,
           "ID_PARADA": 24821,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE CULTURAL TECLA SALA",
+          "DESC_PARADA": "Centre Cultural Tecla Sala",
           "COD_PARADA": 7104159,
           "ID_GRUPO": 1,
           "ID_PARADA": 24793,
@@ -1067,7 +1067,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO TORRASSA",
+          "DESC_PARADA": "Metro Torrassa",
           "COD_PARADA": 7107960,
           "ID_GRUPO": 1,
           "ID_PARADA": 25210,
@@ -1095,7 +1095,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MONTSENY - LLANÇÀ",
+          "DESC_PARADA": "Montseny - Llançà",
           "COD_PARADA": 7102945,
           "ID_GRUPO": 1,
           "ID_PARADA": 24784,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLOBREGAT - MONTSENY",
+          "DESC_PARADA": "Llobregat - Montseny",
           "COD_PARADA": 7110360,
           "ID_GRUPO": 1,
           "ID_PARADA": 24925,
@@ -1151,7 +1151,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLOBREGAT - PUJÓS",
+          "DESC_PARADA": "Llobregat - Pujós",
           "COD_PARADA": 7112377,
           "ID_GRUPO": 1,
           "ID_PARADA": 24954,
@@ -1179,7 +1179,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO COLLBLANC",
+          "DESC_PARADA": "Metro Collblanc",
           "COD_PARADA": 7003473,
           "ID_GRUPO": 1,
           "ID_PARADA": 24688,
@@ -1207,7 +1207,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA BLANCA - REGENT MENDIETA",
+          "DESC_PARADA": "Riera Blanca - Regent Mendieta",
           "COD_PARADA": 7003661,
           "ID_GRUPO": 1,
           "ID_PARADA": 24704,
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARÍSTIDES MAILLOL - TRAV. DE LES CORTS",
+          "DESC_PARADA": "Arístides Maillol - Trav. De Les Corts",
           "COD_PARADA": 7003662,
           "ID_GRUPO": 1,
           "ID_PARADA": 24705,
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MINI ESTADI - PALAU BLAUGRANA",
+          "DESC_PARADA": "Mini Estadi - Palau Blaugrana",
           "COD_PARADA": 7000925,
           "ID_GRUPO": 1,
           "ID_PARADA": 24590,
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV JOAN XXIII - MATERNITAT",
+          "DESC_PARADA": "Avinguda Joan Xxiii - Maternitat",
           "COD_PARADA": 7001862,
           "ID_GRUPO": 1,
           "ID_PARADA": 24632,
@@ -1319,7 +1319,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV JOAN XXIII - PL PIUS XII",
+          "DESC_PARADA": "Avinguda Joan Xxiii - Plaça Pius Xii",
           "COD_PARADA": 7000293,
           "ID_GRUPO": 1,
           "ID_PARADA": 24563,
@@ -1347,7 +1347,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL REINA MARIA CRISTINA",
+          "DESC_PARADA": "Plaça Reina Maria Cristina",
           "COD_PARADA": 7003223,
           "ID_GRUPO": 1,
           "ID_PARADA": 24668,
@@ -1375,7 +1375,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DIAGONAL - PL. REINA MARIA CRISTINA",
+          "DESC_PARADA": "Avinguda Diagonal - Plaça Reina Maria Cristina",
           "COD_PARADA": 7105911,
           "ID_GRUPO": 1,
           "ID_PARADA": 24822,
@@ -1420,7 +1420,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "SANT PIUS X",
+          "DESC_PARADA": "Sant Pius x",
           "COD_PARADA": 7104244,
           "ID_GRUPO": 1,
           "ID_PARADA": 24796,
@@ -1448,7 +1448,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PISCINES MUNICIPALS DE L'HOSPITALET",
+          "DESC_PARADA": "Piscines Municipals De L'hospitalet",
           "COD_PARADA": 7105628,
           "ID_GRUPO": 1,
           "ID_PARADA": 24821,
@@ -1476,7 +1476,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE CULTURAL TECLA SALA",
+          "DESC_PARADA": "Centre Cultural Tecla Sala",
           "COD_PARADA": 7104159,
           "ID_GRUPO": 1,
           "ID_PARADA": 24793,
@@ -1504,7 +1504,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO TORRASSA",
+          "DESC_PARADA": "Metro Torrassa",
           "COD_PARADA": 7107960,
           "ID_GRUPO": 1,
           "ID_PARADA": 25210,
@@ -1532,7 +1532,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MONTSENY - LLANÇÀ",
+          "DESC_PARADA": "Montseny - Llançà",
           "COD_PARADA": 7102945,
           "ID_GRUPO": 1,
           "ID_PARADA": 24784,
@@ -1560,7 +1560,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLOBREGAT - MONTSENY",
+          "DESC_PARADA": "Llobregat - Montseny",
           "COD_PARADA": 7110360,
           "ID_GRUPO": 1,
           "ID_PARADA": 24925,
@@ -1588,7 +1588,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLOBREGAT - PUJÓS",
+          "DESC_PARADA": "Llobregat - Pujós",
           "COD_PARADA": 7112377,
           "ID_GRUPO": 1,
           "ID_PARADA": 24954,
@@ -1616,7 +1616,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO COLLBLANC",
+          "DESC_PARADA": "Metro Collblanc",
           "COD_PARADA": 7003473,
           "ID_GRUPO": 1,
           "ID_PARADA": 24688,
@@ -1644,7 +1644,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA BLANCA - REGENT MENDIETA",
+          "DESC_PARADA": "Riera Blanca - Regent Mendieta",
           "COD_PARADA": 7003661,
           "ID_GRUPO": 1,
           "ID_PARADA": 24704,
@@ -1672,7 +1672,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARÍSTIDES MAILLOL - TRAV. DE LES CORTS",
+          "DESC_PARADA": "Arístides Maillol - Trav. De Les Corts",
           "COD_PARADA": 7003662,
           "ID_GRUPO": 1,
           "ID_PARADA": 24705,
@@ -1700,7 +1700,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MINI ESTADI - PALAU BLAUGRANA",
+          "DESC_PARADA": "Mini Estadi - Palau Blaugrana",
           "COD_PARADA": 7000925,
           "ID_GRUPO": 1,
           "ID_PARADA": 24590,
@@ -1728,7 +1728,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV JOAN XXIII - MATERNITAT",
+          "DESC_PARADA": "Avinguda Joan Xxiii - Maternitat",
           "COD_PARADA": 7001862,
           "ID_GRUPO": 1,
           "ID_PARADA": 24632,
@@ -1756,7 +1756,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV JOAN XXIII - PL PIUS XII",
+          "DESC_PARADA": "Avinguda Joan Xxiii - Plaça Pius Xii",
           "COD_PARADA": 7000293,
           "ID_GRUPO": 1,
           "ID_PARADA": 24563,
@@ -1784,7 +1784,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL REINA MARIA CRISTINA",
+          "DESC_PARADA": "Plaça Reina Maria Cristina",
           "COD_PARADA": 7003223,
           "ID_GRUPO": 1,
           "ID_PARADA": 24668,
@@ -1812,7 +1812,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DIAGONAL - PL. REINA MARIA CRISTINA",
+          "DESC_PARADA": "Avinguda Diagonal - Plaça Reina Maria Cristina",
           "COD_PARADA": 7105911,
           "ID_GRUPO": 1,
           "ID_PARADA": 24822,

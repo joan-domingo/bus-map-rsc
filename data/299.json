@@ -9,12 +9,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 395,
-    "FIN_TRAYECTO": 1351,
+    "FIN_TRAYECTO": 1357,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA (ESTACIÓ DE FABRA I PUIG)",
+          "DESC_PARADA": "Avinguda Meridiana (estació De Fabra i Puig)",
           "COD_PARADA": 4643,
           "ID_GRUPO": 1,
           "ID_PARADA": 12512,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA / C. DE BONAVISTA",
+          "DESC_PARADA": "Carretera De Barcelona / Carrer De Bonavista",
           "COD_PARADA": 5190,
           "ID_GRUPO": 1,
           "ID_PARADA": 12626,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CATALUNYA (RODALIES)",
+          "DESC_PARADA": "Avinguda Catalunya (rodalies)",
           "COD_PARADA": 5195,
           "ID_GRUPO": 1,
           "ID_PARADA": 5195,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PRIMAVERA (LES FONTETES)",
+          "DESC_PARADA": "Avinguda De Primavera (les Fontetes)",
           "COD_PARADA": 5180,
           "ID_GRUPO": 1,
           "ID_PARADA": 5180,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. ISCLE/M. DE DÉU DEL PILAR (AJUNTAMENT)",
+          "DESC_PARADA": "St. Iscle/m. De Déu Del Pilar (ajuntament)",
           "COD_PARADA": 5160,
           "ID_GRUPO": 1,
           "ID_PARADA": 5160,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+          "DESC_PARADA": "Passeig Cordelles-francolí",
           "COD_PARADA": 5315,
           "ID_GRUPO": 1,
           "ID_PARADA": 5315,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "2199 - AV. DE ROMA / AV. D´ESPANYA",
+          "DESC_PARADA": "2199 - Avinguda De Roma / Avinguda D´espanya",
           "COD_PARADA": 2199,
           "ID_GRUPO": 1,
           "ID_PARADA": 27049,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 5270,
           "ID_GRUPO": 1,
           "ID_PARADA": 5270,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 5260,
           "ID_GRUPO": 1,
           "ID_PARADA": 5260,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 4820,
           "ID_GRUPO": 1,
           "ID_PARADA": 4820,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES",
+          "DESC_PARADA": "Uab Ciències",
           "COD_PARADA": 5552,
           "ID_GRUPO": 1,
           "ID_PARADA": 5552,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB LLETRES I PSICOLOGIA",
+          "DESC_PARADA": "Uab Lletres i Psicologia",
           "COD_PARADA": 3980,
           "ID_GRUPO": 1,
           "ID_PARADA": 3980,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB CIÈNCIES EDUCACIÓ",
+          "DESC_PARADA": "Uab Ciències Educació",
           "COD_PARADA": 5554,
           "ID_GRUPO": 1,
           "ID_PARADA": 5554,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB ESCOLA DE POSTGRAU (FGC)",
+          "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
           "COD_PARADA": 9338,
           "ID_GRUPO": 1,
           "ID_PARADA": 13871,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CAN DOMÈNECH (VILA CENTRE)",
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
           "COD_PARADA": 4667,
           "ID_GRUPO": 1,
           "ID_PARADA": 12971,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB VILA NORD",
+          "DESC_PARADA": "Uab Vila Nord",
           "COD_PARADA": 5690,
           "ID_GRUPO": 1,
           "ID_PARADA": 5690,
@@ -535,7 +535,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA (ESTACIÓ DE FABRA I PUIG)",
+          "DESC_PARADA": "Avinguda Meridiana (estació De Fabra i Puig)",
           "COD_PARADA": 4643,
           "ID_GRUPO": 1,
           "ID_PARADA": 12512,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/PL. DE MN. CLAPÉS",
+          "DESC_PARADA": "Avinguda Meridiana/plaça De Mn. Clapés",
           "COD_PARADA": 1850,
           "ID_GRUPO": 1,
           "ID_PARADA": 1850,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA / C. DE BONAVISTA",
+          "DESC_PARADA": "Carretera De Barcelona / Carrer De Bonavista",
           "COD_PARADA": 5190,
           "ID_GRUPO": 1,
           "ID_PARADA": 12626,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CATALUNYA (RODALIES)",
+          "DESC_PARADA": "Avinguda Catalunya (rodalies)",
           "COD_PARADA": 5195,
           "ID_GRUPO": 1,
           "ID_PARADA": 5195,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PRIMAVERA (LES FONTETES)",
+          "DESC_PARADA": "Avinguda De Primavera (les Fontetes)",
           "COD_PARADA": 5180,
           "ID_GRUPO": 1,
           "ID_PARADA": 5180,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. ISCLE/M. DE DÉU DEL PILAR (AJUNTAMENT)",
+          "DESC_PARADA": "St. Iscle/m. De Déu Del Pilar (ajuntament)",
           "COD_PARADA": 5160,
           "ID_GRUPO": 1,
           "ID_PARADA": 5160,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG CORDELLES-FRANCOLÍ",
+          "DESC_PARADA": "Passeig Cordelles-francolí",
           "COD_PARADA": 5315,
           "ID_GRUPO": 1,
           "ID_PARADA": 5315,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "2199 - AV. DE ROMA / AV. D´ESPANYA",
+          "DESC_PARADA": "2199 - Avinguda De Roma / Avinguda D´espanya",
           "COD_PARADA": 2199,
           "ID_GRUPO": 1,
           "ID_PARADA": 27049,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 5270,
           "ID_GRUPO": 1,
           "ID_PARADA": 5270,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 5260,
           "ID_GRUPO": 1,
           "ID_PARADA": 5260,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 4820,
           "ID_GRUPO": 1,
           "ID_PARADA": 4820,
@@ -876,6 +876,219 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
+    "ID_TRAYECTO": 801,
+    "ID_TRAYECTO_SAE": 801,
+    "DESC_TRAYECTO": "UAB-CERDANYOLA- BCN DIRECTE",
+    "DESC_REDUCIDA": "UABCedanyola-Bcn Dir",
+    "PRINCIPAL": "S",
+    "SENTIDO": "I",
+    "INI_TRAYECTO": 580,
+    "FIN_TRAYECTO": 1320,
+    "ID_TRAYECTO_CONCAT": null,
+    "TrayectosDet": [
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Vila Nord",
+          "COD_PARADA": 5690,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 5690,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 424709,
+          "UTMY": 4594882,
+          "LATITUD": 41.500206892495,
+          "LONGITUD": 2.0967974971365,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 10,
+        "ID_PARADA": 5690,
+        "NKM_ORIGEN": 0,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
+          "COD_PARADA": 5492,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 21660,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425208,
+          "UTMY": 4595086,
+          "LATITUD": 41.502095,
+          "LONGITUD": 2.10275,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 15,
+        "ID_PARADA": 21660,
+        "NKM_ORIGEN": 0.59,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Ciències De L'educació",
+          "COD_PARADA": 8837,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 12357,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425430,
+          "UTMY": 4595473,
+          "LATITUD": 41.505570042597,
+          "LONGITUD": 2.105350172476,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 20,
+        "ID_PARADA": 12357,
+        "NKM_ORIGEN": 1.85,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab-cíències",
+          "COD_PARADA": 9733,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 13861,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425822,
+          "UTMY": 4595144,
+          "LATITUD": 41.5026,
+          "LONGITUD": 2.1099,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 25,
+        "ID_PARADA": 13861,
+        "NKM_ORIGEN": 2.35,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Can Dragó",
+          "COD_PARADA": 9083,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 25298,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 431804,
+          "UTMY": 4587627,
+          "LATITUD": 41.432002,
+          "LONGITUD": 2.182617,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 30,
+        "ID_PARADA": 25298,
+        "NKM_ORIGEN": 17.06,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
+          "COD_PARADA": 787,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 12966,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 432133,
+          "UTMY": 4586080,
+          "LATITUD": 41.419722,
+          "LONGITUD": 2.18675,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 40,
+        "ID_PARADA": 12966,
+        "NKM_ORIGEN": 18.31,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
+          "COD_PARADA": 2254,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 13870,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 432168,
+          "UTMY": 4586048,
+          "LATITUD": 41.41975,
+          "LONGITUD": 2.187139,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 801,
+        "SECUENCIA": 50,
+        "ID_PARADA": 13870,
+        "NKM_ORIGEN": 19,
+        "SUBE_BAJA": 3
+      }
+    ],
+    "COLOR": "#0A8BAA",
+    "numLinea": "299"
+  },
+  {
+    "ID_GRUPO": 1,
+    "ID_LINEA": 299,
     "ID_TRAYECTO": 101,
     "ID_TRAYECTO_SAE": 101,
     "DESC_TRAYECTO": "SERRAPARERA - BCN",
@@ -883,12 +1096,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 525,
+    "FIN_TRAYECTO": 513,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 435,
           "ID_GRUPO": 1,
           "ID_PARADA": 435,
@@ -916,7 +1129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 436,
           "ID_GRUPO": 1,
           "ID_PARADA": 436,
@@ -944,7 +1157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 437,
           "ID_GRUPO": 1,
           "ID_PARADA": 437,
@@ -972,7 +1185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D'ESPANYA/AV. DE ROMA",
+          "DESC_PARADA": "Avinguda D'espanya/avinguda De Roma",
           "COD_PARADA": 438,
           "ID_GRUPO": 1,
           "ID_PARADA": 438,
@@ -1000,7 +1213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR (MERCAT SERRAPERERA)",
+          "DESC_PARADA": "St. Casimir (mercat Serraperera)",
           "COD_PARADA": 439,
           "ID_GRUPO": 1,
           "ID_PARADA": 439,
@@ -1028,7 +1241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR/C. DEL CAMP",
+          "DESC_PARADA": "St. Casimir/carrer Del Camp",
           "COD_PARADA": 5300,
           "ID_GRUPO": 1,
           "ID_PARADA": 5300,
@@ -1056,7 +1269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. MARCEL.LINA (ESGLÉSIA)",
+          "DESC_PARADA": "Sta. Marcel.lina (església)",
           "COD_PARADA": 5310,
           "ID_GRUPO": 1,
           "ID_PARADA": 5310,
@@ -1084,7 +1297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -1112,7 +1325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -1140,7 +1353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -1168,7 +1381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/PTGE. DE LA TELEFÒNICA",
+          "DESC_PARADA": "Carretera De Barcelona/ptge. De La Telefònica",
           "COD_PARADA": 1302,
           "ID_GRUPO": 1,
           "ID_PARADA": 1302,
@@ -1196,7 +1409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -1224,7 +1437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN DRAGÓ",
+          "DESC_PARADA": "Can Dragó",
           "COD_PARADA": 9083,
           "ID_GRUPO": 1,
           "ID_PARADA": 25298,
@@ -1252,7 +1465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
           "ID_PARADA": 12966,
@@ -1280,7 +1493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -1319,13 +1532,13 @@
     "DESC_REDUCIDA": "UAB-BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 440,
-    "FIN_TRAYECTO": 1400,
+    "INI_TRAYECTO": 443,
+    "FIN_TRAYECTO": 1405,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "UAB VILA NORD",
+          "DESC_PARADA": "Uab Vila Nord",
           "COD_PARADA": 5690,
           "ID_GRUPO": 1,
           "ID_PARADA": 5690,
@@ -1353,7 +1566,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB ESCOLA DE POSTGRAU (FGC)",
+          "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
           "COD_PARADA": 5492,
           "ID_GRUPO": 1,
           "ID_PARADA": 21660,
@@ -1381,7 +1594,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CIÈNCIES DE L'EDUCACIÓ",
+          "DESC_PARADA": "Ciències De L'educació",
           "COD_PARADA": 8837,
           "ID_GRUPO": 1,
           "ID_PARADA": 12357,
@@ -1409,7 +1622,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "UAB-CÍÈNCIES",
+          "DESC_PARADA": "Uab-cíències",
           "COD_PARADA": 9733,
           "ID_GRUPO": 1,
           "ID_PARADA": 13861,
@@ -1437,7 +1650,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE SERRAPERERA/RENAIXEMENT",
+          "DESC_PARADA": "Ronda De Serraperera/renaixement",
           "COD_PARADA": 435,
           "ID_GRUPO": 1,
           "ID_PARADA": 435,
@@ -1465,7 +1678,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ARGENTINA/LONDRES",
+          "DESC_PARADA": "Argentina/londres",
           "COD_PARADA": 436,
           "ID_GRUPO": 1,
           "ID_PARADA": 436,
@@ -1493,7 +1706,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL UNIVERSAL",
+          "DESC_PARADA": "Plaça Universal",
           "COD_PARADA": 437,
           "ID_GRUPO": 1,
           "ID_PARADA": 437,
@@ -1521,7 +1734,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D'ESPANYA/AV. DE ROMA",
+          "DESC_PARADA": "Avinguda D'espanya/avinguda De Roma",
           "COD_PARADA": 438,
           "ID_GRUPO": 1,
           "ID_PARADA": 438,
@@ -1549,7 +1762,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR (MERCAT SERRAPERERA)",
+          "DESC_PARADA": "St. Casimir (mercat Serraperera)",
           "COD_PARADA": 439,
           "ID_GRUPO": 1,
           "ID_PARADA": 439,
@@ -1577,7 +1790,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST. CASIMIR/C. DEL CAMP",
+          "DESC_PARADA": "St. Casimir/carrer Del Camp",
           "COD_PARADA": 5300,
           "ID_GRUPO": 1,
           "ID_PARADA": 5300,
@@ -1605,7 +1818,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "STA. MARCEL.LINA (ESGLÉSIA)",
+          "DESC_PARADA": "Sta. Marcel.lina (església)",
           "COD_PARADA": 5310,
           "ID_GRUPO": 1,
           "ID_PARADA": 5310,
@@ -1633,7 +1846,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LLUÍS COMPANYS (AJUNTAMENT)",
+          "DESC_PARADA": "Carrer De Lluís Companys (ajuntament)",
           "COD_PARADA": 122,
           "ID_GRUPO": 1,
           "ID_PARADA": 122,
@@ -1661,7 +1874,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE MARCONI",
+          "DESC_PARADA": "Plaça De Marconi",
           "COD_PARADA": 123,
           "ID_GRUPO": 1,
           "ID_PARADA": 123,
@@ -1689,7 +1902,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE LA PRIMAVERA ( LES FONTETES)",
+          "DESC_PARADA": "Avinguda De La Primavera ( Les Fontetes)",
           "COD_PARADA": 124,
           "ID_GRUPO": 1,
           "ID_PARADA": 124,
@@ -1717,7 +1930,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE BARCELONA/PTGE. DE LA TELEFÒNICA",
+          "DESC_PARADA": "Carretera De Barcelona/ptge. De La Telefònica",
           "COD_PARADA": 1302,
           "ID_GRUPO": 1,
           "ID_PARADA": 1302,
@@ -1745,7 +1958,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / AV. DE RIO DE JANEIRO",
+          "DESC_PARADA": "Avinguda Meridiana / Avinguda De Rio De Janeiro",
           "COD_PARADA": 114,
           "ID_GRUPO": 1,
           "ID_PARADA": 114,
@@ -1773,7 +1986,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN DRAGÓ",
+          "DESC_PARADA": "Can Dragó",
           "COD_PARADA": 9083,
           "ID_GRUPO": 1,
           "ID_PARADA": 25298,
@@ -1801,7 +2014,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA/C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
           "ID_PARADA": 12966,
@@ -1829,7 +2042,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MERIDIANA / C. DE FELIP II (SAGRERA)",
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
           "COD_PARADA": 2254,
           "ID_GRUPO": 1,
           "ID_PARADA": 13870,
@@ -1853,6 +2066,275 @@
         "SECUENCIA": 170,
         "ID_PARADA": 13870,
         "NKM_ORIGEN": 18.928,
+        "SUBE_BAJA": 3
+      }
+    ],
+    "COLOR": "#0A8BAA",
+    "numLinea": "299"
+  },
+  {
+    "ID_GRUPO": 1,
+    "ID_LINEA": 299,
+    "ID_TRAYECTO": 802,
+    "ID_TRAYECTO_SAE": 802,
+    "DESC_TRAYECTO": "BCN - UAB-CERDANYOLA DIRECTE",
+    "DESC_REDUCIDA": "BCN - UAB Directe",
+    "PRINCIPAL": "S",
+    "SENTIDO": "V",
+    "INI_TRAYECTO": 360,
+    "FIN_TRAYECTO": 1270,
+    "ID_TRAYECTO_CONCAT": null,
+    "TrayectosDet": [
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda Meridiana / Carrer De Felip Ii (sagrera)",
+          "COD_PARADA": 2254,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 13870,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 432168,
+          "UTMY": 4586048,
+          "LATITUD": 41.41975,
+          "LONGITUD": 2.187139,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 10,
+        "ID_PARADA": 13870,
+        "NKM_ORIGEN": 0,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda Meridiana (estació De Fabra i Puig)",
+          "COD_PARADA": 4643,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 12512,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 431823,
+          "UTMY": 4587093,
+          "LATITUD": 41.430665202053,
+          "LONGITUD": 2.1828937835919,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 20,
+        "ID_PARADA": 12512,
+        "NKM_ORIGEN": 1.2,
+        "SUBE_BAJA": 2
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Ciències",
+          "COD_PARADA": 5552,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 5552,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425821,
+          "UTMY": 4595156,
+          "LATITUD": 41.502778485355,
+          "LONGITUD": 2.1100854346195,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 30,
+        "ID_PARADA": 5552,
+        "NKM_ORIGEN": 14.9,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Lletres i Psicologia",
+          "COD_PARADA": 3980,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 3980,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425666,
+          "UTMY": 4595292,
+          "LATITUD": 41.503988965609,
+          "LONGITUD": 2.1082116583499,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 40,
+        "ID_PARADA": 3980,
+        "NKM_ORIGEN": 15.103,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Ciències Educació",
+          "COD_PARADA": 5554,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 5554,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425452,
+          "UTMY": 4595480,
+          "LATITUD": 41.505662249379,
+          "LONGITUD": 2.1056244949364,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 50,
+        "ID_PARADA": 5554,
+        "NKM_ORIGEN": 15.4,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Estació Fgc",
+          "COD_PARADA": 5556,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 5556,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425249,
+          "UTMY": 4595273,
+          "LATITUD": 41.503751884278,
+          "LONGITUD": 2.1032064768986,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 60,
+        "ID_PARADA": 5556,
+        "NKM_ORIGEN": 16.466,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
+          "COD_PARADA": 9338,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 13871,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 425204,
+          "UTMY": 4595095,
+          "LATITUD": 41.50217,
+          "LONGITUD": 2.1027,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 70,
+        "ID_PARADA": 13871,
+        "NKM_ORIGEN": 16.726,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Avinguda De Can Domènech (vila Centre)",
+          "COD_PARADA": 4667,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 12971,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 424929,
+          "UTMY": 4594893,
+          "LATITUD": 41.50033,
+          "LONGITUD": 2.09944,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 80,
+        "ID_PARADA": 12971,
+        "NKM_ORIGEN": 17.096,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "Uab Vila Nord",
+          "COD_PARADA": 5690,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 5690,
+          "ID_MUNICIPIO": 447068,
+          "MUNICIPIO": "CERDANYOLA DEL VALLES",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 424709,
+          "UTMY": 4594882,
+          "LATITUD": 41.500206892495,
+          "LONGITUD": 2.0967974971365,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 299,
+        "ID_TRAYECTO": 802,
+        "SECUENCIA": 90,
+        "ID_PARADA": 5690,
+        "NKM_ORIGEN": 17.593,
         "SUBE_BAJA": 3
       }
     ],
