@@ -675,20 +675,20 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Plaça Lluís Companys",
-          "COD_PARADA": 8834,
+          "DESC_PARADA": "Av. de la Ribera - Jaume I",
+          "COD_PARADA": 3148,
           "ID_GRUPO": 1,
-          "ID_PARADA": 12354,
+          "ID_PARADA": 27117,
           "ID_MUNICIPIO": 39,
           "MUNICIPIO": "MONTCADA I REIXAC",
           "EXPLOTADORA": "SARBUS",
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 432381,
-          "UTMY": 4592790,
-          "LATITUD": 41.482023147498,
-          "LONGITUD": 2.1889326074322,
+          "UTMX": 432509,
+          "UTMY": 4592869,
+          "LATITUD": 41.48277665872,
+          "LONGITUD": 2.1904709472908,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -697,9 +697,9 @@
         "ID_LINEA": 103,
         "ID_TRAYECTO": 5,
         "SECUENCIA": 20,
-        "ID_PARADA": 12354,
-        "NKM_ORIGEN": 1.395,
-        "SUBE_BAJA": 2
+        "ID_PARADA": 27117,
+        "NKM_ORIGEN": 1.452,
+        "SUBE_BAJA": 1
       },
       {
         "Parada": {
@@ -726,7 +726,7 @@
         "ID_TRAYECTO": 5,
         "SECUENCIA": 30,
         "ID_PARADA": 12355,
-        "NKM_ORIGEN": 2.822,
+        "NKM_ORIGEN": 2.719,
         "SUBE_BAJA": 2
       },
       {

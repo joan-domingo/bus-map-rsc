@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "CAL NYEPA - CAL PI DE L´OLLA",
+      "DESC_PARADA": "Cal Nyepa - Cal Pi De L´olla",
       "COD_PARADA": 109094,
       "ID_GRUPO": 1,
       "ID_PARADA": 23387,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAL PI DE L´OLLA - CA L'ARANA",
+      "DESC_PARADA": "Cal Pi De L´olla - Ca L'arana",
       "COD_PARADA": 109095,
       "ID_GRUPO": 1,
       "ID_PARADA": 23388,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CA L´ARANA - CAL CORACERO",
+      "DESC_PARADA": "Ca L´arana - Cal Coracero",
       "COD_PARADA": 107729,
       "ID_GRUPO": 1,
       "ID_PARADA": 23389,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CA L´ARANA - CAL BITXOT",
+      "DESC_PARADA": "Ca L´arana - Cal Bitxot",
       "COD_PARADA": 110081,
       "ID_GRUPO": 1,
       "ID_PARADA": 23390,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SERVICE CENTER SENTIT BARCELONA",
+      "DESC_PARADA": "Service Center Sentit Barcelona",
       "COD_PARADA": 112403,
       "ID_GRUPO": 1,
       "ID_PARADA": 23423,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 114 Nº 21-23",
+      "DESC_PARADA": "Carrer Número 114 Nº 21-23",
       "COD_PARADA": 107744,
       "ID_GRUPO": 1,
       "ID_PARADA": 23430,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 100 - CARRER NÚMERO 113",
+      "DESC_PARADA": "Carrer Número 100 - Carrer Número 113",
       "COD_PARADA": 107745,
       "ID_GRUPO": 1,
       "ID_PARADA": 23431,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 100 Nº15",
+      "DESC_PARADA": "Carrer Número 100 Nº15",
       "COD_PARADA": 107746,
       "ID_GRUPO": 1,
       "ID_PARADA": 23432,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE LA MARINA - AV ONZE DE SETEMBRE",
+      "DESC_PARADA": "Carretera De La Marina - Avinguda Onze De Setembre",
       "COD_PARADA": 3359,
       "ID_GRUPO": 1,
       "ID_PARADA": 23413,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA CONSTITUCIÓ",
+      "DESC_PARADA": "Plaça Constitució",
       "COD_PARADA": 7003360,
       "ID_GRUPO": 1,
       "ID_PARADA": 24677,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE LA MARINA - PABLO NERUDA",
+      "DESC_PARADA": "Carretera De La Marina - Pablo Neruda",
       "COD_PARADA": 3361,
       "ID_GRUPO": 1,
       "ID_PARADA": 23415,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - CTRA DE LA MARINA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Carretera De La Mar",
       "COD_PARADA": 1015,
       "ID_GRUPO": 1,
       "ID_PARADA": 23399,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - CASTELLA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Castella",
       "COD_PARADA": 1016,
       "ID_GRUPO": 1,
       "ID_PARADA": 23400,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - AV DEL CANAL",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Avinguda Del Canal",
       "COD_PARADA": 3872,
       "ID_GRUPO": 1,
       "ID_PARADA": 25204,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT- ALEIX AGUILERA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat- Aleix Aguilera",
       "COD_PARADA": 7029,
       "ID_GRUPO": 1,
       "ID_PARADA": 23480,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. REMOLAR - AV. APEL·LES MESTRE",
+      "DESC_PARADA": "Avinguda Remolar - Avinguda Apel·les Mestre",
       "COD_PARADA": 2819,
       "ID_GRUPO": 1,
       "ID_PARADA": 23407,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALL D'ARAN - AV. DEL REMOLAR",
+      "DESC_PARADA": "Vall D'aran - Avinguda Del Remolar",
       "COD_PARADA": 3289,
       "ID_GRUPO": 1,
       "ID_PARADA": 23412,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ RODALIES - ANDANA 3",
+      "DESC_PARADA": "Estació Rodalies - Andana 3",
       "COD_PARADA": 5455,
       "ID_GRUPO": 1,
       "ID_PARADA": 23440,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VALL D'ARAN - RDA. DE PONENT",
+      "DESC_PARADA": "Vall D'aran - Ronda De Ponent",
       "COD_PARADA": 3288,
       "ID_GRUPO": 1,
       "ID_PARADA": 23411,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV REMOLAR - RDA DE PONENT",
+      "DESC_PARADA": "Avinguda Remolar - Ronda De Ponent",
       "COD_PARADA": 2821,
       "ID_GRUPO": 1,
       "ID_PARADA": 23408,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - AV DEL REMOLAR",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Avinguda Del Remola",
       "COD_PARADA": 3095,
       "ID_GRUPO": 1,
       "ID_PARADA": 23409,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - PENEDÈS",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Penedès",
       "COD_PARADA": 3871,
       "ID_GRUPO": 1,
       "ID_PARADA": 25203,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - CORONEL SANFELIU",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Coronel Sanfeliu",
       "COD_PARADA": 1014,
       "ID_GRUPO": 1,
       "ID_PARADA": 23398,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV VERGE DE MONTSERRAT - ENRIC MORERA",
+      "DESC_PARADA": "Avinguda Verge De Montserrat - Enric Morera",
       "COD_PARADA": 1442,
       "ID_GRUPO": 1,
       "ID_PARADA": 23405,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE LA MARINA - CATALUNYA",
+      "DESC_PARADA": "Carretera De La Marina - Catalunya",
       "COD_PARADA": 3364,
       "ID_GRUPO": 1,
       "ID_PARADA": 23416,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA CONSTITUCIÓ",
+      "DESC_PARADA": "Plaça Constitució",
       "COD_PARADA": 7003375,
       "ID_GRUPO": 1,
       "ID_PARADA": 24682,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA DE LA MARINA - MATARÓ",
+      "DESC_PARADA": "Carretera De La Marina - Mataró",
       "COD_PARADA": 3376,
       "ID_GRUPO": 1,
       "ID_PARADA": 23417,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 100 - Nº 20",
+      "DESC_PARADA": "Carrer Número 100 - Nº 20",
       "COD_PARADA": 107723,
       "ID_GRUPO": 1,
       "ID_PARADA": 23418,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 100 - Nº 22",
+      "DESC_PARADA": "Carrer Número 100 - Nº 22",
       "COD_PARADA": 107724,
       "ID_GRUPO": 1,
       "ID_PARADA": 23419,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CARRER NÚMERO 114 - CARRER NÚMERO 107",
+      "DESC_PARADA": "Carrer Número 114 - Carrer Número 107",
       "COD_PARADA": 107725,
       "ID_GRUPO": 1,
       "ID_PARADA": 23420,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CA L'ARANA - CARRER NÚM. 114",
+      "DESC_PARADA": "Ca L'arana - Carrer Núm. 114",
       "COD_PARADA": 110080,
       "ID_GRUPO": 1,
       "ID_PARADA": 23469,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CA L'ARANA - CAL CORACERO",
+      "DESC_PARADA": "Ca L'arana - Cal Coracero",
       "COD_PARADA": 107726,
       "ID_GRUPO": 1,
       "ID_PARADA": 23421,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLUQUER - CAL PI DE L'OLLA",
+      "DESC_PARADA": "Lluquer - Cal Pi De L'olla",
       "COD_PARADA": 109092,
       "ID_GRUPO": 1,
       "ID_PARADA": 23433,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAL MALET - CA L'ARANA",
+      "DESC_PARADA": "Cal Malet - Ca L'arana",
       "COD_PARADA": 109093,
       "ID_GRUPO": 1,
       "ID_PARADA": 23434,

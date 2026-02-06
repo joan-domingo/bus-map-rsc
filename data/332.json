@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 418,
-    "FIN_TRAYECTO": 1370,
+    "FIN_TRAYECTO": 1365,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -406,20 +406,20 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÓ RENFE/P.VIANA",
-          "COD_PARADA": 20027,
+          "DESC_PARADA": "ESTACIÓ RENFE/RAMBLA FERRAN",
+          "COD_PARADA": 20010,
           "ID_GRUPO": 1,
-          "ID_PARADA": 10248,
+          "ID_PARADA": 10246,
           "ID_MUNICIPIO": 251207,
           "MUNICIPIO": "LLEIDA",
           "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 302763,
-          "UTMY": 4610574,
-          "LATITUD": 41.620683069122,
-          "LONGITUD": 0.63141526726145,
+          "UTMX": 302699,
+          "UTMY": 4610276,
+          "LATITUD": 41.619758982695,
+          "LONGITUD": 0.63169760904543,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -427,8 +427,8 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 332,
         "ID_TRAYECTO": 1,
-        "SECUENCIA": 150,
-        "ID_PARADA": 10248,
+        "SECUENCIA": 155,
+        "ID_PARADA": 10246,
         "NKM_ORIGEN": 3.65,
         "SUBE_BAJA": 1
       },

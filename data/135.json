@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "7S SECÀ MAGRANERS",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 377,
-    "FIN_TRAYECTO": 1391,
+    "INI_TRAYECTO": 387,
+    "FIN_TRAYECTO": 1385,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1089,8 +1089,8 @@
     "DESC_REDUCIDA": "Magraners-Secà",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 390,
-    "FIN_TRAYECTO": 1364,
+    "INI_TRAYECTO": 400,
+    "FIN_TRAYECTO": 1383,
     "ID_TRAYECTO_CONCAT": 19,
     "TrayectosDet": [
       {

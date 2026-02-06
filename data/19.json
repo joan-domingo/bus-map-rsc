@@ -238,6 +238,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "Can Dragó",
+          "COD_PARADA": 9083,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 25298,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 431804,
+          "UTMY": 4587627,
+          "LATITUD": 41.432002,
+          "LONGITUD": 2.182617,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 19,
+        "ID_TRAYECTO": 15,
+        "SECUENCIA": 90,
+        "ID_PARADA": 25298,
+        "NKM_ORIGEN": 14.576,
+        "SUBE_BAJA": 3
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "Avinguda Meridiana/carrer De Felip Ii (sagrera)",
           "COD_PARADA": 787,
           "ID_GRUPO": 1,
