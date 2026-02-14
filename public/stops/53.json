@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ALFONS XIII/AV. DEL MARESME",
+      "DESC_PARADA": "(PARADA B3) AV. DEL MARESME / AV. D´ALFONS XIII",
       "COD_PARADA": 4040,
       "ID_GRUPO": 1,
       "ID_PARADA": 7189,
@@ -95,10 +95,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 3,
-      "UTMX": 435177,
-      "UTMY": 4587713,
-      "LATITUD": 41.436554563248,
-      "LONGITUD": 2.2229778242908,
+      "UTMX": 435036,
+      "UTMY": 4587579,
+      "LATITUD": 41.435335993314,
+      "LONGITUD": 2.2213115019403,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -2297,7 +2297,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. ALFONS XIII/ANDRÉS SEGOVIA",
+      "DESC_PARADA": "(PARADA B3) AV. MARESME / AV. D´ALFONS XIII",
       "COD_PARADA": 48,
       "ID_GRUPO": 1,
       "ID_PARADA": 7183,
@@ -2307,10 +2307,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 3,
-      "UTMX": 435161,
-      "UTMY": 4587716,
-      "LATITUD": 41.436580289823,
-      "LONGITUD": 2.2227860041538,
+      "UTMX": 435108,
+      "UTMY": 4587590,
+      "LATITUD": 41.435442154705,
+      "LONGITUD": 2.2221717782894,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null

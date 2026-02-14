@@ -2337,7 +2337,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260402"
+    "DIAS_QUE_CIRCULA": "20260409"
   },
   "663": {
     "nid": "125313",
@@ -2355,7 +2355,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260402"
+    "DIAS_QUE_CIRCULA": "20260409"
   },
   "664": {
     "nid": "125310",
@@ -2373,7 +2373,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260402"
+    "DIAS_QUE_CIRCULA": "20260409"
   },
   "670": {
     "nid": "125301",
@@ -2427,13 +2427,13 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "679": {
     "nid": "125790",
     "ID_LINEA": "679",
     "COD_LINEA": "LH1",
-    "DESC_LINEA": "CIRCULAR INTERIOR",
+    "DESC_LINEA": "CIRCULAR INT.",
     "ID_ZONA": "13",
     "ID_SUBZONA": "1",
     "TREAL": "S",
@@ -2445,13 +2445,13 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "680": {
     "nid": "125793",
     "ID_LINEA": "680",
     "COD_LINEA": "LH2",
-    "DESC_LINEA": "CIRCULAR EXTERIOR",
+    "DESC_LINEA": "CIRCULAR EXT.",
     "ID_ZONA": "13",
     "ID_SUBZONA": "1",
     "TREAL": "S",
@@ -2463,7 +2463,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "681": {
     "nid": "125796",
@@ -2481,7 +2481,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "682": {
     "nid": "125799",
@@ -2499,7 +2499,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "683": {
     "nid": "125820",
@@ -2517,7 +2517,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "684": {
     "nid": "125805",
@@ -2535,7 +2535,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "686": {
     "nid": "125811",
@@ -2553,7 +2553,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "688": {
     "nid": "125817",
@@ -2571,7 +2571,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "689": {
     "nid": "125802",
@@ -2589,7 +2589,25 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
+  },
+  "690": {
+    "nid": "125823",
+    "ID_LINEA": "690",
+    "COD_LINEA": "PR3",
+    "DESC_LINEA": "ESTACIO- PLATJA DEL PRAT",
+    "ID_ZONA": "13",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#F8A0FF",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "1",
+    "ID_CONCESION": "19",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "125862",
+    "DIAS_QUE_CIRCULA": "20260412"
   },
   "696": {
     "nid": "126219",
@@ -2607,7 +2625,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260206"
+    "DIAS_QUE_CIRCULA": "20260414"
   },
   "711": {
     "nid": "169456",
