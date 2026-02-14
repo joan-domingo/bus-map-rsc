@@ -7,6 +7,7 @@ import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import { trackEvent } from "../utils/analytics";
 import { Attribution } from "./Attribution";
+import { FeedbackButton } from "./FeedbackButton";
 import { Header } from "./Header";
 import { LocationButton } from "./LocationButton";
 import { BusMap } from "./Map";
@@ -49,6 +50,10 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
     setIsDragging(false);
     setZoom(18);
   }, [zoom]);
+
+  const handleFeedbackClick = useCallback(() => {
+    trackEvent("feedback_button_click");
+  }, []);
 
   if (locationError) {
     // Show error if geolocation fails
@@ -100,6 +105,10 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
         <LocationButton
           onClick={handleLocationButtonClick}
           isDragging={isDragging}
+        />
+        <FeedbackButton
+          href="https://docs.google.com/forms/d/e/1FAIpQLSe1wNznFn_gFzqhmuFOTVYR_tyeNSbvVxDx_fWTY2L8T8EMnQ/viewform?usp=dialog"
+          onClick={handleFeedbackClick}
         />
         <Attribution />
       </div>
