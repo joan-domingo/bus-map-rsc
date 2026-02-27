@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ALCARRAS",
+      "DESC_PARADA": "Alcarras",
       "COD_PARADA": 21177,
       "ID_GRUPO": 1,
       "ID_PARADA": 10614,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRES DE SEGRE",
+      "DESC_PARADA": "Torres De Segre",
       "COD_PARADA": 21000,
       "ID_GRUPO": 1,
       "ID_PARADA": 10601,

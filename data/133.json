@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "5",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 395,
-    "FIN_TRAYECTO": 1330,
+    "INI_TRAYECTO": 400,
+    "FIN_TRAYECTO": 1371,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -558,8 +558,8 @@
     "DESC_REDUCIDA": "5",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 440,
-    "FIN_TRAYECTO": 1335,
+    "INI_TRAYECTO": 405,
+    "FIN_TRAYECTO": 1373,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

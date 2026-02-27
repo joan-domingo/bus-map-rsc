@@ -1077,7 +1077,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "130": {
     "nid": "86609",
@@ -1095,7 +1095,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "131": {
     "nid": "86611",
@@ -1113,7 +1113,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "132": {
     "nid": "86884",
@@ -1131,7 +1131,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "133": {
     "nid": "86615",
@@ -1149,7 +1149,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "134": {
     "nid": "86617",
@@ -1167,7 +1167,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "135": {
     "nid": "86619",
@@ -1185,7 +1185,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "136": {
     "nid": "86621",
@@ -1203,7 +1203,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260327"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "137": {
     "nid": "86623",
@@ -1221,7 +1221,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260327"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "138": {
     "nid": "86625",
@@ -1239,7 +1239,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260327"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "146": {
     "nid": "86731",
@@ -1383,7 +1383,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260305"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "178": {
     "nid": "86627",
@@ -1401,7 +1401,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260305"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "180": {
     "nid": "86629",
@@ -1419,7 +1419,25 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260305"
+    "DIAS_QUE_CIRCULA": "20260423"
+  },
+  "181": {
+    "nid": "86631",
+    "ID_LINEA": "181",
+    "COD_LINEA": "401",
+    "DESC_LINEA": "ALCARRAS-TORRES DE SEGRE",
+    "ID_ZONA": "2",
+    "ID_SUBZONA": "3",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#4AD800",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "1",
+    "ID_CONCESION": "14",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "120760",
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "183": {
     "nid": "86829",
@@ -1725,7 +1743,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "334": {
     "nid": "86978",
@@ -2319,7 +2337,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260328"
+    "DIAS_QUE_CIRCULA": "20260426"
   },
   "662": {
     "nid": "125307",
@@ -2427,7 +2445,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "679": {
     "nid": "125790",
@@ -2445,7 +2463,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "680": {
     "nid": "125793",
@@ -2463,7 +2481,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "681": {
     "nid": "125796",
@@ -2481,7 +2499,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "682": {
     "nid": "125799",
@@ -2499,7 +2517,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "683": {
     "nid": "125820",
@@ -2517,7 +2535,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "684": {
     "nid": "125805",
@@ -2535,7 +2553,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "686": {
     "nid": "125811",
@@ -2553,7 +2571,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "688": {
     "nid": "125817",
@@ -2571,7 +2589,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "689": {
     "nid": "125802",
@@ -2589,7 +2607,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "690": {
     "nid": "125823",
@@ -2607,7 +2625,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260412"
+    "DIAS_QUE_CIRCULA": "20260419"
   },
   "696": {
     "nid": "126219",
@@ -2625,7 +2643,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260414"
+    "DIAS_QUE_CIRCULA": "20260423"
   },
   "711": {
     "nid": "169456",
@@ -2661,7 +2679,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20260327"
+    "DIAS_QUE_CIRCULA": "20260427"
   },
   "715": {
     "nid": "169852",
@@ -2680,5 +2698,41 @@
     "ADAPTADA": "N",
     "MARCA": "120764",
     "DIAS_QUE_CIRCULA": "20260320"
+  },
+  "716": {
+    "nid": "170026",
+    "ID_LINEA": "716",
+    "COD_LINEA": "M15",
+    "DESC_LINEA": "CORNELLA DE L.- BARCELONA",
+    "ID_ZONA": "13",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#39FA06",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "1",
+    "ID_CONCESION": "19",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "125862",
+    "DIAS_QUE_CIRCULA": "20260423"
+  },
+  "717": {
+    "nid": "170049",
+    "ID_LINEA": "717",
+    "COD_LINEA": "22",
+    "DESC_LINEA": "N1 MAGRANERS-SECÀ-BALÀFIA",
+    "ID_ZONA": "2",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#24FF9F",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "5",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86863",
+    "DIAS_QUE_CIRCULA": "20260425"
   }
 }

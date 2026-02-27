@@ -9,12 +9,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 505,
-    "FIN_TRAYECTO": 910,
+    "FIN_TRAYECTO": 915,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ALCARRAS",
+          "DESC_PARADA": "Alcarras",
           "COD_PARADA": 21177,
           "ID_GRUPO": 1,
           "ID_PARADA": 10614,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRES DE SEGRE",
+          "DESC_PARADA": "Torres De Segre",
           "COD_PARADA": 21000,
           "ID_GRUPO": 1,
           "ID_PARADA": 10601,
@@ -87,7 +87,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "TORRES DE SEGRE",
+          "DESC_PARADA": "Torres De Segre",
           "COD_PARADA": 21000,
           "ID_GRUPO": 1,
           "ID_PARADA": 10601,
@@ -115,7 +115,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ALCARRAS",
+          "DESC_PARADA": "Alcarras",
           "COD_PARADA": 21177,
           "ID_GRUPO": 1,
           "ID_PARADA": 10614,

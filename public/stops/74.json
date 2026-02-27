@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
+    "ID_TRAYECTO": 62,
     "SECUENCIA": 30,
     "ID_PARADA": 7411,
-    "NKM_ORIGEN": 85.6,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 24.9,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -77,11 +77,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
-    "SECUENCIA": 20,
+    "ID_TRAYECTO": 62,
+    "SECUENCIA": 40,
     "ID_PARADA": 7408,
-    "NKM_ORIGEN": 11.6,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 99.4,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -133,66 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
-    "SECUENCIA": 10,
-    "ID_PARADA": 7407,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T2",
-      "COD_PARADA": 16310,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 12562,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 423037,
-      "UTMY": 4573155,
-      "LATITUD": 41.304370679071,
-      "LONGITUD": 2.0795351298515,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
+    "ID_TRAYECTO": 62,
     "SECUENCIA": 50,
-    "ID_PARADA": 12562,
-    "NKM_ORIGEN": 112.2,
-    "SUBE_BAJA": 3
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T1",
-      "COD_PARADA": 4631,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 12561,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 422535,
-      "UTMY": 4571302,
-      "LATITUD": 41.287632541255,
-      "LONGITUD": 2.0737772951786,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
-    "SECUENCIA": 40,
-    "ID_PARADA": 12561,
-    "NKM_ORIGEN": 107.1,
+    "ID_PARADA": 7407,
+    "NKM_ORIGEN": 110.7,
     "SUBE_BAJA": 3
   },
   {
@@ -249,6 +193,62 @@
     "SECUENCIA": 22,
     "ID_PARADA": 14017,
     "NKM_ORIGEN": 12.8,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T1",
+      "COD_PARADA": 4631,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 12561,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 422535,
+      "UTMY": 4571302,
+      "LATITUD": 41.287632541255,
+      "LONGITUD": 2.0737772951786,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 74,
+    "ID_TRAYECTO": 62,
+    "SECUENCIA": 10,
+    "ID_PARADA": 12561,
+    "NKM_ORIGEN": 6.2,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T2",
+      "COD_PARADA": 16310,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 12562,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 423037,
+      "UTMY": 4573155,
+      "LATITUD": 41.304370679071,
+      "LONGITUD": 2.0795351298515,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 74,
+    "ID_TRAYECTO": 62,
+    "SECUENCIA": 5,
+    "ID_PARADA": 12562,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 2
   }
 ]
