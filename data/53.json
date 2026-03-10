@@ -962,7 +962,7 @@
         "SECUENCIA": 355,
         "ID_PARADA": 13494,
         "NKM_ORIGEN": 22.537,
-        "SUBE_BAJA": 1
+        "SUBE_BAJA": 3
       },
       {
         "Parada": {
@@ -1511,7 +1511,7 @@
         "SECUENCIA": 70,
         "ID_PARADA": 7162,
         "NKM_ORIGEN": 5.204,
-        "SUBE_BAJA": 1
+        "SUBE_BAJA": 2
       },
       {
         "Parada": {

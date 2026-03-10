@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "R.CELLER-CAN TRABAL",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 600,
+    "INI_TRAYECTO": 455,
+    "FIN_TRAYECTO": 605,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

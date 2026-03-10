@@ -309,6 +309,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Bruc - Serra del Montsec",
+      "COD_PARADA": 7112694,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27357,
+      "ID_MUNICIPIO": 441330,
+      "MUNICIPIO": "ESPLUGUES DE LLOBREGAT",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 423528,
+      "UTMY": 4580536,
+      "LATITUD": 41.3708932,
+      "LONGITUD": 2.0844762,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 678,
+    "ID_TRAYECTO": 1006,
+    "SECUENCIA": 105,
+    "ID_PARADA": 27357,
+    "NKM_ORIGEN": 3.078,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Sant Gabriel - Sant Jordi",
       "COD_PARADA": 7112678,
       "ID_GRUPO": 1,
