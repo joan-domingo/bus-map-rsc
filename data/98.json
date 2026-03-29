@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 600,
-    "FIN_TRAYECTO": 1195,
+    "INI_TRAYECTO": 1110,
+    "FIN_TRAYECTO": 1165,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -109,8 +109,8 @@
     "DESC_REDUCIDA": "AEROPORT DE GIRONA",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 660,
-    "FIN_TRAYECTO": 1255,
+    "INI_TRAYECTO": 1170,
+    "FIN_TRAYECTO": 1225,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

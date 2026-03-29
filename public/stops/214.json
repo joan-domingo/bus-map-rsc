@@ -309,6 +309,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Pza. Príncipe de Viana (c/ Sangüesa)",
+      "COD_PARADA": 480,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 11270,
+      "ID_MUNICIPIO": 443268,
+      "MUNICIPIO": "PAMPLONA/IRUÑA",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 120495,
+      "UTMY": 4750674,
+      "LATITUD": 42.812622021969,
+      "LONGITUD": -1.6426525604686,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 214,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 120,
+    "ID_PARADA": 11270,
+    "NKM_ORIGEN": 6.041,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Avda. Conde Oliveto, nº 4",
       "COD_PARADA": 633,
       "ID_GRUPO": 1,
@@ -1061,34 +1089,6 @@
     "SECUENCIA": 110,
     "ID_PARADA": 11313,
     "NKM_ORIGEN": 5.515,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Pza. Príncipe de Viana (c/ Sangüesa)",
-      "COD_PARADA": 480,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 11270,
-      "ID_MUNICIPIO": 443268,
-      "MUNICIPIO": "PAMPLONA/IRUÑA",
-      "EXPLOTADORA": "PAMPLONA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 7,
-      "UTMX": 120495,
-      "UTMY": 4750674,
-      "LATITUD": 42.812622021969,
-      "LONGITUD": -1.6426525604686,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 214,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 120,
-    "ID_PARADA": 11270,
-    "NKM_ORIGEN": 6.041,
     "SUBE_BAJA": 1
   },
   {

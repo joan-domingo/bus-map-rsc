@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CEV-RUBI",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 320,
-    "FIN_TRAYECTO": 1420,
+    "INI_TRAYECTO": 385,
+    "FIN_TRAYECTO": 1400,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -809,7 +809,7 @@
     "DESC_REDUCIDA": "RUBI-CEV",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 330,
+    "INI_TRAYECTO": 410,
     "FIN_TRAYECTO": 1420,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

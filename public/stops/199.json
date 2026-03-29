@@ -365,34 +365,6 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Paseo Sarasate-Fueros",
-      "COD_PARADA": 656,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 19937,
-      "ID_MUNICIPIO": 443268,
-      "MUNICIPIO": "PAMPLONA/IRUÑA",
-      "EXPLOTADORA": "PAMPLONA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 7,
-      "UTMX": 120440,
-      "UTMY": 4751013,
-      "LATITUD": 42.815643918798,
-      "LONGITUD": -1.6435875858965,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 199,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 145,
-    "ID_PARADA": 19937,
-    "NKM_ORIGEN": 4.46,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
       "DESC_PARADA": "c/ Taconera (Iglesia San Lorenzo)",
       "COD_PARADA": 58,
       "ID_GRUPO": 1,

@@ -4,12 +4,12 @@
     "ID_LINEA": 221,
     "ID_TRAYECTO": 3,
     "ID_TRAYECTO_SAE": 3,
-    "DESC_TRAYECTO": "PRINCIPE VIANA-ETXABAKOITZ-ZIZUR MAYOR",
+    "DESC_TRAYECTO": "PZA. PRINCIPE VIANA-ETXABAKOITZ-ZIZUR MAYOR",
     "DESC_REDUCIDA": "Zizur",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1440,
-    "FIN_TRAYECTO": 1830,
+    "FIN_TRAYECTO": 1710,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -754,7 +754,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1380,
-    "FIN_TRAYECTO": 1830,
+    "FIN_TRAYECTO": 1680,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1443,7 +1443,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1410,
-    "FIN_TRAYECTO": 1838,
+    "FIN_TRAYECTO": 1718,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1935,8 +1935,8 @@
           "ZONA": null,
           "ID_EXPLOTADORA": 7,
           "UTMX": 119597,
-          "UTMY": 4749849,
-          "LATITUD": 42.804773396168,
+          "UTMY": 4749851,
+          "LATITUD": 42.804793074815,
           "LONGITUD": -1.6530453341933,
           "ID_SUBZONA": null,
           "SUBZONA": null,

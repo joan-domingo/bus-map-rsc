@@ -994,7 +994,7 @@
     "DESC_REDUCIDA": "BARCELONA, ESTACIÓ DEL NORD",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 720,
+    "INI_TRAYECTO": 420,
     "FIN_TRAYECTO": 860,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -3532,7 +3532,7 @@
     "DESC_REDUCIDA": "PALAFRUGELL, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 975,
+    "INI_TRAYECTO": 630,
     "FIN_TRAYECTO": 1115,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Merindades",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1360,
-    "FIN_TRAYECTO": 1840,
+    "INI_TRAYECTO": 1365,
+    "FIN_TRAYECTO": 1695,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -501,8 +501,8 @@
     "DESC_REDUCIDA": "Barañain",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1355,
-    "FIN_TRAYECTO": 1860,
+    "INI_TRAYECTO": 1360,
+    "FIN_TRAYECTO": 1695,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -535,20 +535,20 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Paseo Sarasate-Fueros",
-          "COD_PARADA": 656,
+          "DESC_PARADA": "c/ Yanguas y Miranda (c/ Estella)",
+          "COD_PARADA": 303,
           "ID_GRUPO": 1,
-          "ID_PARADA": 19937,
+          "ID_PARADA": 11100,
           "ID_MUNICIPIO": 443268,
           "MUNICIPIO": "PAMPLONA/IRUÑA",
           "EXPLOTADORA": "PAMPLONA",
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 7,
-          "UTMX": 120440,
-          "UTMY": 4751013,
-          "LATITUD": 42.815643918798,
-          "LONGITUD": -1.6435875858965,
+          "UTMX": 120241,
+          "UTMY": 4750800,
+          "LATITUD": 42.813627952998,
+          "LONGITUD": -1.6458343743911,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -556,9 +556,9 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 222,
         "ID_TRAYECTO": 1,
-        "SECUENCIA": 10,
-        "ID_PARADA": 19937,
-        "NKM_ORIGEN": 0.635,
+        "SECUENCIA": 9,
+        "ID_PARADA": 11100,
+        "NKM_ORIGEN": 0.72,
         "SUBE_BAJA": 1
       },
       {

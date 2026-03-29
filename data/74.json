@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 555,
-    "FIN_TRAYECTO": 1310,
+    "INI_TRAYECTO": 525,
+    "FIN_TRAYECTO": 1325,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -165,8 +165,8 @@
     "DESC_REDUCIDA": "BARCELONA, ESTACIÓ DEL NORD",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 460,
-    "FIN_TRAYECTO": 1215,
+    "INI_TRAYECTO": 430,
+    "FIN_TRAYECTO": 1230,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -322,7 +322,7 @@
     "DESC_REDUCIDA": "AEROPORT DE BARCELONA",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 400,
+    "INI_TRAYECTO": 340,
     "FIN_TRAYECTO": 1195,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -535,7 +535,7 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 590,
+    "INI_TRAYECTO": 555,
     "FIN_TRAYECTO": 1385,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

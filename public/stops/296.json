@@ -1,6 +1,34 @@
 [
   {
     "Parada": {
+      "DESC_PARADA": "Passeig Olabarria (cap Valldoreix)",
+      "COD_PARADA": 5091,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 5091,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 422091,
+      "UTMY": 4590351,
+      "LATITUD": 41.459121706824,
+      "LONGITUD": 2.0660087557795,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 101,
+    "SECUENCIA": 230,
+    "ID_PARADA": 5091,
+    "NKM_ORIGEN": 12.828,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Plaça Joan Borràs / Fgc Mira-sol",
       "COD_PARADA": 3816,
       "ID_GRUPO": 1,
@@ -533,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "3848 PAÏSOS CATALANS",
+      "DESC_PARADA": "Països Catalans",
       "COD_PARADA": 3848,
       "ID_GRUPO": 1,
       "ID_PARADA": 3848,
@@ -585,6 +613,62 @@
     "SECUENCIA": 180,
     "ID_PARADA": 393,
     "NKM_ORIGEN": 7.594,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Carrer Cerdanya (plaça Del Xic)",
+      "COD_PARADA": 2069,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 21940,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 422385,
+      "UTMY": 4592533,
+      "LATITUD": 41.478831,
+      "LONGITUD": 2.069259,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 225,
+    "ID_PARADA": 21940,
+    "NKM_ORIGEN": 9.442,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Antoni Bell (estació Volpelleres)",
+      "COD_PARADA": 7,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 11657,
+      "ID_MUNICIPIO": 82055,
+      "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 422637,
+      "UTMY": 4592763,
+      "LATITUD": 41.480924954401,
+      "LONGITUD": 2.0722475325629,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 296,
+    "ID_TRAYECTO": 101,
+    "SECUENCIA": 190,
+    "ID_PARADA": 11657,
+    "NKM_ORIGEN": 8.521,
     "SUBE_BAJA": 1
   },
   {

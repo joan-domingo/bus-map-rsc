@@ -9,7 +9,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1365,
-    "FIN_TRAYECTO": 1753,
+    "FIN_TRAYECTO": 1633,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -614,7 +614,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1395,
-    "FIN_TRAYECTO": 1845,
+    "FIN_TRAYECTO": 1672,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1051,7 +1051,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1393,
-    "FIN_TRAYECTO": 1785,
+    "FIN_TRAYECTO": 1665,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1656,7 +1656,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1425,
-    "FIN_TRAYECTO": 1693,
+    "FIN_TRAYECTO": 1573,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2233,7 +2233,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1453,
-    "FIN_TRAYECTO": 1725,
+    "FIN_TRAYECTO": 1605,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2810,7 +2810,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1372,
-    "FIN_TRAYECTO": 1815,
+    "FIN_TRAYECTO": 1695,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -3218,8 +3218,8 @@
     "DESC_REDUCIDA": "Gorraiz Sur+Norte",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1785,
-    "FIN_TRAYECTO": 1815,
+    "INI_TRAYECTO": 1665,
+    "FIN_TRAYECTO": 1695,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

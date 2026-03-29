@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 396,
-    "FIN_TRAYECTO": 1400,
+    "FIN_TRAYECTO": 1376,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -276,10 +276,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 7,
-          "UTMX": 120065,
-          "UTMY": 4751005,
-          "LATITUD": 42.815384935971,
-          "LONGITUD": -1.6481207542375,
+          "UTMX": 120051,
+          "UTMY": 4751007,
+          "LATITUD": 42.815391822317,
+          "LONGITUD": -1.6482857100919,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -502,7 +502,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 408,
-    "FIN_TRAYECTO": 1380,
+    "FIN_TRAYECTO": 1376,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
