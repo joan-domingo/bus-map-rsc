@@ -47,7 +47,7 @@ export function StructuredData() {
     logo: `${baseUrl}/busIcon.svg`,
     description:
       "Aplicació web per consultar en temps real l'arribada dels propers busos a l'àrea metropolitana de Barcelona.",
-    sameAs: [],
+    sameAs: ["https://github.com/joan-domingo/bus-map-rsc"],
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "Customer Service",
@@ -63,14 +63,6 @@ export function StructuredData() {
     description:
       "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat i altres municipis del Vallès.",
     inLanguage: ["ca", "es"],
-    potentialAction: {
-      "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: `${baseUrl}?q={search_term_string}`,
-      },
-      "query-input": "required name=search_term_string",
-    },
   };
 
   const structuredDataArray = [webApplication, organization, website];

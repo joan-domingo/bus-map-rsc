@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: "%s | QuanTriga.com",
   },
   description:
-    "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal i altres municipis del Vallès i àrea metropolitana de Barcelona. Informació actualitzada de Moventis amb mapa interactiu de parades.",
+    "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
   keywords: [
     "bus",
     "autobús",
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     siteName: "QuanTriga.com",
     title: "QuanTriga.com - Temps Real Autobusos",
     description:
-      "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal i altres municipis del Vallès i àrea metropolitana de Barcelona. Informació actualitzada de Moventis amb mapa interactiu de parades.",
+      "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
     images: [
       {
         url: "/og-image",
@@ -92,17 +92,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "QuanTriga.com - Temps Real Autobusos",
     description:
-      "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat i altres municipis del Vallès.",
+      "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
     images: ["/og-image"],
-    creator: "@quantriga", // Add your Twitter handle if you have one
   },
   alternates: {
     canonical: "https://quantriga.com",
-    languages: {
-      ca: "https://quantriga.com",
-      es: "https://quantriga.com",
-      "x-default": "https://quantriga.com",
-    },
   },
   category: "transport",
   classification: "Transport Públic",
@@ -131,6 +125,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ca">
+      <head>
+        <link rel="preconnect" href="https://maps.googleapis.com" />
+        <link rel="preconnect" href="https://maps.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
