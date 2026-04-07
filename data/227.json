@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "Baja Navarra",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1365,
+    "INI_TRAYECTO": 1367,
     "FIN_TRAYECTO": 1735,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -810,7 +810,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1375,
-    "FIN_TRAYECTO": 1715,
+    "FIN_TRAYECTO": 1705,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

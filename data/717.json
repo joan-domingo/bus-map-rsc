@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1395,
-    "FIN_TRAYECTO": 1800,
+    "FIN_TRAYECTO": 1860,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -978,7 +978,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 1370,
-    "FIN_TRAYECTO": 1755,
+    "FIN_TRAYECTO": 1880,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

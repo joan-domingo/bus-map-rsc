@@ -197,6 +197,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "C. DE LA MERCÈ (CAP)",
+      "COD_PARADA": 7011,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 18203,
+      "ID_MUNICIPIO": 81727,
+      "MUNICIPIO": "PREMIÀ DE MAR",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 446128,
+      "UTMY": 4594033,
+      "LATITUD": 41.49429,
+      "LONGITUD": 2.35348,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 385,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 80,
+    "ID_PARADA": 18203,
+    "NKM_ORIGEN": 3.983,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "GRAN VIA DE LLUÍS COMPANYS/C. DE LA PLAÇA",
       "COD_PARADA": 7012,
       "ID_GRUPO": 1,
@@ -417,34 +445,6 @@
     "SECUENCIA": 150,
     "ID_PARADA": 18209,
     "NKM_ORIGEN": 6.603,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "C. DE LA MERCÈ (CAP)",
-      "COD_PARADA": 7011,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 18203,
-      "ID_MUNICIPIO": 81727,
-      "MUNICIPIO": "PREMIÀ DE MAR",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 446128,
-      "UTMY": 4594033,
-      "LATITUD": 41.49429,
-      "LONGITUD": 2.35348,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 385,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 80,
-    "ID_PARADA": 18203,
-    "NKM_ORIGEN": 3.983,
     "SUBE_BAJA": 1
   }
 ]

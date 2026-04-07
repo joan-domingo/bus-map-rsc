@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "SBD - TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 435,
-    "FIN_TRAYECTO": 1320,
+    "INI_TRAYECTO": 315,
+    "FIN_TRAYECTO": 1360,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -613,8 +613,8 @@
     "DESC_REDUCIDA": "TERR - SBD",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 1365,
+    "INI_TRAYECTO": 360,
+    "FIN_TRAYECTO": 1405,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

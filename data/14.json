@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "SBD (P.TAULI) - BDV",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 440,
-    "FIN_TRAYECTO": 1380,
+    "INI_TRAYECTO": 400,
+    "FIN_TRAYECTO": 1395,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -585,8 +585,8 @@
     "DESC_REDUCIDA": "BDV - SBD (P. TAULI)",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1370,
+    "INI_TRAYECTO": 425,
+    "FIN_TRAYECTO": 1365,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1106,8 +1106,8 @@
     "DESC_REDUCIDA": "SBD - BDV",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 470,
-    "FIN_TRAYECTO": 1350,
+    "INI_TRAYECTO": 290,
+    "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1655,8 +1655,8 @@
     "DESC_REDUCIDA": "BDV - SBD",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 1340,
+    "INI_TRAYECTO": 260,
+    "FIN_TRAYECTO": 1350,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

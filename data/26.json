@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "F.COLOM - SCV",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 1325,
+    "INI_TRAYECTO": 435,
+    "FIN_TRAYECTO": 1340,
     "ID_TRAYECTO_CONCAT": 4,
     "TrayectosDet": [
       {
