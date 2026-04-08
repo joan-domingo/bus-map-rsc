@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TEIÀ - EL MASNOU",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 385,
-    "FIN_TRAYECTO": 1420,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1315,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

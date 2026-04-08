@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "MATARO-LLAV-S.VICENÇ",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 435,
-    "FIN_TRAYECTO": 1320,
+    "INI_TRAYECTO": 460,
+    "FIN_TRAYECTO": 1100,
     "ID_TRAYECTO_CONCAT": 2,
     "TrayectosDet": [
       {
@@ -1067,8 +1067,8 @@
     "DESC_REDUCIDA": "MATARO-LLAVANERES",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 495,
-    "FIN_TRAYECTO": 1265,
+    "INI_TRAYECTO": 610,
+    "FIN_TRAYECTO": 1255,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1675,8 +1675,8 @@
     "DESC_REDUCIDA": "LLAVANERES-MATARO",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 425,
-    "FIN_TRAYECTO": 1275,
+    "INI_TRAYECTO": 655,
+    "FIN_TRAYECTO": 1265,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -555,7 +555,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "48": {
     "nid": "86663",
@@ -591,7 +591,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "51": {
     "nid": "86667",
@@ -627,7 +627,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "55": {
     "nid": "86673",
@@ -645,7 +645,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "56": {
     "nid": "86675",
@@ -663,7 +663,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "57": {
     "nid": "86677",
@@ -681,7 +681,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "58": {
     "nid": "86679",
@@ -699,7 +699,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "59": {
     "nid": "86681",
@@ -717,7 +717,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "60": {
     "nid": "86683",
@@ -753,7 +753,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "67": {
     "nid": "86687",
@@ -771,7 +771,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "68": {
     "nid": "86689",
@@ -789,7 +789,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "70": {
     "nid": "86691",
@@ -807,7 +807,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "73": {
     "nid": "86699",
@@ -1006,24 +1006,6 @@
     "ADAPTADA": "S",
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20260528"
-  },
-  "91": {
-    "nid": "123680",
-    "ID_LINEA": "91",
-    "COD_LINEA": "53",
-    "DESC_LINEA": "PALAFRUGELL - GRANOLLERS - SABADELL - TERRASSA",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#E92900",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "2",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20260406"
   },
   "93": {
     "nid": "123732",
@@ -1383,7 +1365,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "165": {
     "nid": "125531",
@@ -2265,7 +2247,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "268": {
     "nid": "86721",
@@ -2483,24 +2465,6 @@
     "MARCA": "120764",
     "DIAS_QUE_CIRCULA": "20260605"
   },
-  "337": {
-    "nid": "123681",
-    "ID_LINEA": "337",
-    "COD_LINEA": "32",
-    "DESC_LINEA": "ROSES - LLANÇÀ- EL PORT DE LA SELVA - CADAQUÉS",
-    "ID_ZONA": "6",
-    "ID_SUBZONA": "4",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#35CC00",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "2",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20260406"
-  },
   "339": {
     "nid": "88222",
     "ID_LINEA": "339",
@@ -2535,7 +2499,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "342": {
     "nid": "89221",
@@ -2733,7 +2697,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "388": {
     "nid": "120751",
@@ -2825,24 +2789,6 @@
     "MARCA": "86873",
     "DIAS_QUE_CIRCULA": "20260522"
   },
-  "430": {
-    "nid": "122946",
-    "ID_LINEA": "430",
-    "COD_LINEA": "L1 LLO/BLA",
-    "DESC_LINEA": "LLORET-BLANES CENTRE-LLORET",
-    "ID_ZONA": "6",
-    "ID_SUBZONA": "2",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#0C31C2",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "11",
-    "ID_CONCESION": "31",
-    "ID_GRUPO": "3",
-    "ADAPTADA": "S",
-    "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260406"
-  },
   "431": {
     "nid": "122373",
     "ID_LINEA": "431",
@@ -2931,7 +2877,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "N",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260606"
   },
   "439": {
     "nid": "122367",
