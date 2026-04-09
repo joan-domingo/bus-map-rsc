@@ -2,23 +2,8 @@
 
 import Script from "next/script";
 import { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
 
 const GA_MEASUREMENT_ID = "G-8F7T65ZT1G";
-
-function PageViewTracker() {
-  const pathname = usePathname();
-
-  useEffect(() => {
-    if (typeof window !== "undefined" && window.gtag) {
-      window.gtag("config", GA_MEASUREMENT_ID, {
-        page_path: pathname,
-      });
-    }
-  }, [pathname]);
-
-  return null;
-}
 
 export function GoogleTagManager() {
   const [shouldLoadGA, setShouldLoadGA] = useState(false);
@@ -60,7 +45,6 @@ export function GoogleTagManager() {
         strategy="afterInteractive"
         src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
       />
-      <PageViewTracker />
     </>
   );
 }
