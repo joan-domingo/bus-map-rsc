@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RTA. LOCOMOTORA  (DIR.EST)",
+      "DESC_PARADA": "200120 RTA. LOCOMOTORA (LL-B)",
       "COD_PARADA": 200120,
       "ID_GRUPO": 3,
       "ID_PARADA": 19293,
@@ -291,10 +291,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 11,
-      "UTMX": 481281,
-      "UTMY": 4613919,
-      "LATITUD": 41.67555,
-      "LONGITUD": 2.7745,
+      "UTMX": 481324,
+      "UTMY": 4613979,
+      "LATITUD": 41.675547996599,
+      "LONGITUD": 2.774508046627,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null

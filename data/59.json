@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "MATARO-V.DALT",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 365,
-    "FIN_TRAYECTO": 1320,
+    "INI_TRAYECTO": 360,
+    "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -166,8 +166,8 @@
           "ID_EXPLOTADORA": 3,
           "UTMX": 453578,
           "UTMY": 4598924,
-          "LATITUD": 41.538811150928,
-          "LONGITUD": 2.4423516423267,
+          "LATITUD": 41.538811652841,
+          "LONGITUD": 2.442354995088,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -977,8 +977,8 @@
     "DESC_REDUCIDA": "VIL.DE DALT-MATARO",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1360,
+    "INI_TRAYECTO": 365,
+    "FIN_TRAYECTO": 1395,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

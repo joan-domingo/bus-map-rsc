@@ -49,10 +49,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 20,
     "ID_PARADA": 7074,
-    "NKM_ORIGEN": 0.205,
+    "NKM_ORIGEN": 0.206,
     "SUBE_BAJA": 1
   },
   {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 70,
     "ID_PARADA": 7075,
-    "NKM_ORIGEN": 2.464,
+    "NKM_ORIGEN": 0.803,
     "SUBE_BAJA": 1
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 75,
     "ID_PARADA": 12818,
-    "NKM_ORIGEN": 2.759,
+    "NKM_ORIGEN": 1.093,
     "SUBE_BAJA": 1
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 80,
     "ID_PARADA": 7076,
-    "NKM_ORIGEN": 3.05,
+    "NKM_ORIGEN": 1.37,
     "SUBE_BAJA": 1
   },
   {
@@ -273,10 +273,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 90,
     "ID_PARADA": 7251,
-    "NKM_ORIGEN": 3.609,
+    "NKM_ORIGEN": 1.942,
     "SUBE_BAJA": 1
   },
   {
@@ -301,10 +301,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 100,
     "ID_PARADA": 7252,
-    "NKM_ORIGEN": 4.244,
+    "NKM_ORIGEN": 2.573,
     "SUBE_BAJA": 1
   },
   {
@@ -329,10 +329,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 110,
     "ID_PARADA": 7253,
-    "NKM_ORIGEN": 4.534,
+    "NKM_ORIGEN": 2.86,
     "SUBE_BAJA": 1
   },
   {
@@ -385,10 +385,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 125,
     "ID_PARADA": 12752,
-    "NKM_ORIGEN": 5.499,
+    "NKM_ORIGEN": 3.472,
     "SUBE_BAJA": 1
   },
   {
@@ -417,62 +417,6 @@
     "SECUENCIA": 10,
     "ID_PARADA": 7059,
     "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "MONTSENY",
-      "COD_PARADA": 4827,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7238,
-      "ID_MUNICIPIO": 82649,
-      "MUNICIPIO": "SANT VICENÇ DE MONTALT",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 459615,
-      "UTMY": 4601766,
-      "LATITUD": 41.564738818398,
-      "LONGITUD": 2.5145378165519,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 20,
-    "ID_PARADA": 7238,
-    "NKM_ORIGEN": 2.2,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CTRA. N-II/CAMÍ DEL BALIS",
-      "COD_PARADA": 259,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 13123,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 459000,
-      "UTMY": 4601289,
-      "LATITUD": 41.560407782294,
-      "LONGITUD": 2.5071920946633,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 30,
-    "ID_PARADA": 13123,
-    "NKM_ORIGEN": 2.99,
     "SUBE_BAJA": 1
   },
   {
@@ -613,6 +557,62 @@
     "SECUENCIA": 70,
     "ID_PARADA": 7063,
     "NKM_ORIGEN": 5.566,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "MONTSENY",
+      "COD_PARADA": 4827,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7238,
+      "ID_MUNICIPIO": 82649,
+      "MUNICIPIO": "SANT VICENÇ DE MONTALT",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 459615,
+      "UTMY": 4601766,
+      "LATITUD": 41.564738818398,
+      "LONGITUD": 2.5145378165519,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 20,
+    "ID_PARADA": 7238,
+    "NKM_ORIGEN": 2.2,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "CTRA. N-II/CAMÍ DEL BALIS",
+      "COD_PARADA": 259,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13123,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 459000,
+      "UTMY": 4601289,
+      "LATITUD": 41.560407782294,
+      "LONGITUD": 2.5071920946633,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 30,
+    "ID_PARADA": 13123,
+    "NKM_ORIGEN": 2.99,
     "SUBE_BAJA": 1
   },
   {

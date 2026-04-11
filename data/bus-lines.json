@@ -395,42 +395,6 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
-  "33": {
-    "nid": "86813",
-    "ID_LINEA": "33",
-    "COD_LINEA": "SU1",
-    "DESC_LINEA": "SERVEI URBA CERDANYOLA DEL VALLES 1",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#107E00",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260408"
-  },
-  "34": {
-    "nid": "86815",
-    "ID_LINEA": "34",
-    "COD_LINEA": "SU2",
-    "DESC_LINEA": "SERVEI URBA CERDANYOLA DEL VALLES 2",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F7000C",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260408"
-  },
   "36": {
     "nid": "86755",
     "ID_LINEA": "36",
@@ -555,7 +519,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "48": {
     "nid": "86663",
@@ -573,7 +537,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "49": {
     "nid": "86665",
@@ -591,7 +555,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "51": {
     "nid": "86667",
@@ -609,7 +573,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "53": {
     "nid": "86669",
@@ -627,7 +591,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "55": {
     "nid": "86673",
@@ -645,7 +609,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "56": {
     "nid": "86675",
@@ -663,7 +627,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "57": {
     "nid": "86677",
@@ -681,7 +645,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "58": {
     "nid": "86679",
@@ -699,7 +663,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "59": {
     "nid": "86681",
@@ -717,7 +681,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "60": {
     "nid": "86683",
@@ -735,7 +699,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "64": {
     "nid": "86685",
@@ -753,7 +717,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "67": {
     "nid": "86687",
@@ -771,7 +735,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "68": {
     "nid": "86689",
@@ -789,7 +753,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "70": {
     "nid": "86691",
@@ -807,7 +771,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "73": {
     "nid": "86699",
@@ -1365,7 +1329,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "165": {
     "nid": "125531",
@@ -1384,24 +1348,6 @@
     "ADAPTADA": "S",
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20260528"
-  },
-  "167": {
-    "nid": "86825",
-    "ID_LINEA": "167",
-    "COD_LINEA": "SU3",
-    "DESC_LINEA": "SERVEI URBA CERDANYOLA DEL VALLES 3",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#9A008D",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260408"
   },
   "168": {
     "nid": "125526",
@@ -2247,7 +2193,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "268": {
     "nid": "86721",
@@ -2393,24 +2339,6 @@
     "MARCA": "86873",
     "DIAS_QUE_CIRCULA": "20260522"
   },
-  "307": {
-    "nid": "86841",
-    "ID_LINEA": "307",
-    "COD_LINEA": "PA",
-    "DESC_LINEA": "PA-FGC BELLATERRA - RENFE UAB - PARC DE L`ALBA",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F70023",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260408"
-  },
   "332": {
     "nid": "86639",
     "ID_LINEA": "332",
@@ -2463,7 +2391,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "339": {
     "nid": "88222",
@@ -2499,7 +2427,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "342": {
     "nid": "89221",
@@ -2697,7 +2625,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "388": {
     "nid": "120751",
@@ -2841,7 +2769,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "S",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "435": {
     "nid": "122421",
@@ -2859,7 +2787,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "S",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "438": {
     "nid": "122358",
@@ -2877,7 +2805,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "N",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260606"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "439": {
     "nid": "122367",
@@ -3021,7 +2949,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "605": {
     "nid": "123713",
@@ -3057,7 +2985,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "627": {
     "nid": "124230",
@@ -3075,7 +3003,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "628": {
     "nid": "124405",
@@ -3094,60 +3022,6 @@
     "ADAPTADA": "S",
     "MARCA": "86863",
     "DIAS_QUE_CIRCULA": "20260524"
-  },
-  "662": {
-    "nid": "125307",
-    "ID_LINEA": "662",
-    "COD_LINEA": "PR4",
-    "DESC_LINEA": "ESTACIÓ RODALIES - ZAL PRAT",
-    "ID_ZONA": "7",
-    "ID_SUBZONA": "2",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F0BF4C",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "18",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260409"
-  },
-  "663": {
-    "nid": "125313",
-    "ID_LINEA": "663",
-    "COD_LINEA": "88",
-    "DESC_LINEA": "PORT-ZAL (88)",
-    "ID_ZONA": "7",
-    "ID_SUBZONA": "2",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F0BF4C",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "18",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260409"
-  },
-  "664": {
-    "nid": "125310",
-    "ID_LINEA": "664",
-    "COD_LINEA": "89",
-    "DESC_LINEA": "PORT-ZAL (89)",
-    "ID_ZONA": "7",
-    "ID_SUBZONA": "2",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F0BF4C",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "18",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20260409"
   },
   "670": {
     "nid": "125301",
@@ -3561,7 +3435,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260605"
+    "DIAS_QUE_CIRCULA": "20260609"
   },
   "716": {
     "nid": "170026",
@@ -3614,7 +3488,7 @@
     "ID_CONCESION": "10",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
-    "MARCA": "120759",
+    "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
   "719": {
@@ -3632,7 +3506,7 @@
     "ID_CONCESION": "10",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
-    "MARCA": "120759",
+    "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
   "720": {
@@ -3650,7 +3524,7 @@
     "ID_CONCESION": "10",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
-    "MARCA": "120759",
+    "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
   "721": {
@@ -3668,7 +3542,7 @@
     "ID_CONCESION": "10",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
-    "MARCA": "120759",
+    "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
   "722": {
@@ -3686,7 +3560,7 @@
     "ID_CONCESION": "10",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
-    "MARCA": "120759",
+    "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   }
 }

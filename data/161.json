@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "REC. CURT",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 495,
-    "FIN_TRAYECTO": 1335,
+    "INI_TRAYECTO": 375,
+    "FIN_TRAYECTO": 1330,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

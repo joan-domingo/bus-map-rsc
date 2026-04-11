@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 250,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 10,
     "ID_PARADA": 21174,
-    "NKM_ORIGEN": 27.685,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -49,7 +49,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 2,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 20,
     "ID_PARADA": 7508,
     "NKM_ORIGEN": 1,
@@ -77,8 +77,8 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 30,
     "ID_PARADA": 7008,
     "NKM_ORIGEN": 22.98,
     "SUBE_BAJA": 3
@@ -105,8 +105,8 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 40,
     "ID_PARADA": 7009,
     "NKM_ORIGEN": 23.775,
     "SUBE_BAJA": 3
@@ -133,8 +133,8 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 50,
     "ID_PARADA": 7010,
     "NKM_ORIGEN": 24.19,
     "SUBE_BAJA": 3
@@ -161,11 +161,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 60,
     "ID_PARADA": 7011,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 25.2,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 30,
     "ID_PARADA": 7015,
-    "NKM_ORIGEN": 2.414,
+    "NKM_ORIGEN": 22.7,
     "SUBE_BAJA": 3
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 40,
     "ID_PARADA": 7016,
-    "NKM_ORIGEN": 2.79,
+    "NKM_ORIGEN": 23.076,
     "SUBE_BAJA": 3
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 50,
     "ID_PARADA": 7020,
-    "NKM_ORIGEN": 3.365,
+    "NKM_ORIGEN": 23.651,
     "SUBE_BAJA": 3
   },
   {
@@ -273,11 +273,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 170,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 60,
     "ID_PARADA": 21173,
-    "NKM_ORIGEN": 3.62,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 25.311,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -301,7 +301,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 30,
     "ID_PARADA": 7012,
     "NKM_ORIGEN": 0.632,
@@ -329,7 +329,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 50,
     "ID_PARADA": 14076,
     "NKM_ORIGEN": 1.1,
@@ -357,7 +357,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 70,
     "ID_PARADA": 14077,
     "NKM_ORIGEN": 1.4,
@@ -385,7 +385,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
+    "ID_TRAYECTO": 3,
     "SECUENCIA": 90,
     "ID_PARADA": 7014,
     "NKM_ORIGEN": 1.87,
@@ -441,10 +441,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 210,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 40,
     "ID_PARADA": 7007,
-    "NKM_ORIGEN": 4.731,
+    "NKM_ORIGEN": 3.657,
     "SUBE_BAJA": 2
   },
   {
@@ -469,10 +469,38 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 230,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 50,
     "ID_PARADA": 7506,
-    "NKM_ORIGEN": 26.885,
+    "NKM_ORIGEN": 25.811,
     "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "CTRA D´ENLLAÇ/CAMÍ SOT DEL PI (RTDA.  FONT BLAVA)",
+      "COD_PARADA": 3800,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7119,
+      "ID_MUNICIPIO": 82303,
+      "MUNICIPIO": "PREMIÀ DE DALT",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 445725,
+      "UTMY": 4595233,
+      "LATITUD": 41.505070012571,
+      "LONGITUD": 2.3485475534622,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 49,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 10,
+    "ID_PARADA": 7119,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   }
 ]
