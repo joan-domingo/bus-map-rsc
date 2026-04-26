@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ D'AUTOBUSOS/PL.ESPANYA",
+      "DESC_PARADA": "PLAÇA ESPANYA",
       "COD_PARADA": 20132,
       "ID_GRUPO": 1,
       "ID_PARADA": 10243,
@@ -414,7 +414,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 480,
+    "SECUENCIA": 490,
     "ID_PARADA": 13041,
     "NKM_ORIGEN": 2.734,
     "SUBE_BAJA": 1
@@ -505,6 +505,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "AV. PINYANA",
+      "COD_PARADA": 20433,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27481,
+      "ID_MUNICIPIO": 251207,
+      "MUNICIPIO": "LLEIDA",
+      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 5,
+      "UTMX": 301221,
+      "UTMY": 4611419,
+      "LATITUD": 41.627904229433,
+      "LONGITUD": 0.61263289994471,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 134,
+    "ID_TRAYECTO": 4,
+    "SECUENCIA": 190,
+    "ID_PARADA": 27481,
+    "NKM_ORIGEN": 5.15,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "TANATORI",
       "COD_PARADA": 20256,
       "ID_GRUPO": 1,
@@ -526,7 +554,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 5,
-    "SECUENCIA": 200,
+    "SECUENCIA": 210,
     "ID_PARADA": 10466,
     "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
@@ -554,7 +582,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 440,
+    "SECUENCIA": 450,
     "ID_PARADA": 13047,
     "NKM_ORIGEN": 1.3,
     "SUBE_BAJA": 1
@@ -582,7 +610,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 450,
+    "SECUENCIA": 460,
     "ID_PARADA": 10171,
     "NKM_ORIGEN": 1.9,
     "SUBE_BAJA": 1
@@ -610,7 +638,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 460,
+    "SECUENCIA": 470,
     "ID_PARADA": 10220,
     "NKM_ORIGEN": 2.152,
     "SUBE_BAJA": 1
@@ -638,7 +666,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 470,
+    "SECUENCIA": 480,
     "ID_PARADA": 10260,
     "NKM_ORIGEN": 2.457,
     "SUBE_BAJA": 1
@@ -666,7 +694,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 5,
-    "SECUENCIA": 250,
+    "SECUENCIA": 260,
     "ID_PARADA": 13040,
     "NKM_ORIGEN": 1.798,
     "SUBE_BAJA": 1
@@ -722,7 +750,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 500,
+    "SECUENCIA": 510,
     "ID_PARADA": 10259,
     "NKM_ORIGEN": 3.44,
     "SUBE_BAJA": 1
@@ -750,14 +778,14 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 510,
+    "SECUENCIA": 520,
     "ID_PARADA": 10381,
     "NKM_ORIGEN": 3.71,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIO D`AUTOBUSOS/CATALUNYA",
+      "DESC_PARADA": "P.ESPANYA/CATALUNYA",
       "COD_PARADA": 20197,
       "ID_GRUPO": 1,
       "ID_PARADA": 10312,
@@ -778,7 +806,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 520,
+    "SECUENCIA": 530,
     "ID_PARADA": 10312,
     "NKM_ORIGEN": 4.07,
     "SUBE_BAJA": 1
@@ -806,7 +834,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 530,
+    "SECUENCIA": 540,
     "ID_PARADA": 10472,
     "NKM_ORIGEN": 4.149,
     "SUBE_BAJA": 1
@@ -1065,7 +1093,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS",
+      "DESC_PARADA": "PLAÇA ESPANYA/SARACIBAR",
       "COD_PARADA": 20001,
       "ID_GRUPO": 1,
       "ID_PARADA": 10242,
@@ -1142,7 +1170,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 3,
-    "SECUENCIA": 410,
+    "SECUENCIA": 420,
     "ID_PARADA": 10161,
     "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
@@ -1170,7 +1198,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 3,
-    "SECUENCIA": 420,
+    "SECUENCIA": 430,
     "ID_PARADA": 13077,
     "NKM_ORIGEN": 0.5,
     "SUBE_BAJA": 1
@@ -1198,7 +1226,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 410,
+    "SECUENCIA": 420,
     "ID_PARADA": 13693,
     "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
@@ -1226,7 +1254,7 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 420,
+    "SECUENCIA": 430,
     "ID_PARADA": 10469,
     "NKM_ORIGEN": 0.3,
     "SUBE_BAJA": 1
@@ -1254,14 +1282,14 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 134,
     "ID_TRAYECTO": 11,
-    "SECUENCIA": 430,
+    "SECUENCIA": 440,
     "ID_PARADA": 10468,
     "NKM_ORIGEN": 1,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+      "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
       "COD_PARADA": 20146,
       "ID_GRUPO": 1,
       "ID_PARADA": 10244,

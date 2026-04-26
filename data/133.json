@@ -42,6 +42,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "AV. PINYANA",
+          "COD_PARADA": 20433,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 27481,
+          "ID_MUNICIPIO": 251207,
+          "MUNICIPIO": "LLEIDA",
+          "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 5,
+          "UTMX": 301221,
+          "UTMY": 4611419,
+          "LATITUD": 41.627904229433,
+          "LONGITUD": 0.61263289994471,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 133,
+        "ID_TRAYECTO": 14,
+        "SECUENCIA": 15,
+        "ID_PARADA": 27481,
+        "NKM_ORIGEN": 0.28,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "JARDINS DE LES MAGNOLIES2",
           "COD_PARADA": 20551,
           "ID_GRUPO": 1,
@@ -518,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+          "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
           "COD_PARADA": 20146,
           "ID_GRUPO": 1,
           "ID_PARADA": 10244,
@@ -564,7 +592,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+          "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
           "COD_PARADA": 20146,
           "ID_GRUPO": 1,
           "ID_PARADA": 10244,

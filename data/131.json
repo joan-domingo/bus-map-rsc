@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "EST. D`AUTOBUSOS/JOANA RASPALL",
+          "DESC_PARADA": "P.ESPANYA/JOANA RASPALL",
           "COD_PARADA": 20323,
           "ID_GRUPO": 1,
           "ID_PARADA": 13055,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA 2",
+          "DESC_PARADA": "AUDIÈNCIA / MUSEU MORERA 2",
           "COD_PARADA": 20150,
           "ID_GRUPO": 1,
           "ID_PARADA": 13057,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EST. D`AUTOBUSOS/JOANA RASPALL",
+          "DESC_PARADA": "P.ESPANYA/JOANA RASPALL",
           "COD_PARADA": 20323,
           "ID_GRUPO": 1,
           "ID_PARADA": 13055,
@@ -788,7 +788,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "EST. D`AUTOBUSOS/JOANA RASPALL",
+          "DESC_PARADA": "P.ESPANYA/JOANA RASPALL",
           "COD_PARADA": 20323,
           "ID_GRUPO": 1,
           "ID_PARADA": 13055,
@@ -984,7 +984,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA 2",
+          "DESC_PARADA": "AUDIÈNCIA / MUSEU MORERA 2",
           "COD_PARADA": 20150,
           "ID_GRUPO": 1,
           "ID_PARADA": 13057,
@@ -1544,7 +1544,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "EST. D`AUTOBUSOS/JOANA RASPALL",
+          "DESC_PARADA": "P.ESPANYA/JOANA RASPALL",
           "COD_PARADA": 20323,
           "ID_GRUPO": 1,
           "ID_PARADA": 13055,

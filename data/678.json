@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "El Prat L.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 320,
-    "FIN_TRAYECTO": 1424,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1376,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1397,8 +1397,8 @@
     "DESC_REDUCIDA": "St. Joan D.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 310,
-    "FIN_TRAYECTO": 1380,
+    "INI_TRAYECTO": 460,
+    "FIN_TRAYECTO": 1322,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

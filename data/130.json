@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIO D`AUTOBUSOS/AV.MADRID",
+          "DESC_PARADA": "P.ESPANYA/AV.MADRID",
           "COD_PARADA": 20318,
           "ID_GRUPO": 1,
           "ID_PARADA": 13058,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA",
+          "DESC_PARADA": "AUDIÈNCIA/MUSEU MORERA",
           "COD_PARADA": 20011,
           "ID_GRUPO": 1,
           "ID_PARADA": 10176,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIO D`AUTOBUSOS/AV.MADRID",
+          "DESC_PARADA": "P.ESPANYA/AV.MADRID",
           "COD_PARADA": 20318,
           "ID_GRUPO": 1,
           "ID_PARADA": 13058,
@@ -816,7 +816,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIO D`AUTOBUSOS/AV.MADRID",
+          "DESC_PARADA": "P.ESPANYA/AV.MADRID",
           "COD_PARADA": 20318,
           "ID_GRUPO": 1,
           "ID_PARADA": 13058,
@@ -1404,7 +1404,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA",
+          "DESC_PARADA": "AUDIÈNCIA/MUSEU MORERA",
           "COD_PARADA": 20011,
           "ID_GRUPO": 1,
           "ID_PARADA": 10176,
@@ -1600,7 +1600,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIO D`AUTOBUSOS/AV.MADRID",
+          "DESC_PARADA": "P.ESPANYA/AV.MADRID",
           "COD_PARADA": 20318,
           "ID_GRUPO": 1,
           "ID_PARADA": 13058,

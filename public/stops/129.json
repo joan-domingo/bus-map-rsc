@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS",
+      "DESC_PARADA": "PLAÇA ESPANYA/SARACIBAR",
       "COD_PARADA": 20001,
       "ID_GRUPO": 1,
       "ID_PARADA": 10242,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AUDIÈNCIA",
+      "DESC_PARADA": "AUDIÈNCIA/MUSEU MORERA",
       "COD_PARADA": 20011,
       "ID_GRUPO": 1,
       "ID_PARADA": 10176,

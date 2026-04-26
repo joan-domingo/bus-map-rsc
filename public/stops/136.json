@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+      "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
       "COD_PARADA": 20146,
       "ID_GRUPO": 1,
       "ID_PARADA": 10244,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AUDIÈNCIA 2",
+      "DESC_PARADA": "AUDIÈNCIA / MUSEU MORERA 2",
       "COD_PARADA": 20150,
       "ID_GRUPO": 1,
       "ID_PARADA": 13057,

@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS",
+      "DESC_PARADA": "PLAÇA ESPANYA/SARACIBAR",
       "COD_PARADA": 20001,
       "ID_GRUPO": 1,
       "ID_PARADA": 10242,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+      "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
       "COD_PARADA": 20146,
       "ID_GRUPO": 1,
       "ID_PARADA": 10244,

@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "Sant Cosme",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 450,
+    "INI_TRAYECTO": 420,
     "FIN_TRAYECTO": 1345,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -781,7 +781,7 @@
     "DESC_REDUCIDA": "Est. Rodalies",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 485,
+    "INI_TRAYECTO": 395,
     "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

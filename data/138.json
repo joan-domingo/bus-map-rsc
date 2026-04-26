@@ -80,10 +80,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 299914,
-          "UTMY": 4608287,
-          "LATITUD": 41.5994,
-          "LONGITUD": 0.598,
+          "UTMX": 299896,
+          "UTMY": 4608326,
+          "LATITUD": 41.599740979902,
+          "LONGITUD": 0.59777469444275,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+          "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
           "COD_PARADA": 20146,
           "ID_GRUPO": 1,
           "ID_PARADA": 10244,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA 2",
+          "DESC_PARADA": "AUDIÈNCIA / MUSEU MORERA 2",
           "COD_PARADA": 20150,
           "ID_GRUPO": 1,
           "ID_PARADA": 13057,
@@ -732,7 +732,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AUDIÈNCIA",
+          "DESC_PARADA": "AUDIÈNCIA/MUSEU MORERA",
           "COD_PARADA": 20011,
           "ID_GRUPO": 1,
           "ID_PARADA": 10176,
@@ -816,7 +816,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS",
+          "DESC_PARADA": "PLAÇA ESPANYA/SARACIBAR",
           "COD_PARADA": 20001,
           "ID_GRUPO": 1,
           "ID_PARADA": 10242,
@@ -882,10 +882,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 301436,
-          "UTMY": 4609148,
-          "LATITUD": 41.607465525061,
-          "LONGITUD": 0.61595910859023,
+          "UTMX": 301431,
+          "UTMY": 4609143,
+          "LATITUD": 41.607481569209,
+          "LONGITUD": 0.61590546440992,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -900,7 +900,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CREU DEL BATLLE",
+          "DESC_PARADA": "CREU DEL BATLLE 2",
           "COD_PARADA": 20243,
           "ID_GRUPO": 1,
           "ID_PARADA": 10449,
@@ -910,10 +910,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 299896,
-          "UTMY": 4608325,
-          "LATITUD": 41.599734259855,
-          "LONGITUD": 0.59778177056701,
+          "UTMX": 299998,
+          "UTMY": 4608331,
+          "LATITUD": 41.599814490166,
+          "LONGITUD": 0.59899949345976,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1030,7 +1030,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+          "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
           "COD_PARADA": 20146,
           "ID_GRUPO": 1,
           "ID_PARADA": 10244,

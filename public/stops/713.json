@@ -85,7 +85,35 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TIL·LER",
+      "DESC_PARADA": "ENRIC FARRENY",
+      "COD_PARADA": 20284,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27480,
+      "ID_MUNICIPIO": 251207,
+      "MUNICIPIO": "LLEIDA",
+      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 5,
+      "UTMX": 301215,
+      "UTMY": 4610959,
+      "LATITUD": 41.623764624271,
+      "LONGITUD": 0.61272007173769,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 713,
+    "ID_TRAYECTO": 34,
+    "SECUENCIA": 35,
+    "ID_PARADA": 27480,
+    "NKM_ORIGEN": 1,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "ONZE DE SETEMBRE/FLEMING",
       "COD_PARADA": 20307,
       "ID_GRUPO": 1,
       "ID_PARADA": 12535,
@@ -108,7 +136,7 @@
     "ID_TRAYECTO": 34,
     "SECUENCIA": 40,
     "ID_PARADA": 12535,
-    "NKM_ORIGEN": 1.68,
+    "NKM_ORIGEN": 1.19,
     "SUBE_BAJA": 1
   },
   {

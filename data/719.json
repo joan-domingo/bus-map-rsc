@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "M. Montero",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1305,
-    "FIN_TRAYECTO": 1337,
+    "INI_TRAYECTO": 1275,
+    "FIN_TRAYECTO": 1307,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1025,7 +1025,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 392,
-    "FIN_TRAYECTO": 1335,
+    "FIN_TRAYECTO": 1365,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1659,7 +1659,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 422,
-    "FIN_TRAYECTO": 1365,
+    "FIN_TRAYECTO": 1335,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2321,7 +2321,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 1217,
+    "FIN_TRAYECTO": 1157,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

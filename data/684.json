@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "St. Feliu L.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1418,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1399,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -977,8 +977,8 @@
     "DESC_REDUCIDA": "L'Hospitalet L.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1380,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1367,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Barcelona",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1378,
+    "INI_TRAYECTO": 540,
+    "FIN_TRAYECTO": 1338,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -949,8 +949,8 @@
     "DESC_REDUCIDA": "Cornellà L.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 345,
-    "FIN_TRAYECTO": 1374,
+    "INI_TRAYECTO": 560,
+    "FIN_TRAYECTO": 1344,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

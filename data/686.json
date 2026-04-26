@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Barcelona",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 315,
-    "FIN_TRAYECTO": 1390,
+    "INI_TRAYECTO": 490,
+    "FIN_TRAYECTO": 1360,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -641,8 +641,8 @@
     "DESC_REDUCIDA": "St. Just D.",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1408,
+    "INI_TRAYECTO": 520,
+    "FIN_TRAYECTO": 1384,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS / PONT UNIVERSITIAT",
+      "DESC_PARADA": "PLAÇA ESPANYA / PONT UNIVERSITIAT",
       "COD_PARADA": 20146,
       "ID_GRUPO": 1,
       "ID_PARADA": 10244,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LOCAL SOCIAL MAGRANERS",
+      "DESC_PARADA": "LOCAL SOCIAL MANGRANERS",
       "COD_PARADA": 20085,
       "ID_GRUPO": 1,
       "ID_PARADA": 10283,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FLORIDA/LA MAGRANA",
+      "DESC_PARADA": "FLORIDA/LA MANGRANA",
       "COD_PARADA": 20086,
       "ID_GRUPO": 1,
       "ID_PARADA": 10289,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "COSTA MAGRANERS/PLA STA. MARIA",
+      "DESC_PARADA": "COSTA MANGRANERS/PLA STA. MARIA",
       "COD_PARADA": 20087,
       "ID_GRUPO": 1,
       "ID_PARADA": 10227,
@@ -1429,7 +1429,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÒ D'AUTOBUSOS",
+      "DESC_PARADA": "PLAÇA ESPANYA/SARACIBAR",
       "COD_PARADA": 20001,
       "ID_GRUPO": 1,
       "ID_PARADA": 10242,
