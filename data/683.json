@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "L'Hospitalet L.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 555,
-    "FIN_TRAYECTO": 1323,
+    "INI_TRAYECTO": 346,
+    "FIN_TRAYECTO": 1363,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -613,8 +613,8 @@
     "DESC_REDUCIDA": "Barcelona",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 555,
-    "FIN_TRAYECTO": 1313,
+    "INI_TRAYECTO": 340,
+    "FIN_TRAYECTO": 1363,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

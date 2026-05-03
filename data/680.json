@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Circular ext.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 435,
-    "FIN_TRAYECTO": 1443,
+    "INI_TRAYECTO": 285,
+    "FIN_TRAYECTO": 1438,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

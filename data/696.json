@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Platja",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 545,
-    "FIN_TRAYECTO": 1254,
+    "INI_TRAYECTO": 535,
+    "FIN_TRAYECTO": 1260,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -473,7 +473,7 @@
     "DESC_REDUCIDA": "Les Moreres",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 580,
+    "INI_TRAYECTO": 570,
     "FIN_TRAYECTO": 1282,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

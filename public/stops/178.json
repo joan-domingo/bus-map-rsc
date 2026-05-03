@@ -21,39 +21,39 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 70,
     "ID_PARADA": 10600,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 28.6,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "Garrigues/sicoris 2",
-      "COD_PARADA": 20063,
+      "DESC_PARADA": "CAMPS ELISIS 2",
+      "COD_PARADA": 20059,
       "ID_GRUPO": 1,
-      "ID_PARADA": 14339,
+      "ID_PARADA": 27483,
       "ID_MUNICIPIO": 251207,
       "MUNICIPIO": "LLEIDA",
       "EXPLOTADORA": "SARBUS",
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 303387,
-      "UTMY": 4608914,
-      "LATITUD": 41.605903398568,
-      "LONGITUD": 0.63944096680689,
+      "UTMX": 302628,
+      "UTMY": 4609801,
+      "LATITUD": 41.6136941,
+      "LONGITUD": 0.6300415,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 15,
-    "ID_PARADA": 14339,
-    "NKM_ORIGEN": 1.9,
-    "SUBE_BAJA": 2
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 60,
+    "ID_PARADA": 27483,
+    "NKM_ORIGEN": 27.6,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -77,10 +77,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 20,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 50,
     "ID_PARADA": 10610,
-    "NKM_ORIGEN": 2.45,
+    "NKM_ORIGEN": 25.8,
     "SUBE_BAJA": 1
   },
   {
@@ -105,10 +105,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 40,
     "ID_PARADA": 10609,
-    "NKM_ORIGEN": 10.65,
+    "NKM_ORIGEN": 18,
     "SUBE_BAJA": 1
   },
   {
@@ -133,10 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 30,
     "ID_PARADA": 10608,
-    "NKM_ORIGEN": 13.25,
+    "NKM_ORIGEN": 15.4,
     "SUBE_BAJA": 1
   },
   {
@@ -161,39 +161,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 20,
     "ID_PARADA": 10607,
-    "NKM_ORIGEN": 19.65,
+    "NKM_ORIGEN": 8.8,
     "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Garrigues/sicoris",
-      "COD_PARADA": 20072,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 14340,
-      "ID_MUNICIPIO": 251207,
-      "MUNICIPIO": "LLEIDA",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 303390,
-      "UTMY": 4608930,
-      "LATITUD": 41.606046898521,
-      "LONGITUD": 0.63947185727432,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 178,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 60,
-    "ID_PARADA": 14340,
-    "NKM_ORIGEN": 29.5,
-    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -217,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 178,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 10,
     "ID_PARADA": 10606,
-    "NKM_ORIGEN": 29.05,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   }
 ]
