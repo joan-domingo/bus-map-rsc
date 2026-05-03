@@ -5,9 +5,14 @@ import Image from "next/image";
 interface HeaderProps {
   showOnlyStarred: boolean;
   onToggleStarred: () => void;
+  highlightedLineName?: string;
 }
 
-export function Header({ showOnlyStarred, onToggleStarred }: HeaderProps) {
+export function Header({
+  showOnlyStarred,
+  onToggleStarred,
+  highlightedLineName,
+}: HeaderProps) {
   return (
     <header
       className="flex flex-row items-center absolute top-0 right-0 left-0 p-1 z-10"
@@ -25,8 +30,27 @@ export function Header({ showOnlyStarred, onToggleStarred }: HeaderProps) {
           <h1 className="text-white font-bold text-lg m-0">QuanTriga.com</h1>
         </a>
         <div className="text-white text-center text-xs mt-1">
-          Consulta en temps real l'arribada dels propers busos.
+          {highlightedLineName
+            ? `Moventis ${highlightedLineName} en temps real`
+            : "Consulta en temps real l'arribada dels propers busos de Moventis."}
         </div>
+        <nav className="mt-1 text-[11px] text-white/90">
+          <a className="hover:underline" href="/linea/e3">
+            E3 temps real
+          </a>
+          {" · "}
+          <a className="hover:underline" href="/linea/n61">
+            N61 temps real
+          </a>
+          {" · "}
+          <a className="hover:underline" href="/">
+            Mapa Moventis
+          </a>
+          {" · "}
+          <a className="hover:underline" href="/linies">
+            Totes les línies
+          </a>
+        </nav>
       </div>
       <button
         className="w-8 h-8 border-none text-white cursor-pointer flex items-center justify-center text-xl hover:bg-white/20 rounded transition-colors mr-2 flex-shrink-0"

@@ -63,6 +63,11 @@ export function StructuredData() {
     description:
       "Consulta en temps real l'arribada dels propers busos a Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat i altres municipis del Vallès.",
     inLanguage: ["ca", "es"],
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${baseUrl}/linea/{search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
   };
 
   const structuredDataArray = [webApplication, organization, website];

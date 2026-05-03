@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://quantriga.com"),
   title: {
-    default: "QuanTriga.com - Temps Real Autobusos",
+    default: "QuanTriga.com - Temps real Moventis | E3, N61 i més línies",
     template: "%s | QuanTriga.com",
   },
   description:
-    "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
+    "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
   keywords: [
     "bus",
     "autobús",
@@ -32,6 +32,14 @@ export const metadata: Metadata = {
     "parada bus",
     "parada autobús",
     "Moventis",
+    "moventis temps real",
+    "moventis tiempo real",
+    "moventis e3 tiempo real",
+    "e3 tiempo real",
+    "e3 temps real",
+    "n61",
+    "bus n61",
+    "bus n61 temps real",
     "cerdanyola del vallès",
     "cerdanyola",
     "barcelona",
@@ -78,7 +86,7 @@ export const metadata: Metadata = {
     siteName: "QuanTriga.com",
     title: "QuanTriga.com - Temps Real Autobusos",
     description:
-      "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
+      "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
     images: [
       {
         url: "/og-image",
@@ -92,7 +100,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "QuanTriga.com - Temps Real Autobusos",
     description:
-      "Consulta en temps real quan arriba el pròxim autobús a qualsevol parada de Moventis. Mapa interactiu de parades al Vallès.",
+      "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
     images: ["/og-image"],
   },
   alternates: {

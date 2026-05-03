@@ -13,9 +13,13 @@ import { BusMap } from "./Map";
 
 interface MapContainerProps {
   allBusStops: BusStop[];
+  lineFilter?: {
+    lineStopIds: string[];
+    lineName: string;
+  };
 }
 
-export function MapContainer({ allBusStops }: MapContainerProps) {
+export function MapContainer({ allBusStops, lineFilter }: MapContainerProps) {
   const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
   const { location: userLocation, error: locationError } = useGeolocation();
   const starredStopIdsArray = useStarredStops(
@@ -36,11 +40,21 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
   );
 
   const filteredBusStops = useMemo(() => {
-    if (!showOnlyStarred) {
-      return allBusStops;
+    let stops = allBusStops;
+
+    if (lineFilter) {
+      const selectedLineStopIds = new Set(lineFilter.lineStopIds);
+      stops = stops.filter((stop) =>
+        stop.buses.some((lineStopId) => selectedLineStopIds.has(lineStopId)),
+      );
     }
-    return allBusStops.filter((stop) => starredSet.has(stop.id));
-  }, [allBusStops, showOnlyStarred, starredSet]);
+
+    if (showOnlyStarred) {
+      stops = stops.filter((stop) => starredSet.has(stop.id));
+    }
+
+    return stops;
+  }, [allBusStops, showOnlyStarred, starredSet, lineFilter]);
 
   const handleLocationButtonClick = useCallback(() => {
     trackEvent("location_button_click", {
@@ -88,6 +102,7 @@ export function MapContainer({ allBusStops }: MapContainerProps) {
         <Header
           showOnlyStarred={showOnlyStarred}
           onToggleStarred={handleToggleStarred}
+          highlightedLineName={lineFilter?.lineName}
         />
         <BusMap
           busStops={filteredBusStops}
