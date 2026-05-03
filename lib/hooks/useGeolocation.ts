@@ -31,11 +31,13 @@ function loadCachedLocation(): { lat: number; lng: number } | null {
 		}
 
 		const parsed: CachedLocation = JSON.parse(cached);
+		const lat = Number(parsed.lat);
+		const lng = Number(parsed.lng);
 		const age = Date.now() - parsed.timestamp;
 
 		// Use cached location if it's less than 24 hours old
-		if (age < CACHE_EXPIRY_MS && parsed.lat && parsed.lng) {
-			return { lat: parsed.lat, lng: parsed.lng };
+		if (age < CACHE_EXPIRY_MS && Number.isFinite(lat) && Number.isFinite(lng)) {
+			return { lat, lng };
 		}
 
 		// Cache expired, remove it

@@ -3,6 +3,16 @@ import { useEffect, useState } from "react";
 import type { BusStop } from "../types";
 import { MarkerWithInfowindow } from "./MarkerWithInfoWindow";
 
+function getValidStops(stops: BusStop[]): BusStop[] {
+  return stops
+    .map((stop) => ({
+      ...stop,
+      lat: Number(stop.lat),
+      lon: Number(stop.lon),
+    }))
+    .filter((stop) => Number.isFinite(stop.lat) && Number.isFinite(stop.lon));
+}
+
 interface BusStopCustomMarkersProps {
   stops: BusStop[];
   selectedStopId: number | null;
@@ -17,12 +27,16 @@ export const BusStopCustomMarkers = ({
   onCloseClick,
 }: BusStopCustomMarkersProps) => {
   const map = useMap();
-  const [visibleStops, setVisibleStops] = useState<BusStop[]>(stops);
+  const [visibleStops, setVisibleStops] = useState<BusStop[]>(() =>
+    getValidStops(stops),
+  );
 
   // Filter stops based on viewport and zoom for performance
   useEffect(() => {
+    const validStops = getValidStops(stops);
+
     if (!map) {
-      setVisibleStops(stops);
+      setVisibleStops(validStops);
       return;
     }
 
@@ -31,7 +45,7 @@ export const BusStopCustomMarkers = ({
       const zoom = map.getZoom() || 15;
 
       if (!bounds) {
-        setVisibleStops(stops);
+        setVisibleStops(validStops);
         return;
       }
 
@@ -57,14 +71,14 @@ export const BusStopCustomMarkers = ({
       );
 
       // Filter stops in expanded viewport
-      const stopsInViewport = stops.filter((stop) => {
+      const stopsInViewport = validStops.filter((stop) => {
         const position = new google.maps.LatLng(stop.lat, stop.lon);
         return expandedBounds.contains(position);
       });
 
       // Always include selected stop
       const selectedStop = selectedStopId
-        ? stops.find((s) => s.id === selectedStopId)
+        ? validStops.find((s) => s.id === selectedStopId)
         : null;
 
       // Spatial distribution: divide viewport into grid and select stops from each cell
@@ -145,7 +159,7 @@ export const BusStopCustomMarkers = ({
         const centerLng = center.lng();
 
         // Get nearby stops with distance calculation
-        const nearbyStops = stops
+        const nearbyStops = validStops
           .map((stop) => ({
             stop,
             distance: Math.sqrt(
