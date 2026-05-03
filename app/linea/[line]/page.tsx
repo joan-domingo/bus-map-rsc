@@ -3,19 +3,16 @@ import { notFound } from "next/navigation";
 import { MapContainer } from "../../../lib/components/MapContainer";
 import { loadAllBusStops } from "../../../lib/data-loader";
 import {
-  getAllLineSlugs,
   getCanonicalLineName,
   getLineIdsBySlug,
 } from "../../../lib/utils/seo";
+
+export const dynamic = "force-dynamic";
 
 interface LinePageProps {
   params: Promise<{
     line: string;
   }>;
-}
-
-export async function generateStaticParams() {
-  return getAllLineSlugs().map((line) => ({ line }));
 }
 
 export async function generateMetadata({
