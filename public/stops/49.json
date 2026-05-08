@@ -393,31 +393,31 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. VILASSAR DE DALT/C. VALÈNCIA (BARRI COTET)",
-      "COD_PARADA": 3240,
+      "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+      "COD_PARADA": 13,
       "ID_GRUPO": 1,
-      "ID_PARADA": 7006,
-      "ID_MUNICIPIO": 82303,
-      "MUNICIPIO": "PREMIÀ DE DALT",
+      "ID_PARADA": 7506,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
       "EXPLOTADORA": "CASAS",
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 3,
-      "UTMX": 446639,
-      "UTMY": 4594454,
-      "LATITUD": 41.49812,
-      "LONGITUD": 2.35957,
+      "UTMX": 431313,
+      "UTMY": 4583281,
+      "LATITUD": 41.39621,
+      "LONGITUD": 2.17692,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 49,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 190,
-    "ID_PARADA": 7006,
-    "NKM_ORIGEN": 4.23,
-    "SUBE_BAJA": 2
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 50,
+    "ID_PARADA": 7506,
+    "NKM_ORIGEN": 25.811,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -446,34 +446,6 @@
     "ID_PARADA": 7007,
     "NKM_ORIGEN": 3.657,
     "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
-      "COD_PARADA": 13,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7506,
-      "ID_MUNICIPIO": 439863,
-      "MUNICIPIO": "BARCELONA",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 431313,
-      "UTMY": 4583281,
-      "LATITUD": 41.39621,
-      "LONGITUD": 2.17692,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 49,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 50,
-    "ID_PARADA": 7506,
-    "NKM_ORIGEN": 25.811,
-    "SUBE_BAJA": 3
   },
   {
     "Parada": {
