@@ -2231,24 +2231,6 @@
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20260528"
   },
-  "271": {
-    "nid": "121187",
-    "ID_LINEA": "271",
-    "COD_LINEA": "T2B",
-    "DESC_LINEA": "SANT GENÍS (VALL D´HEBRON)-PL. DR. ANDREU",
-    "ID_ZONA": "7",
-    "ID_SUBZONA": "3",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#72E8FF",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "4",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "88994",
-    "DIAS_QUE_CIRCULA": "20260509"
-  },
   "296": {
     "nid": "86839",
     "ID_LINEA": "296",
@@ -2663,24 +2645,6 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20260605"
   },
-  "392": {
-    "nid": "120808",
-    "ID_LINEA": "392",
-    "COD_LINEA": "FUNICULAR",
-    "DESC_LINEA": "PL. KENNEDY - PL. DR. ANDREU (FUNICULAR)",
-    "ID_ZONA": "7",
-    "ID_SUBZONA": "3",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#FF771B",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "4",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "88994",
-    "DIAS_QUE_CIRCULA": "20260509"
-  },
   "393": {
     "nid": "121026",
     "ID_LINEA": "393",
@@ -3075,7 +3039,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "679": {
     "nid": "125790",
@@ -3093,7 +3057,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "680": {
     "nid": "125793",
@@ -3111,7 +3075,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "681": {
     "nid": "125796",
@@ -3129,7 +3093,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "682": {
     "nid": "125799",
@@ -3147,7 +3111,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "683": {
     "nid": "125820",
@@ -3165,7 +3129,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "684": {
     "nid": "125805",
@@ -3183,7 +3147,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "686": {
     "nid": "125811",
@@ -3201,7 +3165,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "688": {
     "nid": "125817",
@@ -3219,7 +3183,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "689": {
     "nid": "125802",
@@ -3255,7 +3219,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "692": {
     "nid": "125887",
@@ -3291,7 +3255,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "701": {
     "nid": "150601",
@@ -3453,7 +3417,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260708"
+    "DIAS_QUE_CIRCULA": "20260715"
   },
   "717": {
     "nid": "170049",

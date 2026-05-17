@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -416,10 +416,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1050,7 +1050,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -1060,10 +1060,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1095,7 +1095,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -1105,10 +1105,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1739,7 +1739,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -1749,10 +1749,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -1784,7 +1784,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -1794,10 +1794,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -2456,7 +2456,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -2466,10 +2466,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -2501,7 +2501,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -2511,10 +2511,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -3554,7 +3554,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (ROSELLO)",
+          "DESC_PARADA": "PALAMOS, PASSEIG DEL MAR (PROVENÇA)",
           "COD_PARADA": 16925,
           "ID_GRUPO": 1,
           "ID_PARADA": 12916,
@@ -3564,10 +3564,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 2,
-          "UTMX": 510150,
+          "UTMX": 510166,
           "UTMY": 4633229,
-          "LATITUD": 41.849085314579,
-          "LONGITUD": 3.1211429222325,
+          "LATITUD": 41.849081318598,
+          "LONGITUD": 3.1213333590725,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
