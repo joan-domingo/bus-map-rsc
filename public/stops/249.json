@@ -246,10 +246,10 @@
     "ID_GRUPO": 1,
     "ID_LINEA": 249,
     "ID_TRAYECTO": 20,
-    "SECUENCIA": 10,
+    "SECUENCIA": 85,
     "ID_PARADA": 16999,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 4.885,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {

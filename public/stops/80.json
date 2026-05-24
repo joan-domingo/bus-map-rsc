@@ -973,10 +973,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 80,
-    "ID_TRAYECTO": 56,
-    "SECUENCIA": 170,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 65,
     "ID_PARADA": 10718,
-    "NKM_ORIGEN": 55,
+    "NKM_ORIGEN": 18.6,
     "SUBE_BAJA": 1
   },
   {
@@ -1149,34 +1149,6 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "FONTCLARA",
-      "COD_PARADA": 16670,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 10724,
-      "ID_MUNICIPIO": 454630,
-      "MUNICIPIO": "FONTCLARA",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 510408,
-      "UTMY": 4649189,
-      "LATITUD": 41.993416859028,
-      "LONGITUD": 3.1219519816996,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 80,
-    "ID_TRAYECTO": 6,
-    "SECUENCIA": 65,
-    "ID_PARADA": 10724,
-    "NKM_ORIGEN": 21,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
       "DESC_PARADA": "SANT JULIA DE BOADA, CRUILLA (DIR. LA BISBAL)",
       "COD_PARADA": 16792,
       "ID_GRUPO": 1,
@@ -1200,7 +1172,7 @@
     "ID_TRAYECTO": 6,
     "SECUENCIA": 70,
     "ID_PARADA": 12015,
-    "NKM_ORIGEN": 18,
+    "NKM_ORIGEN": 19.1,
     "SUBE_BAJA": 1
   },
   {

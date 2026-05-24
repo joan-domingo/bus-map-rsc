@@ -507,6 +507,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "Avinguda Taronger/passeig Eucaliptus",
+          "COD_PARADA": 2656,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 16999,
+          "ID_MUNICIPIO": 12,
+          "MUNICIPIO": "CASTELLBISBAL",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 415257,
+          "UTMY": 4594010,
+          "LATITUD": 41.49141,
+          "LONGITUD": 1.98369,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 249,
+        "ID_TRAYECTO": 20,
+        "SECUENCIA": 85,
+        "ID_PARADA": 16999,
+        "NKM_ORIGEN": 4.885,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "Plaça Albereda",
           "COD_PARADA": 9058,
           "ID_GRUPO": 1,

@@ -113,6 +113,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Marià Aguiló",
+      "COD_PARADA": 197,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13532,
+      "ID_MUNICIPIO": 444017,
+      "MUNICIPIO": "SABADELL",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 425408,
+      "UTMY": 4598796,
+      "LATITUD": 41.535495994769,
+      "LONGITUD": 2.1046741559808,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 339,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 45,
+    "ID_PARADA": 13532,
+    "NKM_ORIGEN": 5.16,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Carretera De Barcelona/carrer Del Cardoner (la Far",
       "COD_PARADA": 5978,
       "ID_GRUPO": 1,
@@ -838,6 +866,34 @@
     "ID_PARADA": 5500,
     "NKM_ORIGEN": 5.225,
     "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Puig i Cadafalch",
+      "COD_PARADA": 191,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13531,
+      "ID_MUNICIPIO": 444017,
+      "MUNICIPIO": "SABADELL",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 425414,
+      "UTMY": 4598733,
+      "LATITUD": 41.534952999761,
+      "LONGITUD": 2.1047675939179,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 339,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 135,
+    "ID_PARADA": 13531,
+    "NKM_ORIGEN": 12.535,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {

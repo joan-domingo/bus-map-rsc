@@ -182,34 +182,6 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Joan Maragall - Ignasi Iglesias",
-          "COD_PARADA": 7107617,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 24859,
-          "ID_MUNICIPIO": 471019,
-          "MUNICIPIO": "EL PRAT DE LLOBREGAT",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 424507,
-          "UTMY": 4576092,
-          "LATITUD": 41.33096305568,
-          "LONGITUD": 2.0967286782244,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 688,
-        "ID_TRAYECTO": 1017,
-        "SECUENCIA": 70,
-        "ID_PARADA": 24859,
-        "NKM_ORIGEN": 9.076,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
           "DESC_PARADA": "Plaça Roigé i Badia",
           "COD_PARADA": 7003300,
           "ID_GRUPO": 1,
