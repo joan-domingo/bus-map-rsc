@@ -20,10 +20,11 @@ export default async function Home() {
   const priorityLineSlugs = getPriorityLineSlugs();
 
   return (
-    <div className="h-screen w-screen relative">
+    <div className="h-dvh w-screen relative">
       <nav
         aria-label="Línies de bus més buscades"
-        className="absolute right-2 bottom-10 z-10 rounded-md bg-white/90 px-3 py-2 text-xs text-black shadow"
+        className="absolute right-2 z-10 rounded-md bg-white/90 px-3 py-2 text-xs text-black shadow"
+        style={{ bottom: "calc(2.5rem + env(safe-area-inset-bottom, 0px))" }}
       >
         <span className="font-semibold">Línies més buscades: </span>
         {priorityLineSlugs.map((line, index) => (
