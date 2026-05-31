@@ -14,7 +14,7 @@ export function Header({
   onToggleStarred,
   highlightedLineName,
 }: HeaderProps) {
-  const priorityLines = getPriorityLineSlugs().slice(0, 4);
+  const priorityLines = getPriorityLineSlugs().slice(0, 3);
 
   return (
     <header
