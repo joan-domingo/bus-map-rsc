@@ -9,6 +9,7 @@ import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import { trackEvent } from "../utils/analytics";
 import busLineData from "../utils/busLineData.json";
+import { buildLinePagePath, lineStopIdToSlug } from "../utils/seo";
 import MarkerTimetable from "./MarkerTimetable";
 
 interface Props {
@@ -63,20 +64,35 @@ export const MarkerWithInfowindow = ({
                     key={`${row.length}-${rowIdx}`}
                     style={{ display: "flex", flexDirection: "row", gap: 2 }}
                   >
-                    {row.map((bus) => (
-                      <div
-                        key={bus}
-                        className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
-                        style={{
-                          backgroundColor:
-                            busLineData[bus as keyof typeof busLineData].color,
-                        }}
-                      >
-                        {busLineData[bus as keyof typeof busLineData].name
-                          .toUpperCase()
-                          .replace("-", "")}
-                      </div>
-                    ))}
+                    {row.map((bus) => {
+                      const lineData =
+                        busLineData[bus as keyof typeof busLineData];
+                      const lineSlug = lineStopIdToSlug(bus);
+                      const label = lineData.name
+                        .toUpperCase()
+                        .replace("-", "");
+                      const badge = (
+                        <div
+                          className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
+                          style={{ backgroundColor: lineData.color }}
+                        >
+                          {label}
+                        </div>
+                      );
+
+                      return lineSlug ? (
+                        <a
+                          key={bus}
+                          href={buildLinePagePath(lineSlug)}
+                          className="hover:opacity-90"
+                          title={`Línia ${lineData.name} en temps real`}
+                        >
+                          {badge}
+                        </a>
+                      ) : (
+                        <div key={bus}>{badge}</div>
+                      );
+                    })}
                   </div>
                 ))}
               </div>

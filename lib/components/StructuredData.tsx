@@ -65,8 +65,7 @@ export function StructuredData() {
     inLanguage: ["ca", "es"],
     potentialAction: {
       "@type": "SearchAction",
-      target: `${baseUrl}/linea/{search_term_string}`,
-      "query-input": "required name=search_term_string",
+      target: `${baseUrl}/linies`,
     },
   };
 

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getAllSeoLineEntries } from "../../lib/utils/seo";
+import { buildLinePagePath, getAllSeoLineEntries } from "../../lib/utils/seo";
 
 export const metadata: Metadata = {
   title: "Totes les línies Moventis en temps real",
@@ -29,7 +29,7 @@ export default function LinesIndexPage() {
       <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2 text-sm pb-8">
         {lines.map((line) => (
           <li key={line.slug}>
-            <a className="underline" href={`/linea/${line.slug}`}>
+            <a className="underline" href={buildLinePagePath(line.slug)}>
               {line.name}
             </a>
           </li>

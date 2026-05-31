@@ -1,10 +1,10 @@
 import type { MetadataRoute } from "next";
-import { getAllLineSlugs } from "../lib/utils/seo";
+import { buildLinePagePath, getAllLineSlugs } from "../lib/utils/seo";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://quantriga.com";
   const lineUrls = getAllLineSlugs().map((line) => ({
-    url: `${baseUrl}/linea/${line}`,
+    url: `${baseUrl}${buildLinePagePath(line)}`,
     lastModified: new Date(),
     changeFrequency: "daily" as const,
     priority: 0.8,

@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { lineNameToSlug } from "../utils/seo";
 
 export const OG_IMAGE_SIZE = {
   width: 1200,
@@ -20,6 +21,7 @@ interface OgImageContentProps {
 
 export function OgImageContent({ lineName }: OgImageContentProps) {
   const line = lineName?.toUpperCase();
+  const lineSlug = lineName ? lineNameToSlug(lineName) : undefined;
   const isLineVariant = Boolean(line);
 
   return (
@@ -183,8 +185,8 @@ export function OgImageContent({ lineName }: OgImageContentProps) {
           color: "rgba(255, 255, 255, 0.7)",
         }}
       >
-        {isLineVariant
-          ? `quantriga.com/linea/${line?.toLowerCase()}`
+        {isLineVariant && lineSlug
+          ? `quantriga.com/linea/${lineSlug}`
           : "quantriga.com"}
       </div>
     </div>

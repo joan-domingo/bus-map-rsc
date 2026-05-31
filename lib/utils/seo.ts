@@ -35,10 +35,6 @@ export function buildLinePageSeo(lineName: string): LinePageSeo {
   };
 }
 
-export function getLineOgImagePath(slug: string): string {
-  return `/og-image/${slug.toLowerCase()}`;
-}
-
 export function buildHomePageSeo(): HomePageSeo {
   return {
     title: "Moventis temps real | Mapa busos",
@@ -47,8 +43,83 @@ export function buildHomePageSeo(): HomePageSeo {
   };
 }
 
-function normalizeLineName(value: string): string {
-  return value.toLowerCase().replace(/\s+/g, "").replace(/[^a-z0-9.]/g, "");
+/** Normalizes a Moventis line name to the canonical URL slug (e.g. "C-30" → "c30"). */
+export function lineNameToSlug(lineName: string): string {
+  return lineName
+    .toLowerCase()
+    .replace(/\s+/g, "")
+    .replace(/[^a-z0-9.]/g, "");
+}
+
+function normalizeLineSlug(value: string): string {
+  return lineNameToSlug(value);
+}
+
+/** Maps an internal busLineData key (e.g. "14") to a public URL slug (e.g. "b1"). */
+export function lineStopIdToSlug(lineStopId: string): string | null {
+  const lineData = busLineData[lineStopId as keyof typeof busLineData];
+  if (!lineData?.name) {
+    return null;
+  }
+  return lineNameToSlug(lineData.name);
+}
+
+export function buildLinePagePath(slug: string): string {
+  return `/linea/${slug.toLowerCase()}`;
+}
+
+export function buildLinePagePathFromName(lineName: string): string {
+  return buildLinePagePath(lineNameToSlug(lineName));
+}
+
+export function buildLineOgImagePath(slug: string): string {
+  return `/og-image/${slug.toLowerCase()}`;
+}
+
+/** @deprecated Use buildLineOgImagePath */
+export function getLineOgImagePath(slug: string): string {
+  return buildLineOgImagePath(slug);
+}
+
+function isInternalLineStopIdSlug(slug: string): boolean {
+  if (!Object.hasOwn(busLineData, slug)) {
+    return false;
+  }
+  const lineData = busLineData[slug as keyof typeof busLineData];
+  return lineNameToSlug(lineData.name) !== slug;
+}
+
+export interface ResolvedLineSlug {
+  canonicalSlug: string;
+  lineName: string;
+  lineStopIds: string[];
+}
+
+/** Resolves /linea/{slug} using the line name slug only (e.g. c1, n80), never internal numeric ids. */
+export function resolveLineSlug(rawSlug: string): ResolvedLineSlug | null {
+  const normalizedInput = normalizeLineSlug(rawSlug);
+  if (!normalizedInput || isInternalLineStopIdSlug(normalizedInput)) {
+    return null;
+  }
+
+  const lineStopIds = Object.entries(busLineData)
+    .filter(([, data]) => lineNameToSlug(data.name) === normalizedInput)
+    .map(([lineStopId]) => lineStopId);
+
+  if (lineStopIds.length === 0) {
+    return null;
+  }
+
+  const lineName = busLineData[lineStopIds[0] as keyof typeof busLineData]?.name;
+  if (!lineName) {
+    return null;
+  }
+
+  return {
+    canonicalSlug: lineNameToSlug(lineName),
+    lineName,
+    lineStopIds,
+  };
 }
 
 export interface SeoLineEntry {
@@ -60,7 +131,7 @@ export function getAllLineSlugs(): string[] {
   const slugSet = new Set<string>();
 
   for (const lineData of Object.values(busLineData)) {
-    const slug = normalizeLineName(lineData.name);
+    const slug = lineNameToSlug(lineData.name);
     if (slug) {
       slugSet.add(slug);
     }
@@ -73,7 +144,7 @@ export function getAllSeoLineEntries(): SeoLineEntry[] {
   const lineMap = new Map<string, string>();
 
   for (const lineData of Object.values(busLineData)) {
-    const slug = normalizeLineName(lineData.name);
+    const slug = lineNameToSlug(lineData.name);
     if (!slug || lineMap.has(slug)) {
       continue;
     }
@@ -86,22 +157,11 @@ export function getAllSeoLineEntries(): SeoLineEntry[] {
 }
 
 export function getLineIdsBySlug(slug: string): string[] {
-  const normalizedSlug = normalizeLineName(slug);
-
-  return Object.entries(busLineData)
-    .filter(([, data]) => normalizeLineName(data.name) === normalizedSlug)
-    .map(([lineStopId]) => lineStopId);
+  return resolveLineSlug(slug)?.lineStopIds ?? [];
 }
 
 export function getCanonicalLineName(slug: string): string | null {
-  const lineStopIds = getLineIdsBySlug(slug);
-  if (lineStopIds.length === 0) {
-    return null;
-  }
-
-  const firstLineStopId = lineStopIds[0];
-  const lineData = busLineData[firstLineStopId as keyof typeof busLineData];
-  return lineData?.name ?? null;
+  return resolveLineSlug(slug)?.lineName ?? null;
 }
 
 export function getPriorityLineSlugs(): string[] {

@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { MapContainer } from "../../../lib/components/MapContainer";
 import { loadAllBusStops } from "../../../lib/data-loader";
 import { LineStructuredData } from "../../../lib/components/LineStructuredData";
 import { buildOgImageAlt, OG_IMAGE_SIZE } from "../../../lib/og/og-image";
 import {
+  buildLinePagePath,
   buildLinePageSeo,
-  getCanonicalLineName,
-  getLineIdsBySlug,
-  getLineOgImagePath,
+  buildLineOgImagePath,
+  resolveLineSlug,
 } from "../../../lib/utils/seo";
 
 export const dynamic = "force-dynamic";
@@ -23,9 +23,9 @@ export async function generateMetadata({
   params,
 }: LinePageProps): Promise<Metadata> {
   const { line } = await params;
-  const canonicalLineName = getCanonicalLineName(line);
+  const resolved = resolveLineSlug(line);
 
-  if (!canonicalLineName) {
+  if (!resolved) {
     return {
       title: "Línia no trobada",
       robots: {
@@ -35,12 +35,12 @@ export async function generateMetadata({
     };
   }
 
-  const lineSlug = line.toLowerCase();
-  const basePath = `/linea/${lineSlug}`;
+  const { canonicalSlug, lineName: canonicalLineName } = resolved;
+  const basePath = buildLinePagePath(canonicalSlug);
   const { title: seoTitle, description: seoDescription } =
     buildLinePageSeo(canonicalLineName);
   const ogImage = {
-    url: getLineOgImagePath(lineSlug),
+    url: buildLineOgImagePath(canonicalSlug),
     width: OG_IMAGE_SIZE.width,
     height: OG_IMAGE_SIZE.height,
     alt: buildOgImageAlt(canonicalLineName),
@@ -70,20 +70,19 @@ export async function generateMetadata({
 
 export default async function LinePage({ params }: LinePageProps) {
   const { line } = await params;
-  const lineStopIds = getLineIdsBySlug(line);
+  const resolved = resolveLineSlug(line);
 
-  if (lineStopIds.length === 0) {
+  if (!resolved) {
     notFound();
   }
 
-  const canonicalLineName = getCanonicalLineName(line);
-  if (!canonicalLineName) {
-    notFound();
+  if (resolved.canonicalSlug !== line.toLowerCase()) {
+    redirect(buildLinePagePath(resolved.canonicalSlug));
   }
 
+  const { canonicalSlug, lineName: canonicalLineName, lineStopIds } = resolved;
   const busStops = await loadAllBusStops();
-
-  const basePath = `/linea/${line.toLowerCase()}`;
+  const basePath = buildLinePagePath(canonicalSlug);
 
   return (
     <div className="h-screen w-screen relative">

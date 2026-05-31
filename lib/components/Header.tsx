@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { getPriorityLineSlugs } from "../utils/seo";
+import { buildLinePagePath, getPriorityLineSlugs } from "../utils/seo";
 
 interface HeaderProps {
   showOnlyStarred: boolean;
@@ -47,7 +47,7 @@ export function Header({
           {priorityLines.map((line, index) => (
             <span key={line}>
               {index > 0 ? " · " : null}
-              <a className="hover:underline" href={`/linea/${line}`}>
+              <a className="hover:underline" href={buildLinePagePath(line)}>
                 {line.toUpperCase()} temps real
               </a>
             </span>

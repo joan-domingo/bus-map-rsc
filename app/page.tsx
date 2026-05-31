@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import { MapContainer } from "../lib/components/MapContainer";
 import { loadAllBusStops } from "../lib/data-loader";
-import { buildHomePageSeo, getPriorityLineSlugs } from "../lib/utils/seo";
+import {
+  buildHomePageSeo,
+  buildLinePagePath,
+  getPriorityLineSlugs,
+} from "../lib/utils/seo";
 
 const homeSeo = buildHomePageSeo();
 
@@ -24,7 +28,7 @@ export default async function Home() {
         <span className="font-semibold">Línies més buscades: </span>
         {priorityLineSlugs.map((line, index) => (
           <span key={line}>
-            <a className="underline" href={`/linea/${line}`}>
+            <a className="underline" href={buildLinePagePath(line)}>
               {line.toUpperCase()}
             </a>
             {index < priorityLineSlugs.length - 1 ? ", " : ""}
