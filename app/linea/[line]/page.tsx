@@ -3,10 +3,12 @@ import { notFound } from "next/navigation";
 import { MapContainer } from "../../../lib/components/MapContainer";
 import { loadAllBusStops } from "../../../lib/data-loader";
 import { LineStructuredData } from "../../../lib/components/LineStructuredData";
+import { buildOgImageAlt, OG_IMAGE_SIZE } from "../../../lib/og/og-image";
 import {
   buildLinePageSeo,
   getCanonicalLineName,
   getLineIdsBySlug,
+  getLineOgImagePath,
 } from "../../../lib/utils/seo";
 
 export const dynamic = "force-dynamic";
@@ -33,9 +35,16 @@ export async function generateMetadata({
     };
   }
 
-  const basePath = `/linea/${line.toLowerCase()}`;
+  const lineSlug = line.toLowerCase();
+  const basePath = `/linea/${lineSlug}`;
   const { title: seoTitle, description: seoDescription } =
     buildLinePageSeo(canonicalLineName);
+  const ogImage = {
+    url: getLineOgImagePath(lineSlug),
+    width: OG_IMAGE_SIZE.width,
+    height: OG_IMAGE_SIZE.height,
+    alt: buildOgImageAlt(canonicalLineName),
+  };
 
   return {
     title: seoTitle,
@@ -48,11 +57,13 @@ export async function generateMetadata({
       description: seoDescription,
       url: basePath,
       type: "website",
+      images: [ogImage],
     },
     twitter: {
       title: seoTitle,
       description: seoDescription,
       card: "summary_large_image",
+      images: [ogImage.url],
     },
   };
 }

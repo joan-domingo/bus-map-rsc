@@ -35,6 +35,10 @@ export function buildLinePageSeo(lineName: string): LinePageSeo {
   };
 }
 
+export function getLineOgImagePath(slug: string): string {
+  return `/og-image/${slug.toLowerCase()}`;
+}
+
 export function buildHomePageSeo(): HomePageSeo {
   return {
     title: "Moventis temps real | Mapa busos",
