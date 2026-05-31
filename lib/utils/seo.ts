@@ -1,6 +1,47 @@
 import busLineData from "./busLineData.json";
 
-const SEARCH_PRIORITY_LINES = ["e3", "n61"] as const;
+/** Lines with the most Search Console impressions/clicks (updated periodically). */
+const SEARCH_PRIORITY_LINES = [
+  "n80",
+  "c30",
+  "x30",
+  "c19",
+  "c20",
+  "e3",
+  "n61",
+  "b1",
+  "n62",
+  "c5",
+  "cv3",
+  "b7",
+] as const;
+
+export interface LinePageSeo {
+  title: string;
+  description: string;
+}
+
+export interface HomePageSeo {
+  title: string;
+  description: string;
+}
+
+/** SERP copy aligned with queries like "n80", "c19 bus", "moventis temps real". */
+export function buildLinePageSeo(lineName: string): LinePageSeo {
+  const line = lineName.toUpperCase();
+  return {
+    title: `Bus ${line} temps real · Moventis`,
+    description: `Línia ${line} Moventis en temps real (tiempo real): properes arribades, parades al mapa i horaris del bus ${line} actualitzats.`,
+  };
+}
+
+export function buildHomePageSeo(): HomePageSeo {
+  return {
+    title: "Moventis temps real | Mapa busos",
+    description:
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
+  };
+}
 
 function normalizeLineName(value: string): string {
   return value.toLowerCase().replace(/\s+/g, "").replace(/[^a-z0-9.]/g, "");

@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MapContainer } from "../../../lib/components/MapContainer";
 import { loadAllBusStops } from "../../../lib/data-loader";
+import { LineStructuredData } from "../../../lib/components/LineStructuredData";
 import {
+  buildLinePageSeo,
   getCanonicalLineName,
   getLineIdsBySlug,
 } from "../../../lib/utils/seo";
@@ -32,8 +34,8 @@ export async function generateMetadata({
   }
 
   const basePath = `/linea/${line.toLowerCase()}`;
-  const seoTitle = `Moventis ${canonicalLineName} en temps real`;
-  const seoDescription = `Consulta la línia ${canonicalLineName} de Moventis en temps real: properes arribades, parades i mapa actualitzat.`;
+  const { title: seoTitle, description: seoDescription } =
+    buildLinePageSeo(canonicalLineName);
 
   return {
     title: seoTitle,
@@ -70,8 +72,11 @@ export default async function LinePage({ params }: LinePageProps) {
 
   const busStops = await loadAllBusStops();
 
+  const basePath = `/linea/${line.toLowerCase()}`;
+
   return (
     <div className="h-screen w-screen relative">
+      <LineStructuredData lineName={canonicalLineName} path={basePath} />
       <nav
         aria-label="Navegació línies de bus"
         className="absolute right-2 bottom-10 z-10 rounded-md bg-white/90 px-3 py-2 text-xs text-black shadow"

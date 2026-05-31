@@ -4,7 +4,7 @@ import { getAllSeoLineEntries } from "../../lib/utils/seo";
 export const metadata: Metadata = {
   title: "Totes les línies Moventis en temps real",
   description:
-    "Index de línies Moventis en temps real. Accedeix ràpidament a cada línia per veure parades i properes arribades.",
+    "Totes les línies Moventis en temps real (tiempo real). Accedeix a N80, C30, X30, E3, N61 i més per veure parades i arribades.",
   alternates: {
     canonical: "/linies",
   },

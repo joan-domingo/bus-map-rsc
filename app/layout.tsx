@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://quantriga.com"),
   title: {
-    default: "QuanTriga.com - Temps real Moventis | E3, N61 i més línies",
+    default: "Moventis temps real| QuanTriga.com",
     template: "%s | QuanTriga.com",
   },
   description:
-    "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
+    "Moventis en temps real i tiempo real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
   keywords: [
     "bus",
     "autobús",
@@ -32,6 +32,8 @@ export const metadata: Metadata = {
     "parada bus",
     "parada autobús",
     "Moventis",
+    "moventis bus",
+    "moventis autobús",
     "moventis temps real",
     "moventis tiempo real",
     "moventis e3 tiempo real",
@@ -84,9 +86,9 @@ export const metadata: Metadata = {
     locale: "ca_ES",
     url: "https://quantriga.com",
     siteName: "QuanTriga.com",
-    title: "QuanTriga.com - Temps Real Autobusos",
+    title: "Moventis temps real | QuanTriga.com",
     description:
-      "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
     images: [
       {
         url: "/og-image",
@@ -98,9 +100,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "QuanTriga.com - Temps Real Autobusos",
+    title: "Moventis temps real | QuanTriga.com",
     description:
-      "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu i horaris actualitzats.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
     images: ["/og-image"],
   },
   alternates: {

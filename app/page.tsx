@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { MapContainer } from "../lib/components/MapContainer";
 import { loadAllBusStops } from "../lib/data-loader";
-import { getPriorityLineSlugs } from "../lib/utils/seo";
+import { buildHomePageSeo, getPriorityLineSlugs } from "../lib/utils/seo";
+
+const homeSeo = buildHomePageSeo();
 
 export const metadata: Metadata = {
-  title: "Temps real Moventis | E3, N61 i més línies",
-  description:
-    "Consulta Moventis en temps real: línies E3, N61 i centenars de parades amb mapa interactiu.",
+  title: homeSeo.title,
+  description: homeSeo.description,
 };
 
 export default async function Home() {
