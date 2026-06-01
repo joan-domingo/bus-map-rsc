@@ -64,35 +64,20 @@ export const MarkerWithInfowindow = ({
                     key={`${row.length}-${rowIdx}`}
                     style={{ display: "flex", flexDirection: "row", gap: 2 }}
                   >
-                    {row.map((bus) => {
-                      const lineData =
-                        busLineData[bus as keyof typeof busLineData];
-                      const lineSlug = lineStopIdToSlug(bus);
-                      const label = lineData.name
-                        .toUpperCase()
-                        .replace("-", "");
-                      const badge = (
-                        <div
-                          className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
-                          style={{ backgroundColor: lineData.color }}
-                        >
-                          {label}
-                        </div>
-                      );
-
-                      return lineSlug ? (
-                        <a
-                          key={bus}
-                          href={buildLinePagePath(lineSlug)}
-                          className="hover:opacity-90"
-                          title={`Línia ${lineData.name} en temps real`}
-                        >
-                          {badge}
-                        </a>
-                      ) : (
-                        <div key={bus}>{badge}</div>
-                      );
-                    })}
+                    {row.map((bus) => (
+                      <div
+                        key={bus}
+                        className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
+                        style={{
+                          backgroundColor:
+                            busLineData[bus as keyof typeof busLineData].color,
+                        }}
+                      >
+                        {busLineData[bus as keyof typeof busLineData].name
+                          .toUpperCase()
+                          .replace("-", "")}
+                      </div>
+                    ))}
                   </div>
                 ))}
               </div>
