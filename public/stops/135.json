@@ -1009,6 +1009,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "A.E.M.",
+      "COD_PARADA": 20104,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 10375,
+      "ID_MUNICIPIO": 251207,
+      "MUNICIPIO": "LLEIDA",
+      "EXPLOTADORA": "AUTOBUSOS DE LLEIDA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 5,
+      "UTMX": 302116,
+      "UTMY": 4612854,
+      "LATITUD": 41.642309506919,
+      "LONGITUD": 0.62435739802947,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 135,
+    "ID_TRAYECTO": 19,
+    "SECUENCIA": 35,
+    "ID_PARADA": 10375,
+    "NKM_ORIGEN": 1,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "MARIMUNT/PICABAIX",
       "COD_PARADA": 20105,
       "ID_GRUPO": 1,

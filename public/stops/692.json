@@ -1,6 +1,34 @@
 [
   {
     "Parada": {
+      "DESC_PARADA": "CADAQUES",
+      "COD_PARADA": 16503,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7406,
+      "ID_MUNICIPIO": 454566,
+      "MUNICIPIO": "CADAQUES",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 522705,
+      "UTMY": 4682144,
+      "LATITUD": 42.289577285259,
+      "LONGITUD": 3.2729574542312,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 692,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 80,
+    "ID_PARADA": 7406,
+    "NKM_ORIGEN": 13.9,
+    "SUBE_BAJA": 3
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "CADAQUES,CORRAL D'EN MORELL",
       "COD_PARADA": 16840,
       "ID_GRUPO": 1,
@@ -138,33 +166,5 @@
     "ID_PARADA": 23871,
     "NKM_ORIGEN": 6.9,
     "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CADAQUES",
-      "COD_PARADA": 16503,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7406,
-      "ID_MUNICIPIO": 454566,
-      "MUNICIPIO": "CADAQUES",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 522705,
-      "UTMY": 4682144,
-      "LATITUD": 42.289577285259,
-      "LONGITUD": 3.2729574542312,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 692,
-    "ID_TRAYECTO": 3,
-    "SECUENCIA": 80,
-    "ID_PARADA": 7406,
-    "NKM_ORIGEN": 13.9,
-    "SUBE_BAJA": 3
   }
 ]

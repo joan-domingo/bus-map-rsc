@@ -2,14 +2,14 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 342,
-    "ID_TRAYECTO": 60,
-    "ID_TRAYECTO_SAE": 4460,
-    "DESC_TRAYECTO": "GIRONA-UDG-PALAMOS-PALAFRUGELL",
+    "ID_TRAYECTO": 750,
+    "ID_TRAYECTO_SAE": null,
+    "DESC_TRAYECTO": "E3 GIRONA-PALAFRUGELL",
     "DESC_REDUCIDA": "PALAFRUGELL, ESTACIÓ",
-    "PRINCIPAL": "S",
+    "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 1300,
+    "FIN_TRAYECTO": 1225,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -34,11 +34,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
+        "ID_TRAYECTO": 750,
         "SECUENCIA": 10,
         "ID_PARADA": 7381,
         "NKM_ORIGEN": 0,
-        "SUBE_BAJA": 2
+        "SUBE_BAJA": 1
       },
       {
         "Parada": {
@@ -62,39 +62,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
+        "ID_TRAYECTO": 750,
         "SECUENCIA": 20,
         "ID_PARADA": 13590,
-        "NKM_ORIGEN": 2,
-        "SUBE_BAJA": 2
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "GIRONA, INTERNA UDG (PARADA UNICA)",
-          "COD_PARADA": 16680,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 10638,
-          "ID_MUNICIPIO": 58,
-          "MUNICIPIO": "GIRONA",
-          "EXPLOTADORA": "SARFA",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 2,
-          "UTMX": 485794,
-          "UTMY": 4645806,
-          "LATITUD": 41.962399936607,
-          "LONGITUD": 2.8274923510062,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 30,
-        "ID_PARADA": 10638,
-        "NKM_ORIGEN": 4,
-        "SUBE_BAJA": 2
+        "NKM_ORIGEN": 0.8,
+        "SUBE_BAJA": 1
       },
       {
         "Parada": {
@@ -118,10 +90,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 40,
+        "ID_TRAYECTO": 750,
+        "SECUENCIA": 30,
         "ID_PARADA": 7369,
-        "NKM_ORIGEN": 40,
+        "NKM_ORIGEN": 33,
         "SUBE_BAJA": 1
       },
       {
@@ -146,10 +118,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 50,
+        "ID_TRAYECTO": 750,
+        "SECUENCIA": 40,
         "ID_PARADA": 7370,
-        "NKM_ORIGEN": 49,
+        "NKM_ORIGEN": 41.1,
         "SUBE_BAJA": 1
       },
       {
@@ -174,10 +146,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 60,
+        "ID_TRAYECTO": 750,
+        "SECUENCIA": 50,
         "ID_PARADA": 7405,
-        "NKM_ORIGEN": 51,
+        "NKM_ORIGEN": 43.7,
         "SUBE_BAJA": 1
       },
       {
@@ -202,10 +174,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 70,
+        "ID_TRAYECTO": 750,
+        "SECUENCIA": 60,
         "ID_PARADA": 25277,
-        "NKM_ORIGEN": 55,
+        "NKM_ORIGEN": 49.3,
         "SUBE_BAJA": 1
       },
       {
@@ -230,11 +202,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 60,
-        "SECUENCIA": 90,
+        "ID_TRAYECTO": 750,
+        "SECUENCIA": 70,
         "ID_PARADA": 7373,
-        "NKM_ORIGEN": 65,
-        "SUBE_BAJA": 3
+        "NKM_ORIGEN": 57.5,
+        "SUBE_BAJA": 1
       }
     ],
     "COLOR": "#172AFF",
@@ -243,14 +215,14 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 342,
-    "ID_TRAYECTO": 10,
-    "ID_TRAYECTO_SAE": 4410,
-    "DESC_TRAYECTO": "PALAFRUGELL-PALAMOS-UDG-GIRONA",
+    "ID_TRAYECTO": 700,
+    "ID_TRAYECTO_SAE": null,
+    "DESC_TRAYECTO": "E3 PALAFRUGELL-.GIRONA",
     "DESC_REDUCIDA": "GIRONA, ESTACIÓ",
-    "PRINCIPAL": "S",
+    "PRINCIPAL": "N",
     "SENTIDO": "I",
     "INI_TRAYECTO": 375,
-    "FIN_TRAYECTO": 1205,
+    "FIN_TRAYECTO": 1180,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -275,11 +247,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
+        "ID_TRAYECTO": 700,
         "SECUENCIA": 10,
         "ID_PARADA": 7373,
         "NKM_ORIGEN": 0,
-        "SUBE_BAJA": 2
+        "SUBE_BAJA": 1
       },
       {
         "Parada": {
@@ -303,10 +275,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
+        "ID_TRAYECTO": 700,
         "SECUENCIA": 20,
         "ID_PARADA": 25277,
-        "NKM_ORIGEN": 9,
+        "NKM_ORIGEN": 8.5,
         "SUBE_BAJA": 1
       },
       {
@@ -331,10 +303,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 40,
+        "ID_TRAYECTO": 700,
+        "SECUENCIA": 30,
         "ID_PARADA": 12002,
-        "NKM_ORIGEN": 14,
+        "NKM_ORIGEN": 14.2,
         "SUBE_BAJA": 1
       },
       {
@@ -359,10 +331,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 50,
+        "ID_TRAYECTO": 700,
+        "SECUENCIA": 40,
         "ID_PARADA": 7370,
-        "NKM_ORIGEN": 16,
+        "NKM_ORIGEN": 16.6,
         "SUBE_BAJA": 1
       },
       {
@@ -387,39 +359,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 60,
+        "ID_TRAYECTO": 700,
+        "SECUENCIA": 50,
         "ID_PARADA": 7369,
-        "NKM_ORIGEN": 25,
+        "NKM_ORIGEN": 25.4,
         "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "GIRONA, INTERNA UDG (PARADA UNICA)",
-          "COD_PARADA": 16680,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 10638,
-          "ID_MUNICIPIO": 58,
-          "MUNICIPIO": "GIRONA",
-          "EXPLOTADORA": "SARFA",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 2,
-          "UTMX": 485794,
-          "UTMY": 4645806,
-          "LATITUD": 41.962399936607,
-          "LONGITUD": 2.8274923510062,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 70,
-        "ID_PARADA": 10638,
-        "NKM_ORIGEN": 61,
-        "SUBE_BAJA": 3
       },
       {
         "Parada": {
@@ -443,11 +387,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 80,
+        "ID_TRAYECTO": 700,
+        "SECUENCIA": 60,
         "ID_PARADA": 10639,
-        "NKM_ORIGEN": 63,
-        "SUBE_BAJA": 3
+        "NKM_ORIGEN": 59.4,
+        "SUBE_BAJA": 1
       },
       {
         "Parada": {
@@ -471,11 +415,11 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 342,
-        "ID_TRAYECTO": 10,
-        "SECUENCIA": 90,
+        "ID_TRAYECTO": 700,
+        "SECUENCIA": 70,
         "ID_PARADA": 7381,
-        "NKM_ORIGEN": 65,
-        "SUBE_BAJA": 3
+        "NKM_ORIGEN": 60.3,
+        "SUBE_BAJA": 1
       }
     ],
     "COLOR": "#172AFF",

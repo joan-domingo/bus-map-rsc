@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 14,
+    "SECUENCIA": 20,
     "ID_PARADA": 7411,
-    "NKM_ORIGEN": 24.9,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 74,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -49,10 +49,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
+    "ID_TRAYECTO": 63,
     "SECUENCIA": 35,
     "ID_PARADA": 14018,
-    "NKM_ORIGEN": 97.9,
+    "NKM_ORIGEN": 95,
     "SUBE_BAJA": 3
   },
   {
@@ -77,10 +77,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
+    "ID_TRAYECTO": 63,
     "SECUENCIA": 40,
     "ID_PARADA": 7408,
-    "NKM_ORIGEN": 99.4,
+    "NKM_ORIGEN": 97,
     "SUBE_BAJA": 3
   },
   {
@@ -105,10 +105,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
+    "ID_TRAYECTO": 63,
     "SECUENCIA": 45,
     "ID_PARADA": 14023,
-    "NKM_ORIGEN": 100.6,
+    "NKM_ORIGEN": 98,
     "SUBE_BAJA": 3
   },
   {
@@ -133,10 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
+    "ID_TRAYECTO": 63,
     "SECUENCIA": 50,
     "ID_PARADA": 7407,
-    "NKM_ORIGEN": 110.7,
+    "NKM_ORIGEN": 114,
     "SUBE_BAJA": 3
   },
   {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 12,
-    "SECUENCIA": 22,
+    "ID_TRAYECTO": 14,
+    "SECUENCIA": 15,
     "ID_PARADA": 14017,
-    "NKM_ORIGEN": 12.8,
+    "NKM_ORIGEN": 1.2,
     "SUBE_BAJA": 2
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 63,
+    "SECUENCIA": 20,
     "ID_PARADA": 12561,
-    "NKM_ORIGEN": 6.2,
+    "NKM_ORIGEN": 7,
     "SUBE_BAJA": 2
   },
   {
@@ -245,10 +245,38 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 74,
-    "ID_TRAYECTO": 62,
-    "SECUENCIA": 5,
+    "ID_TRAYECTO": 63,
+    "SECUENCIA": 10,
     "ID_PARADA": 12562,
     "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "BARCELONA, RDA. SANT PERE",
+      "COD_PARADA": 3115,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7474,
+      "ID_MUNICIPIO": 439863,
+      "MUNICIPIO": "BARCELONA",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 431050,
+      "UTMY": 4582538,
+      "LATITUD": 41.389573801252,
+      "LONGITUD": 2.1741627239019,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 74,
+    "ID_TRAYECTO": 63,
+    "SECUENCIA": 30,
+    "ID_PARADA": 7474,
+    "NKM_ORIGEN": 27,
     "SUBE_BAJA": 2
   }
 ]
