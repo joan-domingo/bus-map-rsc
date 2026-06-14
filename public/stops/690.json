@@ -85,6 +85,90 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Avinguda Anselm Clavé - Enric Borràs",
+      "COD_PARADA": 7000608,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 24578,
+      "ID_MUNICIPIO": 471019,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 424495,
+      "UTMY": 4576094,
+      "LATITUD": 41.33264976,
+      "LONGITUD": 2.09729254,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 690,
+    "ID_TRAYECTO": 1023,
+    "SECUENCIA": 35,
+    "ID_PARADA": 24578,
+    "NKM_ORIGEN": 0.767,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Les Moreres - Ignaci Iglésias",
+      "COD_PARADA": 7003491,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27496,
+      "ID_MUNICIPIO": 471019,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 424806,
+      "UTMY": 4576297,
+      "LATITUD": 41.3328362,
+      "LONGITUD": 2.1002756,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 690,
+    "ID_TRAYECTO": 1023,
+    "SECUENCIA": 40,
+    "ID_PARADA": 27496,
+    "NKM_ORIGEN": 1.067,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Institut Illa dels Banyols",
+      "COD_PARADA": 7003301,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27531,
+      "ID_MUNICIPIO": 443642,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT ",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 424903,
+      "UTMY": 4576106,
+      "LATITUD": 41.3311203,
+      "LONGITUD": 2.101456,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 690,
+    "ID_TRAYECTO": 1023,
+    "SECUENCIA": 45,
+    "ID_PARADA": 27531,
+    "NKM_ORIGEN": 1.367,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Plaça Roigé i Badia",
       "COD_PARADA": 7003300,
       "ID_GRUPO": 1,
@@ -108,7 +192,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 50,
     "ID_PARADA": 24674,
-    "NKM_ORIGEN": 1.013,
+    "NKM_ORIGEN": 1.763,
     "SUBE_BAJA": 1
   },
   {
@@ -136,7 +220,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 60,
     "ID_PARADA": 24680,
-    "NKM_ORIGEN": 1.258,
+    "NKM_ORIGEN": 2.008,
     "SUBE_BAJA": 1
   },
   {
@@ -164,7 +248,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 70,
     "ID_PARADA": 24681,
-    "NKM_ORIGEN": 1.493,
+    "NKM_ORIGEN": 2.243,
     "SUBE_BAJA": 1
   },
   {
@@ -192,7 +276,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 80,
     "ID_PARADA": 24860,
-    "NKM_ORIGEN": 1.598,
+    "NKM_ORIGEN": 2.348,
     "SUBE_BAJA": 1
   },
   {
@@ -220,7 +304,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 90,
     "ID_PARADA": 24691,
-    "NKM_ORIGEN": 1.852,
+    "NKM_ORIGEN": 2.602,
     "SUBE_BAJA": 1
   },
   {
@@ -248,7 +332,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 100,
     "ID_PARADA": 24685,
-    "NKM_ORIGEN": 2.123,
+    "NKM_ORIGEN": 2.873,
     "SUBE_BAJA": 1
   },
   {
@@ -276,7 +360,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 110,
     "ID_PARADA": 24601,
-    "NKM_ORIGEN": 2.335,
+    "NKM_ORIGEN": 3.085,
     "SUBE_BAJA": 1
   },
   {
@@ -304,7 +388,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 120,
     "ID_PARADA": 24700,
-    "NKM_ORIGEN": 2.593,
+    "NKM_ORIGEN": 3.343,
     "SUBE_BAJA": 1
   },
   {
@@ -332,7 +416,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 130,
     "ID_PARADA": 24693,
-    "NKM_ORIGEN": 2.866,
+    "NKM_ORIGEN": 3.616,
     "SUBE_BAJA": 1
   },
   {
@@ -360,7 +444,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 140,
     "ID_PARADA": 24861,
-    "NKM_ORIGEN": 3.085,
+    "NKM_ORIGEN": 3.835,
     "SUBE_BAJA": 1
   },
   {
@@ -388,7 +472,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 150,
     "ID_PARADA": 24862,
-    "NKM_ORIGEN": 3.363,
+    "NKM_ORIGEN": 4.113,
     "SUBE_BAJA": 1
   },
   {
@@ -416,7 +500,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 160,
     "ID_PARADA": 24863,
-    "NKM_ORIGEN": 3.576,
+    "NKM_ORIGEN": 4.326,
     "SUBE_BAJA": 1
   },
   {
@@ -444,7 +528,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 170,
     "ID_PARADA": 24864,
-    "NKM_ORIGEN": 3.78,
+    "NKM_ORIGEN": 4.53,
     "SUBE_BAJA": 1
   },
   {
@@ -472,7 +556,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 180,
     "ID_PARADA": 24626,
-    "NKM_ORIGEN": 4.193,
+    "NKM_ORIGEN": 4.943,
     "SUBE_BAJA": 1
   },
   {
@@ -500,7 +584,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 190,
     "ID_PARADA": 24584,
-    "NKM_ORIGEN": 4.354,
+    "NKM_ORIGEN": 5.104,
     "SUBE_BAJA": 1
   },
   {
@@ -528,7 +612,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 200,
     "ID_PARADA": 24612,
-    "NKM_ORIGEN": 4.576,
+    "NKM_ORIGEN": 5.326,
     "SUBE_BAJA": 1
   },
   {
@@ -556,7 +640,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 210,
     "ID_PARADA": 24605,
-    "NKM_ORIGEN": 4.871,
+    "NKM_ORIGEN": 5.621,
     "SUBE_BAJA": 1
   },
   {
@@ -612,7 +696,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 260,
     "ID_PARADA": 24911,
-    "NKM_ORIGEN": 9.871,
+    "NKM_ORIGEN": 10.621,
     "SUBE_BAJA": 1
   },
   {
@@ -640,7 +724,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 270,
     "ID_PARADA": 24878,
-    "NKM_ORIGEN": 10.163,
+    "NKM_ORIGEN": 10.913,
     "SUBE_BAJA": 1
   },
   {
@@ -668,7 +752,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 280,
     "ID_PARADA": 24879,
-    "NKM_ORIGEN": 11.013,
+    "NKM_ORIGEN": 11.763,
     "SUBE_BAJA": 1
   },
   {
@@ -696,7 +780,7 @@
     "ID_TRAYECTO": 1023,
     "SECUENCIA": 285,
     "ID_PARADA": 25056,
-    "NKM_ORIGEN": 11.363,
+    "NKM_ORIGEN": 12.113,
     "SUBE_BAJA": 1
   },
   {

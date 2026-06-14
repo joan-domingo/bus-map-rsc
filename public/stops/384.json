@@ -161,10 +161,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 90,
     "ID_PARADA": 11977,
-    "NKM_ORIGEN": 7,
+    "NKM_ORIGEN": 10,
     "SUBE_BAJA": 1
   },
   {
@@ -329,7 +329,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
+    "ID_TRAYECTO": 253,
     "SECUENCIA": 20,
     "ID_PARADA": 7428,
     "NKM_ORIGEN": 1,
@@ -357,11 +357,39 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
+    "ID_TRAYECTO": 253,
     "SECUENCIA": 10,
     "ID_PARADA": 7421,
     "NKM_ORIGEN": 0,
     "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "SELVA DE MAR (DIR. FIGUERES)",
+      "COD_PARADA": 16787,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 14123,
+      "ID_MUNICIPIO": 454810,
+      "MUNICIPIO": "SELVA DE MAR, LA",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 515698,
+      "UTMY": 4686051,
+      "LATITUD": 42.324729838413,
+      "LONGITUD": 3.1893825531006,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 384,
+    "ID_TRAYECTO": 51,
+    "SECUENCIA": 30,
+    "ID_PARADA": 14123,
+    "NKM_ORIGEN": 2,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -385,10 +413,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 40,
     "ID_PARADA": 11936,
-    "NKM_ORIGEN": 2,
+    "NKM_ORIGEN": 4,
     "SUBE_BAJA": 1
   },
   {
@@ -413,10 +441,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 50,
     "ID_PARADA": 11932,
-    "NKM_ORIGEN": 3,
+    "NKM_ORIGEN": 5,
     "SUBE_BAJA": 1
   },
   {
@@ -441,10 +469,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 60,
     "ID_PARADA": 11934,
-    "NKM_ORIGEN": 4,
+    "NKM_ORIGEN": 7,
     "SUBE_BAJA": 1
   },
   {
@@ -469,10 +497,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 70,
     "ID_PARADA": 11973,
-    "NKM_ORIGEN": 5,
+    "NKM_ORIGEN": 8,
     "SUBE_BAJA": 1
   },
   {
@@ -497,10 +525,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 80,
     "ID_PARADA": 11971,
-    "NKM_ORIGEN": 6,
+    "NKM_ORIGEN": 9,
     "SUBE_BAJA": 1
   },
   {
@@ -525,39 +553,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 253,
+    "SECUENCIA": 100,
     "ID_PARADA": 14179,
-    "NKM_ORIGEN": 9,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "SELVA DE MAR (DIR. FIGUERES)",
-      "COD_PARADA": 16787,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 14123,
-      "ID_MUNICIPIO": 454810,
-      "MUNICIPIO": "SELVA DE MAR, LA",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 515698,
-      "UTMY": 4686051,
-      "LATITUD": 42.324729838413,
-      "LONGITUD": 3.1893825531006,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 384,
-    "ID_TRAYECTO": 250,
-    "SECUENCIA": 30,
-    "ID_PARADA": 14123,
-    "NKM_ORIGEN": 2,
-    "SUBE_BAJA": 1
+    "NKM_ORIGEN": 12,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -581,7 +581,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
+    "ID_TRAYECTO": 52,
     "SECUENCIA": 100,
     "ID_PARADA": 11978,
     "NKM_ORIGEN": 11,
@@ -609,10 +609,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 50,
     "ID_PARADA": 12041,
-    "NKM_ORIGEN": 13,
+    "NKM_ORIGEN": 17,
     "SUBE_BAJA": 1
   },
   {
@@ -637,7 +637,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
+    "ID_TRAYECTO": 52,
     "SECUENCIA": 120,
     "ID_PARADA": 7416,
     "NKM_ORIGEN": 20,
@@ -665,11 +665,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 30,
     "ID_PARADA": 13106,
-    "NKM_ORIGEN": 26,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 4,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -693,7 +693,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
+    "ID_TRAYECTO": 52,
     "SECUENCIA": 140,
     "ID_PARADA": 13580,
     "NKM_ORIGEN": 28,
@@ -721,11 +721,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 384,
-    "ID_TRAYECTO": 251,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 10,
     "ID_PARADA": 7400,
-    "NKM_ORIGEN": 29,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {

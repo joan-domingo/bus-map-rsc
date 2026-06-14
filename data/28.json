@@ -810,7 +810,7 @@
     "DESC_REDUCIDA": "FGC VALL-ES.FLORESTA",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 512,
+    "INI_TRAYECTO": 864,
     "FIN_TRAYECTO": 1013,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
