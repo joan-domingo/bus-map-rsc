@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "St. Casimir (mercat Serraperera)",
+      "DESC_PARADA": "Sta. Anna, 69 (Col.legi XARAU)",
       "COD_PARADA": 439,
       "ID_GRUPO": 1,
       "ID_PARADA": 439,
@@ -459,10 +459,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 427746,
-      "UTMY": 4594165,
-      "LATITUD": 41.494029262809,
-      "LONGITUD": 2.133266925411,
+      "UTMX": 428183,
+      "UTMY": 4594420,
+      "LATITUD": 41.496367744301,
+      "LONGITUD": 2.1384704108999,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Passeig Cordelles-francolí",
+      "DESC_PARADA": "Pg. Cordelles / Francolí",
       "COD_PARADA": 5315,
       "ID_GRUPO": 1,
       "ID_PARADA": 5315,
@@ -739,10 +739,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 428011,
-      "UTMY": 4594238,
-      "LATITUD": 41.494683502299,
-      "LONGITUD": 2.1364209869143,
+      "UTMX": 428010,
+      "UTMY": 4594236,
+      "LATITUD": 41.494691538381,
+      "LONGITUD": 2.1364263513323,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
