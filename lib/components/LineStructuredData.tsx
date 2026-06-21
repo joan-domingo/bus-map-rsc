@@ -3,7 +3,10 @@ interface LineStructuredDataProps {
   path: string;
 }
 
-export function LineStructuredData({ lineName, path }: LineStructuredDataProps) {
+export function LineStructuredData({
+  lineName,
+  path,
+}: LineStructuredDataProps) {
   const baseUrl = "https://quantriga.com";
   const line = lineName.toUpperCase();
   const url = `${baseUrl}${path}`;
@@ -15,6 +18,7 @@ export function LineStructuredData({ lineName, path }: LineStructuredDataProps) 
     description: `Consulta la línia ${line} de Moventis en temps real amb mapa de parades i properes arribades.`,
     url,
     inLanguage: ["ca", "es"],
+    keywords: `bus ${line}, Moventis ${line}, ${line} temps real, ${line} tiempo real, parades ${line}, horaris ${line}`,
     isPartOf: {
       "@type": "WebSite",
       name: "QuanTriga.com",

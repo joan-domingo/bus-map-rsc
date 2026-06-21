@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: "%s | QuanTriga.com",
   },
   description:
-    "Moventis en temps real i tiempo real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
+    "Moventis en temps real i tiempo real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
   keywords: [
     "bus",
     "autobús",
@@ -39,9 +39,17 @@ export const metadata: Metadata = {
     "moventis e3 tiempo real",
     "e3 tiempo real",
     "e3 temps real",
-    "n61",
-    "bus n61",
-    "bus n61 temps real",
+    "n80",
+    "bus n80",
+    "c30",
+    "bus c30",
+    "c18",
+    "bus c18",
+    "n65",
+    "n62",
+    "x30",
+    "806",
+    "bus 806",
     "cerdanyola del vallès",
     "cerdanyola",
     "barcelona",
@@ -88,7 +96,7 @@ export const metadata: Metadata = {
     siteName: "QuanTriga.com",
     title: "Moventis temps real | QuanTriga.com",
     description:
-      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
     images: [
       {
         url: "/og-image",
@@ -102,7 +110,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Moventis temps real | QuanTriga.com",
     description:
-      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, X30, E3, N61 i més.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
     images: ["/og-image"],
   },
   alternates: {

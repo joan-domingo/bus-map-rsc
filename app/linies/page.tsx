@@ -4,7 +4,7 @@ import { buildLinePagePath, getAllSeoLineEntries } from "../../lib/utils/seo";
 export const metadata: Metadata = {
   title: "Totes les línies Moventis en temps real",
   description:
-    "Totes les línies Moventis en temps real (tiempo real). Accedeix a N80, C30, X30, E3, N61 i més per veure parades i arribades.",
+    "Totes les línies Moventis en temps real (tiempo real). Accedeix a N80, C30, E3, N65, N62, X30, C18, 806 i més per veure parades i arribades.",
   alternates: {
     canonical: "/linies",
   },
@@ -15,9 +15,7 @@ export default function LinesIndexPage() {
 
   return (
     <main className="h-screen overflow-y-auto bg-white text-black p-4 sm:p-6">
-      <h1 className="text-2xl font-bold mb-2">
-        Línies Moventis en temps real
-      </h1>
+      <h1 className="text-2xl font-bold mb-2">Línies Moventis en temps real</h1>
       <p className="text-sm mb-4">
         Selecciona una línia per veure el mapa i les arribades en temps real.
       </p>

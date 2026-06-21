@@ -31,13 +31,12 @@ export function Header({
             className="mr-2"
             aria-hidden
           />
-          <span className="text-white font-bold text-lg">QuanTriga.com</span>
-        </a>
-        <h1 className="text-white text-center text-sm font-semibold mt-1 m-0">
+          <h1 className="text-white text-center text-sm font-semibold mt-1 m-0">
           {highlightedLineName
-            ? `Bus ${highlightedLineName.toUpperCase()} temps real · Moventis`
-            : "Moventis temps real"}
+            ? `QuanTriga.com | Bus ${highlightedLineName.toUpperCase()} temps real · Moventis`
+            : "QuanTriga.com | Moventis temps real"}
         </h1>
+        </a>
         <p className="text-white/90 text-center text-[11px] mt-0.5 m-0">
           {highlightedLineName
             ? `Properes arribades i parades de la línia ${highlightedLineName.toUpperCase()} al mapa.`

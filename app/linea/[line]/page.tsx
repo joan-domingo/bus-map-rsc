@@ -1,13 +1,16 @@
 import type { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
-import { MapContainer } from "../../../lib/components/MapContainer";
-import { loadAllBusStops } from "../../../lib/data-loader";
 import { LineStructuredData } from "../../../lib/components/LineStructuredData";
+import { MapContainer } from "../../../lib/components/MapContainer";
+import {
+  loadAllBusStops,
+  loadBusStopsForLineIds,
+} from "../../../lib/data-loader";
 import { buildOgImageAlt, OG_IMAGE_SIZE } from "../../../lib/og/og-image";
 import {
+  buildLineOgImagePath,
   buildLinePagePath,
   buildLinePageSeo,
-  buildLineOgImagePath,
   resolveLineSlug,
 } from "../../../lib/utils/seo";
 
@@ -81,7 +84,25 @@ export default async function LinePage({ params }: LinePageProps) {
   }
 
   const { canonicalSlug, lineName: canonicalLineName, lineStopIds } = resolved;
-  const busStops = await loadAllBusStops();
+  const [allBusStops, lineBusStops] = await Promise.all([
+    loadAllBusStops(),
+    loadBusStopsForLineIds(lineStopIds),
+  ]);
+  const busStopsById = new Map(allBusStops.map((stop) => [stop.id, stop]));
+
+  for (const lineStop of lineBusStops) {
+    const existingStop = busStopsById.get(lineStop.id);
+    if (existingStop) {
+      existingStop.buses = Array.from(
+        new Set([...existingStop.buses, ...lineStop.buses]),
+      );
+      continue;
+    }
+
+    busStopsById.set(lineStop.id, lineStop);
+  }
+
+  const busStops = Array.from(busStopsById.values());
   const basePath = buildLinePagePath(canonicalSlug);
 
   return (

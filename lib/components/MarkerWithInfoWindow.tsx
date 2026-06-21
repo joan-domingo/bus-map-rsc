@@ -8,8 +8,7 @@ import { useMapStore } from "../store/useMapStore";
 import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import { trackEvent } from "../utils/analytics";
-import busLineData from "../utils/busLineData.json";
-import { buildLinePagePath, lineStopIdToSlug } from "../utils/seo";
+import { getLineStopColor, getLineStopDisplayName } from "../utils/seo";
 import MarkerTimetable from "./MarkerTimetable";
 
 interface Props {
@@ -59,9 +58,9 @@ export const MarkerWithInfowindow = ({
             }
             return (
               <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>
-                {grid.map((row, rowIdx) => (
+                {grid.map((row) => (
                   <div
-                    key={`${row.length}-${rowIdx}`}
+                    key={row.join("-")}
                     style={{ display: "flex", flexDirection: "row", gap: 2 }}
                   >
                     {row.map((bus) => (
@@ -69,11 +68,10 @@ export const MarkerWithInfowindow = ({
                         key={bus}
                         className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
                         style={{
-                          backgroundColor:
-                            busLineData[bus as keyof typeof busLineData].color,
+                          backgroundColor: getLineStopColor(bus),
                         }}
                       >
-                        {busLineData[bus as keyof typeof busLineData].name
+                        {getLineStopDisplayName(bus)
                           .toUpperCase()
                           .replace("-", "")}
                       </div>

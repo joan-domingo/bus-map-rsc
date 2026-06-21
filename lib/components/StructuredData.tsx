@@ -31,7 +31,7 @@ export function StructuredData() {
       "Consulta per ubicació",
     ],
     keywords:
-      "bus, autobús, temps real, mapa busos, parada bus, Moventis, Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal, Vallès Occidental, Vallès Oriental, àrea metropolitana Barcelona",
+      "bus, autobús, temps real, tiempo real, mapa busos, parada bus, Moventis, N80, C30, E3, N65, N62, X30, C18, 806, Cerdanyola del Vallès, Barcelona, Sabadell, Terrassa, Sant Cugat, Badalona, Barberà del Vallès, Castellbisbal, Vallès Occidental, Vallès Oriental, àrea metropolitana Barcelona",
     inLanguage: ["ca", "es"],
     audience: {
       "@type": "Audience",
@@ -73,9 +73,9 @@ export function StructuredData() {
 
   return (
     <>
-      {structuredDataArray.map((data, index) => (
+      {structuredDataArray.map((data) => (
         <script
-          key={index}
+          key={data["@type"]}
           type="application/ld+json"
           // biome-ignore lint/security/noDangerouslySetInnerHtml: JSON-LD structured data requires this, content is sanitized
           dangerouslySetInnerHTML={{
