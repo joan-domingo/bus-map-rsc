@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 1410,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -66,6 +66,34 @@
         "SECUENCIA": 20,
         "ID_PARADA": 12681,
         "NKM_ORIGEN": 0.3,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "PALAFRUGELL,RAMBLA JOSEP TARRADELLAS",
+          "COD_PARADA": 16437,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 27563,
+          "ID_MUNICIPIO": 171175,
+          "MUNICIPIO": "PALAFRUGELL",
+          "EXPLOTADORA": "SARFA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 2,
+          "UTMX": 515523,
+          "UTMY": 4638063,
+          "LATITUD": 41.8925389,
+          "LONGITUD": 3.1859973,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 698,
+        "ID_TRAYECTO": 6,
+        "SECUENCIA": 25,
+        "ID_PARADA": 27563,
+        "NKM_ORIGEN": 3.5,
         "SUBE_BAJA": 1
       },
       {

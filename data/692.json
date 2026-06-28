@@ -2,44 +2,16 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 692,
-    "ID_TRAYECTO": 4,
-    "ID_TRAYECTO_SAE": 334,
-    "DESC_TRAYECTO": "ESTACIO BUS CADAQUES-ESTACIO BUS",
+    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO_SAE": 333,
+    "DESC_TRAYECTO": "CORRAL D'EN MORELL-CREUS-ESTACIO BUS(CURT)",
     "DESC_REDUCIDA": "CADAQUÉS, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 474,
-    "FIN_TRAYECTO": 1411,
+    "INI_TRAYECTO": 660,
+    "FIN_TRAYECTO": 1141,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
-      {
-        "Parada": {
-          "DESC_PARADA": "CADAQUES",
-          "COD_PARADA": 16503,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7406,
-          "ID_MUNICIPIO": 454566,
-          "MUNICIPIO": "CADAQUES",
-          "EXPLOTADORA": "SARFA",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 2,
-          "UTMX": 522705,
-          "UTMY": 4682144,
-          "LATITUD": 42.289577285259,
-          "LONGITUD": 3.2729574542312,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 10,
-        "ID_PARADA": 7406,
-        "NKM_ORIGEN": 0,
-        "SUBE_BAJA": 2
-      },
       {
         "Parada": {
           "DESC_PARADA": "CADAQUES,CORRAL D'EN MORELL",
@@ -62,10 +34,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 20,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 10,
         "ID_PARADA": 23866,
-        "NKM_ORIGEN": 3.2,
+        "NKM_ORIGEN": 0,
         "SUBE_BAJA": 1
       },
       {
@@ -90,10 +62,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 30,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 20,
         "ID_PARADA": 23867,
-        "NKM_ORIGEN": 4.4,
+        "NKM_ORIGEN": 1.2,
         "SUBE_BAJA": 1
       },
       {
@@ -118,10 +90,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 40,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 30,
         "ID_PARADA": 23868,
-        "NKM_ORIGEN": 6.1,
+        "NKM_ORIGEN": 2.9,
         "SUBE_BAJA": 1
       },
       {
@@ -146,10 +118,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 50,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 40,
         "ID_PARADA": 23869,
-        "NKM_ORIGEN": 8.1,
+        "NKM_ORIGEN": 4.9,
         "SUBE_BAJA": 1
       },
       {
@@ -174,10 +146,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 60,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 50,
         "ID_PARADA": 23871,
-        "NKM_ORIGEN": 10.1,
+        "NKM_ORIGEN": 6.9,
         "SUBE_BAJA": 1
       },
       {
@@ -202,10 +174,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 70,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 60,
         "ID_PARADA": 23867,
-        "NKM_ORIGEN": 11.8,
+        "NKM_ORIGEN": 8.6,
         "SUBE_BAJA": 1
       },
       {
@@ -230,10 +202,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 80,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 70,
         "ID_PARADA": 23866,
-        "NKM_ORIGEN": 13.9,
+        "NKM_ORIGEN": 10.7,
         "SUBE_BAJA": 3
       },
       {
@@ -258,10 +230,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 4,
-        "SECUENCIA": 90,
+        "ID_TRAYECTO": 3,
+        "SECUENCIA": 80,
         "ID_PARADA": 7406,
-        "NKM_ORIGEN": 17.1,
+        "NKM_ORIGEN": 13.9,
         "SUBE_BAJA": 3
       }
     ],
@@ -725,16 +697,44 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 692,
-    "ID_TRAYECTO": 3,
-    "ID_TRAYECTO_SAE": 333,
-    "DESC_TRAYECTO": "CORRAL D'EN MORELL-CREUS-ESTACIO BUS(CURT)",
+    "ID_TRAYECTO": 4,
+    "ID_TRAYECTO_SAE": 334,
+    "DESC_TRAYECTO": "ESTACIO BUS CADAQUES-ESTACIO BUS",
     "DESC_REDUCIDA": "CADAQUÉS, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 660,
-    "FIN_TRAYECTO": 1141,
+    "INI_TRAYECTO": 474,
+    "FIN_TRAYECTO": 1411,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
+      {
+        "Parada": {
+          "DESC_PARADA": "CADAQUES",
+          "COD_PARADA": 16503,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 7406,
+          "ID_MUNICIPIO": 454566,
+          "MUNICIPIO": "CADAQUES",
+          "EXPLOTADORA": "SARFA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 2,
+          "UTMX": 522705,
+          "UTMY": 4682144,
+          "LATITUD": 42.289577285259,
+          "LONGITUD": 3.2729574542312,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 692,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 10,
+        "ID_PARADA": 7406,
+        "NKM_ORIGEN": 0,
+        "SUBE_BAJA": 2
+      },
       {
         "Parada": {
           "DESC_PARADA": "CADAQUES,CORRAL D'EN MORELL",
@@ -757,10 +757,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 10,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 20,
         "ID_PARADA": 23866,
-        "NKM_ORIGEN": 0,
+        "NKM_ORIGEN": 3.2,
         "SUBE_BAJA": 1
       },
       {
@@ -785,10 +785,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 20,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 30,
         "ID_PARADA": 23867,
-        "NKM_ORIGEN": 1.2,
+        "NKM_ORIGEN": 4.4,
         "SUBE_BAJA": 1
       },
       {
@@ -813,10 +813,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 30,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 40,
         "ID_PARADA": 23868,
-        "NKM_ORIGEN": 2.9,
+        "NKM_ORIGEN": 6.1,
         "SUBE_BAJA": 1
       },
       {
@@ -841,10 +841,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 40,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 50,
         "ID_PARADA": 23869,
-        "NKM_ORIGEN": 4.9,
+        "NKM_ORIGEN": 8.1,
         "SUBE_BAJA": 1
       },
       {
@@ -869,10 +869,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 50,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 60,
         "ID_PARADA": 23871,
-        "NKM_ORIGEN": 6.9,
+        "NKM_ORIGEN": 10.1,
         "SUBE_BAJA": 1
       },
       {
@@ -897,10 +897,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 60,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 70,
         "ID_PARADA": 23867,
-        "NKM_ORIGEN": 8.6,
+        "NKM_ORIGEN": 11.8,
         "SUBE_BAJA": 1
       },
       {
@@ -925,10 +925,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 70,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 80,
         "ID_PARADA": 23866,
-        "NKM_ORIGEN": 10.7,
+        "NKM_ORIGEN": 13.9,
         "SUBE_BAJA": 3
       },
       {
@@ -953,10 +953,10 @@
         },
         "ID_GRUPO": 1,
         "ID_LINEA": 692,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 80,
+        "ID_TRAYECTO": 4,
+        "SECUENCIA": 90,
         "ID_PARADA": 7406,
-        "NKM_ORIGEN": 13.9,
+        "NKM_ORIGEN": 17.1,
         "SUBE_BAJA": 3
       }
     ],

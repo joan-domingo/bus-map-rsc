@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "2-SCV-HOSP.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
+    "INI_TRAYECTO": 480,
     "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -837,7 +837,7 @@
     "DESC_REDUCIDA": "1-HOSP.-SCV",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 480,
+    "INI_TRAYECTO": 540,
     "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
-    "SECUENCIA": 170,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 180,
     "ID_PARADA": 4475,
-    "NKM_ORIGEN": 8.543,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 10.016,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -49,7 +49,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
+    "ID_TRAYECTO": 5,
     "SECUENCIA": 20,
     "ID_PARADA": 4470,
     "NKM_ORIGEN": 0.677,
@@ -77,7 +77,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
+    "ID_TRAYECTO": 5,
     "SECUENCIA": 30,
     "ID_PARADA": 4460,
     "NKM_ORIGEN": 0.897,
@@ -105,7 +105,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
+    "ID_TRAYECTO": 5,
     "SECUENCIA": 40,
     "ID_PARADA": 7000,
     "NKM_ORIGEN": 1.437,
@@ -133,8 +133,8 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 45,
     "ID_PARADA": 21817,
     "NKM_ORIGEN": 1.737,
     "SUBE_BAJA": 2
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 70,
     "ID_PARADA": 441,
-    "NKM_ORIGEN": 2.675,
+    "NKM_ORIGEN": 4.198,
     "SUBE_BAJA": 2
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 80,
     "ID_PARADA": 99,
-    "NKM_ORIGEN": 3.828,
+    "NKM_ORIGEN": 5.351,
     "SUBE_BAJA": 2
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 90,
     "ID_PARADA": 101,
-    "NKM_ORIGEN": 4.499,
+    "NKM_ORIGEN": 6.022,
     "SUBE_BAJA": 2
   },
   {
@@ -273,10 +273,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 100,
     "ID_PARADA": 103,
-    "NKM_ORIGEN": 5.172,
+    "NKM_ORIGEN": 6.695,
     "SUBE_BAJA": 2
   },
   {
@@ -301,10 +301,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 110,
     "ID_PARADA": 104,
-    "NKM_ORIGEN": 5.635,
+    "NKM_ORIGEN": 7.158,
     "SUBE_BAJA": 1
   },
   {
@@ -329,10 +329,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 120,
     "ID_PARADA": 105,
-    "NKM_ORIGEN": 6.127,
+    "NKM_ORIGEN": 7.65,
     "SUBE_BAJA": 1
   },
   {
@@ -357,10 +357,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 120,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 130,
     "ID_PARADA": 106,
-    "NKM_ORIGEN": 6.514,
+    "NKM_ORIGEN": 8.037,
     "SUBE_BAJA": 1
   },
   {
@@ -385,10 +385,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 140,
     "ID_PARADA": 4870,
-    "NKM_ORIGEN": 7.048,
+    "NKM_ORIGEN": 8.571,
     "SUBE_BAJA": 1
   },
   {
@@ -413,10 +413,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 140,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 150,
     "ID_PARADA": 4860,
-    "NKM_ORIGEN": 7.408,
+    "NKM_ORIGEN": 8.931,
     "SUBE_BAJA": 1
   },
   {
@@ -441,10 +441,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 160,
     "ID_PARADA": 4850,
-    "NKM_ORIGEN": 7.995,
+    "NKM_ORIGEN": 9.518,
     "SUBE_BAJA": 1
   },
   {
@@ -469,10 +469,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 160,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 170,
     "ID_PARADA": 5931,
-    "NKM_ORIGEN": 8.538,
+    "NKM_ORIGEN": 10.061,
     "SUBE_BAJA": 1
   },
   {
@@ -497,10 +497,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 170,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 180,
     "ID_PARADA": 5400,
-    "NKM_ORIGEN": 9.01,
+    "NKM_ORIGEN": 10.533,
     "SUBE_BAJA": 1
   },
   {
@@ -525,10 +525,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 7,
-    "SECUENCIA": 180,
+    "ID_TRAYECTO": 5,
+    "SECUENCIA": 190,
     "ID_PARADA": 115,
-    "NKM_ORIGEN": 9.432,
+    "NKM_ORIGEN": 10.955,
     "SUBE_BAJA": 1
   },
   {
@@ -553,7 +553,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 10,
     "ID_PARADA": 12566,
     "NKM_ORIGEN": 0,
@@ -581,7 +581,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 20,
     "ID_PARADA": 12107,
     "NKM_ORIGEN": 0.277,
@@ -609,7 +609,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 30,
     "ID_PARADA": 116,
     "NKM_ORIGEN": 0.774,
@@ -637,7 +637,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 40,
     "ID_PARADA": 117,
     "NKM_ORIGEN": 1.312,
@@ -665,7 +665,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 50,
     "ID_PARADA": 118,
     "NKM_ORIGEN": 1.675,
@@ -693,7 +693,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 60,
     "ID_PARADA": 4880,
     "NKM_ORIGEN": 2.2,
@@ -721,7 +721,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 70,
     "ID_PARADA": 4890,
     "NKM_ORIGEN": 2.859,
@@ -749,7 +749,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 80,
     "ID_PARADA": 4900,
     "NKM_ORIGEN": 3.203,
@@ -777,11 +777,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 90,
     "ID_PARADA": 4910,
     "NKM_ORIGEN": 3.62,
-    "SUBE_BAJA": 3
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -805,11 +805,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 100,
     "ID_PARADA": 4920,
     "NKM_ORIGEN": 4.307,
-    "SUBE_BAJA": 3
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -833,11 +833,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 110,
     "ID_PARADA": 4930,
     "NKM_ORIGEN": 5.103,
-    "SUBE_BAJA": 3
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -861,11 +861,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
+    "ID_TRAYECTO": 6,
     "SECUENCIA": 120,
     "ID_PARADA": 2926,
     "NKM_ORIGEN": 6.093,
-    "SUBE_BAJA": 3
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -889,11 +889,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 140,
     "ID_PARADA": 4720,
-    "NKM_ORIGEN": 7.099,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 8.572,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -917,11 +917,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
-    "SECUENCIA": 140,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 150,
     "ID_PARADA": 445,
-    "NKM_ORIGEN": 7.411,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 8.884,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -945,11 +945,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 160,
     "ID_PARADA": 5350,
-    "NKM_ORIGEN": 8.084,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 9.557,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -973,10 +973,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 14,
-    "ID_TRAYECTO": 8,
-    "SECUENCIA": 160,
+    "ID_TRAYECTO": 6,
+    "SECUENCIA": 170,
     "ID_PARADA": 12247,
-    "NKM_ORIGEN": 8.543,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 10.016,
+    "SUBE_BAJA": 1
   }
 ]

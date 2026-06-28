@@ -669,7 +669,7 @@
     "DESC_REDUCIDA": "BCN - MTR (Renfe",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1445,
+    "INI_TRAYECTO": 1482,
     "FIN_TRAYECTO": 1730,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
