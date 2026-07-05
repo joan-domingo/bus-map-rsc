@@ -2517,7 +2517,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "679": {
     "nid": "125790",
@@ -2535,7 +2535,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "680": {
     "nid": "125793",
@@ -2553,7 +2553,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "681": {
     "nid": "125796",
@@ -2571,7 +2571,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260823"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "682": {
     "nid": "125799",
@@ -2589,7 +2589,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "683": {
     "nid": "125820",
@@ -2607,7 +2607,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "684": {
     "nid": "125805",
@@ -2625,7 +2625,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "685": {
     "nid": "125808",
@@ -2643,7 +2643,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "686": {
     "nid": "125811",
@@ -2661,7 +2661,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "688": {
     "nid": "125817",
@@ -2679,7 +2679,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "690": {
     "nid": "125823",
@@ -2697,25 +2697,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
-  },
-  "692": {
-    "nid": "125887",
-    "ID_LINEA": "692",
-    "COD_LINEA": "L33",
-    "DESC_LINEA": "AJUNTAMENT DE CADAQUES -CAP DE CREUS",
-    "ID_ZONA": "6",
-    "ID_SUBZONA": "8",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#FF54FF",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "2",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "N",
-    "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20260630"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "696": {
     "nid": "126219",
@@ -2733,7 +2715,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260826"
+    "DIAS_QUE_CIRCULA": "20260831"
   },
   "697": {
     "nid": "137814",
@@ -2742,24 +2724,6 @@
     "DESC_LINEA": "URBA DE CALONGE",
     "ID_ZONA": "6",
     "ID_SUBZONA": "1",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": null,
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "2",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "N",
-    "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20260730"
-  },
-  "698": {
-    "nid": "137809",
-    "ID_LINEA": "698",
-    "COD_LINEA": "78",
-    "DESC_LINEA": "LLANÇADORA CALELLA DE PALAFRUGELL",
-    "ID_ZONA": "6",
-    "ID_SUBZONA": "6",
     "TREAL": "S",
     "FORMA": "redondo",
     "COLOR": null,
@@ -2841,7 +2805,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "125862",
-    "DIAS_QUE_CIRCULA": "20260823"
+    "DIAS_QUE_CIRCULA": "20260902"
   },
   "717": {
     "nid": "170049",
