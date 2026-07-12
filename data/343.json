@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CELLER-SANT JOAN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 1320,
+    "INI_TRAYECTO": 390,
+    "FIN_TRAYECTO": 1290,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -361,8 +361,8 @@
     "DESC_REDUCIDA": "SANT JOAN-CELLER",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 1290,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

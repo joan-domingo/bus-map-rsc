@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "ANADA CURTA 201",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 506,
-    "FIN_TRAYECTO": 1188,
+    "INI_TRAYECTO": 425,
+    "FIN_TRAYECTO": 1246,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -250,8 +250,8 @@
     "DESC_REDUCIDA": "TORNADA LLARGA (b) 2",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 426,
-    "FIN_TRAYECTO": 1075,
+    "INI_TRAYECTO": 432,
+    "FIN_TRAYECTO": 1083,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -576,8 +576,8 @@
     "DESC_REDUCIDA": "TORNADA MITJÀ (b) 402",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 451,
-    "FIN_TRAYECTO": 1179,
+    "INI_TRAYECTO": 417,
+    "FIN_TRAYECTO": 1239,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -846,8 +846,8 @@
     "DESC_REDUCIDA": "TORNADA MITJÀ (a) 102",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 473,
-    "FIN_TRAYECTO": 1104,
+    "INI_TRAYECTO": 557,
+    "FIN_TRAYECTO": 1101,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1144,8 +1144,8 @@
     "DESC_REDUCIDA": "ANADA LLARGA (a) 301",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 436,
-    "FIN_TRAYECTO": 1152,
+    "INI_TRAYECTO": 408,
+    "FIN_TRAYECTO": 1095,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1442,8 +1442,8 @@
     "DESC_REDUCIDA": "ANADA LLARGA (b) 1",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 412,
-    "FIN_TRAYECTO": 1060,
+    "INI_TRAYECTO": 421,
+    "FIN_TRAYECTO": 1067,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1768,8 +1768,8 @@
     "DESC_REDUCIDA": "ANADA MITJÀ (b) 401",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 484,
-    "FIN_TRAYECTO": 1170,
+    "INI_TRAYECTO": 442,
+    "FIN_TRAYECTO": 1231,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2038,8 +2038,8 @@
     "DESC_REDUCIDA": "ANADA MITJÀ (a) 101",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 460,
-    "FIN_TRAYECTO": 1092,
+    "INI_TRAYECTO": 547,
+    "FIN_TRAYECTO": 1083,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2336,8 +2336,8 @@
     "DESC_REDUCIDA": "TORNADA CURTA 202",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 516,
-    "FIN_TRAYECTO": 1195,
+    "INI_TRAYECTO": 432,
+    "FIN_TRAYECTO": 1253,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

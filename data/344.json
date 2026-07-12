@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CELLER-H.GENERAL",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1170,
+    "INI_TRAYECTO": 435,
+    "FIN_TRAYECTO": 1185,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -473,8 +473,8 @@
     "DESC_REDUCIDA": "H.GENERAL-CELLER",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 1200,
+    "INI_TRAYECTO": 465,
+    "FIN_TRAYECTO": 1215,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 555,
+    "INI_TRAYECTO": 570,
     "FIN_TRAYECTO": 1460,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

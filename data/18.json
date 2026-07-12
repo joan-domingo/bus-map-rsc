@@ -613,7 +613,7 @@
     "DESC_REDUCIDA": "SBD - MTDP",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1080,
+    "INI_TRAYECTO": 840,
     "FIN_TRAYECTO": 1130,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -939,7 +939,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 565,
+    "FIN_TRAYECTO": 570,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1543,7 +1543,7 @@
     "DESC_REDUCIDA": "MTDP - SBD",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1130,
+    "INI_TRAYECTO": 890,
     "FIN_TRAYECTO": 1165,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
