@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Barcelona",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 367,
-    "FIN_TRAYECTO": 1168,
+    "INI_TRAYECTO": 330,
+    "FIN_TRAYECTO": 1368,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -782,7 +782,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1200,
+    "FIN_TRAYECTO": 1376,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

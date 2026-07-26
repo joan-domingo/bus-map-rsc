@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TERR / VAC",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1435,
-    "FIN_TRAYECTO": 1740,
+    "INI_TRAYECTO": 1429,
+    "FIN_TRAYECTO": 1760,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -192,10 +192,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 410019,
-          "UTMY": 4606300,
-          "LATITUD": 41.601490973207,
-          "LONGITUD": 1.9190955694262,
+          "UTMX": 410011,
+          "UTMY": 4606320,
+          "LATITUD": 41.601695554735,
+          "LONGITUD": 1.9190177853648,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -221,8 +221,8 @@
     "DESC_REDUCIDA": "VAC / TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1457,
-    "FIN_TRAYECTO": 1761,
+    "INI_TRAYECTO": 1451,
+    "FIN_TRAYECTO": 1781,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -237,10 +237,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 410019,
-          "UTMY": 4606300,
-          "LATITUD": 41.601490973207,
-          "LONGITUD": 1.9190955694262,
+          "UTMX": 410011,
+          "UTMY": 4606320,
+          "LATITUD": 41.601695554735,
+          "LONGITUD": 1.9190177853648,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
