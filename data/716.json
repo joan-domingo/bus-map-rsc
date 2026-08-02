@@ -70,6 +70,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "Diagonal - Plaça Reina Maria Cristina",
+          "COD_PARADA": 7000237,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 24560,
+          "ID_MUNICIPIO": 439863,
+          "MUNICIPIO": "BARCELONA",
+          "EXPLOTADORA": "SARBUS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 1,
+          "UTMX": 427044,
+          "UTMY": 4582246,
+          "LATITUD": 41.38844359,
+          "LONGITUD": 2.1273846,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 716,
+        "ID_TRAYECTO": 1009,
+        "SECUENCIA": 25,
+        "ID_PARADA": 24560,
+        "NKM_ORIGEN": 0.45,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "Diagonal - Plaça Pius Xii",
           "COD_PARADA": 7000766,
           "ID_GRUPO": 1,

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "MTDP/TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1465,
-    "FIN_TRAYECTO": 1825,
+    "INI_TRAYECTO": 1406,
+    "FIN_TRAYECTO": 1765,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -473,8 +473,8 @@
     "DESC_REDUCIDA": "TERR/MTDP",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1444,
-    "FIN_TRAYECTO": 1806,
+    "INI_TRAYECTO": 1385,
+    "FIN_TRAYECTO": 1746,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

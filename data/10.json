@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TERR / VAC",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1429,
-    "FIN_TRAYECTO": 1760,
+    "INI_TRAYECTO": 1435,
+    "FIN_TRAYECTO": 1740,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -221,8 +221,8 @@
     "DESC_REDUCIDA": "VAC / TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1451,
-    "FIN_TRAYECTO": 1781,
+    "INI_TRAYECTO": 1457,
+    "FIN_TRAYECTO": 1761,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
