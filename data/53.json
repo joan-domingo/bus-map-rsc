@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(PARADA B3) AV. DEL MARESME / AV. D´ALFONS XIII",
+          "DESC_PARADA": "(HABILITADA) AV. DEL MARQUÈS DE MONT-ROIG / AV. DEL MARESME",
           "COD_PARADA": 4040,
           "ID_GRUPO": 1,
           "ID_PARADA": 7189,
@@ -108,10 +108,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 3,
-          "UTMX": 435036,
-          "UTMY": 4587579,
-          "LATITUD": 41.435335993314,
-          "LONGITUD": 2.2213115019403,
+          "UTMX": 435502,
+          "UTMY": 4587434,
+          "LATITUD": 41.43407316073,
+          "LONGITUD": 2.2269012255273,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV ALFONS XIII-ST.LLUC",
+          "DESC_PARADA": "(HABILITADA) AV. DEL MARQUÈS DE MONT-ROIG / JULI GALVE BRUSSON",
           "COD_PARADA": 4050,
           "ID_GRUPO": 1,
           "ID_PARADA": 7190,
@@ -136,10 +136,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 3,
-          "UTMX": 435629,
-          "UTMY": 4588024,
-          "LATITUD": 41.43939,
-          "LONGITUD": 2.22836,
+          "UTMX": 435740,
+          "UTMY": 4587717,
+          "LATITUD": 41.436639256566,
+          "LONGITUD": 2.2297225621796,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -2355,7 +2355,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(PARADA B3) AV. MARESME / AV. D´ALFONS XIII",
+          "DESC_PARADA": "(HABILITADA) JUMILLA /  AV. MARESME",
           "COD_PARADA": 48,
           "ID_GRUPO": 1,
           "ID_PARADA": 7183,
@@ -2365,10 +2365,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 3,
-          "UTMX": 435108,
-          "UTMY": 4587590,
-          "LATITUD": 41.435442154705,
-          "LONGITUD": 2.2221717782894,
+          "UTMX": 435305,
+          "UTMY": 4587589,
+          "LATITUD": 41.435450198133,
+          "LONGITUD": 2.2245213933864,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null

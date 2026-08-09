@@ -722,8 +722,8 @@
     "DESC_REDUCIDA": "ST JORDI-E.A.",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 438,
-    "FIN_TRAYECTO": 1250,
+    "INI_TRAYECTO": 433,
+    "FIN_TRAYECTO": 1200,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1106,8 +1106,8 @@
     "DESC_REDUCIDA": "E.A.-ST. JORDI",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 415,
-    "FIN_TRAYECTO": 1228,
+    "INI_TRAYECTO": 410,
+    "FIN_TRAYECTO": 1178,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1604,7 +1604,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 1163,
+    "FIN_TRAYECTO": 1223,
     "ID_TRAYECTO_CONCAT": 21,
     "TrayectosDet": [
       {

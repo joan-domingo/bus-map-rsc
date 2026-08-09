@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 138,
-    "ID_TRAYECTO": 3,
-    "SECUENCIA": 152,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 10,
     "ID_PARADA": 10223,
-    "NKM_ORIGEN": 9.92,
-    "SUBE_BAJA": 1
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -189,11 +189,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 138,
-    "ID_TRAYECTO": 4,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 20,
     "ID_PARADA": 10244,
     "NKM_ORIGEN": 4.36,
-    "SUBE_BAJA": 1
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {

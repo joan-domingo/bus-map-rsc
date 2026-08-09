@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RICARD VIÑES/SANITAT",
+          "DESC_PARADA": "20133 RICARD VIÑES/SANITAT",
           "COD_PARADA": 20133,
           "ID_GRUPO": 1,
           "ID_PARADA": 10346,
@@ -24,10 +24,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 301744,
-          "UTMY": 4610474,
-          "LATITUD": 41.619507502269,
-          "LONGITUD": 0.61919181966552,
+          "UTMX": 301741,
+          "UTMY": 4610471,
+          "LATITUD": 41.6195075,
+          "LONGITUD": 0.6191918,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RICARD VIÑES/SANITAT",
+          "DESC_PARADA": "20133 RICARD VIÑES/SANITAT",
           "COD_PARADA": 20133,
           "ID_GRUPO": 1,
           "ID_PARADA": 10346,
@@ -444,10 +444,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 5,
-          "UTMX": 301744,
-          "UTMY": 4610474,
-          "LATITUD": 41.619507502269,
-          "LONGITUD": 0.61919181966552,
+          "UTMX": 301741,
+          "UTMY": 4610471,
+          "LATITUD": 41.6195075,
+          "LONGITUD": 0.6191918,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null

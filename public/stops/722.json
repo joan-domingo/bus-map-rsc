@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 40,
+    "SECUENCIA": 200,
     "ID_PARADA": 27378,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 7.81,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -49,10 +49,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 20,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 50,
     "ID_PARADA": 27415,
-    "NKM_ORIGEN": 0.301,
+    "NKM_ORIGEN": 1.559,
     "SUBE_BAJA": 1
   },
   {
@@ -77,10 +77,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 60,
     "ID_PARADA": 27373,
-    "NKM_ORIGEN": 0.789,
+    "NKM_ORIGEN": 2.047,
     "SUBE_BAJA": 1
   },
   {
@@ -105,10 +105,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 70,
     "ID_PARADA": 27383,
-    "NKM_ORIGEN": 1.094,
+    "NKM_ORIGEN": 2.352,
     "SUBE_BAJA": 1
   },
   {
@@ -133,10 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 80,
     "ID_PARADA": 27453,
-    "NKM_ORIGEN": 1.359,
+    "NKM_ORIGEN": 2.617,
     "SUBE_BAJA": 1
   },
   {
@@ -161,10 +161,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 90,
     "ID_PARADA": 27395,
-    "NKM_ORIGEN": 1.607,
+    "NKM_ORIGEN": 2.865,
     "SUBE_BAJA": 1
   },
   {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 100,
     "ID_PARADA": 27379,
-    "NKM_ORIGEN": 2.12,
+    "NKM_ORIGEN": 3.378,
     "SUBE_BAJA": 1
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 110,
     "ID_PARADA": 27370,
-    "NKM_ORIGEN": 2.45,
+    "NKM_ORIGEN": 3.708,
     "SUBE_BAJA": 1
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 120,
     "ID_PARADA": 27446,
-    "NKM_ORIGEN": 2.712,
+    "NKM_ORIGEN": 3.97,
     "SUBE_BAJA": 1
   },
   {
@@ -273,10 +273,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 130,
     "ID_PARADA": 27393,
-    "NKM_ORIGEN": 2.892,
+    "NKM_ORIGEN": 4.15,
     "SUBE_BAJA": 1
   },
   {
@@ -301,10 +301,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 140,
     "ID_PARADA": 27444,
-    "NKM_ORIGEN": 3.319,
+    "NKM_ORIGEN": 4.577,
     "SUBE_BAJA": 1
   },
   {
@@ -329,10 +329,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 120,
+    "ID_TRAYECTO": 10,
+    "SECUENCIA": 150,
     "ID_PARADA": 27442,
-    "NKM_ORIGEN": 3.718,
+    "NKM_ORIGEN": 4.976,
     "SUBE_BAJA": 1
   },
   {
@@ -357,11 +357,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 40,
+    "SECUENCIA": 10,
     "ID_PARADA": 27422,
-    "NKM_ORIGEN": 8.206,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -445,90 +445,6 @@
     "SECUENCIA": 190,
     "ID_PARADA": 27380,
     "NKM_ORIGEN": 7.331,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CC. Educació - FTI",
-      "COD_PARADA": 201492,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 27437,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425349,
-      "UTMY": 4595267,
-      "LATITUD": 41.50555534,
-      "LONGITUD": 2.105504445,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 125,
-    "ID_PARADA": 27437,
-    "NKM_ORIGEN": 5.518,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Escoleta - Pere Calders",
-      "COD_PARADA": 200929,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 27469,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425216,
-      "UTMY": 4595519,
-      "LATITUD": 41.50599,
-      "LONGITUD": 2.1028,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 130,
-    "ID_PARADA": 27469,
-    "NKM_ORIGEN": 6.168,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "CC. Educació - FTI",
-      "COD_PARADA": 201527,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 27461,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425357,
-      "UTMY": 4595281,
-      "LATITUD": 41.50568307,
-      "LONGITUD": 2.105600184,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 722,
-    "ID_TRAYECTO": 30,
-    "SECUENCIA": 140,
-    "ID_PARADA": 27461,
-    "NKM_ORIGEN": 6.448,
     "SUBE_BAJA": 1
   },
   {

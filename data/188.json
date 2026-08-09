@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TORROELLA DE MONTGRÍ, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 710,
-    "FIN_TRAYECTO": 1280,
+    "INI_TRAYECTO": 650,
+    "FIN_TRAYECTO": 1145,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -221,8 +221,8 @@
     "DESC_REDUCIDA": "LA BISBAL D'EMPORDÀ, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 990,
+    "INI_TRAYECTO": 390,
+    "FIN_TRAYECTO": 885,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
