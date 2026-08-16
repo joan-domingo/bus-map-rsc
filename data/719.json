@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "M. Montero",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 810,
-    "FIN_TRAYECTO": 842,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -502,8 +502,8 @@
     "DESC_REDUCIDA": "Can Coll",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 510,
-    "FIN_TRAYECTO": 542,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1052,8 +1052,8 @@
     "DESC_REDUCIDA": "Montero - Flor M.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": null,
-    "FIN_TRAYECTO": null,
+    "INI_TRAYECTO": 800,
+    "FIN_TRAYECTO": 900,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1574,8 +1574,8 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 542,
-    "FIN_TRAYECTO": 1170,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2208,8 +2208,8 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 842,
-    "FIN_TRAYECTO": 870,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2870,8 +2870,8 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 662,
-    "FIN_TRAYECTO": 1230,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -3532,8 +3532,8 @@
     "DESC_REDUCIDA": "Flor de Maig",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 630,
-    "FIN_TRAYECTO": 1202,
+    "INI_TRAYECTO": 590,
+    "FIN_TRAYECTO": 1250,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -4026,8 +4026,8 @@
     "DESC_REDUCIDA": "Can Coll",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 570,
-    "FIN_TRAYECTO": 1142,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -4492,8 +4492,8 @@
     "DESC_REDUCIDA": "Flor de Maig",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": null,
-    "FIN_TRAYECTO": null,
+    "INI_TRAYECTO": 517,
+    "FIN_TRAYECTO": 550,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -5070,8 +5070,8 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": null,
-    "FIN_TRAYECTO": null,
+    "INI_TRAYECTO": 550,
+    "FIN_TRAYECTO": 1290,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

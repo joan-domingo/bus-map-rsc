@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 677,
-    "ID_TRAYECTO": 51,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 20,
     "ID_PARADA": 21137,
-    "NKM_ORIGEN": 2.8,
+    "NKM_ORIGEN": 0.7,
     "SUBE_BAJA": 1
   },
   {
@@ -306,34 +306,6 @@
     "ID_PARADA": 13568,
     "NKM_ORIGEN": 0,
     "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "BEGUR,FONT DE BAIX",
-      "COD_PARADA": 16800,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 23841,
-      "ID_MUNICIPIO": 170139,
-      "MUNICIPIO": "BEGUR",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 517065,
-      "UTMY": 4644896,
-      "LATITUD": 41.954052,
-      "LONGITUD": 3.204779,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 677,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 20,
-    "ID_PARADA": 23841,
-    "NKM_ORIGEN": 0.7,
-    "SUBE_BAJA": 1
   },
   {
     "Parada": {

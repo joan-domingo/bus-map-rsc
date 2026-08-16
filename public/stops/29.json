@@ -133,10 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 120,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 40,
     "ID_PARADA": 9181,
-    "NKM_ORIGEN": 3.543,
+    "NKM_ORIGEN": 1.187,
     "SUBE_BAJA": 1
   },
   {
@@ -161,10 +161,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 30,
     "ID_PARADA": 12057,
-    "NKM_ORIGEN": 3.104,
+    "NKM_ORIGEN": 0.748,
     "SUBE_BAJA": 1
   },
   {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 20,
     "ID_PARADA": 9180,
-    "NKM_ORIGEN": 2.773,
+    "NKM_ORIGEN": 0.417,
     "SUBE_BAJA": 1
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 10,
     "ID_PARADA": 9188,
-    "NKM_ORIGEN": 2.356,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
+    "ID_TRAYECTO": 8,
     "SECUENCIA": 50,
     "ID_PARADA": 9186,
-    "NKM_ORIGEN": 0.95,
+    "NKM_ORIGEN": 1.381,
     "SUBE_BAJA": 1
   },
   {
@@ -273,10 +273,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 40,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 60,
     "ID_PARADA": 9187,
-    "NKM_ORIGEN": 0.761,
+    "NKM_ORIGEN": 1.573,
     "SUBE_BAJA": 1
   },
   {
@@ -301,10 +301,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 30,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 70,
     "ID_PARADA": 9113,
-    "NKM_ORIGEN": 0.436,
+    "NKM_ORIGEN": 1.904,
     "SUBE_BAJA": 1
   },
   {
@@ -441,10 +441,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
-    "SECUENCIA": 10,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 100,
     "ID_PARADA": 9115,
-    "NKM_ORIGEN": 0,
+    "NKM_ORIGEN": 2.864,
     "SUBE_BAJA": 1
   },
   {
@@ -469,7 +469,7 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 29,
-    "ID_TRAYECTO": 9,
+    "ID_TRAYECTO": 7,
     "SECUENCIA": 20,
     "ID_PARADA": 12327,
     "NKM_ORIGEN": 0.217,
