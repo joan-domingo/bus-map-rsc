@@ -865,8 +865,8 @@
     "DESC_REDUCIDA": "Villava",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 404,
-    "FIN_TRAYECTO": 1372,
+    "INI_TRAYECTO": 388,
+    "FIN_TRAYECTO": 1381,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1610,8 +1610,8 @@
     "DESC_REDUCIDA": "Barañain",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 417,
-    "FIN_TRAYECTO": 1375,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1374,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -2552,7 +2552,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "I",
     "INI_TRAYECTO": 428,
-    "FIN_TRAYECTO": 1191,
+    "FIN_TRAYECTO": 1194,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -3324,8 +3324,8 @@
     "DESC_REDUCIDA": "Barañain",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 387,
-    "FIN_TRAYECTO": 1393,
+    "INI_TRAYECTO": 384,
+    "FIN_TRAYECTO": 1392,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -4209,8 +4209,8 @@
     "DESC_REDUCIDA": "Arre",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 396,
-    "FIN_TRAYECTO": 1358,
+    "INI_TRAYECTO": 398,
+    "FIN_TRAYECTO": 1370,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -4982,8 +4982,8 @@
     "DESC_REDUCIDA": "Barañain",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 471,
-    "FIN_TRAYECTO": 1256,
+    "INI_TRAYECTO": 474,
+    "FIN_TRAYECTO": 1264,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -5924,7 +5924,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 380,
-    "FIN_TRAYECTO": 1383,
+    "FIN_TRAYECTO": 1384,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -6892,7 +6892,7 @@
     "DESC_REDUCIDA": "Barañain",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 850,
+    "INI_TRAYECTO": 1240,
     "FIN_TRAYECTO": 1291,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -7889,8 +7889,8 @@
     "DESC_REDUCIDA": "Huarte",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 388,
-    "FIN_TRAYECTO": 1367,
+    "INI_TRAYECTO": 390,
+    "FIN_TRAYECTO": 1376,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

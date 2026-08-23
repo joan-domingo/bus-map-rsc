@@ -519,7 +519,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "48": {
     "nid": "86663",
@@ -537,7 +537,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "49": {
     "nid": "86665",
@@ -555,7 +555,25 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "51": {
+    "nid": "86667",
+    "ID_LINEA": "51",
+    "COD_LINEA": "865",
+    "DESC_LINEA": "MATARÓ - BELLATERRA (UAB)",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "16",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#FF860A",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "3",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "120764",
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "53": {
     "nid": "86669",
@@ -573,7 +591,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "55": {
     "nid": "86673",
@@ -591,7 +609,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "56": {
     "nid": "86675",
@@ -609,7 +627,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "57": {
     "nid": "86677",
@@ -627,7 +645,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "58": {
     "nid": "86679",
@@ -645,7 +663,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "59": {
     "nid": "86681",
@@ -663,7 +681,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "60": {
     "nid": "86683",
@@ -681,7 +699,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "64": {
     "nid": "86685",
@@ -699,7 +717,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "67": {
     "nid": "86687",
@@ -717,7 +735,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "68": {
     "nid": "86689",
@@ -735,7 +753,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "70": {
     "nid": "86691",
@@ -753,7 +771,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "73": {
     "nid": "86699",
@@ -1061,6 +1079,24 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261002"
   },
+  "112": {
+    "nid": "86845",
+    "ID_LINEA": "112",
+    "COD_LINEA": "SL1",
+    "DESC_LINEA": "SITGES: POBLE SEC - VALLPINEDA",
+    "ID_ZONA": "9",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#F01300",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "4",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "88994",
+    "DIAS_QUE_CIRCULA": "20261021"
+  },
   "129": {
     "nid": "86607",
     "ID_LINEA": "129",
@@ -1077,7 +1113,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "130": {
     "nid": "86609",
@@ -1095,7 +1131,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "131": {
     "nid": "86611",
@@ -1113,7 +1149,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "132": {
     "nid": "86884",
@@ -1131,7 +1167,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "133": {
     "nid": "86615",
@@ -1149,7 +1185,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "134": {
     "nid": "86617",
@@ -1167,7 +1203,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "135": {
     "nid": "86619",
@@ -1185,7 +1221,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "136": {
     "nid": "86621",
@@ -1203,7 +1239,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "137": {
     "nid": "86623",
@@ -1221,7 +1257,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "138": {
     "nid": "86625",
@@ -1239,7 +1275,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "146": {
     "nid": "86731",
@@ -1259,23 +1295,41 @@
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20261002"
   },
-  "158": {
-    "nid": "86853",
-    "ID_LINEA": "158",
-    "COD_LINEA": "SSDA L1",
-    "DESC_LINEA": "SANT SADURNÍ D`ANOIA",
-    "ID_ZONA": "5",
+  "156": {
+    "nid": "86849",
+    "ID_LINEA": "156",
+    "COD_LINEA": "SL3",
+    "DESC_LINEA": "SITGES: LLEVANTINA - QUINT MAR",
+    "ID_ZONA": "9",
     "ID_SUBZONA": "1",
     "TREAL": "S",
     "FORMA": "redondo",
-    "COLOR": "#21FF0B",
+    "COLOR": "#31EA00",
     "TEXT_COLOR": null,
     "ID_EXPLOTADORA": "4",
     "ID_CONCESION": "1",
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "88994",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261021"
+  },
+  "157": {
+    "nid": "88491",
+    "ID_LINEA": "157",
+    "COD_LINEA": "SL5",
+    "DESC_LINEA": "SITGES: REFORÇ MARIA OSSÓ",
+    "ID_ZONA": "9",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0B13BB",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "4",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "88994",
+    "DIAS_QUE_CIRCULA": "20261021"
   },
   "161": {
     "nid": "86693",
@@ -1293,7 +1347,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "165": {
     "nid": "125531",
@@ -1383,7 +1437,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "N",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "178": {
     "nid": "86627",
@@ -1401,7 +1455,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "180": {
     "nid": "86629",
@@ -1419,7 +1473,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "181": {
     "nid": "86631",
@@ -1437,7 +1491,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "183": {
     "nid": "86829",
@@ -1547,6 +1601,582 @@
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20261002"
   },
+  "197": {
+    "nid": "86543",
+    "ID_LINEA": "197",
+    "COD_LINEA": "L1",
+    "DESC_LINEA": "CIZUR MENOR-UNIVERSIDADES",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#998E07",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "198": {
+    "nid": "86545",
+    "ID_LINEA": "198",
+    "COD_LINEA": "L2",
+    "DESC_LINEA": "SAN IGNACIO - ETXABAKOITZ",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#8C2633",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "199": {
+    "nid": "86547",
+    "ID_LINEA": "199",
+    "COD_LINEA": "L3",
+    "DESC_LINEA": "CIRCULAR OESTE: CENTRO - ANSOAIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#CE267C",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "200": {
+    "nid": "86549",
+    "ID_LINEA": "200",
+    "COD_LINEA": "L4",
+    "DESC_LINEA": "BARAÑÁIN - VILLAVA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#D81E05",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "201": {
+    "nid": "86551",
+    "ID_LINEA": "201",
+    "COD_LINEA": "L5",
+    "DESC_LINEA": "ORVINA 3 - UNIVERSIDAD DE NAVARRA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0C1C8C",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "202": {
+    "nid": "86553",
+    "ID_LINEA": "202",
+    "COD_LINEA": "L6",
+    "DESC_LINEA": "ROCHAPEA - UNIVERSIDAD PUBLICA DE NAVARRA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#B26B70",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "203": {
+    "nid": "86555",
+    "ID_LINEA": "203",
+    "COD_LINEA": "L7",
+    "DESC_LINEA": "VILLAVA - TXANTREA - BARAÑÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#009E49",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "204": {
+    "nid": "86557",
+    "ID_LINEA": "204",
+    "COD_LINEA": "L8",
+    "DESC_LINEA": "PLAZA BLANCA DE NAVARRA - BUZTINTXURI",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#9E2387",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "205": {
+    "nid": "86559",
+    "ID_LINEA": "205",
+    "COD_LINEA": "L9",
+    "DESC_LINEA": "RENFE - UNIVERSIDAD PÚBLICA DE NAVARRA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#E28C05",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "206": {
+    "nid": "86561",
+    "ID_LINEA": "206",
+    "COD_LINEA": "L10",
+    "DESC_LINEA": "BELOSO ALTO - ORKOIEN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#ED72AA",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "207": {
+    "nid": "86563",
+    "ID_LINEA": "207",
+    "COD_LINEA": "L11",
+    "DESC_LINEA": "EZKABA - EDIFICIO EL SARIO",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0072C6",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "208": {
+    "nid": "86565",
+    "ID_LINEA": "208",
+    "COD_LINEA": "L12",
+    "DESC_LINEA": "ERMITAGAÑA - MENDILLORRI",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#7FBA00",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "210": {
+    "nid": "86567",
+    "ID_LINEA": "210",
+    "COD_LINEA": "L14",
+    "DESC_LINEA": "AYUNTAMIENTO - ROCHAPEA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#00A5DB",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "211": {
+    "nid": "86569",
+    "ID_LINEA": "211",
+    "COD_LINEA": "L15",
+    "DESC_LINEA": "PASEO SARASATE - ZIZUR MAYOR",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#BF93CC",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "212": {
+    "nid": "86571",
+    "ID_LINEA": "212",
+    "COD_LINEA": "L16",
+    "DESC_LINEA": "AIZOÁIN - NOÁIN - BERIÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#00AF93",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "213": {
+    "nid": "86573",
+    "ID_LINEA": "213",
+    "COD_LINEA": "L17",
+    "DESC_LINEA": "BERRIOZAR - MUTILVA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#913338",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "214": {
+    "nid": "86575",
+    "ID_LINEA": "214",
+    "COD_LINEA": "L18",
+    "DESC_LINEA": "URBANIZACIÓN ZIZUR MAYOR - SARRIGUREN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#215B33",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "215": {
+    "nid": "86577",
+    "ID_LINEA": "215",
+    "COD_LINEA": "L19",
+    "DESC_LINEA": "BARAÑÁIN - ERRIPAGAÑA - BURLADA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#009EA0",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "216": {
+    "nid": "86579",
+    "ID_LINEA": "216",
+    "COD_LINEA": "L20",
+    "DESC_LINEA": "PLAZA PRÍNCIPE DE VIANA - GORRÁIZ",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#9B4F19",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "217": {
+    "nid": "86581",
+    "ID_LINEA": "217",
+    "COD_LINEA": "L21",
+    "DESC_LINEA": "CIRCULAR ESTE: CENTRO - ANSOÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#607C8C",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "218": {
+    "nid": "86583",
+    "ID_LINEA": "218",
+    "COD_LINEA": "L22",
+    "DESC_LINEA": "MERINDADES - MUTILVA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#BFB80A",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "219": {
+    "nid": "86585",
+    "ID_LINEA": "219",
+    "COD_LINEA": "L23",
+    "DESC_LINEA": "CORDOVILLA - OLLOKI",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#6B1C40",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "221": {
+    "nid": "86587",
+    "ID_LINEA": "221",
+    "COD_LINEA": "N1",
+    "DESC_LINEA": "PZA. PRÍNCIPE DE VIANA - ZIZUR MAYOR",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#E28C05",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "222": {
+    "nid": "86589",
+    "ID_LINEA": "222",
+    "COD_LINEA": "N2",
+    "DESC_LINEA": "PZA MERINDADES - BARAÑÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#876028",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "223": {
+    "nid": "86591",
+    "ID_LINEA": "223",
+    "COD_LINEA": "N3",
+    "DESC_LINEA": "PZA. MERINDADES - NOÁIN - BERIÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#609191",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "224": {
+    "nid": "86593",
+    "ID_LINEA": "224",
+    "COD_LINEA": "N4",
+    "DESC_LINEA": "PZA. MERINDADES - AIZOÁIN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#7FA08C",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "225": {
+    "nid": "86595",
+    "ID_LINEA": "225",
+    "COD_LINEA": "N5",
+    "DESC_LINEA": "CORTES DE NAVARRA - HUARTE",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#D6606D",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "226": {
+    "nid": "86597",
+    "ID_LINEA": "226",
+    "COD_LINEA": "N6",
+    "DESC_LINEA": "CORTES DE NAVARRA - MENDILLORRI",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#7A1E99",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "227": {
+    "nid": "86599",
+    "ID_LINEA": "227",
+    "COD_LINEA": "N7",
+    "DESC_LINEA": "P. SARASATE - S. JORGE - TXANTREA - BAJA NAVARRA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#8C706B",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "228": {
+    "nid": "86601",
+    "ID_LINEA": "228",
+    "COD_LINEA": "N8",
+    "DESC_LINEA": "BAJADA DE LABRIT - MUTILVA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#AD0075",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "230": {
+    "nid": "86603",
+    "ID_LINEA": "230",
+    "COD_LINEA": "N10",
+    "DESC_LINEA": "C/CORTES DE NAVARRA - SARRIGUREN",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#00A5DB",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "243": {
+    "nid": "86855",
+    "ID_LINEA": "243",
+    "COD_LINEA": "SL2",
+    "DESC_LINEA": "SITGES: CAN PEI - TERRAMAR",
+    "ID_ZONA": "9",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0000FF",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "4",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "88994",
+    "DIAS_QUE_CIRCULA": "20261021"
+  },
   "249": {
     "nid": "86833",
     "ID_LINEA": "249",
@@ -1599,7 +2229,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "268": {
     "nid": "86721",
@@ -1636,6 +2266,24 @@
     "ADAPTADA": "S",
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20261004"
+  },
+  "271": {
+    "nid": "121187",
+    "ID_LINEA": "271",
+    "COD_LINEA": "T2B",
+    "DESC_LINEA": "SANT GENÍS (VALL D´HEBRON)-PL. DR. ANDREU",
+    "ID_ZONA": "7",
+    "ID_SUBZONA": "3",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#72E8FF",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "4",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "88994",
+    "DIAS_QUE_CIRCULA": "20261018"
   },
   "296": {
     "nid": "86839",
@@ -1709,6 +2357,24 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261004"
   },
+  "300": {
+    "nid": "86605",
+    "ID_LINEA": "300",
+    "COD_LINEA": "L25",
+    "DESC_LINEA": "PZA. PRINCIPE DE VIANA - MUTILVA",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#6BC9DB",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
   "310": {
     "nid": "123785",
     "ID_LINEA": "310",
@@ -1743,7 +2409,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "334": {
     "nid": "86978",
@@ -1762,6 +2428,24 @@
     "ADAPTADA": "S",
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261002"
+  },
+  "335": {
+    "nid": "87830",
+    "ID_LINEA": "335",
+    "COD_LINEA": "806",
+    "DESC_LINEA": "CABRILS-VILASSAR DE DALT-BARCELONA",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "12",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#FF0111",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "3",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "120764",
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "337": {
     "nid": "123681",
@@ -1815,7 +2499,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "342": {
     "nid": "89221",
@@ -2013,7 +2697,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "388": {
     "nid": "120751",
@@ -2051,6 +2735,24 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261002"
   },
+  "392": {
+    "nid": "120808",
+    "ID_LINEA": "392",
+    "COD_LINEA": "FUNICULAR",
+    "DESC_LINEA": "PL. KENNEDY - PL. DR. ANDREU (FUNICULAR)",
+    "ID_ZONA": "7",
+    "ID_SUBZONA": "3",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#FF771B",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "4",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "88994",
+    "DIAS_QUE_CIRCULA": "20261018"
+  },
   "393": {
     "nid": "121026",
     "ID_LINEA": "393",
@@ -2068,6 +2770,24 @@
     "ADAPTADA": "S",
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261002"
+  },
+  "414": {
+    "nid": "121393",
+    "ID_LINEA": "414",
+    "COD_LINEA": "N15",
+    "DESC_LINEA": "P. DE VIANA - CORDOVILLA (DE JUEVES A SÁBADOS)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#0072AC",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261017"
   },
   "430": {
     "nid": "122946",
@@ -2123,6 +2843,42 @@
     "MARCA": "122376",
     "DIAS_QUE_CIRCULA": "20261004"
   },
+  "434": {
+    "nid": "122487",
+    "ID_LINEA": "434",
+    "COD_LINEA": "L4M",
+    "DESC_LINEA": "URBA MALGRAT DE MAR",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "20",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#2FA2FF",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "30",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "435": {
+    "nid": "122421",
+    "ID_LINEA": "435",
+    "COD_LINEA": "L5PALAFOLL",
+    "DESC_LINEA": "URBÀ PALAFOLLS",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "30",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#D6E300",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "30",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
   "436": {
     "nid": "122396",
     "ID_LINEA": "436",
@@ -2139,7 +2895,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "N",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20260904"
   },
   "438": {
     "nid": "122358",
@@ -2157,7 +2913,7 @@
     "ID_GRUPO": "3",
     "ADAPTADA": "N",
     "MARCA": "122376",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "439": {
     "nid": "122367",
@@ -2301,7 +3057,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20260820"
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "605": {
     "nid": "123713",
@@ -2321,6 +3077,24 @@
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20261002"
   },
+  "623": {
+    "nid": "124149",
+    "ID_LINEA": "623",
+    "COD_LINEA": "807",
+    "DESC_LINEA": "ARGENTONA-CABRERA DE MAR-BARCELONA",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "11",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#FF0216",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "3",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "N",
+    "MARCA": "120764",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
   "628": {
     "nid": "124405",
     "ID_LINEA": "628",
@@ -2337,7 +3111,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261012"
+    "DIAS_QUE_CIRCULA": "20261018"
   },
   "662": {
     "nid": "125307",
@@ -2717,6 +3491,132 @@
     "MARCA": "120766",
     "DIAS_QUE_CIRCULA": "20260831"
   },
+  "699": {
+    "nid": "150595",
+    "ID_LINEA": "699",
+    "COD_LINEA": "R4",
+    "DESC_LINEA": "ERRIPAGAÑA/MENDILLORRI - ESTADIO (DIAS DE PARTIDO)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#D81E05",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20260831"
+  },
+  "700": {
+    "nid": "150598",
+    "ID_LINEA": "700",
+    "COD_LINEA": "R5",
+    "DESC_LINEA": "SARRIGUREN/MUTILVA - ESTADIO (DIAS DE PARTIDO)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#D81E05",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20260831"
+  },
+  "701": {
+    "nid": "150601",
+    "ID_LINEA": "701",
+    "COD_LINEA": "N11",
+    "DESC_LINEA": "BERRIOZAR - SANTA MARÍA LA REAL",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#AC96C2",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "702": {
+    "nid": "150607",
+    "ID_LINEA": "702",
+    "COD_LINEA": "N12",
+    "DESC_LINEA": "P. DE VIANA - CIZUR MENOR (DE JUEVES A SÁBADOS)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#409B33",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261017"
+  },
+  "703": {
+    "nid": "152246",
+    "ID_LINEA": "703",
+    "COD_LINEA": "N13",
+    "DESC_LINEA": "P. DE VIANA - OLLOKI (DE JUEVES A SÁBADOS)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#CAB27F",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261017"
+  },
+  "704": {
+    "nid": "150610",
+    "ID_LINEA": "704",
+    "COD_LINEA": "N14",
+    "DESC_LINEA": "P. PRÍNCIPE DE VIANA - ARRE (DE JUEVES A SÁBADOS)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#96104C",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261017"
+  },
+  "705": {
+    "nid": "150604",
+    "ID_LINEA": "705",
+    "COD_LINEA": "N16",
+    "DESC_LINEA": "P. DE VIANA - ARTICA (DE JUEVES A SÁBADOS)",
+    "ID_ZONA": "1",
+    "ID_SUBZONA": "1",
+    "TREAL": "S",
+    "FORMA": "cuadrado",
+    "COLOR": "#8B969F",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "7",
+    "ID_CONCESION": "1",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "S",
+    "MARCA": "86873",
+    "DIAS_QUE_CIRCULA": "20261017"
+  },
   "711": {
     "nid": "169456",
     "ID_LINEA": "711",
@@ -2751,7 +3651,25 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261014"
+    "DIAS_QUE_CIRCULA": "20261019"
+  },
+  "715": {
+    "nid": "169852",
+    "ID_LINEA": "715",
+    "COD_LINEA": "C-17",
+    "DESC_LINEA": "TEIÀ - EL MASNOU - TEIÀ",
+    "ID_ZONA": "4",
+    "ID_SUBZONA": "9",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0A60AA",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "3",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "1",
+    "ADAPTADA": "N",
+    "MARCA": "120764",
+    "DIAS_QUE_CIRCULA": "20261019"
   },
   "716": {
     "nid": "170026",
@@ -2787,7 +3705,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "86863",
-    "DIAS_QUE_CIRCULA": "20261010"
+    "DIAS_QUE_CIRCULA": "20261017"
   },
   "718": {
     "nid": "170113",

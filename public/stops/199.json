@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "c/ San Cristóbal (Plaza Chantrea, nº 11)",
+      "DESC_PARADA": "c/ San Cristóbal (Plaza Txantrea, nº 11)",
       "COD_PARADA": 487,
       "ID_GRUPO": 1,
       "ID_PARADA": 11277,
@@ -375,10 +375,10 @@
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 7,
-      "UTMX": 120008,
-      "UTMY": 4751117,
-      "LATITUD": 42.816365308345,
-      "LONGITUD": -1.6488837831274,
+      "UTMX": 120019,
+      "UTMY": 4751095,
+      "LATITUD": 42.816168558407,
+      "LONGITUD": -1.6487389438406,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null

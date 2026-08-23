@@ -29,6 +29,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "ROSES, ESTACIO",
+      "COD_PARADA": 16943,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7404,
+      "ID_MUNICIPIO": 171523,
+      "MUNICIPIO": "ROSES",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 515008,
+      "UTMY": 4679434,
+      "LATITUD": 42.264888336826,
+      "LONGITUD": 3.1806800032051,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 383,
+    "ID_TRAYECTO": 160,
+    "SECUENCIA": 10,
+    "ID_PARADA": 7404,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "CASTELLO D'EMPURIES (DIR. CADAQUES)",
       "COD_PARADA": 16515,
       "ID_GRUPO": 1,
@@ -82,34 +110,6 @@
     "ID_PARADA": 7403,
     "NKM_ORIGEN": 13.3,
     "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "ROSES, ESTACIO",
-      "COD_PARADA": 16943,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7404,
-      "ID_MUNICIPIO": 171523,
-      "MUNICIPIO": "ROSES",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 515008,
-      "UTMY": 4679434,
-      "LATITUD": 42.264888336826,
-      "LONGITUD": 3.1806800032051,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 383,
-    "ID_TRAYECTO": 160,
-    "SECUENCIA": 10,
-    "ID_PARADA": 7404,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
   },
   {
     "Parada": {

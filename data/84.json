@@ -1476,7 +1476,7 @@
     "DESC_REDUCIDA": "ROSES, ESTACIÓ",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 660,
+    "INI_TRAYECTO": 750,
     "FIN_TRAYECTO": 910,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -2127,7 +2127,7 @@
     "PRINCIPAL": "N",
     "SENTIDO": "V",
     "INI_TRAYECTO": 690,
-    "FIN_TRAYECTO": 925,
+    "FIN_TRAYECTO": 850,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

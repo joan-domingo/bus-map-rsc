@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Baja Navarra",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1367,
-    "FIN_TRAYECTO": 1735,
+    "INI_TRAYECTO": 1365,
+    "FIN_TRAYECTO": 1495,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "c/ San Cristóbal (Plaza Chantrea, nº 11)",
+          "DESC_PARADA": "c/ San Cristóbal (Plaza Txantrea, nº 11)",
           "COD_PARADA": 487,
           "ID_GRUPO": 1,
           "ID_PARADA": 11277,
@@ -810,7 +810,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 1375,
-    "FIN_TRAYECTO": 1705,
+    "FIN_TRAYECTO": 1490,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

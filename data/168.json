@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 450,
-    "FIN_TRAYECTO": 810,
+    "FIN_TRAYECTO": 840,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
