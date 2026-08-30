@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Plaça Pius Xii",
+      "DESC_PARADA": "Plaça Pius XII",
       "COD_PARADA": 7003234,
       "ID_GRUPO": 1,
       "ID_PARADA": 24670,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Diagonal - Plaça Pius Xii",
+      "DESC_PARADA": "Diagonal - Plaça Pius XII",
       "COD_PARADA": 7000766,
       "ID_GRUPO": 1,
       "ID_PARADA": 24583,

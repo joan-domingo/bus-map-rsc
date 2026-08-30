@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Diagonal - Plaça Pius Xii",
+      "DESC_PARADA": "Diagonal - Plaça Pius XII",
       "COD_PARADA": 7000766,
       "ID_GRUPO": 1,
       "ID_PARADA": 24583,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Sant Pius x",
+      "DESC_PARADA": "Sant Pius X",
       "COD_PARADA": 7104245,
       "ID_GRUPO": 1,
       "ID_PARADA": 24797,
@@ -1149,7 +1149,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Sant Pius x",
+      "DESC_PARADA": "Sant Pius X",
       "COD_PARADA": 7104244,
       "ID_GRUPO": 1,
       "ID_PARADA": 24796,
@@ -1513,7 +1513,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Diagonal - Avinguda Joan Xxiii",
+      "DESC_PARADA": "Diagonal - Avinguda Joan XXIII",
       "COD_PARADA": 7000492,
       "ID_GRUPO": 1,
       "ID_PARADA": 24575,

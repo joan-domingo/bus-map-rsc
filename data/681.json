@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Sant Pius x",
+          "DESC_PARADA": "Sant Pius X",
           "COD_PARADA": 7104244,
           "ID_GRUPO": 1,
           "ID_PARADA": 24796,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Avinguda Joan Xxiii - Maternitat",
+          "DESC_PARADA": "Avinguda Joan XXIII - Maternitat",
           "COD_PARADA": 7001862,
           "ID_GRUPO": 1,
           "ID_PARADA": 24632,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Avinguda Joan Xxiii - Plaça Pius Xii",
+          "DESC_PARADA": "Avinguda Joan XXIII - Plaça Pius XII",
           "COD_PARADA": 7000293,
           "ID_GRUPO": 1,
           "ID_PARADA": 24563,
@@ -1123,7 +1123,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Sant Pius x",
+          "DESC_PARADA": "Sant Pius X",
           "COD_PARADA": 7104245,
           "ID_GRUPO": 1,
           "ID_PARADA": 24797,

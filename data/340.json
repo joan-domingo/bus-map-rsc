@@ -518,7 +518,35 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(MERCAT) ROMAN FABRA / PLAÇA D´ESPANYA",
+          "DESC_PARADA": "NAVARRA / ROMAN FABRA (ROMAN FABRA)",
+          "COD_PARADA": 5964,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 7005,
+          "ID_MUNICIPIO": 447115,
+          "MUNICIPIO": "MASNOU, EL",
+          "EXPLOTADORA": "CASAS",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 3,
+          "UTMX": 442986,
+          "UTMY": 4592582,
+          "LATITUD": 41.481005544076,
+          "LONGITUD": 2.3159882426262,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 340,
+        "ID_TRAYECTO": 2,
+        "SECUENCIA": 185,
+        "ID_PARADA": 7005,
+        "NKM_ORIGEN": 5.939,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
+          "DESC_PARADA": "(MERCAT) ROMAN FABRA / ITÀLIA",
           "COD_PARADA": 3643,
           "ID_GRUPO": 1,
           "ID_PARADA": 13893,
@@ -541,7 +569,7 @@
         "ID_TRAYECTO": 2,
         "SECUENCIA": 190,
         "ID_PARADA": 13893,
-        "NKM_ORIGEN": 6.131,
+        "NKM_ORIGEN": 6.059,
         "SUBE_BAJA": 1
       },
       {

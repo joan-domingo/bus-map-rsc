@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "RENFE - TERRAMAR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 405,
+    "INI_TRAYECTO": 525,
     "FIN_TRAYECTO": 1275,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
