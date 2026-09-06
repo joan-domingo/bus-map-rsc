@@ -126,6 +126,48 @@ describe("MarkerTimetable", () => {
     expect(screen.getByText("- Direcció Ripollet pel Taulí")).toBeVisible();
   });
 
+  it("links each line header to the line page", () => {
+    render(
+      <MarkerTimetable
+        selectedStopTimetable={mockTimetableData}
+        isLoading={false}
+        isLoaded={true}
+        visible={true}
+      />,
+    );
+
+    expect(
+      screen.getByText("A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA"),
+    ).toHaveAttribute("href", "/linea/a4");
+    expect(screen.getByText("B2 - B2-SABADELL - RIPOLLET")).toHaveAttribute(
+      "href",
+      "/linea/b2",
+    );
+  });
+
+  it("renders the line header as plain text for unknown lines", () => {
+    render(
+      <MarkerTimetable
+        selectedStopTimetable={[
+          {
+            lineId: 999999,
+            lineName: "ZZ - LÍNIA DESCONEGUDA",
+            nextBuses: [
+              { minutesLeft: "05 min 00 seg", name: "Enlloc", real: true },
+            ],
+          },
+        ]}
+        isLoading={false}
+        isLoaded={true}
+        visible={true}
+      />,
+    );
+
+    const header = screen.getByText("ZZ - LÍNIA DESCONEGUDA");
+    expect(header).toBeVisible();
+    expect(header.tagName).toBe("DIV");
+  });
+
   it("applies alternating background colors", () => {
     const { container } = render(
       <MarkerTimetable

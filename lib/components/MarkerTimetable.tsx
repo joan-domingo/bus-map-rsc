@@ -1,5 +1,10 @@
 import type { CustomBusLineTimetable } from "../types";
 import busLineData from "../utils/busLineData.json";
+import {
+  buildLinePagePath,
+  getLineStopDisplayName,
+  lineStopIdToSlug,
+} from "../utils/seo";
 
 interface Props {
   selectedStopTimetable: CustomBusLineTimetable[];
@@ -42,22 +47,32 @@ const MarkerTimetable = ({
         selectedStopTimetable &&
         selectedStopTimetable.length > 0 &&
         selectedStopTimetable.map((stop, index) => {
+          const lineStopId = stop.lineId.toString();
+          const lineSlug = lineStopIdToSlug(lineStopId);
+          const headerStyle = {
+            color:
+              busLineData[lineStopId as keyof typeof busLineData]?.color ||
+              "black",
+          };
           return (
             <div
               key={stop.lineId}
               className={`flex flex-col flex-1 p-1 text-black ${index % 2 === 0 ? "bg-gray-100" : ""}`}
             >
-              <div
-                className="font-bold py-1"
-                style={{
-                  color:
-                    busLineData[
-                      stop.lineId.toString() as keyof typeof busLineData
-                    ]?.color || "black",
-                }}
-              >
-                {stop.lineName}
-              </div>
+              {lineSlug ? (
+                <a
+                  className="font-bold py-1 hover:underline"
+                  href={buildLinePagePath(lineSlug)}
+                  style={headerStyle}
+                  title={`Veure les parades de la línia ${getLineStopDisplayName(lineStopId)}`}
+                >
+                  {stop.lineName}
+                </a>
+              ) : (
+                <div className="font-bold py-1" style={headerStyle}>
+                  {stop.lineName}
+                </div>
+              )}
               {stop.nextBuses.map((bus) => {
                 return (
                   <div
