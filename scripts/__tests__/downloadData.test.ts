@@ -1,4 +1,13 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
+import {
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { gunzipSync } from "node:zlib";
 
 /**
@@ -43,14 +52,22 @@ let fetchCalls: string[];
 let logs: unknown[][];
 let errors: unknown[][];
 let restore: () => void;
+/** The temp directory the script's relative paths resolve against. */
+let workDir: string;
 
 /**
  * Installs fake fetch, Bun.write, Bun.file and console for one script run.
  * `failWriteFor` makes a write blow up, to exercise the script's error path.
+ *
+ * The script's retired-line cleanup touches the real filesystem through
+ * relative paths, so this also chdirs into a throwaway directory. Without that
+ * a test run would delete the repository's own public/stops and data files.
  */
 function install(
   routes: (url: string) => unknown,
   failWriteFor?: (path: string) => boolean,
+  seedFiles: Record<string, string[]> = {},
+  seedDirectories: Record<string, string[]> = {},
 ) {
   files = new Map();
   fetchCalls = [];
@@ -62,6 +79,21 @@ function install(
   const realFile = Bun.file;
   const realLog = console.log;
   const realError = console.error;
+  const realCwd = process.cwd();
+
+  workDir = mkdtempSync(join(tmpdir(), "bus-map-download-"));
+  for (const directory of ["public/stops", "data"]) {
+    mkdirSync(join(workDir, directory), { recursive: true });
+    for (const name of seedFiles[directory] ?? []) {
+      writeFileSync(join(workDir, directory, name), "seed");
+    }
+    // A directory where a line file is expected cannot be unlinked, which is
+    // how the cleanup step is made to fail.
+    for (const name of seedDirectories[directory] ?? []) {
+      mkdirSync(join(workDir, directory, name), { recursive: true });
+    }
+  }
+  process.chdir(workDir);
 
   globalThis.fetch = mock(async (input: string | URL | Request) => {
     const url = String(input);
@@ -96,6 +128,8 @@ function install(
   console.error = (...args: unknown[]) => errors.push(args);
 
   restore = () => {
+    process.chdir(realCwd);
+    rmSync(workDir, { recursive: true, force: true });
     globalThis.fetch = realFetch;
     // biome-ignore lint/suspicious/noExplicitAny: restoring the Bun namespace
     (Bun as any).write = realWrite;
@@ -127,10 +161,6 @@ function readJson(path: string) {
 }
 
 describe("downloadData", () => {
-  beforeEach(() => {
-    process.env.__DOWNLOAD_DATA_TEST__ = "1";
-  });
-
   afterEach(() => {
     restore?.();
   });
@@ -170,26 +200,36 @@ describe("downloadData", () => {
 
   describe("a full run over two lines", () => {
     beforeEach(async () => {
-      install((url) => {
-        if (url.endsWith("/lines")) {
-          return [busLine, secondBusLine];
-        }
-        if (url.includes("/GetTrayectos/68/")) {
+      install(
+        (url) => {
+          if (url.endsWith("/lines")) {
+            return [busLine, secondBusLine];
+          }
+          if (url.includes("/GetTrayectos/68/")) {
+            return [
+              {
+                TrayectosDet: [rawStop(1, "Parada 1"), rawStop(2, "Parada 2")],
+              },
+              // The same stop appears on both journeys of the line
+              { TrayectosDet: [rawStop(1, "Parada 1")] },
+            ];
+          }
           return [
-            { TrayectosDet: [rawStop(1, "Parada 1"), rawStop(2, "Parada 2")] },
-            // The same stop appears on both journeys of the line
-            { TrayectosDet: [rawStop(1, "Parada 1")] },
+            {
+              TrayectosDet: [
+                rawStop(2, "Parada 2", 59),
+                rawStop(3, "Parada 3", 59),
+              ],
+            },
           ];
-        }
-        return [
-          {
-            TrayectosDet: [
-              rawStop(2, "Parada 2", 59),
-              rawStop(3, "Parada 3", 59),
-            ],
-          },
-        ];
-      });
+        },
+        undefined,
+        {
+          // "999" is a line Moventis has retired; "68" is still current
+          "public/stops": ["999.json", "68.json", "all.json.gz"],
+          data: ["999.json", "68.json", "bus-lines.json"],
+        },
+      );
       await runScript();
     });
 
@@ -274,6 +314,22 @@ describe("downloadData", () => {
       });
     });
 
+    it("deletes the files of lines Moventis has retired", () => {
+      expect(readdirSync("public/stops").sort()).toEqual([
+        "68.json",
+        "all.json.gz",
+      ]);
+      expect(readdirSync("data").sort()).toEqual(["68.json", "bus-lines.json"]);
+    });
+
+    it("says which retired files it removed", () => {
+      const messages = logs.map((entry) => entry[0]);
+      expect(messages).toContain(
+        "Removing retired line file public/stops/999.json...",
+      );
+      expect(messages).toContain("Removing retired line file data/999.json...");
+    });
+
     it("reports progress and completion", () => {
       const messages = logs.map((entry) => entry[0]);
       expect(messages[0]).toBe("Downloading all bus lines data...");
@@ -306,5 +362,36 @@ describe("downloadData", () => {
     expect((errors[0]?.[1] as Error).message).toBe(
       "disk full: lib/utils/busLineData.json",
     );
+  });
+
+  // Runs last on purpose: coverage reports the script's final evaluation, and
+  // this is the only run that reaches every line -- the whole happy path,
+  // including the retired-file cleanup, and then the catch block.
+  it("logs a failure when a retired line file cannot be removed", async () => {
+    install(
+      (url) => {
+        if (url.endsWith("/lines")) {
+          return [busLine];
+        }
+        return [{ TrayectosDet: [rawStop(1, "Parada 1")] }];
+      },
+      undefined,
+      {
+        // public/stops is cleaned first and completely...
+        "public/stops": ["111.json", "all.json.gz"],
+        data: ["bus-lines.json"],
+      },
+      // ...then data trips over an entry that is not a file
+      { data: ["999.json"] },
+    );
+
+    await runScript();
+
+    // Everything up to the cleanup still completed
+    expect(files.has("lib/utils/busLineData.json")).toBe(true);
+    expect(readdirSync("public/stops")).toEqual(["all.json.gz"]);
+    // The entry that could not be removed is reported and left alone
+    expect(errors[0]?.[0]).toBe("Error:");
+    expect(readdirSync("data")).toContain("999.json");
   });
 });

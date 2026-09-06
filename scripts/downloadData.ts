@@ -1,3 +1,6 @@
+import { readdirSync, unlinkSync } from "node:fs";
+import { join } from "node:path";
+
 const busLinesEndpoint = "https://www.moventis.es/es/moventis/ca/lines";
 
 interface MoventisBusLine {
@@ -146,6 +149,30 @@ try {
     "lib/utils/busLineData.json",
     JSON.stringify(busLineColors, null, 2),
   );
+
+  // Drop the files of lines Moventis has retired. Without this they linger
+  // forever: nothing can reach them (busLineData no longer lists the line, so
+  // no /linea page resolves to it) but they still ship with every deploy.
+  const currentLineIds = new Set(
+    busLinesInfoList.map((busLine) => String(busLine.ID_LINEA)),
+  );
+  const keepFiles: Record<string, string[]> = {
+    "public/stops": ["all.json.gz"],
+    data: ["bus-lines.json"],
+  };
+
+  for (const [directory, keep] of Object.entries(keepFiles)) {
+    for (const entry of readdirSync(directory)) {
+      if (keep.includes(entry) || !entry.endsWith(".json")) {
+        continue;
+      }
+      if (currentLineIds.has(entry.slice(0, -".json".length))) {
+        continue;
+      }
+      console.log(`Removing retired line file ${directory}/${entry}...`);
+      unlinkSync(join(directory, entry));
+    }
+  }
 } catch (err) {
   console.error("Error:", err);
 }
