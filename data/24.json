@@ -11,8 +11,8 @@
     "DESC_REDUCIDA": "MAS GENER-FERRUSSONS",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 540,
-    "FIN_TRAYECTO": 1300,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": 4,
     "TrayectosDet": [
       {

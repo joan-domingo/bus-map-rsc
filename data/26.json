@@ -12,7 +12,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 1235,
+    "FIN_TRAYECTO": 1325,
     "ID_TRAYECTO_CONCAT": 4,
     "TrayectosDet": [
       {

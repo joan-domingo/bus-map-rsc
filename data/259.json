@@ -11,7 +11,7 @@
     "DESC_REDUCIDA": "R.C.-VOL-C.C.",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 510,
+    "INI_TRAYECTO": 450,
     "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": 2,
     "TrayectosDet": [

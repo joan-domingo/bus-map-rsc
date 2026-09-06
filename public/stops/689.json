@@ -24,7 +24,7 @@
     "ID_TRAYECTO": 1022,
     "SECUENCIA": 260,
     "ID_PARADA": 24897,
-    "NKM_ORIGEN": 5.863,
+    "NKM_ORIGEN": 5.882,
     "SUBE_BAJA": 1
   },
   {
@@ -85,20 +85,48 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Joan Maragall - Ignasi Iglesias",
-      "COD_PARADA": 7107617,
+      "DESC_PARADA": "Avinguda Anselm Clavé - Enric Borràs",
+      "COD_PARADA": 7000608,
       "ID_GRUPO": 1,
-      "ID_PARADA": 24859,
+      "ID_PARADA": 24578,
       "ID_MUNICIPIO": 471019,
       "MUNICIPIO": "EL PRAT DE LLOBREGAT",
       "EXPLOTADORA": "SARBUS",
       "ID_ZONA": 0,
       "ZONA": null,
       "ID_EXPLOTADORA": 1,
-      "UTMX": 424507,
-      "UTMY": 4576092,
-      "LATITUD": 41.33096305568,
-      "LONGITUD": 2.0967286782244,
+      "UTMX": 424495,
+      "UTMY": 4576094,
+      "LATITUD": 41.33264976,
+      "LONGITUD": 2.09729254,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 689,
+    "ID_TRAYECTO": 1021,
+    "SECUENCIA": 35,
+    "ID_PARADA": 24578,
+    "NKM_ORIGEN": 0.776,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Les Moreres - Ignaci Iglésias",
+      "COD_PARADA": 7003491,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27496,
+      "ID_MUNICIPIO": 471019,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 424806,
+      "UTMY": 4576297,
+      "LATITUD": 41.3328362,
+      "LONGITUD": 2.1002756,
       "ID_SUBZONA": null,
       "SUBZONA": null,
       "CONCESIONES": null
@@ -107,8 +135,36 @@
     "ID_LINEA": 689,
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 40,
-    "ID_PARADA": 24859,
-    "NKM_ORIGEN": 0.776,
+    "ID_PARADA": 27496,
+    "NKM_ORIGEN": 1.036,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Institut Illa dels Banyols",
+      "COD_PARADA": 7003301,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27531,
+      "ID_MUNICIPIO": 443642,
+      "MUNICIPIO": "EL PRAT DE LLOBREGAT ",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 424903,
+      "UTMY": 4576106,
+      "LATITUD": 41.3311203,
+      "LONGITUD": 2.101456,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 689,
+    "ID_TRAYECTO": 1021,
+    "SECUENCIA": 45,
+    "ID_PARADA": 27531,
+    "NKM_ORIGEN": 1.336,
     "SUBE_BAJA": 1
   },
   {
@@ -136,7 +192,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 50,
     "ID_PARADA": 24674,
-    "NKM_ORIGEN": 1.03,
+    "NKM_ORIGEN": 1.78,
     "SUBE_BAJA": 1
   },
   {
@@ -164,7 +220,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 60,
     "ID_PARADA": 24680,
-    "NKM_ORIGEN": 1.279,
+    "NKM_ORIGEN": 2.029,
     "SUBE_BAJA": 1
   },
   {
@@ -192,7 +248,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 70,
     "ID_PARADA": 24681,
-    "NKM_ORIGEN": 1.517,
+    "NKM_ORIGEN": 2.267,
     "SUBE_BAJA": 1
   },
   {
@@ -220,7 +276,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 80,
     "ID_PARADA": 24860,
-    "NKM_ORIGEN": 1.624,
+    "NKM_ORIGEN": 2.374,
     "SUBE_BAJA": 1
   },
   {
@@ -248,7 +304,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 90,
     "ID_PARADA": 24691,
-    "NKM_ORIGEN": 1.882,
+    "NKM_ORIGEN": 2.632,
     "SUBE_BAJA": 1
   },
   {
@@ -276,7 +332,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 100,
     "ID_PARADA": 24685,
-    "NKM_ORIGEN": 2.157,
+    "NKM_ORIGEN": 2.907,
     "SUBE_BAJA": 1
   },
   {
@@ -304,7 +360,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 110,
     "ID_PARADA": 24601,
-    "NKM_ORIGEN": 2.373,
+    "NKM_ORIGEN": 3.123,
     "SUBE_BAJA": 1
   },
   {
@@ -332,7 +388,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 120,
     "ID_PARADA": 24700,
-    "NKM_ORIGEN": 2.635,
+    "NKM_ORIGEN": 3.385,
     "SUBE_BAJA": 1
   },
   {
@@ -360,7 +416,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 130,
     "ID_PARADA": 24693,
-    "NKM_ORIGEN": 2.913,
+    "NKM_ORIGEN": 3.663,
     "SUBE_BAJA": 1
   },
   {
@@ -388,7 +444,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 140,
     "ID_PARADA": 24861,
-    "NKM_ORIGEN": 3.136,
+    "NKM_ORIGEN": 3.886,
     "SUBE_BAJA": 1
   },
   {
@@ -416,7 +472,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 150,
     "ID_PARADA": 24862,
-    "NKM_ORIGEN": 3.418,
+    "NKM_ORIGEN": 4.168,
     "SUBE_BAJA": 1
   },
   {
@@ -444,7 +500,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 160,
     "ID_PARADA": 24863,
-    "NKM_ORIGEN": 3.635,
+    "NKM_ORIGEN": 4.385,
     "SUBE_BAJA": 1
   },
   {
@@ -472,7 +528,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 170,
     "ID_PARADA": 24864,
-    "NKM_ORIGEN": 3.842,
+    "NKM_ORIGEN": 4.592,
     "SUBE_BAJA": 1
   },
   {
@@ -500,7 +556,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 180,
     "ID_PARADA": 24626,
-    "NKM_ORIGEN": 4.262,
+    "NKM_ORIGEN": 5.012,
     "SUBE_BAJA": 1
   },
   {
@@ -528,7 +584,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 190,
     "ID_PARADA": 24584,
-    "NKM_ORIGEN": 4.426,
+    "NKM_ORIGEN": 5.176,
     "SUBE_BAJA": 1
   },
   {
@@ -556,7 +612,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 200,
     "ID_PARADA": 24612,
-    "NKM_ORIGEN": 4.652,
+    "NKM_ORIGEN": 5.402,
     "SUBE_BAJA": 1
   },
   {
@@ -584,7 +640,7 @@
     "ID_TRAYECTO": 1021,
     "SECUENCIA": 210,
     "ID_PARADA": 24605,
-    "NKM_ORIGEN": 4.952,
+    "NKM_ORIGEN": 5.702,
     "SUBE_BAJA": 1
   },
   {
@@ -1144,7 +1200,7 @@
     "ID_TRAYECTO": 1022,
     "SECUENCIA": 195,
     "ID_PARADA": 25295,
-    "NKM_ORIGEN": 4.4,
+    "NKM_ORIGEN": 5.15,
     "SUBE_BAJA": 1
   },
   {
@@ -1172,7 +1228,7 @@
     "ID_TRAYECTO": 1022,
     "SECUENCIA": 200,
     "ID_PARADA": 24744,
-    "NKM_ORIGEN": 4.46,
+    "NKM_ORIGEN": 5.21,
     "SUBE_BAJA": 1
   },
   {
@@ -1200,7 +1256,7 @@
     "ID_TRAYECTO": 1022,
     "SECUENCIA": 210,
     "ID_PARADA": 24774,
-    "NKM_ORIGEN": 4.608,
+    "NKM_ORIGEN": 5.358,
     "SUBE_BAJA": 1
   },
   {
@@ -1228,7 +1284,7 @@
     "ID_TRAYECTO": 1022,
     "SECUENCIA": 250,
     "ID_PARADA": 24765,
-    "NKM_ORIGEN": 4.893,
+    "NKM_ORIGEN": 5.643,
     "SUBE_BAJA": 1
   }
 ]

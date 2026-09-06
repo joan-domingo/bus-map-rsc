@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "MAT-BCN(NORD)",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 370,
+    "INI_TRAYECTO": 355,
     "FIN_TRAYECTO": 1390,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

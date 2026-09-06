@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "Renfe - Vilarnau",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 435,
-    "FIN_TRAYECTO": 840,
+    "INI_TRAYECTO": 375,
+    "FIN_TRAYECTO": 1230,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -277,8 +277,8 @@
     "DESC_REDUCIDA": "Vilarnau - Renfe",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 825,
+    "INI_TRAYECTO": 360,
+    "FIN_TRAYECTO": 1245,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

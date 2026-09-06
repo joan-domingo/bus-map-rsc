@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "BCN - MAT(CENTRE)",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
+    "INI_TRAYECTO": 415,
     "FIN_TRAYECTO": 1430,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

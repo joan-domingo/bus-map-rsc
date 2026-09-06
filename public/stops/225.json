@@ -589,6 +589,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Huarte, c/ Zubiarte, nº 17",
+      "COD_PARADA": 137,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 10948,
+      "ID_MUNICIPIO": 441961,
+      "MUNICIPIO": "HUARTE",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 124871,
+      "UTMY": 4752568,
+      "LATITUD": 42.831784946778,
+      "LONGITUD": -1.5905555340251,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 225,
+    "ID_TRAYECTO": 3,
+    "SECUENCIA": 2,
+    "ID_PARADA": 10948,
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Gorráiz, c/ Itaroa (frente nº 190)",
       "COD_PARADA": 374,
       "ID_GRUPO": 1,
@@ -753,34 +781,6 @@
     "SECUENCIA": 22,
     "ID_PARADA": 19853,
     "NKM_ORIGEN": 2.48,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Huarte, c/ Zubiarte, nº 17",
-      "COD_PARADA": 137,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 10948,
-      "ID_MUNICIPIO": 441961,
-      "MUNICIPIO": "HUARTE",
-      "EXPLOTADORA": "PAMPLONA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 7,
-      "UTMX": 124871,
-      "UTMY": 4752568,
-      "LATITUD": 42.831784946778,
-      "LONGITUD": -1.5905555340251,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 225,
-    "ID_TRAYECTO": 3,
-    "SECUENCIA": 2,
-    "ID_PARADA": 10948,
-    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 1
   },
   {
