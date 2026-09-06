@@ -158,8 +158,9 @@ describe("LinePage", () => {
     );
   });
 
-  it("404s on an internal numeric id", async () => {
-    await expect(renderPage("14")).rejects.toBeInstanceOf(NotFoundError);
+  it("404s on a busLineData key that no line is named after", async () => {
+    // "444" keys "Línia V4.1", which lives at /linea/liniav4.1
+    await expect(renderPage("444")).rejects.toBeInstanceOf(NotFoundError);
   });
 
   it("redirects a non-canonical slug to the canonical one", async () => {

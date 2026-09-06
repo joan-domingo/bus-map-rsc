@@ -132,10 +132,36 @@ describe("resolveLineSlug", () => {
     });
   });
 
-  it("does not resolve internal numeric ids as URLs", () => {
-    expect(resolveLineSlug("1")).toBeNull();
-    expect(resolveLineSlug("14")).toBeNull();
-    expect(resolveLineSlug("30")).toBeNull();
+  it("resolves a numeric slug to the line named after it, not to the line keyed by it", () => {
+    // busLineData keys "1", "14" and "30" belong to C1, B1 and LB1, while the
+    // lines actually *named* "1", "14" and "30" live under other keys
+    expect(resolveLineSlug("1")).toEqual({
+      canonicalSlug: "1",
+      lineName: "1",
+      lineStopIds: ["73", "129"],
+    });
+    expect(resolveLineSlug("14")).toEqual({
+      canonicalSlug: "14",
+      lineName: "14",
+      lineStopIds: ["86"],
+    });
+    expect(resolveLineSlug("30")).toEqual({
+      canonicalSlug: "30",
+      lineName: "30",
+      lineStopIds: ["384"],
+    });
+  });
+
+  it("keeps the lines that own those keys on their own name slugs", () => {
+    expect(resolveLineSlug("c1")?.lineStopIds).toContain("1");
+    expect(resolveLineSlug("b1")?.lineStopIds).toContain("14");
+    expect(resolveLineSlug("lb1")?.lineStopIds).toContain("30");
+  });
+
+  it("does not resolve a key that no line is named after", () => {
+    // "444" is the key of "Línia V4.1" and no line is named "444"
+    expect(busLineData["444"].name).toBe("Línia V4.1");
+    expect(resolveLineSlug("444")).toBeNull();
   });
 
   it("returns null for unknown slugs", () => {
@@ -204,12 +230,14 @@ describe("getAllLineSlugs", () => {
     }
   });
 
-  // Known gap: some lines are literally named after another line's internal
-  // busLineData key (id "86" is named "14", which is also the key of line B1),
-  // so their slug is emitted here but rejected by resolveLineSlug.
-  it("emits slugs that collide with internal ids even though they do not resolve", () => {
+  // The sitemap is built from this list, so every slug in it must be a page
+  // that actually renders -- including the ones whose name collides with
+  // another line's busLineData key.
+  it("only emits slugs that resolve to a line", () => {
     expect(slugs).toContain("14");
-    expect(resolveLineSlug("14")).toBeNull();
+    for (const slug of slugs) {
+      expect(resolveLineSlug(slug)).not.toBeNull();
+    }
   });
 });
 

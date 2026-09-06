@@ -174,24 +174,24 @@ export function getLineOgImagePath(slug: string): string {
   return buildLineOgImagePath(slug);
 }
 
-function isInternalLineStopIdSlug(slug: string): boolean {
-  if (!Object.hasOwn(busLineData, slug)) {
-    return false;
-  }
-  const lineData = busLineData[slug as keyof typeof busLineData];
-  return lineNameToSlug(lineData.name) !== slug;
-}
-
 export interface ResolvedLineSlug {
   canonicalSlug: string;
   lineName: string;
   lineStopIds: string[];
 }
 
-/** Resolves /linea/{slug} using the line name slug only (e.g. c1, n80), never internal numeric ids. */
+/**
+ * Resolves /linea/{slug} by line name only (e.g. c1, n80), so an internal
+ * busLineData key never becomes a URL: a slug is only ever matched against
+ * line *names*, and one that appears solely as a key resolves to nothing.
+ *
+ * Some lines are named after another line's key -- id "86" is named "14",
+ * which is also the key of line B1 -- and those resolve to the line that
+ * carries the name, never to the line that happens to use it as a key.
+ */
 export function resolveLineSlug(rawSlug: string): ResolvedLineSlug | null {
   const normalizedInput = normalizeLineSlug(rawSlug);
-  if (!normalizedInput || isInternalLineStopIdSlug(normalizedInput)) {
+  if (!normalizedInput) {
     return null;
   }
 

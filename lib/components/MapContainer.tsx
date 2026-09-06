@@ -64,6 +64,15 @@ export function MapContainer({ allBusStops, lineFilter }: MapContainerProps) {
     setZoom(18);
   }, [zoom]);
 
+  const handleToggleStarred = useCallback(() => {
+    const newValue = !showOnlyStarred;
+    trackEvent("toggle_starred_filter", {
+      show_only_starred: newValue,
+      starred_stops_count: starredStopIdsArray.length,
+    });
+    setShowOnlyStarred(newValue);
+  }, [showOnlyStarred, setShowOnlyStarred, starredStopIdsArray]);
+
   if (locationError) {
     // Show error if geolocation fails
     console.warn("Geolocation error:", locationError);
@@ -86,15 +95,6 @@ export function MapContainer({ allBusStops, lineFilter }: MapContainerProps) {
       </div>
     );
   }
-
-  const handleToggleStarred = useCallback(() => {
-    const newValue = !showOnlyStarred;
-    trackEvent("toggle_starred_filter", {
-      show_only_starred: newValue,
-      starred_stops_count: starredStopIdsArray.length,
-    });
-    setShowOnlyStarred(newValue);
-  }, [showOnlyStarred, setShowOnlyStarred, starredStopIdsArray]);
 
   return (
     <APIProvider apiKey={apiKey} language="ca">

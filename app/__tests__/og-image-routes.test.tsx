@@ -70,13 +70,22 @@ describe("/og-image/[line]", () => {
     expect(await (response as Response).text()).toBe("Not found");
   });
 
-  it("404s on an internal numeric id", async () => {
+  it("404s on a busLineData key that no line is named after", async () => {
+    const response = await getLineOgImage(
+      new Request("https://quantriga.com/og-image/444"),
+      params("444"),
+    );
+
+    expect((response as Response).status).toBe(404);
+  });
+
+  it("renders the card for a line whose name is a bare number", async () => {
     const response = await getLineOgImage(
       new Request("https://quantriga.com/og-image/14"),
       params("14"),
     );
 
-    expect((response as Response).status).toBe(404);
+    expect(textOf(response)).toContain("Bus 14 temps real");
   });
 
   it("404s on a non-canonical slug rather than redirecting", async () => {

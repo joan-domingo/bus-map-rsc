@@ -100,6 +100,24 @@ describe("MapContainer", () => {
     expect(screen.queryByTestId("google-map")).toBeNull();
   });
 
+  it("keeps its hook order when the API key appears between renders", () => {
+    delete process.env[API_KEY_ENV];
+    const { rerender } = render(<MapContainer allBusStops={allBusStops} />);
+    expect(
+      screen.getByRole("heading", { name: "Google Maps API Key Required" }),
+    ).toBeInTheDocument();
+
+    // Every hook must run before the missing-key branch returns, or React
+    // throws "rendered more hooks than during the previous render" here
+    process.env[API_KEY_ENV] = "test-api-key";
+    rerender(<MapContainer allBusStops={allBusStops} />);
+
+    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(
+      screen.getByRole("button", { name: "Mostrar només parades preferides" }),
+    ).toBeInTheDocument();
+  });
+
   it("shows every stop when there is no filter", () => {
     render(<MapContainer allBusStops={allBusStops} />);
 
