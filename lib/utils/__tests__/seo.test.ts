@@ -26,9 +26,33 @@ describe("buildLinePageSeo", () => {
   it("leads with bus line code and bilingual real-time keywords", () => {
     const seo = buildLinePageSeo("n80");
     expect(seo.title).toBe("Bus N80 temps real i tiempo real · Moventis");
-    expect(seo.description).toContain("N80");
+    expect(seo.description).toContain("Bus N80");
+    expect(seo.description).toContain("temps real");
     expect(seo.description).toContain("tiempo real");
-    expect(seo.description).toContain("bus N80");
+  });
+
+  it("covers the Catalan and Spanish wording of the long-tail queries", () => {
+    const description = buildLinePageSeo("c30").description.toLowerCase();
+
+    // Catalan half: "parades c30", "horaris c30"
+    expect(description).toContain("parades");
+    expect(description).toContain("horaris");
+    // Spanish half: "paradas c30", "horarios c30", "linea c30"
+    expect(description).toContain("paradas");
+    expect(description).toContain("horarios");
+    expect(description).toContain("línea c30");
+  });
+
+  it("keeps titles and descriptions inside what a SERP shows", () => {
+    // The longest line name in the data, so every other line fits too
+    const longest = getAllSeoLineEntries().reduce((a, b) =>
+      b.name.length > a.name.length ? b : a,
+    );
+    const seo = buildLinePageSeo(longest.name);
+
+    // Titles get " | QuanTriga.com" (16 chars) appended by the root template
+    expect(seo.title.length + 16).toBeLessThanOrEqual(75);
+    expect(seo.description.length).toBeLessThanOrEqual(160);
   });
 });
 
@@ -176,16 +200,53 @@ describe("buildHomePageSeo", () => {
     expect(seo.title).toContain("Moventis");
     expect(seo.title).toContain("temps real");
     expect(seo.description).toContain("temps real");
+    expect(seo.description).toContain("tiempo real");
+  });
+
+  it("names the best performing lines and fits a SERP snippet", () => {
+    const { description } = buildHomePageSeo();
+
+    for (const line of getVisiblePriorityLineSlugs().slice(0, 4)) {
+      expect(description).toContain(line.toUpperCase());
+    }
+    expect(description.length).toBeLessThanOrEqual(160);
   });
 });
 
 describe("priority line slugs", () => {
-  it("keeps all Search Console priority lines available while limiting mobile-visible links", () => {
-    expect(getPriorityLineSlugs()).toContain("c18");
-    expect(getPriorityLineSlugs()).toContain("806");
+  it("limits the mobile-visible links to the head of the priority list", () => {
     expect(getVisiblePriorityLineSlugs()).toEqual(
       getPriorityLineSlugs().slice(0, 6),
     );
+  });
+
+  // Every priority slug is rendered as a link on the home page or header, so a
+  // stale one would ship a sitewide link to a 404.
+  it("only lists lines that still resolve to a page", () => {
+    for (const slug of getPriorityLineSlugs()) {
+      expect(resolveLineSlug(slug)).not.toBeNull();
+    }
+  });
+
+  it("leads with the lines that earn the most search traffic", () => {
+    // E3 and C10 are the two best performing line pages by clicks and
+    // impressions, so they get the header links on every page.
+    expect(getPriorityLineSlugs().slice(0, 3)).toEqual(["e3", "c10", "c30"]);
+    expect(getVisiblePriorityLineSlugs()).toContain("n80");
+    expect(getVisiblePriorityLineSlugs()).toContain("b2");
+  });
+
+  it("has no duplicates", () => {
+    const slugs = getPriorityLineSlugs();
+    expect(slugs).toEqual([...new Set(slugs)]);
+  });
+
+  it("renders as a clean uppercase label, since the nav uppercases the slug", () => {
+    // The nav anchor text is the slug uppercased, so a slug carrying the
+    // mangled spacing of a long line name (e.g. "l53blanes") would read badly
+    for (const slug of getVisiblePriorityLineSlugs()) {
+      expect(slug.toUpperCase()).toMatch(/^[A-Z0-9.]{2,6}$/);
+    }
   });
 });
 

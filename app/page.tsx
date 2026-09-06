@@ -10,7 +10,9 @@ import {
 const homeSeo = buildHomePageSeo();
 
 export const metadata: Metadata = {
-  title: homeSeo.title,
+  // Absolute, or the root layout's "%s | QuanTriga.com" template appends a
+  // second brand to a title that already ends in one.
+  title: { absolute: homeSeo.title },
   description: homeSeo.description,
 };
 

@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://quantriga.com"),
   title: {
-    default: "Moventis temps real| QuanTriga.com",
+    default: "Moventis temps real | QuanTriga.com",
     template: "%s | QuanTriga.com",
   },
   description:
-    "Moventis en temps real i tiempo real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
+    "Moventis en temps real i tiempo real: mapa interactiu amb parades, horaris i línies E3, C10, C30, N80, B2, C19 i E11.1.",
   keywords: [
     "bus",
     "autobús",
@@ -96,7 +96,7 @@ export const metadata: Metadata = {
     siteName: "QuanTriga.com",
     title: "Moventis temps real | QuanTriga.com",
     description:
-      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies E3, C10, C30, N80, B2, C19 i E11.1.",
     images: [
       {
         url: "/og-image",
@@ -110,7 +110,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Moventis temps real | QuanTriga.com",
     description:
-      "Moventis en temps real: mapa interactiu amb parades, horaris i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
+      "Moventis en temps real: mapa interactiu amb parades, horaris i línies E3, C10, C30, N80, B2, C19 i E11.1.",
     images: ["/og-image"],
   },
   alternates: {

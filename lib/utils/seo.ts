@@ -1,27 +1,34 @@
 import busLineData from "./busLineData.json";
 
-/** Lines with the most Search Console impressions/clicks (updated from Search Console). */
+/**
+ * Lines with the most Search Console clicks/impressions, best first. Only the
+ * first six are rendered (see getVisiblePriorityLineSlugs), so the order is
+ * what decides which pages the home page and header link to on every view.
+ *
+ * Last refreshed from Search Console on 2026-09-06, from the trailing three
+ * months. Figures below are clicks / impressions for that window.
+ */
 const SEARCH_PRIORITY_LINES = [
-  "n80",
-  "c30",
-  "e3",
-  "n65",
-  "n62",
-  "x30",
-  "c18",
-  "806",
-  "cv5",
-  "b7",
-  "l16",
-  "n81",
-  "648",
-  "c20",
-  "c19",
-  "808",
-  "805",
-  "c10",
-  "pr3",
-  "n67",
+  "e3", // 282 / 4868
+  "c10", // 136 / 5338
+  "c30", // 51 / 3444
+  "n80", // 31 / 3722
+  "b2", // 54 / 995
+  "e11.1", // 22 / 2286
+  "c19", // 23 / 1003
+  "e11.2", // 11 / 2224
+  "n62", // 18 / 1175
+  "808", // 16 / 1482
+  "805", // 14 / 1624
+  "b7", // 11 / 1804
+  "l3", // 18 / 1056
+  "c20", // 12 / 1357
+  "b1", // 12 / 1235
+  "l53blanes", // 22 / 493
+  "l9", // 12 / 980
+  "c22", // 5 / 1376
+  "l16", // 8 / 1262
+  "c18", // 8 / 1171
 ] as const;
 
 const SEARCH_LINE_ALIASES: Record<
@@ -54,12 +61,18 @@ export interface HomePageSeo {
   description: string;
 }
 
-/** SERP copy aligned with queries like "n80", "c19 bus", "moventis temps real". */
+/**
+ * SERP copy aligned with queries like "n80", "c19 bus", "moventis temps real".
+ *
+ * The description closes in Spanish because most of the long tail is: Search
+ * Console shows "horarios", "paradas" and "linea X" across hundreds of Spanish
+ * queries, against a Catalan phrasing that only matched "horaris"/"parades".
+ */
 export function buildLinePageSeo(lineName: string): LinePageSeo {
   const line = lineName.toUpperCase();
   return {
     title: `Bus ${line} temps real i tiempo real · Moventis`,
-    description: `Consulta el bus ${line} de Moventis en temps real (tiempo real): properes arribades, parades al mapa i horaris actualitzats de la línia ${line}.`,
+    description: `Bus ${line} de Moventis en temps real: properes arribades, parades i horaris al mapa. Horarios y paradas de la línea ${line} en tiempo real.`,
   };
 }
 
@@ -67,7 +80,7 @@ export function buildHomePageSeo(): HomePageSeo {
   return {
     title: "Moventis temps real i tiempo real | QuanTriga",
     description:
-      "Consulta Moventis en temps real i tiempo real: mapa de parades, properes arribades i línies N80, C30, E3, N65, N62, X30, C18 i 806.",
+      "Quan arriba el teu bus? Moventis en temps real i tiempo real: mapa de parades, properes arribades i horaris de les línies E3, C10, C30, N80 i C19.",
   };
 }
 

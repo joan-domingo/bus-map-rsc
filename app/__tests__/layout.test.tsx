@@ -9,9 +9,26 @@ describe("root metadata", () => {
 
   it("templates child titles under the site name", () => {
     expect(metadata.title).toEqual({
-      default: "Moventis temps real| QuanTriga.com",
+      default: "Moventis temps real | QuanTriga.com",
       template: "%s | QuanTriga.com",
     });
+  });
+
+  it("keeps the templated line title inside what a SERP shows", async () => {
+    const { resolveTitle } = await import(
+      "next/dist/lib/metadata/resolvers/resolve-title.js"
+    );
+    const { buildLinePageSeo } = await import("../../lib/utils/seo");
+    const template = (metadata.title as { template: string }).template;
+
+    const resolved = resolveTitle(
+      buildLinePageSeo("e11.1").title,
+      template,
+    ).absolute;
+    expect(resolved).toBe(
+      "Bus E11.1 temps real i tiempo real · Moventis | QuanTriga.com",
+    );
+    expect(resolved.length).toBeLessThanOrEqual(75);
   });
 
   it("lets search engines index and follow everything", () => {

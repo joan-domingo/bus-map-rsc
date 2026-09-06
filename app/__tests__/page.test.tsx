@@ -14,6 +14,7 @@ import type { BusStop } from "../../lib/types";
 import { getVisiblePriorityLineSlugs } from "../../lib/utils/seo";
 import { resetMapsMock } from "../../test/googleMapsMock";
 import { createStopsFixture } from "../../test/stopsFixture";
+import { metadata as rootMetadata } from "../layout";
 import Home, { metadata } from "../page";
 
 const stops: BusStop[] = [
@@ -47,10 +48,28 @@ afterAll(() => {
 
 describe("home page metadata", () => {
   it("uses the shared home page SEO copy", () => {
-    expect(metadata.title).toBe(
+    expect(metadata.title).toEqual({
+      absolute: "Moventis temps real i tiempo real | QuanTriga",
+    });
+    expect(metadata.description).toContain("Moventis en temps real");
+  });
+
+  // A plain string title would have the root layout's "%s | QuanTriga.com"
+  // template applied to it, and this title already ends in the brand.
+  it("opts out of the title template so the brand is not doubled", async () => {
+    const { resolveTitle } = await import(
+      "next/dist/lib/metadata/resolvers/resolve-title.js"
+    );
+    const template = (rootMetadata.title as { template: string }).template;
+
+    expect(resolveTitle(metadata.title, template).absolute).toBe(
       "Moventis temps real i tiempo real | QuanTriga",
     );
-    expect(metadata.description).toContain("Moventis en temps real");
+    // What a bare string would have produced
+    expect(
+      resolveTitle("Moventis temps real i tiempo real | QuanTriga", template)
+        .absolute,
+    ).toBe("Moventis temps real i tiempo real | QuanTriga | QuanTriga.com");
   });
 });
 
