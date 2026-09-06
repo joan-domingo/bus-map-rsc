@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach, afterEach, mock } from "bun:test";
+import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import { render, waitFor } from "@testing-library/react";
 
 // Mock next/script to avoid happy-dom error with external scripts
@@ -93,11 +93,14 @@ describe("GoogleTagManager", () => {
         // Check that script is injected
         const script = document.getElementById("google-analytics-init");
         expect(script).not.toBeNull();
-        expect(script?.innerHTML).toContain("window.dataLayer = window.dataLayer || [];");
-        expect(script?.innerHTML).toContain("function gtag(){dataLayer.push(arguments);}");
+        expect(script?.innerHTML).toContain(
+          "window.dataLayer = window.dataLayer || [];",
+        );
+        expect(script?.innerHTML).toContain(
+          "function gtag(){dataLayer.push(arguments);}",
+        );
       },
       { timeout: 1000 },
     );
   });
 });
-

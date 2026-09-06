@@ -45,7 +45,7 @@ describe("useBusStopSelection", () => {
           },
         ],
       }),
-    );
+    ) as unknown as typeof fetch;
 
     const { result } = renderHook(() => useBusStopSelection());
 
@@ -89,7 +89,7 @@ describe("useBusStopSelection", () => {
           },
         ],
       }),
-    );
+    ) as unknown as typeof fetch;
 
     const { result } = renderHook(() => useBusStopSelection());
 
@@ -127,7 +127,7 @@ describe("useBusStopSelection", () => {
           },
         ],
       }),
-    );
+    ) as unknown as typeof fetch;
 
     const { result } = renderHook(() => useBusStopSelection());
 
@@ -178,7 +178,7 @@ describe("useBusStopSelection", () => {
           },
         ],
       }),
-    );
+    ) as unknown as typeof fetch;
 
     const { result } = renderHook(() => useBusStopSelection());
 

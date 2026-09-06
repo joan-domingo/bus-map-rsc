@@ -1,8 +1,16 @@
+import { describe, expect, it } from "bun:test";
+import busLineData from "../busLineData.json";
 import {
   buildHomePageSeo,
   buildLineOgImagePath,
   buildLinePagePath,
+  buildLinePagePathFromName,
   buildLinePageSeo,
+  getAllLineSlugs,
+  getAllSeoLineEntries,
+  getCanonicalLineName,
+  getLineIdsBySlug,
+  getLineOgImagePath,
   getLineStopBadgeLabel,
   getLineStopColor,
   getLineStopDisplayName,
@@ -48,7 +56,13 @@ describe("line stop display helpers", () => {
   it("uses Search Console alias labels and color fallbacks", () => {
     expect(getLineStopDisplayName("68")).toBe("N80");
     expect(getLineStopDisplayName("335")).toBe("806");
-    expect(getLineStopColor("68")).toBe("#088b9f");
+    // Non-aliased ids fall back to the raw busLineData name
+    expect(getLineStopDisplayName("1")).toBe("C1");
+    // Unknown ids fall back to the id itself, and to the brand teal color
+    expect(getLineStopDisplayName("does-not-exist")).toBe("does-not-exist");
+    expect(getLineStopColor("does-not-exist")).toBe("#088b9f");
+    // Known ids keep their own color, alias or not
+    expect(getLineStopColor("68")).toBe("#1E003C");
   });
 
   it("shortens badge labels so they fit the marker", () => {
@@ -146,5 +160,100 @@ describe("priority line slugs", () => {
     expect(getVisiblePriorityLineSlugs()).toEqual(
       getPriorityLineSlugs().slice(0, 6),
     );
+  });
+});
+
+describe("lineStopIdToSlug", () => {
+  it("returns null for ids that are not in busLineData", () => {
+    expect(lineStopIdToSlug("does-not-exist")).toBeNull();
+  });
+});
+
+describe("buildLinePagePathFromName", () => {
+  it("slugifies the line name before building the path", () => {
+    expect(buildLinePagePathFromName("C-30")).toBe("/linea/c30");
+    // Accents are stripped rather than transliterated: "Línia" -> "lnia"
+    expect(buildLinePagePathFromName("Línia V4.1")).toBe("/linea/lniav4.1");
+  });
+});
+
+describe("getLineOgImagePath", () => {
+  it("still delegates to buildLineOgImagePath", () => {
+    expect(getLineOgImagePath("N80")).toBe(buildLineOgImagePath("N80"));
+  });
+});
+
+describe("getAllLineSlugs", () => {
+  const slugs = getAllLineSlugs();
+
+  it("includes both Search Console aliases and busLineData name slugs", () => {
+    expect(slugs).toContain("n80");
+    expect(slugs).toContain("806");
+    expect(slugs).toContain("c1");
+    expect(slugs).toContain("b1");
+  });
+
+  it("is sorted and free of duplicates", () => {
+    expect(slugs).toEqual([...new Set(slugs)]);
+    expect(slugs).toEqual([...slugs].sort());
+  });
+
+  it("lists a slug for every line name in busLineData", () => {
+    for (const lineData of Object.values(busLineData)) {
+      expect(slugs).toContain(lineNameToSlug(lineData.name));
+    }
+  });
+
+  // Known gap: some lines are literally named after another line's internal
+  // busLineData key (id "86" is named "14", which is also the key of line B1),
+  // so their slug is emitted here but rejected by resolveLineSlug.
+  it("emits slugs that collide with internal ids even though they do not resolve", () => {
+    expect(slugs).toContain("14");
+    expect(resolveLineSlug("14")).toBeNull();
+  });
+});
+
+describe("getAllSeoLineEntries", () => {
+  const entries = getAllSeoLineEntries();
+
+  it("prefers the Search Console alias name over the raw busLineData name", () => {
+    const n80 = entries.find((entry) => entry.slug === "n80");
+    expect(n80).toEqual({ slug: "n80", name: "N80" });
+    // busLineData calls the same line "N-80"
+    expect(busLineData["68"].name).toBe("N-80");
+    expect(entries.some((entry) => entry.name === "N-80")).toBe(false);
+  });
+
+  it("has exactly one entry per slug from getAllLineSlugs", () => {
+    const slugs = entries.map((entry) => entry.slug);
+    expect(slugs).toEqual([...new Set(slugs)]);
+    expect([...slugs].sort()).toEqual(getAllLineSlugs());
+  });
+
+  it("is sorted by name using Catalan collation", () => {
+    const names = entries.map((entry) => entry.name);
+    expect(names).toEqual([...names].sort((a, b) => a.localeCompare(b, "ca")));
+  });
+});
+
+describe("getLineIdsBySlug", () => {
+  it("returns the internal ids behind a public slug", () => {
+    expect(getLineIdsBySlug("n80")).toEqual(["68"]);
+    expect(getLineIdsBySlug("c1")).toEqual(["1"]);
+  });
+
+  it("returns an empty list for unknown slugs", () => {
+    expect(getLineIdsBySlug("not-a-line")).toEqual([]);
+  });
+});
+
+describe("getCanonicalLineName", () => {
+  it("returns the canonical name for a slug", () => {
+    expect(getCanonicalLineName("n80")).toBe("N80");
+    expect(getCanonicalLineName("C-1")).toBe("C1");
+  });
+
+  it("returns null for unknown slugs", () => {
+    expect(getCanonicalLineName("not-a-line")).toBeNull();
   });
 });

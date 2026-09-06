@@ -1,6 +1,6 @@
-import { describe, it, expect, beforeEach, mock } from "bun:test";
-import { useMapStore } from "../useMapStore";
+import { beforeEach, describe, expect, it, mock } from "bun:test";
 import type { BusLineStopTimetable } from "../../types";
+import { useMapStore } from "../useMapStore";
 
 describe("useMapStore", () => {
   beforeEach(() => {
@@ -159,7 +159,7 @@ describe("useMapStore", () => {
         Promise.resolve({
           json: async () => mockResponse,
         }),
-      );
+      ) as unknown as typeof fetch;
 
       await store.loadBusStopTimeTable(123, 1, 1);
 
@@ -190,7 +190,7 @@ describe("useMapStore", () => {
         Promise.resolve({
           json: async () => mockResponse,
         }),
-      );
+      ) as unknown as typeof fetch;
 
       await store.loadBusStopTimeTable(123, 1, 1);
 
@@ -205,7 +205,9 @@ describe("useMapStore", () => {
     it("should handle fetch errors gracefully", async () => {
       const store = useMapStore.getState();
 
-      global.fetch = mock(() => Promise.reject(new Error("Network error")));
+      global.fetch = mock(() =>
+        Promise.reject(new Error("Network error")),
+      ) as unknown as typeof fetch;
 
       await store.loadBusStopTimeTable(123, 1, 1);
 
@@ -230,7 +232,7 @@ describe("useMapStore", () => {
         Promise.resolve({
           json: async () => mockResponse,
         }),
-      );
+      ) as unknown as typeof fetch;
 
       const loadPromise = store.loadBusStopTimeTable(123, 1, 1);
 
@@ -247,4 +249,3 @@ describe("useMapStore", () => {
     });
   });
 });
-

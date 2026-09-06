@@ -1,5 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import { renderHook, waitFor } from "@testing-library/react";
+import { createElement } from "react";
+import { renderToStaticMarkup } from "react-dom/server";
 import { useGeolocation } from "../useGeolocation";
 
 describe("useGeolocation", () => {
@@ -247,6 +249,114 @@ describe("useGeolocation", () => {
       lng: 2.1403111,
     });
     expect(localStorage.getItem("bus-map-last-location")).toBeNull();
+  });
+
+  it("should ignore cached coordinates that are not finite numbers", () => {
+    localStorage.setItem(
+      "bus-map-last-location",
+      JSON.stringify({ lat: "north", lng: 2.2, timestamp: Date.now() }),
+    );
+    mockGeolocation.getCurrentPosition = mock(() => {});
+    mockGeolocation.watchPosition = mock(() => 1);
+
+    const { result } = renderHook(() => useGeolocation());
+
+    expect(result.current.location).toEqual({
+      lat: 41.4912314,
+      lng: 2.1403111,
+    });
+    expect(localStorage.getItem("bus-map-last-location")).toBeNull();
+  });
+
+  it("should discard and warn about unparseable cached data", () => {
+    localStorage.setItem("bus-map-last-location", "{ not json");
+    mockGeolocation.getCurrentPosition = mock(() => {});
+    mockGeolocation.watchPosition = mock(() => 1);
+    const warnings: unknown[][] = [];
+    const originalWarn = console.warn;
+    console.warn = (...args: unknown[]) => warnings.push(args);
+
+    const { result } = renderHook(() => useGeolocation());
+
+    expect(result.current.location).toEqual({
+      lat: 41.4912314,
+      lng: 2.1403111,
+    });
+    expect(localStorage.getItem("bus-map-last-location")).toBeNull();
+    expect(warnings[0]?.[0]).toBe("Failed to load cached location:");
+    console.warn = originalWarn;
+  });
+
+  it("should keep working when the cache cannot be written", async () => {
+    // happy-dom's Storage is a proxy, so the whole object is swapped out
+    const realStorage = localStorage;
+    Object.defineProperty(globalThis, "localStorage", {
+      configurable: true,
+      value: {
+        getItem: () => null,
+        removeItem: () => {},
+        setItem: () => {
+          throw new Error("QuotaExceededError");
+        },
+      },
+    });
+    const warnings: unknown[][] = [];
+    const originalWarn = console.warn;
+    console.warn = (...args: unknown[]) => warnings.push(args);
+    mockGeolocation.getCurrentPosition = mock((success) => {
+      success({
+        coords: { latitude: 41.5, longitude: 2.15 },
+        timestamp: Date.now(),
+      });
+    });
+    mockGeolocation.watchPosition = mock(() => 1);
+
+    const { result } = renderHook(() => useGeolocation());
+
+    await waitFor(() => {
+      expect(result.current.location).toEqual({ lat: 41.5, lng: 2.15 });
+    });
+    expect(warnings[0]?.[0]).toBe("Failed to save cached location:");
+
+    Object.defineProperty(globalThis, "localStorage", {
+      configurable: true,
+      value: realStorage,
+    });
+    console.warn = originalWarn;
+  });
+
+  it("should skip the location cache when rendered on the server", () => {
+    localStorage.setItem(
+      "bus-map-last-location",
+      JSON.stringify({ lat: 41.6, lng: 2.2, timestamp: Date.now() }),
+    );
+    const realWindow = globalThis.window;
+    Object.defineProperty(globalThis, "window", {
+      configurable: true,
+      value: undefined,
+    });
+
+    function Probe() {
+      const { location, isLoading } = useGeolocation();
+      return createElement(
+        "div",
+        null,
+        `${location.lat},${location.lng},${isLoading}`,
+      );
+    }
+
+    try {
+      // Without window there is no localStorage to read, so the server always
+      // renders the default location while still loading
+      expect(renderToStaticMarkup(createElement(Probe))).toBe(
+        "<div>41.4912314,2.1403111,true</div>",
+      );
+    } finally {
+      Object.defineProperty(globalThis, "window", {
+        configurable: true,
+        value: realWindow,
+      });
+    }
   });
 
   it("should clear watch on unmount", () => {
