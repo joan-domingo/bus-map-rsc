@@ -17,9 +17,19 @@ interface MapContainerProps {
     lineStopIds: string[];
     lineName: string;
   };
+  /**
+   * CSS height of the map. Pages that render content below the map shrink it,
+   * so part of that content shows without the map swallowing the touch that
+   * would scroll to it.
+   */
+  mapHeight?: string;
 }
 
-export function MapContainer({ allBusStops, lineFilter }: MapContainerProps) {
+export function MapContainer({
+  allBusStops,
+  lineFilter,
+  mapHeight = "100dvh",
+}: MapContainerProps) {
   const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
   const { location: userLocation, error: locationError } = useGeolocation();
   const starredStopIdsArray = useStarredStops(
@@ -98,7 +108,7 @@ export function MapContainer({ allBusStops, lineFilter }: MapContainerProps) {
 
   return (
     <APIProvider apiKey={apiKey} language="ca">
-      <div className="relative w-screen" style={{ height: "100dvh" }}>
+      <div className="relative w-screen" style={{ height: mapHeight }}>
         <Header
           showOnlyStarred={showOnlyStarred}
           onToggleStarred={handleToggleStarred}

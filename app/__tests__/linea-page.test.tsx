@@ -8,6 +8,7 @@ import {
   mock,
 } from "bun:test";
 import { render, screen } from "@testing-library/react";
+import { STOPS_SHEET_PEEK } from "../../lib/components/lineStopsSheet";
 import { useMapStore } from "../../lib/store/useMapStore";
 import { useStarredStops } from "../../lib/store/useStarredStops";
 import type { BusStop } from "../../lib/types";
@@ -204,6 +205,48 @@ describe("LinePage", () => {
         name: "QuanTriga.com | Bus N80 temps real · Moventis",
       }),
     ).toBeInTheDocument();
+  });
+
+  // The sheet docks over the foot of the screen, so the map has to stop where
+  // its header starts or the Moventis attribution ends up underneath it.
+  it("ends the map exactly where the stop sheet docks", async () => {
+    await renderPage("n80");
+
+    const mapArea = screen.getByTestId("google-map").closest("[style]");
+    expect(mapArea?.getAttribute("style")).toContain(
+      `calc(100dvh - ${STOPS_SHEET_PEEK})`,
+    );
+  });
+
+  it("lists the line's stops in the docked sheet, without opening it", async () => {
+    await renderPage("n80");
+
+    const sheetHeader = screen.getByRole("button", {
+      name: /Parades de la línia N80/,
+    });
+    expect(sheetHeader).toHaveAttribute("aria-expanded", "false");
+    expect(
+      screen.getAllByRole("listitem").map((item) => item.textContent),
+    ).toEqual(["Parada compartida", "Parada N80"]);
+  });
+
+  it("lists only the stops of this line, not every stop on the map", async () => {
+    await renderPage("n80");
+
+    // "Parada d'una altra línia" is in all.json.gz but not on line 68
+    expect(
+      screen.queryByText("Parada d'una altra línia"),
+    ).not.toBeInTheDocument();
+  });
+
+  it("omits the stop sheet for a line with no stop file", async () => {
+    // "c1" resolves, but the fixture ships no stop file for its line id
+    await renderPage("c1");
+
+    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(
+      screen.queryByRole("region", { name: /Parades de la línia/ }),
+    ).toBeNull();
   });
 
   it("merges the line's own stops into the full stop list", async () => {
