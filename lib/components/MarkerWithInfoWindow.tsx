@@ -8,8 +8,30 @@ import { useMapStore } from "../store/useMapStore";
 import { useStarredStops } from "../store/useStarredStops";
 import type { BusStop } from "../types";
 import { trackEvent } from "../utils/analytics";
-import { getLineStopColor, getLineStopDisplayName } from "../utils/seo";
+import {
+  getLineStopBadgeLabel,
+  getLineStopColor,
+  getLineStopTextColor,
+} from "../utils/seo";
 import MarkerTimetable from "./MarkerTimetable";
+
+/** Labels run from "1" to "L1 LLO/BLA", so the badge sizes itself to its text. */
+const LineBadge = ({ lineStopId }: { lineStopId: string }) => {
+  const label = getLineStopBadgeLabel(lineStopId);
+  const fontSize = label.length <= 3 ? 12 : label.length <= 5 ? 10 : 9;
+  return (
+    <div
+      className="flex items-center justify-center h-6 min-w-6 px-1 font-semibold rounded-md whitespace-nowrap"
+      style={{
+        backgroundColor: getLineStopColor(lineStopId),
+        color: getLineStopTextColor(lineStopId),
+        fontSize,
+      }}
+    >
+      {label}
+    </div>
+  );
+};
 
 interface Props {
   onClick: () => void;
@@ -61,20 +83,15 @@ export const MarkerWithInfowindow = ({
                 {grid.map((row) => (
                   <div
                     key={row.join("-")}
-                    style={{ display: "flex", flexDirection: "row", gap: 2 }}
+                    style={{
+                      display: "flex",
+                      flexDirection: "row",
+                      justifyContent: "center",
+                      gap: 2,
+                    }}
                   >
                     {row.map((bus) => (
-                      <div
-                        key={bus}
-                        className="flex items-center justify-center w-6 h-6 text-white text-xs rounded-md"
-                        style={{
-                          backgroundColor: getLineStopColor(bus),
-                        }}
-                      >
-                        {getLineStopDisplayName(bus)
-                          .toUpperCase()
-                          .replace("-", "")}
-                      </div>
+                      <LineBadge key={bus} lineStopId={bus} />
                     ))}
                   </div>
                 ))}

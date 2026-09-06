@@ -118,6 +118,45 @@ export function getLineStopColor(lineStopId: string): string {
   );
 }
 
+/** Relative luminance per WCAG 2.1, from a #rrggbb color. */
+function getRelativeLuminance(hexColor: string): number {
+  const hex = hexColor.replace("#", "");
+  const channels = [0, 2, 4].map((offset) => {
+    const value = Number.parseInt(hex.slice(offset, offset + 2), 16) / 255;
+    return value <= 0.03928 ? value / 12.92 : ((value + 0.055) / 1.055) ** 2.4;
+  });
+  const [r, g, b] = channels as [number, number, number];
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+/**
+ * Minimum contrast we accept before giving up on white text. Line colors span
+ * #D40011 to #FF134A for what all reads as "red", and picking whichever of
+ * black/white contrasts more would split that range mid-way, so near-identical
+ * reds would get opposite labels. Preferring white down to this floor keeps
+ * every red (and the mid-tone blues, greens and teals) on white, and still
+ * catches the bright yellows, limes and cyans where white is unreadable.
+ */
+const MIN_WHITE_TEXT_CONTRAST = 3.6;
+
+/** White label on a line color, or black where white would be unreadable. */
+export function getLineStopTextColor(lineStopId: string): string {
+  const luminance = getRelativeLuminance(getLineStopColor(lineStopId));
+  const contrastWithWhite = 1.05 / (luminance + 0.05);
+  return contrastWithWhite >= MIN_WHITE_TEXT_CONTRAST ? "#ffffff" : "#000000";
+}
+
+/**
+ * Short label for the map marker badge. Drops the redundant "Línia " prefix
+ * (e.g. "Línia V4.1" -> "V4.1") so long names stay inside the badge.
+ */
+export function getLineStopBadgeLabel(lineStopId: string): string {
+  return getLineStopDisplayName(lineStopId)
+    .toUpperCase()
+    .replace(/^L[IÍ]NIA\s+/, "")
+    .replaceAll("-", "");
+}
+
 export function buildLinePagePath(slug: string): string {
   return `/linea/${slug.toLowerCase()}`;
 }

@@ -3,8 +3,10 @@ import {
   buildLineOgImagePath,
   buildLinePagePath,
   buildLinePageSeo,
+  getLineStopBadgeLabel,
   getLineStopColor,
   getLineStopDisplayName,
+  getLineStopTextColor,
   getPriorityLineSlugs,
   getVisiblePriorityLineSlugs,
   lineNameToSlug,
@@ -47,6 +49,35 @@ describe("line stop display helpers", () => {
     expect(getLineStopDisplayName("68")).toBe("N80");
     expect(getLineStopDisplayName("335")).toBe("806");
     expect(getLineStopColor("68")).toBe("#088b9f");
+  });
+
+  it("shortens badge labels so they fit the marker", () => {
+    expect(getLineStopBadgeLabel("444")).toBe("V4.1"); // "Línia V4.1"
+    expect(getLineStopBadgeLabel("53")).toBe("C10"); // "C-10"
+    expect(getLineStopBadgeLabel("457")).toBe("L9 LLOTOS"); // "L9 LLO-TOS"
+    expect(getLineStopBadgeLabel("711")).toBe("TAD CT");
+  });
+
+  it("picks the readable text color for each line background", () => {
+    // "53" is C-10, a bright lime where white text is unreadable
+    expect(getLineStopColor("53")).toBe("#9AFF1F");
+    expect(getLineStopTextColor("53")).toBe("#000000");
+    // "76" is line 4, a pale cyan that also needs black
+    expect(getLineStopColor("76")).toBe("#ACFFFF");
+    expect(getLineStopTextColor("76")).toBe("#000000");
+    // "38" is N66, a dark purple where white wins
+    expect(getLineStopColor("38")).toBe("#56009A");
+    expect(getLineStopTextColor("38")).toBe("#ffffff");
+  });
+
+  it("keeps white text on reds across the whole red range", () => {
+    // "628" (#D40011) and "130" (#FF134A) are opposite ends of the reds
+    expect(getLineStopColor("628")).toBe("#D40011");
+    expect(getLineStopTextColor("628")).toBe("#ffffff");
+    expect(getLineStopColor("130")).toBe("#FF134A");
+    expect(getLineStopTextColor("130")).toBe("#ffffff");
+    // "1" is C1 (#F70046), mid-range, previously flipped to black
+    expect(getLineStopTextColor("1")).toBe("#ffffff");
   });
 });
 
