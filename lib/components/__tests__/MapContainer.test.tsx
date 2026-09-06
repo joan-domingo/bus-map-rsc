@@ -80,6 +80,29 @@ describe("MapContainer", () => {
     expect(screen.getByRole("link", { name: "Moventis" })).toBeInTheDocument();
   });
 
+  it("fills the viewport by default", () => {
+    const { container } = render(<MapContainer allBusStops={allBusStops} />);
+
+    const mapArea = container.querySelector(
+      "[data-testid='api-provider'] > div",
+    );
+    expect(mapArea).toHaveStyle({ height: "100dvh" });
+  });
+
+  it("shrinks to the given height, so a page can show content below it", () => {
+    const { container } = render(
+      <MapContainer
+        allBusStops={allBusStops}
+        mapHeight="calc(100dvh - 4rem)"
+      />,
+    );
+
+    const mapArea = container.querySelector(
+      "[data-testid='api-provider'] > div",
+    );
+    expect(mapArea?.getAttribute("style")).toContain("calc(100dvh - 4rem)");
+  });
+
   it("passes the API key and Catalan locale to the Maps provider", () => {
     render(<MapContainer allBusStops={allBusStops} />);
 
