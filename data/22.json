@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "CER - BDV",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 975,
-    "FIN_TRAYECTO": 1295,
+    "INI_TRAYECTO": 425,
+    "FIN_TRAYECTO": 1290,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -361,7 +361,7 @@
     "DESC_REDUCIDA": "BDV - CER",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 930,
+    "INI_TRAYECTO": 390,
     "FIN_TRAYECTO": 1245,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

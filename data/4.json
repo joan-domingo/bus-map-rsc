@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Estació Fgc",
+          "DESC_PARADA": "(FGC) Eix Central",
           "COD_PARADA": 5556,
           "ID_GRUPO": 1,
           "ID_PARADA": 5556,
@@ -332,10 +332,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 425249,
-          "UTMY": 4595273,
-          "LATITUD": 41.503751884278,
-          "LONGITUD": 2.1032064768986,
+          "UTMX": 425241,
+          "UTMY": 4595268,
+          "LATITUD": 41.503733805621,
+          "LONGITUD": 2.1031260106281,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
@@ -367,7 +367,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "Estació Fgc",
+          "DESC_PARADA": "(FGC) Eix Central",
           "COD_PARADA": 5556,
           "ID_GRUPO": 1,
           "ID_PARADA": 5556,
@@ -377,10 +377,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 425249,
-          "UTMY": 4595273,
-          "LATITUD": 41.503751884278,
-          "LONGITUD": 2.1032064768986,
+          "UTMX": 425241,
+          "UTMY": 4595268,
+          "LATITUD": 41.503733805621,
+          "LONGITUD": 2.1031260106281,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null

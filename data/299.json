@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "BCN-UAB (dif)",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 1319,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -557,8 +557,8 @@
     "DESC_REDUCIDA": "BCN-SERRP",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1330,
-    "FIN_TRAYECTO": 1415,
+    "INI_TRAYECTO": 440,
+    "FIN_TRAYECTO": 1440,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -938,8 +938,8 @@
     "DESC_REDUCIDA": "SERRP-BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 515,
+    "INI_TRAYECTO": 400,
+    "FIN_TRAYECTO": 1400,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

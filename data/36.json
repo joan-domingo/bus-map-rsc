@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TERR-SBD-BAR-CEV-BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1416,
-    "FIN_TRAYECTO": 1698,
+    "INI_TRAYECTO": 1411,
+    "FIN_TRAYECTO": 1763,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1370,8 +1370,8 @@
     "DESC_REDUCIDA": "BCN-SCV-RUB-TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1470,
-    "FIN_TRAYECTO": 1750,
+    "INI_TRAYECTO": 1530,
+    "FIN_TRAYECTO": 1820,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "SCV - BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 455,
-    "FIN_TRAYECTO": 1325,
+    "INI_TRAYECTO": 405,
+    "FIN_TRAYECTO": 1395,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -837,8 +837,8 @@
     "DESC_REDUCIDA": "BCN - SCV",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 455,
-    "FIN_TRAYECTO": 1350,
+    "INI_TRAYECTO": 410,
+    "FIN_TRAYECTO": 1405,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
