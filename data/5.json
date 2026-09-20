@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "ST FELIU - CAST",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 508,
-    "FIN_TRAYECTO": 960,
+    "INI_TRAYECTO": 448,
+    "FIN_TRAYECTO": 1260,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -613,8 +613,8 @@
     "DESC_REDUCIDA": "CAST - ST FELIU",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 480,
-    "FIN_TRAYECTO": 928,
+    "INI_TRAYECTO": 420,
+    "FIN_TRAYECTO": 1228,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

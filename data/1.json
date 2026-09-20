@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "SBD - CAST",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 395,
+    "INI_TRAYECTO": 330,
     "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -277,7 +277,7 @@
     "DESC_REDUCIDA": "CAST - SBD",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 416,
+    "INI_TRAYECTO": 355,
     "FIN_TRAYECTO": 1410,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

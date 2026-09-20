@@ -9,7 +9,7 @@
     "PRINCIPAL": "S",
     "SENTIDO": "I",
     "INI_TRAYECTO": 390,
-    "FIN_TRAYECTO": 1364,
+    "FIN_TRAYECTO": 1393,
     "ID_TRAYECTO_CONCAT": 19,
     "TrayectosDet": [
       {
@@ -2070,7 +2070,7 @@
         "ID_TRAYECTO": 19,
         "SECUENCIA": 380,
         "ID_PARADA": 10283,
-        "NKM_ORIGEN": 12.215,
+        "NKM_ORIGEN": 13,
         "SUBE_BAJA": 1
       }
     ],
@@ -3151,7 +3151,7 @@
         "ID_TRAYECTO": 18,
         "SECUENCIA": 380,
         "ID_PARADA": 10283,
-        "NKM_ORIGEN": 11.52,
+        "NKM_ORIGEN": 11.72,
         "SUBE_BAJA": 1
       }
     ],

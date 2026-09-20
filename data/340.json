@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "URBÀ DEL MASNOU",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 540,
-    "FIN_TRAYECTO": 1350,
+    "INI_TRAYECTO": 425,
+    "FIN_TRAYECTO": 1375,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

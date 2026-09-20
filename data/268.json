@@ -70,6 +70,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "GIRONA, INTERNA UDG (PARADA UNICA)",
+          "COD_PARADA": 16680,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 10638,
+          "ID_MUNICIPIO": 58,
+          "MUNICIPIO": "GIRONA",
+          "EXPLOTADORA": "SARFA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 2,
+          "UTMX": 485794,
+          "UTMY": 4645806,
+          "LATITUD": 41.962399936607,
+          "LONGITUD": 2.8274923510062,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 268,
+        "ID_TRAYECTO": 110,
+        "SECUENCIA": 25,
+        "ID_PARADA": 10638,
+        "NKM_ORIGEN": 1.3,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "GIRONA, PARC TECNOLOGIC (DIR. PALAMOS)",
           "COD_PARADA": 16677,
           "ID_GRUPO": 1,
