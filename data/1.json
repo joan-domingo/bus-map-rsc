@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "SBD - CAST",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 330,
-    "FIN_TRAYECTO": 1380,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -277,8 +277,8 @@
     "DESC_REDUCIDA": "CAST - SBD",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 355,
-    "FIN_TRAYECTO": 1410,
+    "INI_TRAYECTO": null,
+    "FIN_TRAYECTO": null,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -755,34 +755,6 @@
         "SECUENCIA": 180,
         "ID_PARADA": 6100,
         "NKM_ORIGEN": 9.558,
-        "SUBE_BAJA": 3
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Gran Via/carretera Prats Ll. (mercat De La Creu Al",
-          "COD_PARADA": 96,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 96,
-          "ID_MUNICIPIO": 444017,
-          "MUNICIPIO": "SABADELL",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 425204,
-          "UTMY": 4601605,
-          "LATITUD": 41.560802655248,
-          "LONGITUD": 2.1018904539998,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 1,
-        "ID_TRAYECTO": 6,
-        "SECUENCIA": 190,
-        "ID_PARADA": 96,
-        "NKM_ORIGEN": 10.144,
         "SUBE_BAJA": 3
       },
       {
