@@ -434,6 +434,34 @@
       },
       {
         "Parada": {
+          "DESC_PARADA": "c/Cataluña (Rot. c/Fernando Remacha)",
+          "COD_PARADA": 687,
+          "ID_GRUPO": 1,
+          "ID_PARADA": 27619,
+          "ID_MUNICIPIO": 471138,
+          "MUNICIPIO": "PAMPLONA",
+          "EXPLOTADORA": "PAMPLONA",
+          "ID_ZONA": 0,
+          "ZONA": null,
+          "ID_EXPLOTADORA": 7,
+          "UTMX": 120781,
+          "UTMY": 4749374,
+          "LATITUD": 42.801095232122,
+          "LONGITUD": -1.6382876341892,
+          "ID_SUBZONA": null,
+          "SUBZONA": null,
+          "CONCESIONES": null
+        },
+        "ID_GRUPO": 1,
+        "ID_LINEA": 202,
+        "ID_TRAYECTO": 1,
+        "SECUENCIA": 165,
+        "ID_PARADA": 27619,
+        "NKM_ORIGEN": 5.249,
+        "SUBE_BAJA": 1
+      },
+      {
+        "Parada": {
           "DESC_PARADA": "Universidad Pública de Navarra",
           "COD_PARADA": 650,
           "ID_GRUPO": 1,

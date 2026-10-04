@@ -856,7 +856,7 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 960,
+    "INI_TRAYECTO": 990,
     "FIN_TRAYECTO": 1065,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

@@ -1602,7 +1602,7 @@
     "DESC_REDUCIDA": "Canaletes",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
+    "INI_TRAYECTO": 410,
     "FIN_TRAYECTO": 1370,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

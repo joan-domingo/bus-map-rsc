@@ -505,6 +505,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "Ctra. Sarriguren (Mendillorri)",
+      "COD_PARADA": 689,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27621,
+      "ID_MUNICIPIO": 471138,
+      "MUNICIPIO": "PAMPLONA",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 123055,
+      "UTMY": 4750740,
+      "LATITUD": 42.814481965276,
+      "LONGITUD": -1.6114856606079,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 214,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 183,
+    "ID_PARADA": 27621,
+    "NKM_ORIGEN": 8.954,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Ctra. Sarriguren (Rotonda frente Areta)",
       "COD_PARADA": 558,
       "ID_GRUPO": 1,
@@ -781,6 +809,34 @@
     "SECUENCIA": 45,
     "ID_PARADA": 12749,
     "NKM_ORIGEN": 1.784,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "CTRA. SARRIGUREN (ERRIPAGAINA)",
+      "COD_PARADA": 688,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27620,
+      "ID_MUNICIPIO": 471138,
+      "MUNICIPIO": "PAMPLONA",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 123079,
+      "UTMY": 4750769,
+      "LATITUD": 42.814750289352,
+      "LONGITUD": -1.6112151693115,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 214,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 48,
+    "ID_PARADA": 27620,
+    "NKM_ORIGEN": 2.276,
     "SUBE_BAJA": 1
   },
   {
