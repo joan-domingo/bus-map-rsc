@@ -225,6 +225,34 @@
   },
   {
     "Parada": {
+      "DESC_PARADA": "CTRA. SARRIGUREN (ERRIPAGAINA)",
+      "COD_PARADA": 688,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27620,
+      "ID_MUNICIPIO": 471138,
+      "MUNICIPIO": "PAMPLONA",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 123079,
+      "UTMY": 4750769,
+      "LATITUD": 42.814750289352,
+      "LONGITUD": -1.6112151693115,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 219,
+    "ID_TRAYECTO": 8,
+    "SECUENCIA": 17,
+    "ID_PARADA": 27620,
+    "NKM_ORIGEN": 6.66,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
       "DESC_PARADA": "Ctra. Sarriguren (Pol. Erripagaña)",
       "COD_PARADA": 250,
       "ID_GRUPO": 1,
@@ -977,6 +1005,34 @@
     "SECUENCIA": 26,
     "ID_PARADA": 11054,
     "NKM_ORIGEN": 6.324,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Ctra. Sarriguren (Mendillorri)",
+      "COD_PARADA": 689,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 27621,
+      "ID_MUNICIPIO": 471138,
+      "MUNICIPIO": "PAMPLONA",
+      "EXPLOTADORA": "PAMPLONA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 7,
+      "UTMX": 123055,
+      "UTMY": 4750740,
+      "LATITUD": 42.814481965276,
+      "LONGITUD": -1.6114856606079,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 219,
+    "ID_TRAYECTO": 7,
+    "SECUENCIA": 27,
+    "ID_PARADA": 27621,
+    "NKM_ORIGEN": 6.665,
     "SUBE_BAJA": 1
   },
   {

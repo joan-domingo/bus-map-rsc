@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "TERR-SBD-BAR-CEV-BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 1411,
-    "FIN_TRAYECTO": 1763,
+    "INI_TRAYECTO": 1416,
+    "FIN_TRAYECTO": 1698,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1370,8 +1370,8 @@
     "DESC_REDUCIDA": "BCN-SCV-RUB-TERR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 1530,
-    "FIN_TRAYECTO": 1820,
+    "INI_TRAYECTO": 1470,
+    "FIN_TRAYECTO": 1750,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
@@ -1834,10 +1834,10 @@
           "ID_ZONA": 0,
           "ZONA": null,
           "ID_EXPLOTADORA": 1,
-          "UTMX": 418996,
-          "UTMY": 4600249,
-          "LATITUD": 41.547957749673,
-          "LONGITUD": 2.0276220677816,
+          "UTMX": 418970,
+          "UTMY": 4600272,
+          "LATITUD": 41.548190603879,
+          "LONGITUD": 2.0273216603719,
           "ID_SUBZONA": null,
           "SUBZONA": null,
           "CONCESIONES": null
