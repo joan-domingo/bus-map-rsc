@@ -297,174 +297,6 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Plaça Pont Del  Diari / Camí Antic De Terrassa",
-          "COD_PARADA": 8271,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 12328,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422852,
-          "UTMY": 4589135,
-          "LATITUD": 41.44827,
-          "LONGITUD": 2.07529,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 110,
-        "ID_PARADA": 12328,
-        "NKM_ORIGEN": 3.745,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Margarit / Can Llobet",
-          "COD_PARADA": 9125,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9125,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422557,
-          "UTMY": 4589072,
-          "LATITUD": 41.447647760113,
-          "LONGITUD": 2.0717520847766,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 120,
-        "ID_PARADA": 9125,
-        "NKM_ORIGEN": 4.147,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Carretera.de Vallvidrera/camí De Can Pagan",
-          "COD_PARADA": 3495,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 13869,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422296,
-          "UTMY": 4589082,
-          "LATITUD": 41.44774,
-          "LONGITUD": 2.06864,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 130,
-        "ID_PARADA": 13869,
-        "NKM_ORIGEN": 4.417,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Plaça Del Centre",
-          "COD_PARADA": 9126,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9126,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422093,
-          "UTMY": 4588717,
-          "LATITUD": 41.444432037404,
-          "LONGITUD": 2.066255750331,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 140,
-        "ID_PARADA": 9126,
-        "NKM_ORIGEN": 4.857,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Avinguda Verge De Montserrat",
-          "COD_PARADA": 9127,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9127,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422379,
-          "UTMY": 4588597,
-          "LATITUD": 41.443352530664,
-          "LONGITUD": 2.0696825074223,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 150,
-        "ID_PARADA": 9127,
-        "NKM_ORIGEN": 5.277,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Plaça Josep Playà (estació La Floresta)",
-          "COD_PARADA": 9128,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9128,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422657,
-          "UTMY": 4588736,
-          "LATITUD": 41.444528,
-          "LONGITUD": 2.07325,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 26,
-        "ID_TRAYECTO": 3,
-        "SECUENCIA": 160,
-        "ID_PARADA": 9128,
-        "NKM_ORIGEN": 5.685,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
           "DESC_PARADA": "Plaça Doctor Villar",
           "COD_PARADA": 9129,
           "ID_GRUPO": 1,
@@ -486,7 +318,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 170,
+        "SECUENCIA": 110,
         "ID_PARADA": 9129,
         "NKM_ORIGEN": 6.007,
         "SUBE_BAJA": 1
@@ -514,7 +346,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 180,
+        "SECUENCIA": 120,
         "ID_PARADA": 9124,
         "NKM_ORIGEN": 6.507,
         "SUBE_BAJA": 1
@@ -542,7 +374,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 190,
+        "SECUENCIA": 130,
         "ID_PARADA": 9131,
         "NKM_ORIGEN": 6.835,
         "SUBE_BAJA": 1
@@ -570,7 +402,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 200,
+        "SECUENCIA": 140,
         "ID_PARADA": 9132,
         "NKM_ORIGEN": 7.002,
         "SUBE_BAJA": 1
@@ -598,7 +430,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 210,
+        "SECUENCIA": 150,
         "ID_PARADA": 9133,
         "NKM_ORIGEN": 7.204,
         "SUBE_BAJA": 1
@@ -626,7 +458,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 220,
+        "SECUENCIA": 160,
         "ID_PARADA": 9157,
         "NKM_ORIGEN": 7.487,
         "SUBE_BAJA": 1
@@ -654,7 +486,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 230,
+        "SECUENCIA": 170,
         "ID_PARADA": 9134,
         "NKM_ORIGEN": 7.889,
         "SUBE_BAJA": 1
@@ -682,7 +514,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 240,
+        "SECUENCIA": 180,
         "ID_PARADA": 12373,
         "NKM_ORIGEN": 9.122,
         "SUBE_BAJA": 1
@@ -710,7 +542,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 250,
+        "SECUENCIA": 190,
         "ID_PARADA": 4980,
         "NKM_ORIGEN": 9.306,
         "SUBE_BAJA": 1
@@ -738,7 +570,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 260,
+        "SECUENCIA": 200,
         "ID_PARADA": 9076,
         "NKM_ORIGEN": 10.207,
         "SUBE_BAJA": 1
@@ -766,7 +598,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 270,
+        "SECUENCIA": 210,
         "ID_PARADA": 9135,
         "NKM_ORIGEN": 11.053,
         "SUBE_BAJA": 1
@@ -794,7 +626,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 280,
+        "SECUENCIA": 220,
         "ID_PARADA": 9078,
         "NKM_ORIGEN": 11.507,
         "SUBE_BAJA": 1
@@ -822,7 +654,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 290,
+        "SECUENCIA": 230,
         "ID_PARADA": 9079,
         "NKM_ORIGEN": 11.795,
         "SUBE_BAJA": 1
@@ -850,7 +682,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 300,
+        "SECUENCIA": 240,
         "ID_PARADA": 9158,
         "NKM_ORIGEN": 12.317,
         "SUBE_BAJA": 1
@@ -878,7 +710,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 310,
+        "SECUENCIA": 250,
         "ID_PARADA": 5085,
         "NKM_ORIGEN": 12.707,
         "SUBE_BAJA": 1
@@ -906,7 +738,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 320,
+        "SECUENCIA": 260,
         "ID_PARADA": 9135,
         "NKM_ORIGEN": 13.116,
         "SUBE_BAJA": 1
@@ -934,7 +766,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 330,
+        "SECUENCIA": 270,
         "ID_PARADA": 5090,
         "NKM_ORIGEN": 13.587,
         "SUBE_BAJA": 1
@@ -962,7 +794,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 340,
+        "SECUENCIA": 280,
         "ID_PARADA": 12553,
         "NKM_ORIGEN": 13.797,
         "SUBE_BAJA": 1
@@ -990,7 +822,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 3,
-        "SECUENCIA": 350,
+        "SECUENCIA": 290,
         "ID_PARADA": 10644,
         "NKM_ORIGEN": 14.387,
         "SUBE_BAJA": 1
@@ -1018,7 +850,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 360,
+        "SECUENCIA": 300,
         "ID_PARADA": 10644,
         "NKM_ORIGEN": 0,
         "SUBE_BAJA": 2
@@ -1046,7 +878,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 370,
+        "SECUENCIA": 310,
         "ID_PARADA": 9136,
         "NKM_ORIGEN": 0.5,
         "SUBE_BAJA": 1
@@ -1074,7 +906,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 380,
+        "SECUENCIA": 320,
         "ID_PARADA": 12329,
         "NKM_ORIGEN": 1.143,
         "SUBE_BAJA": 1
@@ -1102,7 +934,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 390,
+        "SECUENCIA": 330,
         "ID_PARADA": 12330,
         "NKM_ORIGEN": 1.491,
         "SUBE_BAJA": 1
@@ -1130,7 +962,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 400,
+        "SECUENCIA": 340,
         "ID_PARADA": 9137,
         "NKM_ORIGEN": 1.792,
         "SUBE_BAJA": 1
@@ -1158,7 +990,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 410,
+        "SECUENCIA": 350,
         "ID_PARADA": 12331,
         "NKM_ORIGEN": 2.025,
         "SUBE_BAJA": 1
@@ -1186,7 +1018,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 420,
+        "SECUENCIA": 360,
         "ID_PARADA": 9139,
         "NKM_ORIGEN": 2.346,
         "SUBE_BAJA": 1
@@ -1214,7 +1046,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 430,
+        "SECUENCIA": 370,
         "ID_PARADA": 9140,
         "NKM_ORIGEN": 2.714,
         "SUBE_BAJA": 1
@@ -1242,7 +1074,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 440,
+        "SECUENCIA": 380,
         "ID_PARADA": 9122,
         "NKM_ORIGEN": 2.768,
         "SUBE_BAJA": 1
@@ -1270,7 +1102,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 450,
+        "SECUENCIA": 390,
         "ID_PARADA": 9123,
         "NKM_ORIGEN": 3.06,
         "SUBE_BAJA": 1
@@ -1298,7 +1130,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 460,
+        "SECUENCIA": 400,
         "ID_PARADA": 12328,
         "NKM_ORIGEN": 3.407,
         "SUBE_BAJA": 1
@@ -1326,7 +1158,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 470,
+        "SECUENCIA": 410,
         "ID_PARADA": 9125,
         "NKM_ORIGEN": 3.809,
         "SUBE_BAJA": 1
@@ -1354,7 +1186,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 480,
+        "SECUENCIA": 420,
         "ID_PARADA": 13869,
         "NKM_ORIGEN": 4.079,
         "SUBE_BAJA": 1
@@ -1382,7 +1214,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 490,
+        "SECUENCIA": 430,
         "ID_PARADA": 9126,
         "NKM_ORIGEN": 4.519,
         "SUBE_BAJA": 1
@@ -1410,7 +1242,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 500,
+        "SECUENCIA": 440,
         "ID_PARADA": 9127,
         "NKM_ORIGEN": 4.939,
         "SUBE_BAJA": 1
@@ -1438,7 +1270,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 510,
+        "SECUENCIA": 450,
         "ID_PARADA": 9128,
         "NKM_ORIGEN": 5.347,
         "SUBE_BAJA": 1
@@ -1466,7 +1298,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 520,
+        "SECUENCIA": 460,
         "ID_PARADA": 9129,
         "NKM_ORIGEN": 5.669,
         "SUBE_BAJA": 1
@@ -1494,7 +1326,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 530,
+        "SECUENCIA": 470,
         "ID_PARADA": 8067,
         "NKM_ORIGEN": 5.901,
         "SUBE_BAJA": 1
@@ -1522,7 +1354,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 540,
+        "SECUENCIA": 480,
         "ID_PARADA": 9142,
         "NKM_ORIGEN": 6.09,
         "SUBE_BAJA": 1
@@ -1550,7 +1382,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 550,
+        "SECUENCIA": 490,
         "ID_PARADA": 9143,
         "NKM_ORIGEN": 6.463,
         "SUBE_BAJA": 1
@@ -1578,7 +1410,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 560,
+        "SECUENCIA": 500,
         "ID_PARADA": 9144,
         "NKM_ORIGEN": 6.758,
         "SUBE_BAJA": 1
@@ -1606,7 +1438,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 570,
+        "SECUENCIA": 510,
         "ID_PARADA": 8069,
         "NKM_ORIGEN": 7.234,
         "SUBE_BAJA": 1
@@ -1634,7 +1466,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 580,
+        "SECUENCIA": 520,
         "ID_PARADA": 9145,
         "NKM_ORIGEN": 7.743,
         "SUBE_BAJA": 1
@@ -1662,7 +1494,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 590,
+        "SECUENCIA": 530,
         "ID_PARADA": 9115,
         "NKM_ORIGEN": 9.13,
         "SUBE_BAJA": 1
@@ -1690,7 +1522,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 600,
+        "SECUENCIA": 540,
         "ID_PARADA": 12327,
         "NKM_ORIGEN": 9.352,
         "SUBE_BAJA": 1
@@ -1718,7 +1550,7 @@
         "ID_GRUPO": 1,
         "ID_LINEA": 26,
         "ID_TRAYECTO": 4,
-        "SECUENCIA": 610,
+        "SECUENCIA": 550,
         "ID_PARADA": 9113,
         "NKM_ORIGEN": 9.575,
         "SUBE_BAJA": 1

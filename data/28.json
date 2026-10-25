@@ -126,34 +126,6 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "Margarit / Can Llobet",
-          "COD_PARADA": 9125,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9125,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422557,
-          "UTMY": 4589072,
-          "LATITUD": 41.447647760113,
-          "LONGITUD": 2.0717520847766,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 28,
-        "ID_TRAYECTO": 100,
-        "SECUENCIA": 50,
-        "ID_PARADA": 9125,
-        "NKM_ORIGEN": 1.765,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
           "DESC_PARADA": "Carretera.de Vallvidrera/camí De Can Pagan",
           "COD_PARADA": 3495,
           "ID_GRUPO": 1,
@@ -793,7 +765,7 @@
         "ID_TRAYECTO": 100,
         "SECUENCIA": 280,
         "ID_PARADA": 9160,
-        "NKM_ORIGEN": 9.45,
+        "NKM_ORIGEN": 9.93,
         "SUBE_BAJA": 1
       }
     ],
@@ -924,34 +896,6 @@
         "SECUENCIA": 40,
         "ID_PARADA": 12328,
         "NKM_ORIGEN": 1.402,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "Margarit / Can Llobet",
-          "COD_PARADA": 9125,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 9125,
-          "ID_MUNICIPIO": 82055,
-          "MUNICIPIO": "SANT CUGAT DEL VALLÈS",
-          "EXPLOTADORA": "SARBUS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 1,
-          "UTMX": 422557,
-          "UTMY": 4589072,
-          "LATITUD": 41.447647760113,
-          "LONGITUD": 2.0717520847766,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 28,
-        "ID_TRAYECTO": 1000,
-        "SECUENCIA": 50,
-        "ID_PARADA": 9125,
-        "NKM_ORIGEN": 1.765,
         "SUBE_BAJA": 1
       },
       {
@@ -1623,7 +1567,7 @@
         "ID_TRAYECTO": 1000,
         "SECUENCIA": 280,
         "ID_PARADA": 9160,
-        "NKM_ORIGEN": 10.261,
+        "NKM_ORIGEN": 10.741,
         "SUBE_BAJA": 1
       }
     ],
