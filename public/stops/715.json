@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+      "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
       "COD_PARADA": 84,
       "ID_GRUPO": 1,
       "ID_PARADA": 7028,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA PLANA",
+      "DESC_PARADA": "la Plana",
       "COD_PARADA": 4229,
       "ID_GRUPO": 1,
       "ID_PARADA": 12816,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PRESIDENT KENNEDY / C. LLEIDA",
+      "DESC_PARADA": "Av. President Kennedy / C. Lleida",
       "COD_PARADA": 86,
       "ID_GRUPO": 1,
       "ID_PARADA": 7030,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. PRESIDENT KENNEDY /C. DE REUS",
+      "DESC_PARADA": "Av. President Kennedy /C. de Reus",
       "COD_PARADA": 285,
       "ID_GRUPO": 1,
       "ID_PARADA": 13197,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(CAP OCATA) REPÙBLICA ARGENTINA",
+      "DESC_PARADA": "(Cap Ocata) Repùblica Argentina",
       "COD_PARADA": 3651,
       "ID_GRUPO": 1,
       "ID_PARADA": 13900,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(JARDINS DELS PAÏSOS CATALANS) TORRENT DE CAN GAIO",
+      "DESC_PARADA": "(Jardins dels Països Catalans) Torrent de Can Gaio",
       "COD_PARADA": 3652,
       "ID_GRUPO": 1,
       "ID_PARADA": 13901,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(TORRENT DE L´ASE) PRAT DE LA RIBA/MARE DÉU  NÚRIA",
+      "DESC_PARADA": "(Torrent de L´Ase) Prat de la Riba/Mare Déu  Núria",
       "COD_PARADA": 35,
       "ID_GRUPO": 1,
       "ID_PARADA": 7169,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ESTACIÓ D´OCATA) PG. DE PRAT DE LA RIBA",
+      "DESC_PARADA": "(Estació D´Ocata) Pg. de Prat de la Riba",
       "COD_PARADA": 36,
       "ID_GRUPO": 1,
       "ID_PARADA": 7032,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MERCAT VELL) BARCELONA / MARE DE DÉU DEL CARME",
+      "DESC_PARADA": "(Mercat Vell) Barcelona / Mare de Déu del Carme",
       "COD_PARADA": 3370,
       "ID_GRUPO": 1,
       "ID_PARADA": 7170,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ESTACIÓ EL MASNOU) MOSSÈN JACINT VERDAGUER",
+      "DESC_PARADA": "(Estació el Masnou) Mossèn Jacint Verdaguer",
       "COD_PARADA": 37,
       "ID_GRUPO": 1,
       "ID_PARADA": 7171,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(RIERA D´ALELLA) AMADEU I / NAVARRA",
+      "DESC_PARADA": "(Riera D´Alella) Amadeu i / Navarra",
       "COD_PARADA": 3653,
       "ID_GRUPO": 1,
       "ID_PARADA": 13903,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(SANT JORDI) NAVARRA / MIQUEL BIADA",
+      "DESC_PARADA": "(Sant Jordi) Navarra / Miquel Biada",
       "COD_PARADA": 3654,
       "ID_GRUPO": 1,
       "ID_PARADA": 13904,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(CAP EL MASNOU) NAVARRA / POMPEU FABRA",
+      "DESC_PARADA": "(Cap el Masnou) Navarra / Pompeu Fabra",
       "COD_PARADA": 3655,
       "ID_GRUPO": 1,
       "ID_PARADA": 13905,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(NAVARRA) NAVARRA / JOAN XXIII",
+      "DESC_PARADA": "(Navarra) Navarra / Joan XXIII",
       "COD_PARADA": 3656,
       "ID_GRUPO": 1,
       "ID_PARADA": 13906,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "NAVARRA / ROMAN FABRA (ROMAN FABRA)",
+      "DESC_PARADA": "Navarra / Roman Fabra (Roman Fabra)",
       "COD_PARADA": 5964,
       "ID_GRUPO": 1,
       "ID_PARADA": 7005,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MERCAT) ROMAN FABRA / ITÀLIA",
+      "DESC_PARADA": "(Mercat) Roman Fabra / Itàlia",
       "COD_PARADA": 3643,
       "ID_GRUPO": 1,
       "ID_PARADA": 13893,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(VALLMORA) PAU CASALS / SANT CRISPÍ",
+      "DESC_PARADA": "(Vallmora) Pau Casals / Sant Crispí",
       "COD_PARADA": 3642,
       "ID_GRUPO": 1,
       "ID_PARADA": 13892,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DE PAU CLARIS / PLAÇA RAMON I CAJAL",
+      "DESC_PARADA": "Pg. de Pau Claris / Plaça Ramon i Cajal",
       "COD_PARADA": 8943,
       "ID_GRUPO": 1,
       "ID_PARADA": 10429,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. D´ERNEST LLUCH / AV. JOAN XXIII",
+      "DESC_PARADA": "C. D´Ernest Lluch / Av. Joan XXIII",
       "COD_PARADA": 9040,
       "ID_GRUPO": 1,
       "ID_PARADA": 12053,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ERNEST LLUCH / TORRENT DE VALLMORA",
+      "DESC_PARADA": "Ernest Lluch / Torrent de Vallmora",
       "COD_PARADA": 85,
       "ID_GRUPO": 1,
       "ID_PARADA": 7029,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ D`ALELLA / C. GARROFERS",
+      "DESC_PARADA": "Camí D`Alella / C. Garrofers",
       "COD_PARADA": 1888,
       "ID_GRUPO": 1,
       "ID_PARADA": 12054,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BÒVILA",
+      "DESC_PARADA": "Bòvila",
       "COD_PARADA": 3400,
       "ID_GRUPO": 1,
       "ID_PARADA": 7036,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROTONDA VALLBELLIDA",
+      "DESC_PARADA": "Rotonda Vallbellida",
       "COD_PARADA": 9327,
       "ID_GRUPO": 1,
       "ID_PARADA": 10539,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA PLANA",
+      "DESC_PARADA": "la Plana",
       "COD_PARADA": 8967,
       "ID_GRUPO": 1,
       "ID_PARADA": 10428,

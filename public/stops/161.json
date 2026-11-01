@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA DEL BARATO",
+      "DESC_PARADA": "Plaça del Barato",
       "COD_PARADA": 5853,
       "ID_GRUPO": 1,
       "ID_PARADA": 7318,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. RIERA D´EN CINTET/AV. DE L´ARQUITECTE E. FERRÉS",
+      "DESC_PARADA": "C. Riera D´En Cintet/Av. de L´Arquitecte E. Ferrés",
       "COD_PARADA": 5854,
       "ID_GRUPO": 1,
       "ID_PARADA": 7319,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV.DE L´ARQUITECTE E.FERRES (LA BÒBILA)",
+      "DESC_PARADA": "Av.De L´Arquitecte E.Ferres (La Bòbila)",
       "COD_PARADA": 8378,
       "ID_GRUPO": 1,
       "ID_PARADA": 7096,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE LA MURALLA (PAVELLÓ PACO MARTIN)",
+      "DESC_PARADA": "C. de la Muralla (Pavelló Paco Martin)",
       "COD_PARADA": 8424,
       "ID_GRUPO": 1,
       "ID_PARADA": 7296,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DELS VINYALS/C. DEL PLA DEL MOLÍ",
+      "DESC_PARADA": "Rambla dels Vinyals/C. del Pla del Molí",
       "COD_PARADA": 3932,
       "ID_GRUPO": 1,
       "ID_PARADA": 13487,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BAIXADOR CABRERA DE MAR-VILASSAR DE MAR",
+      "DESC_PARADA": "Baixador Cabrera de Mar-Vilassar de Mar",
       "COD_PARADA": 5828,
       "ID_GRUPO": 1,
       "ID_PARADA": 7322,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DEL CANONGE ALMERA/C. D´ENRIC GRANADOS",
+      "DESC_PARADA": "C. del Canonge Almera/C. D´Enric Granados",
       "COD_PARADA": 25,
       "ID_GRUPO": 1,
       "ID_PARADA": 7143,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CAMÍ RAL / PL. DE L´AJUNTAMENT",
+      "DESC_PARADA": "Camí Ral / Pl. de L´Ajuntament",
       "COD_PARADA": 26,
       "ID_GRUPO": 1,
       "ID_PARADA": 7144,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ESTACIÓ DE VILASSAR DE MAR",
+      "DESC_PARADA": "Estació de Vilassar de Mar",
       "COD_PARADA": 5848,
       "ID_GRUPO": 1,
       "ID_PARADA": 7311,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE LA XINESCA/C. DEL CONGRÉS",
+      "DESC_PARADA": "C. de la Xinesca/C. del Congrés",
       "COD_PARADA": 5868,
       "ID_GRUPO": 1,
       "ID_PARADA": 7312,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE MARIA VIDAL / RONDA DE VILASSAR",
+      "DESC_PARADA": "C. de Maria Vidal / Ronda de Vilassar",
       "COD_PARADA": 5869,
       "ID_GRUPO": 1,
       "ID_PARADA": 7313,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE SANT ARTUR (CAP)",
+      "DESC_PARADA": "C. de Sant Artur (Cap)",
       "COD_PARADA": 5849,
       "ID_GRUPO": 1,
       "ID_PARADA": 7314,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. SANTA EULÀLIA/C. SANT ARTUR (ESCOLA DEL MAR)",
+      "DESC_PARADA": "C. Santa Eulàlia/C. Sant Artur (Escola del Mar)",
       "COD_PARADA": 579,
       "ID_GRUPO": 1,
       "ID_PARADA": 10523,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE STA. MARIA/RIERA DE CABRILS",
+      "DESC_PARADA": "C. de Sta. Maria/Riera de Cabrils",
       "COD_PARADA": 5851,
       "ID_GRUPO": 1,
       "ID_PARADA": 7315,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE SANTA ROSA DE LIMA/AV. DE MONTEVIDEO",
+      "DESC_PARADA": "C. de Santa Rosa de Lima/Av. de Montevideo",
       "COD_PARADA": 580,
       "ID_GRUPO": 1,
       "ID_PARADA": 10521,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE MONTEVIDEO (MERCAT MUNICIPAL)",
+      "DESC_PARADA": "Av. de Montevideo (Mercat Municipal)",
       "COD_PARADA": 5852,
       "ID_GRUPO": 1,
       "ID_PARADA": 7316,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV . DE MONTEVIDEO/C. DE MESTRAL",
+      "DESC_PARADA": "Av . de Montevideo/C. de Mestral",
       "COD_PARADA": 5846,
       "ID_GRUPO": 1,
       "ID_PARADA": 7317,

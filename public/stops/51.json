@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "3367 CAMI DEL MIG/ AV PRESIDENT LLUIS COMPANYS",
+      "DESC_PARADA": "3367 Cami del Mig/ Av President Lluis Companys",
       "COD_PARADA": 3367,
       "ID_GRUPO": 1,
       "ID_PARADA": 7158,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RONDA GENERAL PRIM / GOYA",
+      "DESC_PARADA": "Ronda General Prim / Goya",
       "COD_PARADA": 5587,
       "ID_GRUPO": 1,
       "ID_PARADA": 25449,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. D´ESPANYA (PARC CENTRAL)",
+      "DESC_PARADA": "Pl. D´Espanya (Parc Central)",
       "COD_PARADA": 3990,
       "ID_GRUPO": 1,
       "ID_PARADA": 7154,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE  PUIG I CADAFALCH/C. DE JOAN MARAGALL",
+      "DESC_PARADA": "Av. de  Puig i Cadafalch/C. de Joan Maragall",
       "COD_PARADA": 4000,
       "ID_GRUPO": 1,
       "ID_PARADA": 7155,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE PUIG I CADAFALCH (ROT. DEL PI GROS)",
+      "DESC_PARADA": "Av. de Puig i Cadafalch (Rot. del Pi Gros)",
       "COD_PARADA": 3361,
       "ID_GRUPO": 1,
       "ID_PARADA": 7156,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "\tUAB-EIX CENTRAL SUD",
+      "DESC_PARADA": "\tUab-Eix Central Sud",
       "COD_PARADA": 8980,
       "ID_GRUPO": 1,
       "ID_PARADA": 21893,

@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "CALDES D´ESTRAC-ESTACIÓ RODALIES DE CATALUNYA",
+      "DESC_PARADA": "Caldes D´Estrac-Estació Rodalies de Catalunya",
       "COD_PARADA": 46,
       "ID_GRUPO": 1,
       "ID_PARADA": 7241,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MONTALTPARK",
+      "DESC_PARADA": "Montaltpark",
       "COD_PARADA": 3424,
       "ID_GRUPO": 1,
       "ID_PARADA": 7239,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE MONTALTNOU",
+      "DESC_PARADA": "Av. de Montaltnou",
       "COD_PARADA": 4826,
       "ID_GRUPO": 1,
       "ID_PARADA": 7244,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "EL TERRAL (LA CORTESA)",
+      "DESC_PARADA": "el Terral (La Cortesa)",
       "COD_PARADA": 3412,
       "ID_GRUPO": 1,
       "ID_PARADA": 7225,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE MONTALNOU, 61",
+      "DESC_PARADA": "Av. de Montalnou, 61",
       "COD_PARADA": 4273,
       "ID_GRUPO": 1,
       "ID_PARADA": 12822,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DELS PAÏSOS CATALANS (FONT DE CAN CINTO)",
+      "DESC_PARADA": "Av. dels Països Catalans (Font de Can Cinto)",
       "COD_PARADA": 219,
       "ID_GRUPO": 1,
       "ID_PARADA": 11660,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. DE SANT ANTONI / C. CAN RAMS",
+      "DESC_PARADA": "C. de Sant Antoni / C. Can Rams",
       "COD_PARADA": 3416,
       "ID_GRUPO": 1,
       "ID_PARADA": 7234,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE CÍVIC",
+      "DESC_PARADA": "Centre Cívic",
       "COD_PARADA": 221,
       "ID_GRUPO": 1,
       "ID_PARADA": 11664,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE MONTALTNOU",
+      "DESC_PARADA": "Av. de Montaltnou",
       "COD_PARADA": 222,
       "ID_GRUPO": 1,
       "ID_PARADA": 11665,

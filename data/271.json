@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "VALL HEBRON",
+          "DESC_PARADA": "Vall Hebron",
           "COD_PARADA": 4486,
           "ID_GRUPO": 1,
           "ID_PARADA": 12525,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DOCTOR ANDREU",
+          "DESC_PARADA": "Plaça Doctor Andreu",
           "COD_PARADA": 1035,
           "ID_GRUPO": 1,
           "ID_PARADA": 18257,
@@ -87,7 +87,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DOCTOR ANDREU",
+          "DESC_PARADA": "Plaça Doctor Andreu",
           "COD_PARADA": 1035,
           "ID_GRUPO": 1,
           "ID_PARADA": 18257,
@@ -115,7 +115,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VALL HEBRON",
+          "DESC_PARADA": "Vall Hebron",
           "COD_PARADA": 4486,
           "ID_GRUPO": 1,
           "ID_PARADA": 12525,

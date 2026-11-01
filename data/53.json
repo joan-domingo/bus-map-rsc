@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE GUIPÚSCOA/PTGE. JOSEP MULA (METRO LA PAU)",
+          "DESC_PARADA": "Rbla. de Guipúscoa/Ptge. Josep Mula (Metro la Pau)",
           "COD_PARADA": 9443,
           "ID_GRUPO": 1,
           "ID_PARADA": 19946,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA GUIPÚSCOA-EXTREMADURA",
+          "DESC_PARADA": "Rbla Guipúscoa-Extremadura",
           "COD_PARADA": 4010,
           "ID_GRUPO": 1,
           "ID_PARADA": 7187,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PI I MARGALL/AV. DE CATALUNYA",
+          "DESC_PARADA": "Av. Pi i Margall/Av. de Catalunya",
           "COD_PARADA": 4030,
           "ID_GRUPO": 1,
           "ID_PARADA": 7188,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(HABILITADA) AV. DEL MARQUÈS DE MONT-ROIG / AV. DEL MARESME",
+          "DESC_PARADA": "(Habilitada) Av. del Marquès de Mont-Roig / Av. del Maresme",
           "COD_PARADA": 4040,
           "ID_GRUPO": 1,
           "ID_PARADA": 7189,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(HABILITADA) AV. DEL MARQUÈS DE MONT-ROIG / JULI GALVE BRUSSON",
+          "DESC_PARADA": "(Habilitada) Av. del Marquès de Mont-Roig / Juli Galve Brusson",
           "COD_PARADA": 4050,
           "ID_GRUPO": 1,
           "ID_PARADA": 7190,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. MARQUÈS DE MONT-ROIG/ANTONI BORI (METRO GORG)",
+          "DESC_PARADA": "Av. Marquès de Mont-Roig/Antoni Bori (Metro Gorg)",
           "COD_PARADA": 7723,
           "ID_GRUPO": 1,
           "ID_PARADA": 21628,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DEL MARQUÈS DE MONT-ROIG/PL. PAÏSOS CATALANS (",
+          "DESC_PARADA": "Av. del Marquès de Mont-Roig/Pl. Països Catalans (",
           "COD_PARADA": 4090,
           "ID_GRUPO": 1,
           "ID_PARADA": 7191,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC MACIÀ/MARIA CRISTINA",
+          "DESC_PARADA": "Francesc Macià/Maria Cristina",
           "COD_PARADA": 4100,
           "ID_GRUPO": 1,
           "ID_PARADA": 7192,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "FRANCESC LAYRET/SANT MIQUEL",
+          "DESC_PARADA": "Francesc Layret/Sant Miquel",
           "COD_PARADA": 4080,
           "ID_GRUPO": 1,
           "ID_PARADA": 7193,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST.BRU/PRIM",
+          "DESC_PARADA": "St.Bru/Prim",
           "COD_PARADA": 4110,
           "ID_GRUPO": 1,
           "ID_PARADA": 7194,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMAR DE BAIX/RIERA DEL CANYADÓ",
+          "DESC_PARADA": "Pomar de Baix/Riera del Canyadó",
           "COD_PARADA": 4128,
           "ID_GRUPO": 1,
           "ID_PARADA": 7195,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA MATARÓ-PTGE CUSSÓ",
+          "DESC_PARADA": "Ctra Mataró-Ptge Cussó",
           "COD_PARADA": 4130,
           "ID_GRUPO": 1,
           "ID_PARADA": 7196,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. MATARÓ (ESTACIÓ DE MONTGAT)",
+          "DESC_PARADA": "Ctra. Mataró (Estació de Montgat)",
           "COD_PARADA": 4140,
           "ID_GRUPO": 1,
           "ID_PARADA": 7197,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (AJUNTAMENT DE MONTGAT)",
+          "DESC_PARADA": "Camí Ral (Ajuntament de Montgat)",
           "COD_PARADA": 4150,
           "ID_GRUPO": 1,
           "ID_PARADA": 7198,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL-RIERA FONT",
+          "DESC_PARADA": "Camí Ral-Riera Font",
           "COD_PARADA": 4160,
           "ID_GRUPO": 1,
           "ID_PARADA": 7199,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ RODALIES MONTGAT - NORD)",
+          "DESC_PARADA": "Camí Ral (Estació Rodalies Montgat - Nord)",
           "COD_PARADA": 5979,
           "ID_GRUPO": 1,
           "ID_PARADA": 14351,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CAMIL FABRA (LABORATORIS ALCON-CUSÍ)",
+          "DESC_PARADA": "C. de Camil Fabra (Laboratoris Alcon-Cusí)",
           "COD_PARADA": 4170,
           "ID_GRUPO": 1,
           "ID_PARADA": 7201,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE MOSSÈN JACINT VERDAGUER (ESTACIÓ EL MASNOU)",
+          "DESC_PARADA": "C. de Mossèn Jacint Verdaguer (Estació el Masnou)",
           "COD_PARADA": 3350,
           "ID_GRUPO": 1,
           "ID_PARADA": 7203,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE PRAT DE LA RIBA (ESTACIÓ D¿OCATA)",
+          "DESC_PARADA": "Pg. de Prat de la Riba (Estació D¿Ocata)",
           "COD_PARADA": 3360,
           "ID_GRUPO": 1,
           "ID_PARADA": 7204,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. PRAT DE LA RIBA/C. DE LA MARE DE DÉU DE NÚRIA",
+          "DESC_PARADA": "Pg. Prat de la Riba/C. de la Mare de Déu de Núria",
           "COD_PARADA": 260,
           "ID_GRUPO": 1,
           "ID_PARADA": 7205,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (CAMPING HISPANO)",
+          "DESC_PARADA": "Ctra. N-II (Camping Hispano)",
           "COD_PARADA": 4190,
           "ID_GRUPO": 1,
           "ID_PARADA": 7206,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 3750,
           "ID_GRUPO": 1,
           "ID_PARADA": 7001,
@@ -630,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 3740,
           "ID_GRUPO": 1,
           "ID_PARADA": 7208,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/SANTIAGO RUSIÑOL",
+          "DESC_PARADA": "Camí Ral/Santiago Rusiñol",
           "COD_PARADA": 3730,
           "ID_GRUPO": 1,
           "ID_PARADA": 7209,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. CAMP DE MAR (MERCAT DE LA FLOR)",
+          "DESC_PARADA": "Camí Ral/C. Camp de Mar (Mercat de la Flor)",
           "COD_PARADA": 3720,
           "ID_GRUPO": 1,
           "ID_PARADA": 7093,
@@ -714,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/TORRENT D´EN CUYÀS",
+          "DESC_PARADA": "Camí Ral/Torrent D´En Cuyàs",
           "COD_PARADA": 3710,
           "ID_GRUPO": 1,
           "ID_PARADA": 7094,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SANT JAUME (ESTACIÓ DE VILASSAR DE MAR)",
+          "DESC_PARADA": "C. de Sant Jaume (Estació de Vilassar de Mar)",
           "COD_PARADA": 3700,
           "ID_GRUPO": 1,
           "ID_PARADA": 7145,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DEL CANONGE ALMERA/C. D´ENRIC GRANADOS",
+          "DESC_PARADA": "C. del Canonge Almera/C. D´Enric Granados",
           "COD_PARADA": 3690,
           "ID_GRUPO": 1,
           "ID_PARADA": 7146,
@@ -798,7 +798,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II/AV. BURRIAC (LIDL)",
+          "DESC_PARADA": "Ctra. N-II/Av. Burriac (Lidl)",
           "COD_PARADA": 3680,
           "ID_GRUPO": 1,
           "ID_PARADA": 7210,
@@ -826,7 +826,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (URBANITZACIÓ BONAMAR)",
+          "DESC_PARADA": "Ctra. N-II (Urbanització Bonamar)",
           "COD_PARADA": 3660,
           "ID_GRUPO": 1,
           "ID_PARADA": 7212,
@@ -854,7 +854,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (IQUODRIVE-VIENA)",
+          "DESC_PARADA": "Ctra. N-II (Iquodrive-Viena)",
           "COD_PARADA": 3665,
           "ID_GRUPO": 1,
           "ID_PARADA": 7213,
@@ -882,7 +882,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE COMERCIAL CARREFOUR",
+          "DESC_PARADA": "Centre Comercial Carrefour",
           "COD_PARADA": 3640,
           "ID_GRUPO": 1,
           "ID_PARADA": 7214,
@@ -910,7 +910,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE CABRERA/C. VILASSAR (INCINERADORA)",
+          "DESC_PARADA": "Av. de Cabrera/C. Vilassar (Incineradora)",
           "COD_PARADA": 3527,
           "ID_GRUPO": 1,
           "ID_PARADA": 7215,
@@ -938,7 +938,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. BCN/C. CALDES D´ESTRAC (P.IND. LES HORTES)",
+          "DESC_PARADA": "Ctra. Bcn/C. Caldes D´Estrac (P.Ind. les Hortes)",
           "COD_PARADA": 40,
           "ID_GRUPO": 1,
           "ID_PARADA": 13494,
@@ -966,7 +966,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (PORTA LAIETANA-TECNOCAMPUS)",
+          "DESC_PARADA": "Camí Ral (Porta Laietana-Tecnocampus)",
           "COD_PARADA": 3630,
           "ID_GRUPO": 1,
           "ID_PARADA": 7217,
@@ -994,7 +994,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / CAMÍ RAL",
+          "DESC_PARADA": "Rda. de la República / Camí Ral",
           "COD_PARADA": 3620,
           "ID_GRUPO": 1,
           "ID_PARADA": 7218,
@@ -1022,7 +1022,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / C. DE MIQUEL BIADA",
+          "DESC_PARADA": "Rda. de la República / C. de Miquel Biada",
           "COD_PARADA": 4825,
           "ID_GRUPO": 1,
           "ID_PARADA": 7219,
@@ -1050,7 +1050,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. GRANOLLERS/VIA D´EUROPA (PL. GRANOLLERS)",
+          "DESC_PARADA": "Pl. Granollers/Via D´Europa (Pl. Granollers)",
           "COD_PARADA": 102,
           "ID_GRUPO": 1,
           "ID_PARADA": 13489,
@@ -1078,7 +1078,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIA D´EUROPA/C. DE ESTEVE ALBERT (VIA EUROPA)",
+          "DESC_PARADA": "Via D´Europa/C. de Esteve Albert (Via Europa)",
           "COD_PARADA": 119,
           "ID_GRUPO": 1,
           "ID_PARADA": 13491,
@@ -1106,7 +1106,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ITÀLIA",
+          "DESC_PARADA": "Pl. D´Itàlia",
           "COD_PARADA": 121,
           "ID_GRUPO": 1,
           "ID_PARADA": 13492,
@@ -1134,7 +1134,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE FRANÇA",
+          "DESC_PARADA": "Pl. de França",
           "COD_PARADA": 62,
           "ID_GRUPO": 1,
           "ID_PARADA": 13493,
@@ -1162,7 +1162,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,
@@ -1207,7 +1207,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,
@@ -1235,7 +1235,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BRUSEL.LES (CENTRE COMERCIAL)",
+          "DESC_PARADA": "C. de Brusel.Les (Centre Comercial)",
           "COD_PARADA": 7091,
           "ID_GRUPO": 1,
           "ID_PARADA": 23253,
@@ -1263,7 +1263,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.DE FRANÇA",
+          "DESC_PARADA": "Pl.De França",
           "COD_PARADA": 8369,
           "ID_GRUPO": 1,
           "ID_PARADA": 7044,
@@ -1291,7 +1291,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ITÀLIA",
+          "DESC_PARADA": "Pl. D´Itàlia",
           "COD_PARADA": 8371,
           "ID_GRUPO": 1,
           "ID_PARADA": 7045,
@@ -1319,7 +1319,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIA D´EUROPA/PTGE. DE JERONI BOADA (VIA EUROPA)",
+          "DESC_PARADA": "Via D´Europa/Ptge. de Jeroni Boada (Via Europa)",
           "COD_PARADA": 8372,
           "ID_GRUPO": 1,
           "ID_PARADA": 7046,
@@ -1347,7 +1347,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. GRANOLLERS/VIA D´EUROPA (PL. GRANOLLERS)",
+          "DESC_PARADA": "Pl. Granollers/Via D´Europa (Pl. Granollers)",
           "COD_PARADA": 8373,
           "ID_GRUPO": 1,
           "ID_PARADA": 7047,
@@ -1375,7 +1375,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / C. DE MIQUEL BIADA",
+          "DESC_PARADA": "Rda. de la República / C. de Miquel Biada",
           "COD_PARADA": 30,
           "ID_GRUPO": 1,
           "ID_PARADA": 7048,
@@ -1403,7 +1403,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. PIZARRO (PL. DR. FLEMING)",
+          "DESC_PARADA": "Camí Ral/C. Pizarro (Pl. Dr. Fleming)",
           "COD_PARADA": 11,
           "ID_GRUPO": 1,
           "ID_PARADA": 7159,
@@ -1431,7 +1431,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (PORTA LAIETANA-TECNOCAMPUS)",
+          "DESC_PARADA": "Camí Ral (Porta Laietana-Tecnocampus)",
           "COD_PARADA": 12,
           "ID_GRUPO": 1,
           "ID_PARADA": 7160,
@@ -1459,7 +1459,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. BARCELONA/C. REMALLAIRE (P. IND. LES HORTES)",
+          "DESC_PARADA": "Ctra. Barcelona/C. Remallaire (P. Ind. les Hortes)",
           "COD_PARADA": 6501,
           "ID_GRUPO": 1,
           "ID_PARADA": 7161,
@@ -1487,7 +1487,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / VIA SÈRGIA (TUBVERD)",
+          "DESC_PARADA": "Ctra. N-II / Via Sèrgia (Tubverd)",
           "COD_PARADA": 19,
           "ID_GRUPO": 1,
           "ID_PARADA": 7162,
@@ -1515,7 +1515,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (CENTRE COMERCIALCARREFOUR)",
+          "DESC_PARADA": "Ctra. N-II (Centre Comercialcarrefour)",
           "COD_PARADA": 21,
           "ID_GRUPO": 1,
           "ID_PARADA": 7163,
@@ -1543,7 +1543,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (URBANITZACIÓ BONAMAR)",
+          "DESC_PARADA": "Ctra. N-II (Urbanització Bonamar)",
           "COD_PARADA": 22,
           "ID_GRUPO": 1,
           "ID_PARADA": 7164,
@@ -1571,7 +1571,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA N-II-RIERA DE CABRERA",
+          "DESC_PARADA": "Ctra N-II-Riera de Cabrera",
           "COD_PARADA": 23,
           "ID_GRUPO": 1,
           "ID_PARADA": 7165,
@@ -1599,7 +1599,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA N-II-AV BURRIAC",
+          "DESC_PARADA": "Ctra N-II-Av Burriac",
           "COD_PARADA": 24,
           "ID_GRUPO": 1,
           "ID_PARADA": 7166,
@@ -1627,7 +1627,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DEL CANONGE ALMERA/C. D´ENRIC GRANADOS",
+          "DESC_PARADA": "C. del Canonge Almera/C. D´Enric Granados",
           "COD_PARADA": 25,
           "ID_GRUPO": 1,
           "ID_PARADA": 7143,
@@ -1655,7 +1655,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL / PL. DE L´AJUNTAMENT",
+          "DESC_PARADA": "Camí Ral / Pl. de L´Ajuntament",
           "COD_PARADA": 26,
           "ID_GRUPO": 1,
           "ID_PARADA": 7144,
@@ -1683,7 +1683,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/TORRENT D´EN CUYÀS",
+          "DESC_PARADA": "Camí Ral/Torrent D´En Cuyàs",
           "COD_PARADA": 27,
           "ID_GRUPO": 1,
           "ID_PARADA": 7091,
@@ -1711,7 +1711,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. CAMP DE MAR (MERCAT DE LA FLOR)",
+          "DESC_PARADA": "Camí Ral/C. Camp de Mar (Mercat de la Flor)",
           "COD_PARADA": 28,
           "ID_GRUPO": 1,
           "ID_PARADA": 7092,
@@ -1739,7 +1739,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE FRANCESC MAS I ABRIL",
+          "DESC_PARADA": "Camí Ral/C. de Francesc Mas i Abril",
           "COD_PARADA": 29,
           "ID_GRUPO": 1,
           "ID_PARADA": 7107,
@@ -1767,7 +1767,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 31,
           "ID_GRUPO": 1,
           "ID_PARADA": 7018,
@@ -1795,7 +1795,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 32,
           "ID_GRUPO": 1,
           "ID_PARADA": 7019,
@@ -1823,7 +1823,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II (CAMPING HISPANO)",
+          "DESC_PARADA": "Ctra. N-II (Camping Hispano)",
           "COD_PARADA": 34,
           "ID_GRUPO": 1,
           "ID_PARADA": 7168,
@@ -1851,7 +1851,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(TORRENT DE L´ASE) PRAT DE LA RIBA/MARE DÉU  NÚRIA",
+          "DESC_PARADA": "(Torrent de L´Ase) Prat de la Riba/Mare Déu  Núria",
           "COD_PARADA": 35,
           "ID_GRUPO": 1,
           "ID_PARADA": 7169,
@@ -1879,7 +1879,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ D´OCATA) PG. DE PRAT DE LA RIBA",
+          "DESC_PARADA": "(Estació D´Ocata) Pg. de Prat de la Riba",
           "COD_PARADA": 36,
           "ID_GRUPO": 1,
           "ID_PARADA": 7032,
@@ -1907,7 +1907,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(MERCAT VELL) BARCELONA / MARE DE DÉU DEL CARME",
+          "DESC_PARADA": "(Mercat Vell) Barcelona / Mare de Déu del Carme",
           "COD_PARADA": 3370,
           "ID_GRUPO": 1,
           "ID_PARADA": 7170,
@@ -1935,7 +1935,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ EL MASNOU) MOSSÈN JACINT VERDAGUER",
+          "DESC_PARADA": "(Estació el Masnou) Mossèn Jacint Verdaguer",
           "COD_PARADA": 37,
           "ID_GRUPO": 1,
           "ID_PARADA": 7171,
@@ -1963,7 +1963,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CAMIL FABRA (CAMPING MASNOU)",
+          "DESC_PARADA": "C. de Camil Fabra (Camping Masnou)",
           "COD_PARADA": 38,
           "ID_GRUPO": 1,
           "ID_PARADA": 7172,
@@ -1991,7 +1991,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CAMIL FABRA (CAN VENTURA)",
+          "DESC_PARADA": "C. de Camil Fabra (Can Ventura)",
           "COD_PARADA": 39,
           "ID_GRUPO": 1,
           "ID_PARADA": 7173,
@@ -2019,7 +2019,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ RODALIES MONTGAT - NORD)",
+          "DESC_PARADA": "Camí Ral (Estació Rodalies Montgat - Nord)",
           "COD_PARADA": 5965,
           "ID_GRUPO": 1,
           "ID_PARADA": 14352,
@@ -2047,7 +2047,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/ESCOLES",
+          "DESC_PARADA": "Camí Ral/Escoles",
           "COD_PARADA": 63,
           "ID_GRUPO": 1,
           "ID_PARADA": 7174,
@@ -2075,7 +2075,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LA VILA / CAMÍ RAL",
+          "DESC_PARADA": "Pl. de la Vila / Camí Ral",
           "COD_PARADA": 5958,
           "ID_GRUPO": 1,
           "ID_PARADA": 14353,
@@ -2103,7 +2103,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARINA/AV. MEDITERRÀNIA (ESTACIÓ DE MONTGAT)",
+          "DESC_PARADA": "Marina/Av. Mediterrània (Estació de Montgat)",
           "COD_PARADA": 42,
           "ID_GRUPO": 1,
           "ID_PARADA": 7176,
@@ -2131,7 +2131,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA MATARÓ-VELÁZQUEZ",
+          "DESC_PARADA": "Ctra Mataró-Velázquez",
           "COD_PARADA": 43,
           "ID_GRUPO": 1,
           "ID_PARADA": 7177,
@@ -2159,7 +2159,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "POMAR DE BAIX/POMPEU FABRA",
+          "DESC_PARADA": "Pomar de Baix/Pompeu Fabra",
           "COD_PARADA": 44,
           "ID_GRUPO": 1,
           "ID_PARADA": 7178,
@@ -2187,7 +2187,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ST.BRU/SEU D´URGELL",
+          "DESC_PARADA": "St.Bru/Seu D´Urgell",
           "COD_PARADA": 45,
           "ID_GRUPO": 1,
           "ID_PARADA": 7179,
@@ -2215,7 +2215,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE L´ASSEMBLEA DE CATALUNYA/TERMES ROMANES",
+          "DESC_PARADA": "Pl. de L´Assemblea de Catalunya/Termes Romanes",
           "COD_PARADA": 4070,
           "ID_GRUPO": 1,
           "ID_PARADA": 7180,
@@ -2243,7 +2243,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "METRO BADALONA POMPEU FABRA",
+          "DESC_PARADA": "Metro Badalona Pompeu Fabra",
           "COD_PARADA": 284,
           "ID_GRUPO": 1,
           "ID_PARADA": 13196,
@@ -2271,7 +2271,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BALDOMER SOLÀ/TORRENT D´EN VALLS",
+          "DESC_PARADA": "Baldomer Solà/Torrent D´En Valls",
           "COD_PARADA": 4060,
           "ID_GRUPO": 1,
           "ID_PARADA": 7181,
@@ -2299,7 +2299,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. D´ALFONS XIII / C. DE PAU CLARIS",
+          "DESC_PARADA": "Av. D´Alfons XIII / C. de Pau Claris",
           "COD_PARADA": 7725,
           "ID_GRUPO": 1,
           "ID_PARADA": 21630,
@@ -2327,7 +2327,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. ALFONS XIII/SANT LLUC",
+          "DESC_PARADA": "Av. Alfons XIII/Sant Lluc",
           "COD_PARADA": 47,
           "ID_GRUPO": 1,
           "ID_PARADA": 7182,
@@ -2355,7 +2355,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(HABILITADA) JUMILLA /  AV. MARESME",
+          "DESC_PARADA": "(Habilitada) Jumilla /  Av. Maresme",
           "COD_PARADA": 48,
           "ID_GRUPO": 1,
           "ID_PARADA": 7183,
@@ -2383,7 +2383,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV PI I MARGALL/AV. CATALUNYA",
+          "DESC_PARADA": "Av Pi i Margall/Av. Catalunya",
           "COD_PARADA": 49,
           "ID_GRUPO": 1,
           "ID_PARADA": 7184,
@@ -2411,7 +2411,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA GUIPÚSCOA/VERNEDA",
+          "DESC_PARADA": "Rbla Guipúscoa/Verneda",
           "COD_PARADA": 51,
           "ID_GRUPO": 1,
           "ID_PARADA": 7185,
@@ -2439,7 +2439,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE  GUIPÚSCOA (METRO LA PAU)",
+          "DESC_PARADA": "Rbla. de  Guipúscoa (Metro la Pau)",
           "COD_PARADA": 4020,
           "ID_GRUPO": 1,
           "ID_PARADA": 7186,
@@ -2467,7 +2467,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RBLA. DE GUIPÚSCOA/PTGE. JOSEP MULA (METRO LA PAU)",
+          "DESC_PARADA": "Rbla. de Guipúscoa/Ptge. Josep Mula (Metro la Pau)",
           "COD_PARADA": 9443,
           "ID_GRUPO": 1,
           "ID_PARADA": 19946,

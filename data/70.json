@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG DE GRÀCIA/C. DE CASP",
+          "DESC_PARADA": "Passeig de Gràcia/C. de Casp",
           "COD_PARADA": 3756,
           "ID_GRUPO": 1,
           "ID_PARADA": 13002,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA PRINCIPAL / PL. DELS GERMANS LLEONARD",
+          "DESC_PARADA": "Riera Principal / Pl. dels Germans Lleonard",
           "COD_PARADA": 310,
           "ID_GRUPO": 1,
           "ID_PARADA": 7272,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CRTA. DEL MASNOU / C. DE LES GUILLERIES",
+          "DESC_PARADA": "Crta. del Masnou / C. de les Guilleries",
           "COD_PARADA": 4506,
           "ID_GRUPO": 1,
           "ID_PARADA": 13015,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE MOSSÈN JACINT VERDAGUER (ESTACIÓ EL MASNOU)",
+          "DESC_PARADA": "C. de Mossèn Jacint Verdaguer (Estació el Masnou)",
           "COD_PARADA": 3350,
           "ID_GRUPO": 1,
           "ID_PARADA": 7203,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE PRAT DE LA RIBA (ESTACIÓ D¿OCATA)",
+          "DESC_PARADA": "Pg. de Prat de la Riba (Estació D¿Ocata)",
           "COD_PARADA": 3360,
           "ID_GRUPO": 1,
           "ID_PARADA": 7204,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. PRAT DE LA RIBA/C. DE LA MARE DE DÉU DE NÚRIA",
+          "DESC_PARADA": "Pg. Prat de la Riba/C. de la Mare de Déu de Núria",
           "COD_PARADA": 260,
           "ID_GRUPO": 1,
           "ID_PARADA": 7205,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY / C. REPUBLICA ARGENTINA",
+          "DESC_PARADA": "Av. President Kennedy / C. Republica Argentina",
           "COD_PARADA": 8402,
           "ID_GRUPO": 1,
           "ID_PARADA": 7300,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY/C. TARRAGONA",
+          "DESC_PARADA": "Av. President Kennedy/C. Tarragona",
           "COD_PARADA": 286,
           "ID_GRUPO": 1,
           "ID_PARADA": 13198,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 3750,
           "ID_GRUPO": 1,
           "ID_PARADA": 7001,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 3740,
           "ID_GRUPO": 1,
           "ID_PARADA": 7208,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. CAMP DE MAR (MERCAT DE LA FLOR)",
+          "DESC_PARADA": "Camí Ral/C. Camp de Mar (Mercat de la Flor)",
           "COD_PARADA": 3720,
           "ID_GRUPO": 1,
           "ID_PARADA": 7093,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE VILASSAR (COMPLEX VICOR)",
+          "DESC_PARADA": "Ronda de Vilassar (Complex Vicor)",
           "COD_PARADA": 534,
           "ID_GRUPO": 1,
           "ID_PARADA": 13483,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. PAU CASALS (CASTILLEJOS)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. Pau Casals (Castillejos)",
           "COD_PARADA": 3870,
           "ID_GRUPO": 1,
           "ID_PARADA": 7128,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / CAMI DE MATARÓ (ST. CRIST)",
+          "DESC_PARADA": "Ctra. de Cabrils / Cami de Mataró (St. Crist)",
           "COD_PARADA": 3820,
           "ID_GRUPO": 1,
           "ID_PARADA": 7131,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. VILASSAR DE DALT/PTGE PARE CLARET (CABRILS2)",
+          "DESC_PARADA": "Ctra. Vilassar de Dalt/Ptge Pare Claret (Cabrils2)",
           "COD_PARADA": 130,
           "ID_GRUPO": 1,
           "ID_PARADA": 13087,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT SEBASTIÀ / C. DE RAMÓN Y CAJAL",
+          "DESC_PARADA": "Av. de Sant Sebastià / C. de Ramón Y Cajal",
           "COD_PARADA": 166,
           "ID_GRUPO": 1,
           "ID_PARADA": 13089,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE  TARGA / C. DE SANT GENÍS",
+          "DESC_PARADA": "Riera de  Targa / C. de Sant Genís",
           "COD_PARADA": 14,
           "ID_GRUPO": 1,
           "ID_PARADA": 7012,
@@ -563,7 +563,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE  TARGA / C. DE SANT GENÍS",
+          "DESC_PARADA": "Riera de  Targa / C. de Sant Genís",
           "COD_PARADA": 14,
           "ID_GRUPO": 1,
           "ID_PARADA": 7012,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CRTA. DE PREMIA DE MAR/MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Crta. de Premia de Mar/Mestre Enric Morera",
           "COD_PARADA": 16,
           "ID_GRUPO": 1,
           "ID_PARADA": 7014,
@@ -619,7 +619,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ILLA FANTASIA",
+          "DESC_PARADA": "Illa Fantasia",
           "COD_PARADA": 18,
           "ID_GRUPO": 1,
           "ID_PARADA": 7015,
@@ -647,7 +647,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -675,7 +675,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 31,
           "ID_GRUPO": 1,
           "ID_PARADA": 7018,
@@ -703,7 +703,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 32,
           "ID_GRUPO": 1,
           "ID_PARADA": 7019,
@@ -731,7 +731,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -759,7 +759,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY /C. DE REUS",
+          "DESC_PARADA": "Av. President Kennedy /C. de Reus",
           "COD_PARADA": 285,
           "ID_GRUPO": 1,
           "ID_PARADA": 13197,
@@ -787,7 +787,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY/C. DE L´URUGUAI (CAN COLOMÉ)",
+          "DESC_PARADA": "Av. President Kennedy/C. de L´Uruguai (Can Colomé)",
           "COD_PARADA": 8399,
           "ID_GRUPO": 1,
           "ID_PARADA": 7265,
@@ -815,7 +815,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(TORRENT DE L´ASE) PRAT DE LA RIBA/MARE DÉU  NÚRIA",
+          "DESC_PARADA": "(Torrent de L´Ase) Prat de la Riba/Mare Déu  Núria",
           "COD_PARADA": 35,
           "ID_GRUPO": 1,
           "ID_PARADA": 7169,
@@ -843,7 +843,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ D´OCATA) PG. DE PRAT DE LA RIBA",
+          "DESC_PARADA": "(Estació D´Ocata) Pg. de Prat de la Riba",
           "COD_PARADA": 36,
           "ID_GRUPO": 1,
           "ID_PARADA": 7032,
@@ -871,7 +871,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ EL MASNOU) MOSSÈN JACINT VERDAGUER",
+          "DESC_PARADA": "(Estació el Masnou) Mossèn Jacint Verdaguer",
           "COD_PARADA": 37,
           "ID_GRUPO": 1,
           "ID_PARADA": 7171,
@@ -899,7 +899,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´AMADEU I / PLAÇA DE LA REINA Mª CRISTINA",
+          "DESC_PARADA": "C. D´Amadeu i / Plaça de la Reina Mª Cristina",
           "COD_PARADA": 3095,
           "ID_GRUPO": 1,
           "ID_PARADA": 7266,
@@ -927,7 +927,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE GRANOLLERS / CARRER DEL MOLÍ",
+          "DESC_PARADA": "Ctra. de Granollers / Carrer del Molí",
           "COD_PARADA": 3222,
           "ID_GRUPO": 1,
           "ID_PARADA": 13006,
@@ -955,7 +955,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DEL MASNOU/C. FERRER I GUÀRDIA (CAN TORRAS)",
+          "DESC_PARADA": "Ctra. del Masnou/C. Ferrer i Guàrdia (Can Torras)",
           "COD_PARADA": 290,
           "ID_GRUPO": 1,
           "ID_PARADA": 7341,
@@ -983,7 +983,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA PRINCIPAL / PL. DELS GERMANS LLEONARD",
+          "DESC_PARADA": "Riera Principal / Pl. dels Germans Lleonard",
           "COD_PARADA": 310,
           "ID_GRUPO": 1,
           "ID_PARADA": 7272,
@@ -1011,7 +1011,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -1039,7 +1039,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE SANT PERE, 11",
+          "DESC_PARADA": "Ronda de Sant Pere, 11",
           "COD_PARADA": 3871,
           "ID_GRUPO": 1,
           "ID_PARADA": 7333,

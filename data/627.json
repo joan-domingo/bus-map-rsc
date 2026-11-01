@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
+          "DESC_PARADA": "Rotonda de les Flors (Illa Fantasia)",
           "COD_PARADA": 3230,
           "ID_GRUPO": 1,
           "ID_PARADA": 7007,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DEL MIG / C. DE L´ABAT MARCET",
+          "DESC_PARADA": "Camí del Mig / C. de L´Abat Marcet",
           "COD_PARADA": 7441,
           "ID_GRUPO": 1,
           "ID_PARADA": 21801,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CASTELLS / PASSATGE CAMÈLIES",
+          "DESC_PARADA": "Torrent Castells / Passatge Camèlies",
           "COD_PARADA": 7442,
           "ID_GRUPO": 1,
           "ID_PARADA": 21803,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRAS I BAGES/TORRENT CASTELLS (BARRI DEL REMEI)",
+          "DESC_PARADA": "Torras i Bages/Torrent Castells (Barri del Remei)",
           "COD_PARADA": 3235,
           "ID_GRUPO": 1,
           "ID_PARADA": 10543,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. VERGE DEL REMEI / CAMÍ ANTIC DE TEIÀ",
+          "DESC_PARADA": "C. Verge del Remei / Camí Antic de Teià",
           "COD_PARADA": 7443,
           "ID_GRUPO": 1,
           "ID_PARADA": 21804,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. FÈLIX MILLET (CEMENTIRI)",
+          "DESC_PARADA": "Av. Fèlix Millet (Cementiri)",
           "COD_PARADA": 9438,
           "ID_GRUPO": 1,
           "ID_PARADA": 25358,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE FÈLIX MILLET / CTRA. DE PREMIÀ DE MAR",
+          "DESC_PARADA": "Av. de Fèlix Millet / Ctra. de Premià de Mar",
           "COD_PARADA": 3810,
           "ID_GRUPO": 1,
           "ID_PARADA": 7110,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´ENLLAÇ (AJUNTAMENT)",
+          "DESC_PARADA": "Ctra. D´Enllaç (Ajuntament)",
           "COD_PARADA": 7444,
           "ID_GRUPO": 1,
           "ID_PARADA": 21805,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´ENLLAÇ / PG. CAN BALET",
+          "DESC_PARADA": "Ctra. D´Enllaç / Pg. Can Balet",
           "COD_PARADA": 3225,
           "ID_GRUPO": 1,
           "ID_PARADA": 7117,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
+          "DESC_PARADA": "Rotonda de les Flors (Illa Fantasia)",
           "COD_PARADA": 3230,
           "ID_GRUPO": 1,
           "ID_PARADA": 7007,

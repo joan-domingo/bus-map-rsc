@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GERMÀ JULI / PRIM",
+          "DESC_PARADA": "Germà Juli / Prim",
           "COD_PARADA": 7110,
           "ID_GRUPO": 1,
           "ID_PARADA": 21645,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT COMPANYS / GERMÀ JULI",
+          "DESC_PARADA": "Av. President Companys / Germà Juli",
           "COD_PARADA": 5778,
           "ID_GRUPO": 1,
           "ID_PARADA": 21646,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (AJUNTAMENT DE MONTGAT)",
+          "DESC_PARADA": "Camí Ral (Ajuntament de Montgat)",
           "COD_PARADA": 4150,
           "ID_GRUPO": 1,
           "ID_PARADA": 7198,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA PRINCIPAL / PL. DELS GERMANS LLEONARD",
+          "DESC_PARADA": "Riera Principal / Pl. dels Germans Lleonard",
           "COD_PARADA": 310,
           "ID_GRUPO": 1,
           "ID_PARADA": 7272,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LES GUILLERIES / C. EMILI POLIT",
+          "DESC_PARADA": "C. de les Guilleries / C. Emili Polit",
           "COD_PARADA": 4648,
           "ID_GRUPO": 1,
           "ID_PARADA": 7351,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. JOAN XXIII / C. EL BERGUEDÀ",
+          "DESC_PARADA": "Av. Joan XXIII / C. el Berguedà",
           "COD_PARADA": 1876,
           "ID_GRUPO": 1,
           "ID_PARADA": 12052,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -255,7 +255,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AVDA. JOAN XXIII / C. EL BERGUEDÀ",
+          "DESC_PARADA": "Avda. Joan XXIII / C. el Berguedà",
           "COD_PARADA": 1324,
           "ID_GRUPO": 1,
           "ID_PARADA": 12046,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LES GUILLERIES/C. EMILI POLIT (BENZINERA)",
+          "DESC_PARADA": "C. de les Guilleries/C. Emili Polit (Benzinera)",
           "COD_PARADA": 3921,
           "ID_GRUPO": 1,
           "ID_PARADA": 7349,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA PRINCIPAL / PL. DELS GERMANS LLEONARD",
+          "DESC_PARADA": "Riera Principal / Pl. dels Germans Lleonard",
           "COD_PARADA": 310,
           "ID_GRUPO": 1,
           "ID_PARADA": 7272,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA CIURANA",
+          "DESC_PARADA": "Plaça Ciurana",
           "COD_PARADA": 5375,
           "ID_GRUPO": 1,
           "ID_PARADA": 21856,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV PRESIDENT COMPANYS/ PL MEDICINA (CAP DR ROBERT)",
+          "DESC_PARADA": "Av President Companys/ Pl Medicina (Cap Dr Robert)",
           "COD_PARADA": 5777,
           "ID_GRUPO": 1,
           "ID_PARADA": 21644,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARTÍ PUJOL, 186 - METRO BADALONA (POMPEU FABRA)",
+          "DESC_PARADA": "Martí Pujol, 186 - Metro Badalona (Pompeu Fabra)",
           "COD_PARADA": 6630,
           "ID_GRUPO": 1,
           "ID_PARADA": 25207,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CENTRE DISMINUÏTS PSÍQUICS",
+          "DESC_PARADA": "Centre Disminuïts Psíquics",
           "COD_PARADA": 5774,
           "ID_GRUPO": 1,
           "ID_PARADA": 21640,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "HOSPITAL CAN RUTI",
+          "DESC_PARADA": "Hospital Can Ruti",
           "COD_PARADA": 5122,
           "ID_GRUPO": 1,
           "ID_PARADA": 21642,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "INSTITUT GUTTMAN",
+          "DESC_PARADA": "Institut Guttman",
           "COD_PARADA": 5776,
           "ID_GRUPO": 1,
           "ID_PARADA": 21643,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "MARTÍ PUJOL, 209 - METRO BADALONA (POMPEU FABRA)",
+          "DESC_PARADA": "Martí Pujol, 209 - Metro Badalona (Pompeu Fabra)",
           "COD_PARADA": 6640,
           "ID_GRUPO": 1,
           "ID_PARADA": 25208,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GERMÀ JULI / PRIM",
+          "DESC_PARADA": "Germà Juli / Prim",
           "COD_PARADA": 7110,
           "ID_GRUPO": 1,
           "ID_PARADA": 21645,

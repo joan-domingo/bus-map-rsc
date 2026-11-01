@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG DE LA RIERA / TORRENT DEL MOLÍ",
+          "DESC_PARADA": "Passeig de la Riera / Torrent del Molí",
           "COD_PARADA": 2278,
           "ID_GRUPO": 1,
           "ID_PARADA": 18213,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. EMPORDÀ",
+          "DESC_PARADA": "Pg. de la Riera / C. Empordà",
           "COD_PARADA": 3300,
           "ID_GRUPO": 1,
           "ID_PARADA": 7023,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. ONZE DE SETEMBRE",
+          "DESC_PARADA": "Pg. de la Riera / C. Onze de Setembre",
           "COD_PARADA": 79,
           "ID_GRUPO": 1,
           "ID_PARADA": 7024,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. CAN BASSOLS",
+          "DESC_PARADA": "Pg. de la Riera / C. Can Bassols",
           "COD_PARADA": 81,
           "ID_GRUPO": 1,
           "ID_PARADA": 7025,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. CATALUNYA (MERCAT)",
+          "DESC_PARADA": "Pg. de la Riera / Pl. Catalunya (Mercat)",
           "COD_PARADA": 82,
           "ID_GRUPO": 1,
           "ID_PARADA": 7026,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. PAU CASALS",
+          "DESC_PARADA": "Pg. de la Riera / C. Pau Casals",
           "COD_PARADA": 83,
           "ID_GRUPO": 1,
           "ID_PARADA": 7027,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA PLANA",
+          "DESC_PARADA": "la Plana",
           "COD_PARADA": 4229,
           "ID_GRUPO": 1,
           "ID_PARADA": 12816,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY / C. LLEIDA",
+          "DESC_PARADA": "Av. President Kennedy / C. Lleida",
           "COD_PARADA": 86,
           "ID_GRUPO": 1,
           "ID_PARADA": 7030,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY /C. DE REUS",
+          "DESC_PARADA": "Av. President Kennedy /C. de Reus",
           "COD_PARADA": 285,
           "ID_GRUPO": 1,
           "ID_PARADA": 13197,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(CAP OCATA) REPÙBLICA ARGENTINA",
+          "DESC_PARADA": "(Cap Ocata) Repùblica Argentina",
           "COD_PARADA": 3651,
           "ID_GRUPO": 1,
           "ID_PARADA": 13900,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(JARDINS DELS PAÏSOS CATALANS) TORRENT DE CAN GAIO",
+          "DESC_PARADA": "(Jardins dels Països Catalans) Torrent de Can Gaio",
           "COD_PARADA": 3652,
           "ID_GRUPO": 1,
           "ID_PARADA": 13901,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(TORRENT DE L´ASE) PRAT DE LA RIBA/MARE DÉU  NÚRIA",
+          "DESC_PARADA": "(Torrent de L´Ase) Prat de la Riba/Mare Déu  Núria",
           "COD_PARADA": 35,
           "ID_GRUPO": 1,
           "ID_PARADA": 7169,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ D´OCATA) PG. DE PRAT DE LA RIBA",
+          "DESC_PARADA": "(Estació D´Ocata) Pg. de Prat de la Riba",
           "COD_PARADA": 36,
           "ID_GRUPO": 1,
           "ID_PARADA": 7032,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(MERCAT VELL) BARCELONA / MARE DE DÉU DEL CARME",
+          "DESC_PARADA": "(Mercat Vell) Barcelona / Mare de Déu del Carme",
           "COD_PARADA": 3370,
           "ID_GRUPO": 1,
           "ID_PARADA": 7170,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "(ESTACIÓ EL MASNOU) MOSSÈN JACINT VERDAGUER",
+          "DESC_PARADA": "(Estació el Masnou) Mossèn Jacint Verdaguer",
           "COD_PARADA": 37,
           "ID_GRUPO": 1,
           "ID_PARADA": 7171,
@@ -490,7 +490,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE PRAT DE LA RIBA (ESTACIÓ D¿OCATA)",
+          "DESC_PARADA": "Pg. de Prat de la Riba (Estació D¿Ocata)",
           "COD_PARADA": 3360,
           "ID_GRUPO": 1,
           "ID_PARADA": 7204,
@@ -518,7 +518,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. PRAT DE LA RIBA/C. DE LA MARE DE DÉU DE NÚRIA",
+          "DESC_PARADA": "Pg. Prat de la Riba/C. de la Mare de Déu de Núria",
           "COD_PARADA": 260,
           "ID_GRUPO": 1,
           "ID_PARADA": 7205,
@@ -546,7 +546,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY / C. REPUBLICA ARGENTINA",
+          "DESC_PARADA": "Av. President Kennedy / C. Republica Argentina",
           "COD_PARADA": 8402,
           "ID_GRUPO": 1,
           "ID_PARADA": 7300,
@@ -574,7 +574,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY/C. TARRAGONA",
+          "DESC_PARADA": "Av. President Kennedy/C. Tarragona",
           "COD_PARADA": 286,
           "ID_GRUPO": 1,
           "ID_PARADA": 13198,
@@ -602,7 +602,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. PRESIDENT KENNEDY / C. VÍCTOR FONT GUAL",
+          "DESC_PARADA": "Av. President Kennedy / C. Víctor Font Gual",
           "COD_PARADA": 8319,
           "ID_GRUPO": 1,
           "ID_PARADA": 7031,
@@ -630,7 +630,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -658,7 +658,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LA PLANA",
+          "DESC_PARADA": "la Plana",
           "COD_PARADA": 8967,
           "ID_GRUPO": 1,
           "ID_PARADA": 10428,
@@ -686,7 +686,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAN LLAURADOR",
+          "DESC_PARADA": "Can Llaurador",
           "COD_PARADA": 9473,
           "ID_GRUPO": 1,
           "ID_PARADA": 10540,
@@ -714,7 +714,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. PAU CASALS",
+          "DESC_PARADA": "Pg. de la Riera / C. Pau Casals",
           "COD_PARADA": 3310,
           "ID_GRUPO": 1,
           "ID_PARADA": 7038,
@@ -742,7 +742,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. CATALUNYA (MERCAT)",
+          "DESC_PARADA": "Pg. de la Riera / Pl. Catalunya (Mercat)",
           "COD_PARADA": 3320,
           "ID_GRUPO": 1,
           "ID_PARADA": 7039,
@@ -770,7 +770,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PARC CAN GODÓ",
+          "DESC_PARADA": "Pg. de la Riera / Parc Can Godó",
           "COD_PARADA": 3330,
           "ID_GRUPO": 1,
           "ID_PARADA": 7040,
@@ -798,7 +798,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / TORRENT CAN MÓRA",
+          "DESC_PARADA": "Pg. de la Riera / Torrent Can Móra",
           "COD_PARADA": 3340,
           "ID_GRUPO": 1,
           "ID_PARADA": 7041,
@@ -826,7 +826,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / C. EMPORDÀ",
+          "DESC_PARADA": "Pg. de la Riera / C. Empordà",
           "COD_PARADA": 2356,
           "ID_GRUPO": 1,
           "ID_PARADA": 18214,
@@ -854,7 +854,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG DE LA RIERA / TORRENT DEL MOLÍ",
+          "DESC_PARADA": "Passeig de la Riera / Torrent del Molí",
           "COD_PARADA": 2278,
           "ID_GRUPO": 1,
           "ID_PARADA": 18213,

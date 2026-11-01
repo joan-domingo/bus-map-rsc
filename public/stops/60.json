@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "LA RIERA (CAN BENET)",
+      "DESC_PARADA": "la Riera (Can Benet)",
       "COD_PARADA": 886,
       "ID_GRUPO": 1,
       "ID_PARADA": 18066,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(EL CASTELLET) AV. DE L´ONZE DE SETEMBRE",
+      "DESC_PARADA": "(El Castellet) Av. de L´Onze de Setembre",
       "COD_PARADA": 8318,
       "ID_GRUPO": 1,
       "ID_PARADA": 7327,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(AGRÍCOLA DE CABRERA) AV. DE L´ONZE DE SETEMBRE",
+      "DESC_PARADA": "(Agrícola de Cabrera) Av. de L´Onze de Setembre",
       "COD_PARADA": 9695,
       "ID_GRUPO": 1,
       "ID_PARADA": 10515,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. D´ARGENTONA (EL NOU GARDEN)",
+      "DESC_PARADA": "Ctra. D´Argentona (El Nou Garden)",
       "COD_PARADA": 3931,
       "ID_GRUPO": 1,
       "ID_PARADA": 10513,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA D´ARGENTONA/AV. ARQUITECTE EDUARD F.(PISCINA)",
+      "DESC_PARADA": "Ctra D´Argentona/Av. Arquitecte Eduard F.(Piscina)",
       "COD_PARADA": 5824,
       "ID_GRUPO": 1,
       "ID_PARADA": 7328,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RDA. CATALUNYA  (CEIP PLA DE L´AVELLÀ)",
+      "DESC_PARADA": "Rda. Catalunya  (Ceip Pla de L´Avellà)",
       "COD_PARADA": 1980,
       "ID_GRUPO": 1,
       "ID_PARADA": 14198,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "RAMBLA DELS VINYALS/C. DEL PLA DEL MOLÍ",
+      "DESC_PARADA": "Rambla dels Vinyals/C. del Pla del Molí",
       "COD_PARADA": 3932,
       "ID_GRUPO": 1,
       "ID_PARADA": 13487,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BAIXADOR CABRERA DE MAR-VILASSAR DE MAR",
+      "DESC_PARADA": "Baixador Cabrera de Mar-Vilassar de Mar",
       "COD_PARADA": 5828,
       "ID_GRUPO": 1,
       "ID_PARADA": 7322,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. N-II/AV. BURRIAC (LIDL)",
+      "DESC_PARADA": "Ctra. N-II/Av. Burriac (Lidl)",
       "COD_PARADA": 3680,
       "ID_GRUPO": 1,
       "ID_PARADA": 7210,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. N-II (URBANITZACIÓ BONAMAR)",
+      "DESC_PARADA": "Ctra. N-II (Urbanització Bonamar)",
       "COD_PARADA": 3660,
       "ID_GRUPO": 1,
       "ID_PARADA": 7212,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. ILLES PITIÜSES (POL. STA. MARGARIDA)",
+      "DESC_PARADA": "C. Illes Pitiüses (Pol. Sta. Margarida)",
       "COD_PARADA": 213,
       "ID_GRUPO": 1,
       "ID_PARADA": 13125,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CENTRE COMERCIAL CABRERA",
+      "DESC_PARADA": "Centre Comercial Cabrera",
       "COD_PARADA": 214,
       "ID_GRUPO": 1,
       "ID_PARADA": 13124,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CRTA. D´ARGENTONA/C. CRISTÒFOL COLOM",
+      "DESC_PARADA": "Crta. D´Argentona/C. Cristòfol Colom",
       "COD_PARADA": 5856,
       "ID_GRUPO": 1,
       "ID_PARADA": 7323,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BURRIAC / RDA. CATALUNYA (C. T. LA GENERA)",
+      "DESC_PARADA": "Av. Burriac / Rda. Catalunya (C. T. la Genera)",
       "COD_PARADA": 5825,
       "ID_GRUPO": 1,
       "ID_PARADA": 7324,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA D´ARGENTONA/AV. ARQUITECTE EDUARD F.(PISCINA)",
+      "DESC_PARADA": "Ctra D´Argentona/Av. Arquitecte Eduard F.(Piscina)",
       "COD_PARADA": 5857,
       "ID_GRUPO": 1,
       "ID_PARADA": 7325,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. D´ARGENTONA (EL NOU GARDEN)",
+      "DESC_PARADA": "Ctra. D´Argentona (El Nou Garden)",
       "COD_PARADA": 8315,
       "ID_GRUPO": 1,
       "ID_PARADA": 7097,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(AGRÍCOLA DE CABRERA) AV. DE L´ONZE DE SETEMBRE",
+      "DESC_PARADA": "(Agrícola de Cabrera) Av. de L´Onze de Setembre",
       "COD_PARADA": 9694,
       "ID_GRUPO": 1,
       "ID_PARADA": 10514,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(EL CASTELLET) AV. DE L´ONZE DE SETEMBRE",
+      "DESC_PARADA": "(El Castellet) Av. de L´Onze de Setembre",
       "COD_PARADA": 8317,
       "ID_GRUPO": 1,
       "ID_PARADA": 7326,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(AJUNTAMENT) AV. PARE JAUME CATALÀ",
+      "DESC_PARADA": "(Ajuntament) Av. Pare Jaume Català",
       "COD_PARADA": 3929,
       "ID_GRUPO": 1,
       "ID_PARADA": 10510,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORRENT SANT FELIU/PTGE. CAN FONTANALS",
+      "DESC_PARADA": "Torrent Sant Feliu/Ptge. Can Fontanals",
       "COD_PARADA": 1920,
       "ID_GRUPO": 1,
       "ID_PARADA": 14129,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ST. JOAN DE MUNT) C. POMPEU FABRA/C. ST. JOAN",
+      "DESC_PARADA": "(St. Joan de Munt) C. Pompeu Fabra/C. St. Joan",
       "COD_PARADA": 582,
       "ID_GRUPO": 1,
       "ID_PARADA": 10520,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(PLAÇA DEL POBLE) C. ANSELM CLAVÉ",
+      "DESC_PARADA": "(Plaça del Poble) C. Anselm Clavé",
       "COD_PARADA": 583,
       "ID_GRUPO": 1,
       "ID_PARADA": 10525,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. ILLES PITIÜSES (POL. STA. MARGARIDA)",
+      "DESC_PARADA": "C. Illes Pitiüses (Pol. Sta. Margarida)",
       "COD_PARADA": 215,
       "ID_GRUPO": 1,
       "ID_PARADA": 13127,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. N-II (URBANITZACIÓ BONAMAR)",
+      "DESC_PARADA": "Ctra. N-II (Urbanització Bonamar)",
       "COD_PARADA": 22,
       "ID_GRUPO": 1,
       "ID_PARADA": 7164,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. BURRIAC/CTRA. N-II (PLA DE L´AVELLÀ)",
+      "DESC_PARADA": "Av. Burriac/Ctra. N-II (Pla de L´Avellà)",
       "COD_PARADA": 216,
       "ID_GRUPO": 1,
       "ID_PARADA": 13128,

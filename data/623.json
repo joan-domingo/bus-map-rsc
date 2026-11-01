@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JOAN XXIII / PLAÇA DEL MOLÍ",
+          "DESC_PARADA": "C. de Joan XXIII / Plaça del Molí",
           "COD_PARADA": 3358,
           "ID_GRUPO": 1,
           "ID_PARADA": 21766,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PUIG I CADAFALCH / C. DE BARCELONA",
+          "DESC_PARADA": "Av. de Puig i Cadafalch / C. de Barcelona",
           "COD_PARADA": 3359,
           "ID_GRUPO": 1,
           "ID_PARADA": 21767,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE VILASSAR B-502 (ESCOLA BRESSOL)",
+          "DESC_PARADA": "Ctra. de Vilassar B-502 (Escola Bressol)",
           "COD_PARADA": 65,
           "ID_GRUPO": 1,
           "ID_PARADA": 7136,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. B-502 (EL SINDICAT)",
+          "DESC_PARADA": "Ctra. B-502 (El Sindicat)",
           "COD_PARADA": 69,
           "ID_GRUPO": 1,
           "ID_PARADA": 7140,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -171,7 +171,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -199,7 +199,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SINDICAT AGRÍCOLA",
+          "DESC_PARADA": "Sindicat Agrícola",
           "COD_PARADA": 3930,
           "ID_GRUPO": 1,
           "ID_PARADA": 7086,
@@ -227,7 +227,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE PUIG I CADAFALCH (ROT. DEL PI GROS)",
+          "DESC_PARADA": "Av. de Puig i Cadafalch (Rot. del Pi Gros)",
           "COD_PARADA": 3361,
           "ID_GRUPO": 1,
           "ID_PARADA": 7156,
@@ -255,7 +255,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE JOAN XXIII / PLAÇA DEL MOLÍ",
+          "DESC_PARADA": "C. de Joan XXIII / Plaça del Molí",
           "COD_PARADA": 3358,
           "ID_GRUPO": 1,
           "ID_PARADA": 21766,

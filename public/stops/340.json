@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "(LLUÍS COMPANYS) BERGUEDÀ / JOAN XXIII",
+      "DESC_PARADA": "(Lluís Companys) Berguedà / Joan XXIII",
       "COD_PARADA": 3641,
       "ID_GRUPO": 1,
       "ID_PARADA": 13891,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(CEMENTIRI) JOAN XXIII / GUILLERIES",
+      "DESC_PARADA": "(Cementiri) Joan XXIII / Guilleries",
       "COD_PARADA": 3659,
       "ID_GRUPO": 1,
       "ID_PARADA": 13909,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(PINETONS) JOAN XXIII / PL. ONZE DE SETEMBRE",
+      "DESC_PARADA": "(Pinetons) Joan XXIII / Pl. Onze de Setembre",
       "COD_PARADA": 3658,
       "ID_GRUPO": 1,
       "ID_PARADA": 13908,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(JOAN XXIII) JOAN XXIII / ITÀLIA",
+      "DESC_PARADA": "(Joan XXIII) Joan XXIII / Itàlia",
       "COD_PARADA": 3657,
       "ID_GRUPO": 1,
       "ID_PARADA": 13907,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(PLAÇA NOVA) ITÀLIA / ROGER DE FLOR",
+      "DESC_PARADA": "(Plaça Nova) Itàlia / Roger de Flor",
       "COD_PARADA": 3644,
       "ID_GRUPO": 1,
       "ID_PARADA": 13894,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(PINTOR DOMÈNECH) PINTOR DOMÈNECH / FLOS I CALCAT",
+      "DESC_PARADA": "(Pintor Domènech) Pintor Domènech / Flos i Calcat",
       "COD_PARADA": 9437,
       "ID_GRUPO": 1,
       "ID_PARADA": 25357,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(FONTANILLS) FONTANILLS / DR. JOSEP AGELL",
+      "DESC_PARADA": "(Fontanills) Fontanills / Dr. Josep Agell",
       "COD_PARADA": 3646,
       "ID_GRUPO": 1,
       "ID_PARADA": 13896,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MIL.LENARI) FONTANILLS / MARE DE DÉU DE NÚRIA",
+      "DESC_PARADA": "(Mil.Lenari) Fontanills / Mare de Déu de Núria",
       "COD_PARADA": 3647,
       "ID_GRUPO": 1,
       "ID_PARADA": 13897,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(CAP OCATA) REPÙBLICA ARGENTINA",
+      "DESC_PARADA": "(Cap Ocata) Repùblica Argentina",
       "COD_PARADA": 3651,
       "ID_GRUPO": 1,
       "ID_PARADA": 13900,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(JARDINS DELS PAÏSOS CATALANS) TORRENT DE CAN GAIO",
+      "DESC_PARADA": "(Jardins dels Països Catalans) Torrent de Can Gaio",
       "COD_PARADA": 3652,
       "ID_GRUPO": 1,
       "ID_PARADA": 13901,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(TORRENT DE L´ASE) PRAT DE LA RIBA/MARE DÉU  NÚRIA",
+      "DESC_PARADA": "(Torrent de L´Ase) Prat de la Riba/Mare Déu  Núria",
       "COD_PARADA": 35,
       "ID_GRUPO": 1,
       "ID_PARADA": 7169,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ESTACIÓ D´OCATA) PG. DE PRAT DE LA RIBA",
+      "DESC_PARADA": "(Estació D´Ocata) Pg. de Prat de la Riba",
       "COD_PARADA": 36,
       "ID_GRUPO": 1,
       "ID_PARADA": 7032,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MERCAT VELL) BARCELONA / MARE DE DÉU DEL CARME",
+      "DESC_PARADA": "(Mercat Vell) Barcelona / Mare de Déu del Carme",
       "COD_PARADA": 3370,
       "ID_GRUPO": 1,
       "ID_PARADA": 7170,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ESTACIÓ EL MASNOU) MOSSÈN JACINT VERDAGUER",
+      "DESC_PARADA": "(Estació el Masnou) Mossèn Jacint Verdaguer",
       "COD_PARADA": 37,
       "ID_GRUPO": 1,
       "ID_PARADA": 7171,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(RIERA D´ALELLA) AMADEU I / NAVARRA",
+      "DESC_PARADA": "(Riera D´Alella) Amadeu i / Navarra",
       "COD_PARADA": 3653,
       "ID_GRUPO": 1,
       "ID_PARADA": 13903,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(SANT JORDI) NAVARRA / MIQUEL BIADA",
+      "DESC_PARADA": "(Sant Jordi) Navarra / Miquel Biada",
       "COD_PARADA": 3654,
       "ID_GRUPO": 1,
       "ID_PARADA": 13904,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(CAP EL MASNOU) NAVARRA / POMPEU FABRA",
+      "DESC_PARADA": "(Cap el Masnou) Navarra / Pompeu Fabra",
       "COD_PARADA": 3655,
       "ID_GRUPO": 1,
       "ID_PARADA": 13905,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(NAVARRA) NAVARRA / JOAN XXIII",
+      "DESC_PARADA": "(Navarra) Navarra / Joan XXIII",
       "COD_PARADA": 3656,
       "ID_GRUPO": 1,
       "ID_PARADA": 13906,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "NAVARRA / ROMAN FABRA (ROMAN FABRA)",
+      "DESC_PARADA": "Navarra / Roman Fabra (Roman Fabra)",
       "COD_PARADA": 5964,
       "ID_GRUPO": 1,
       "ID_PARADA": 7005,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(MERCAT) ROMAN FABRA / ITÀLIA",
+      "DESC_PARADA": "(Mercat) Roman Fabra / Itàlia",
       "COD_PARADA": 3643,
       "ID_GRUPO": 1,
       "ID_PARADA": 13893,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(VALLMORA) PAU CASALS / SANT CRISPÍ",
+      "DESC_PARADA": "(Vallmora) Pau Casals / Sant Crispí",
       "COD_PARADA": 3642,
       "ID_GRUPO": 1,
       "ID_PARADA": 13892,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PG. DE PAU CLARIS / PLAÇA RAMON I CAJAL",
+      "DESC_PARADA": "Pg. de Pau Claris / Plaça Ramon i Cajal",
       "COD_PARADA": 8943,
       "ID_GRUPO": 1,
       "ID_PARADA": 10429,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(ALMERIA) ALMERÍA / JOAN XXIII",
+      "DESC_PARADA": "(Almeria) Almería / Joan XXIII",
       "COD_PARADA": 3661,
       "ID_GRUPO": 1,
       "ID_PARADA": 13910,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "(VIENESOS) BERGUEDÀ / POLLACRA GOLETA CONSTANÇA",
+      "DESC_PARADA": "(Vienesos) Berguedà / Pollacra Goleta Constança",
       "COD_PARADA": 3662,
       "ID_GRUPO": 1,
       "ID_PARADA": 13911,

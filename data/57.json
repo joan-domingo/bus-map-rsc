@@ -17,7 +17,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,
@@ -45,7 +45,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.DE FRANÇA",
+          "DESC_PARADA": "Pl.De França",
           "COD_PARADA": 8369,
           "ID_GRUPO": 1,
           "ID_PARADA": 7044,
@@ -73,7 +73,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ITÀLIA",
+          "DESC_PARADA": "Pl. D´Itàlia",
           "COD_PARADA": 8371,
           "ID_GRUPO": 1,
           "ID_PARADA": 7045,
@@ -101,7 +101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIA D´EUROPA/PTGE. DE JERONI BOADA (VIA EUROPA)",
+          "DESC_PARADA": "Via D´Europa/Ptge. de Jeroni Boada (Via Europa)",
           "COD_PARADA": 8372,
           "ID_GRUPO": 1,
           "ID_PARADA": 7046,
@@ -129,7 +129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. GRANOLLERS/VIA D´EUROPA (PL. GRANOLLERS)",
+          "DESC_PARADA": "Pl. Granollers/Via D´Europa (Pl. Granollers)",
           "COD_PARADA": 8373,
           "ID_GRUPO": 1,
           "ID_PARADA": 7047,
@@ -157,7 +157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE LA GEGANTA (PARC CENTRAL)",
+          "DESC_PARADA": "Camí de la Geganta (Parc Central)",
           "COD_PARADA": 7471,
           "ID_GRUPO": 1,
           "ID_PARADA": 21707,
@@ -185,7 +185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA D´ALFONS X EL SAVI (CABANELLAS)",
+          "DESC_PARADA": "Ronda D´Alfons X el Savi (Cabanellas)",
           "COD_PARADA": 7472,
           "ID_GRUPO": 1,
           "ID_PARADA": 21708,
@@ -213,7 +213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE CERVANTES (ESCORXADOR)",
+          "DESC_PARADA": "Ronda de Cervantes (Escorxador)",
           "COD_PARADA": 7473,
           "ID_GRUPO": 1,
           "ID_PARADA": 21710,
@@ -241,7 +241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (SANT SIMÓ)",
+          "DESC_PARADA": "Camí Ral (Sant Simó)",
           "COD_PARADA": 7928,
           "ID_GRUPO": 1,
           "ID_PARADA": 7053,
@@ -269,7 +269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAL PILÉ",
+          "DESC_PARADA": "Ctra. N-II / Cal Pilé",
           "COD_PARADA": 3560,
           "ID_GRUPO": 1,
           "ID_PARADA": 7054,
@@ -297,7 +297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / C. DE TORRENT FORCAT (DELFÍ)",
+          "DESC_PARADA": "Ctra. N-II / C. de Torrent Forcat (Delfí)",
           "COD_PARADA": 3550,
           "ID_GRUPO": 1,
           "ID_PARADA": 7055,
@@ -325,7 +325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ DE CAN MERCER",
+          "DESC_PARADA": "Ctra. N-II / Camí de Can Mercer",
           "COD_PARADA": 3540,
           "ID_GRUPO": 1,
           "ID_PARADA": 7056,
@@ -353,7 +353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ TORRE DORDA (CÀMPING BARCELONA)",
+          "DESC_PARADA": "Ctra. N-II / Camí Torre Dorda (Càmping Barcelona)",
           "COD_PARADA": 3530,
           "ID_GRUPO": 1,
           "ID_PARADA": 7057,
@@ -381,7 +381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ DEL PLA DE TORRETA (LA MARINADA)",
+          "DESC_PARADA": "Ctra. N-II / Camí del Pla de Torreta (La Marinada)",
           "COD_PARADA": 3520,
           "ID_GRUPO": 1,
           "ID_PARADA": 7058,
@@ -409,7 +409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT ANDREU DE LLAVANERES (ESTACIÓ RODALIES)",
+          "DESC_PARADA": "Sant Andreu de Llavaneres (Estació Rodalies)",
           "COD_PARADA": 3510,
           "ID_GRUPO": 1,
           "ID_PARADA": 7059,
@@ -437,7 +437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU/C. DE ST. PERE",
+          "DESC_PARADA": "Av. de St. Andreu/C. de St. Pere",
           "COD_PARADA": 3500,
           "ID_GRUPO": 1,
           "ID_PARADA": 7060,
@@ -465,7 +465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.DE ST.ANDREU/CAMÍ DE CAN PI (LES LLOSES)",
+          "DESC_PARADA": "Av.De St.Andreu/Camí de Can Pi (Les Lloses)",
           "COD_PARADA": 3490,
           "ID_GRUPO": 1,
           "ID_PARADA": 7061,
@@ -493,7 +493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST.ANDREU/CAMÍ MASIA",
+          "DESC_PARADA": "Av. de St.Andreu/Camí Masia",
           "COD_PARADA": 3480,
           "ID_GRUPO": 1,
           "ID_PARADA": 7062,
@@ -521,7 +521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT ANDREU (ESCOLA SERENA VALL)",
+          "DESC_PARADA": "Av. de Sant Andreu (Escola Serena Vall)",
           "COD_PARADA": 4231,
           "ID_GRUPO": 1,
           "ID_PARADA": 12817,
@@ -549,7 +549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  ST.ANDREU/PTGE. MASSORRA (LA CREU)",
+          "DESC_PARADA": "Av. de  St.Andreu/Ptge. Massorra (La Creu)",
           "COD_PARADA": 3470,
           "ID_GRUPO": 1,
           "ID_PARADA": 7063,
@@ -577,7 +577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  CATALUNYA / C. DE CLÒSENS",
+          "DESC_PARADA": "Av. de  Catalunya / C. de Clòsens",
           "COD_PARADA": 3460,
           "ID_GRUPO": 1,
           "ID_PARADA": 7064,
@@ -605,7 +605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. DE ROCA FERRERA (CAN PASSI)",
+          "DESC_PARADA": "BV-5031 / Av. de Roca Ferrera (Can Passi)",
           "COD_PARADA": 3450,
           "ID_GRUPO": 1,
           "ID_PARADA": 7065,
@@ -633,7 +633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 (CAN FERRAN)",
+          "DESC_PARADA": "BV-5031 (Can Ferran)",
           "COD_PARADA": 3440,
           "ID_GRUPO": 1,
           "ID_PARADA": 7066,
@@ -661,7 +661,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. SUPERMARESME",
+          "DESC_PARADA": "BV-5031 / Av. Supermaresme",
           "COD_PARADA": 3430,
           "ID_GRUPO": 1,
           "ID_PARADA": 7067,
@@ -689,7 +689,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. DE MONTALMAR",
+          "DESC_PARADA": "BV-5031 / Av. de Montalmar",
           "COD_PARADA": 4829,
           "ID_GRUPO": 1,
           "ID_PARADA": 7068,
@@ -717,7 +717,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / C. MAJOR (CAN CINTO)",
+          "DESC_PARADA": "BV-5031 / C. Major (Can Cinto)",
           "COD_PARADA": 3410,
           "ID_GRUPO": 1,
           "ID_PARADA": 7069,
@@ -745,7 +745,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / C. MAJOR (CAN CINTO)",
+          "DESC_PARADA": "BV-5031 / C. Major (Can Cinto)",
           "COD_PARADA": 3410,
           "ID_GRUPO": 1,
           "ID_PARADA": 7069,
@@ -773,7 +773,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. DE MONTALMAR",
+          "DESC_PARADA": "BV-5031 / Av. de Montalmar",
           "COD_PARADA": 4831,
           "ID_GRUPO": 1,
           "ID_PARADA": 7070,
@@ -801,7 +801,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. SUPERMARESME",
+          "DESC_PARADA": "BV-5031 / Av. Supermaresme",
           "COD_PARADA": 4832,
           "ID_GRUPO": 1,
           "ID_PARADA": 7071,
@@ -829,7 +829,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-56031 (CAN FERRAN)",
+          "DESC_PARADA": "BV-56031 (Can Ferran)",
           "COD_PARADA": 4843,
           "ID_GRUPO": 1,
           "ID_PARADA": 7072,
@@ -857,7 +857,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BV-5031 / AV. DE LA ROCA FERRERA (CAN PASSI)",
+          "DESC_PARADA": "BV-5031 / Av. de la Roca Ferrera (Can Passi)",
           "COD_PARADA": 52,
           "ID_GRUPO": 1,
           "ID_PARADA": 7073,
@@ -885,7 +885,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. CATALUNYA/C. CLÒSENS",
+          "DESC_PARADA": "Av. Catalunya/C. Clòsens",
           "COD_PARADA": 53,
           "ID_GRUPO": 1,
           "ID_PARADA": 7074,
@@ -913,7 +913,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU / PTGE. MASSORRA (LA CREU)",
+          "DESC_PARADA": "Av. de St. Andreu / Ptge. Massorra (La Creu)",
           "COD_PARADA": 54,
           "ID_GRUPO": 1,
           "ID_PARADA": 7075,
@@ -941,7 +941,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT ANDREU (ZONA ESPORTIVA-E. SERENA VALL)",
+          "DESC_PARADA": "Av. de Sant Andreu (Zona Esportiva-E. Serena Vall)",
           "COD_PARADA": 4245,
           "ID_GRUPO": 1,
           "ID_PARADA": 12818,
@@ -969,7 +969,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU / CAMÍ MASIA",
+          "DESC_PARADA": "Av. de St. Andreu / Camí Masia",
           "COD_PARADA": 55,
           "ID_GRUPO": 1,
           "ID_PARADA": 7076,
@@ -997,7 +997,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BRUSEL.LES (CENTRE COMERCIAL)",
+          "DESC_PARADA": "C. de Brusel.Les (Centre Comercial)",
           "COD_PARADA": 7091,
           "ID_GRUPO": 1,
           "ID_PARADA": 23253,
@@ -1025,7 +1025,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,
@@ -1073,7 +1073,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,
@@ -1101,7 +1101,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.DE FRANÇA",
+          "DESC_PARADA": "Pl.De França",
           "COD_PARADA": 8369,
           "ID_GRUPO": 1,
           "ID_PARADA": 7044,
@@ -1129,7 +1129,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. D´ITÀLIA",
+          "DESC_PARADA": "Pl. D´Itàlia",
           "COD_PARADA": 8371,
           "ID_GRUPO": 1,
           "ID_PARADA": 7045,
@@ -1157,7 +1157,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIA D´EUROPA/PTGE. DE JERONI BOADA (VIA EUROPA)",
+          "DESC_PARADA": "Via D´Europa/Ptge. de Jeroni Boada (Via Europa)",
           "COD_PARADA": 8372,
           "ID_GRUPO": 1,
           "ID_PARADA": 7046,
@@ -1185,7 +1185,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. GRANOLLERS/VIA D´EUROPA (PL. GRANOLLERS)",
+          "DESC_PARADA": "Pl. Granollers/Via D´Europa (Pl. Granollers)",
           "COD_PARADA": 8373,
           "ID_GRUPO": 1,
           "ID_PARADA": 7047,
@@ -1213,7 +1213,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE LA GEGANTA (PARC CENTRAL)",
+          "DESC_PARADA": "Camí de la Geganta (Parc Central)",
           "COD_PARADA": 7471,
           "ID_GRUPO": 1,
           "ID_PARADA": 21707,
@@ -1241,7 +1241,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA D´ALFONS X EL SAVI (CABANELLAS)",
+          "DESC_PARADA": "Ronda D´Alfons X el Savi (Cabanellas)",
           "COD_PARADA": 7472,
           "ID_GRUPO": 1,
           "ID_PARADA": 21708,
@@ -1269,7 +1269,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE CERVANTES (ESCORXADOR)",
+          "DESC_PARADA": "Ronda de Cervantes (Escorxador)",
           "COD_PARADA": 7473,
           "ID_GRUPO": 1,
           "ID_PARADA": 21710,
@@ -1297,7 +1297,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (SANT SIMÓ)",
+          "DESC_PARADA": "Camí Ral (Sant Simó)",
           "COD_PARADA": 7928,
           "ID_GRUPO": 1,
           "ID_PARADA": 7053,
@@ -1325,7 +1325,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAL PILÉ",
+          "DESC_PARADA": "Ctra. N-II / Cal Pilé",
           "COD_PARADA": 3560,
           "ID_GRUPO": 1,
           "ID_PARADA": 7054,
@@ -1353,7 +1353,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / C. DE TORRENT FORCAT (DELFÍ)",
+          "DESC_PARADA": "Ctra. N-II / C. de Torrent Forcat (Delfí)",
           "COD_PARADA": 3550,
           "ID_GRUPO": 1,
           "ID_PARADA": 7055,
@@ -1381,7 +1381,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ DE CAN MERCER",
+          "DESC_PARADA": "Ctra. N-II / Camí de Can Mercer",
           "COD_PARADA": 3540,
           "ID_GRUPO": 1,
           "ID_PARADA": 7056,
@@ -1409,7 +1409,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ TORRE DORDA (CÀMPING BARCELONA)",
+          "DESC_PARADA": "Ctra. N-II / Camí Torre Dorda (Càmping Barcelona)",
           "COD_PARADA": 3530,
           "ID_GRUPO": 1,
           "ID_PARADA": 7057,
@@ -1437,7 +1437,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. N-II / CAMÍ DEL PLA DE TORRETA (LA MARINADA)",
+          "DESC_PARADA": "Ctra. N-II / Camí del Pla de Torreta (La Marinada)",
           "COD_PARADA": 3520,
           "ID_GRUPO": 1,
           "ID_PARADA": 7058,
@@ -1465,7 +1465,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANT ANDREU DE LLAVANERES (ESTACIÓ RODALIES)",
+          "DESC_PARADA": "Sant Andreu de Llavaneres (Estació Rodalies)",
           "COD_PARADA": 3510,
           "ID_GRUPO": 1,
           "ID_PARADA": 7059,
@@ -1493,7 +1493,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU/C. DE ST. PERE",
+          "DESC_PARADA": "Av. de St. Andreu/C. de St. Pere",
           "COD_PARADA": 3500,
           "ID_GRUPO": 1,
           "ID_PARADA": 7060,
@@ -1521,7 +1521,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV.DE ST.ANDREU/CAMÍ DE CAN PI (LES LLOSES)",
+          "DESC_PARADA": "Av.De St.Andreu/Camí de Can Pi (Les Lloses)",
           "COD_PARADA": 3490,
           "ID_GRUPO": 1,
           "ID_PARADA": 7061,
@@ -1549,7 +1549,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST.ANDREU/CAMÍ MASIA",
+          "DESC_PARADA": "Av. de St.Andreu/Camí Masia",
           "COD_PARADA": 3480,
           "ID_GRUPO": 1,
           "ID_PARADA": 7062,
@@ -1577,7 +1577,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT ANDREU (ESCOLA SERENA VALL)",
+          "DESC_PARADA": "Av. de Sant Andreu (Escola Serena Vall)",
           "COD_PARADA": 4231,
           "ID_GRUPO": 1,
           "ID_PARADA": 12817,
@@ -1605,7 +1605,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  ST.ANDREU/PTGE. MASSORRA (LA CREU)",
+          "DESC_PARADA": "Av. de  St.Andreu/Ptge. Massorra (La Creu)",
           "COD_PARADA": 3470,
           "ID_GRUPO": 1,
           "ID_PARADA": 7063,
@@ -1633,7 +1633,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE  CATALUNYA / C. DE CLÒSENS",
+          "DESC_PARADA": "Av. de  Catalunya / C. de Clòsens",
           "COD_PARADA": 3460,
           "ID_GRUPO": 1,
           "ID_PARADA": 7064,
@@ -1681,7 +1681,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. CATALUNYA/C. CLÒSENS",
+          "DESC_PARADA": "Av. Catalunya/C. Clòsens",
           "COD_PARADA": 53,
           "ID_GRUPO": 1,
           "ID_PARADA": 7074,
@@ -1709,7 +1709,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU / PTGE. MASSORRA (LA CREU)",
+          "DESC_PARADA": "Av. de St. Andreu / Ptge. Massorra (La Creu)",
           "COD_PARADA": 54,
           "ID_GRUPO": 1,
           "ID_PARADA": 7075,
@@ -1737,7 +1737,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT ANDREU (ZONA ESPORTIVA-E. SERENA VALL)",
+          "DESC_PARADA": "Av. de Sant Andreu (Zona Esportiva-E. Serena Vall)",
           "COD_PARADA": 4245,
           "ID_GRUPO": 1,
           "ID_PARADA": 12818,
@@ -1765,7 +1765,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE ST. ANDREU / CAMÍ MASIA",
+          "DESC_PARADA": "Av. de St. Andreu / Camí Masia",
           "COD_PARADA": 55,
           "ID_GRUPO": 1,
           "ID_PARADA": 7076,
@@ -1793,7 +1793,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE BRUSEL.LES (CENTRE COMERCIAL)",
+          "DESC_PARADA": "C. de Brusel.Les (Centre Comercial)",
           "COD_PARADA": 7091,
           "ID_GRUPO": 1,
           "ID_PARADA": 23253,
@@ -1821,7 +1821,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CIRERA (HOSPITAL)",
+          "DESC_PARADA": "Ctra. de Cirera (Hospital)",
           "COD_PARADA": 3525,
           "ID_GRUPO": 1,
           "ID_PARADA": 7340,

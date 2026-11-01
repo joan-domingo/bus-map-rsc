@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "L'ESCALA, PLAÇA DE LES ESCOLES",
+      "DESC_PARADA": "l'Escala, Plaça de les Escoles",
       "COD_PARADA": 16086,
       "ID_GRUPO": 1,
       "ID_PARADA": 7395,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BELLCAIRE (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Bellcaire (Dir. Palafrugell)",
       "COD_PARADA": 16502,
       "ID_GRUPO": 1,
       "ID_PARADA": 7394,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ULLA, (DIR. TORROELLA)",
+      "DESC_PARADA": "Ulla, (Dir. Torroella)",
       "COD_PARADA": 16990,
       "ID_GRUPO": 1,
       "ID_PARADA": 10635,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "TORROELLA DE MONTGRI, ESTACIO AUTOBUS",
+      "DESC_PARADA": "Torroella de Montgri, Estacio Autobus",
       "COD_PARADA": 16291,
       "ID_GRUPO": 1,
       "ID_PARADA": 7393,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALS, MARQUESINA",
+      "DESC_PARADA": "Pals, Marquesina",
       "COD_PARADA": 16739,
       "ID_GRUPO": 1,
       "ID_PARADA": 7387,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALS, REGENCOS MAS PATOXAS (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Pals, Regencos Mas Patoxas (Dir. Palafrugell)",
       "COD_PARADA": 16765,
       "ID_GRUPO": 1,
       "ID_PARADA": 11890,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "REGENCOS, GASOLINERA (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Regencos, Gasolinera (Dir. Palafrugell)",
       "COD_PARADA": 16764,
       "ID_GRUPO": 1,
       "ID_PARADA": 12025,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BEGUR, PLAÇA FORGAS (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Begur, Plaça Forgas (Dir. Palafrugell)",
       "COD_PARADA": 16612,
       "ID_GRUPO": 1,
       "ID_PARADA": 13543,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALAFRUGELL, ESTACIO D'AUTOBUSOS",
+      "DESC_PARADA": "Palafrugell, Estacio d'Autobusos",
       "COD_PARADA": 16152,
       "ID_GRUPO": 1,
       "ID_PARADA": 7373,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MONT-RAS, (DIR. PALAMOS)",
+      "DESC_PARADA": "Mont-Ras, (Dir. Palamos)",
       "COD_PARADA": 16140,
       "ID_GRUPO": 1,
       "ID_PARADA": 7445,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALAMOS ESTACIO",
+      "DESC_PARADA": "Palamos Estacio",
       "COD_PARADA": 17803,
       "ID_GRUPO": 1,
       "ID_PARADA": 25277,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT ANTONI CALONGE,OFICINA TURISME (D.PLATJA ARO)",
+      "DESC_PARADA": "Sant Antoni Calonge,Oficina Turisme (D.Platja Aro)",
       "COD_PARADA": 16053,
       "ID_GRUPO": 1,
       "ID_PARADA": 12002,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA D'ARO, SARFA ESTACIÓ",
+      "DESC_PARADA": "Platja d'Aro, Sarfa Estació",
       "COD_PARADA": 16068,
       "ID_GRUPO": 1,
       "ID_PARADA": 7369,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PLATJA D'ARO, S'AGARO (DIR. GIRONA)",
+      "DESC_PARADA": "Platja d'Aro, S'Agaro (Dir. Girona)",
       "COD_PARADA": 16070,
       "ID_GRUPO": 1,
       "ID_PARADA": 13528,
@@ -393,7 +393,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT FELIU DE GUIXOLS, ESTACIO AUTOBUS",
+      "DESC_PARADA": "Sant Feliu de Guixols, Estacio Autobus",
       "COD_PARADA": 16219,
       "ID_GRUPO": 1,
       "ID_PARADA": 7368,
@@ -421,7 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANTA CRISTINA D'ARO, CENTRE (DIR. GIRONA)",
+      "DESC_PARADA": "Santa Cristina d'Aro, Centre (Dir. Girona)",
       "COD_PARADA": 16257,
       "ID_GRUPO": 1,
       "ID_PARADA": 13529,
@@ -449,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+      "DESC_PARADA": "Barcelona, Estacio del Nord",
       "COD_PARADA": 7134,
       "ID_GRUPO": 1,
       "ID_PARADA": 7411,
@@ -477,7 +477,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T1",
+      "DESC_PARADA": "Barcelona, Aeroport Barcelona T1",
       "COD_PARADA": 4631,
       "ID_GRUPO": 1,
       "ID_PARADA": 12561,
@@ -505,7 +505,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T2",
+      "DESC_PARADA": "Barcelona, Aeroport Barcelona T2",
       "COD_PARADA": 16310,
       "ID_GRUPO": 1,
       "ID_PARADA": 12562,
@@ -533,7 +533,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VIDRERES, (PALAFRUGELL)",
+      "DESC_PARADA": "Vidreres, (Palafrugell)",
       "COD_PARADA": 16812,
       "ID_GRUPO": 1,
       "ID_PARADA": 13537,
@@ -561,7 +561,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLAGOSTERA, CAN CARBONELL (DIR. PALAMOS)",
+      "DESC_PARADA": "Llagostera, Can Carbonell (Dir. Palamos)",
       "COD_PARADA": 16618,
       "ID_GRUPO": 1,
       "ID_PARADA": 11927,
@@ -589,7 +589,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLAGOSTERA, CENTRE (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Llagostera, Centre (Dir. Palafrugell)",
       "COD_PARADA": 16127,
       "ID_GRUPO": 1,
       "ID_PARADA": 13538,
@@ -617,7 +617,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANTA CRISTINA D'ARO, CENTRE (DIR. PALAMOS)",
+      "DESC_PARADA": "Santa Cristina d'Aro, Centre (Dir. Palamos)",
       "COD_PARADA": 16878,
       "ID_GRUPO": 1,
       "ID_PARADA": 13535,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "S'AGARO INTERURBA (DIR. PALAMOS)",
+      "DESC_PARADA": "S'Agaro Interurba (Dir. Palamos)",
       "COD_PARADA": 16639,
       "ID_GRUPO": 1,
       "ID_PARADA": 7470,
@@ -673,7 +673,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT ANTONI CALONGE,OFICINA TURISME (DIR. PALAMOS)",
+      "DESC_PARADA": "Sant Antoni Calonge,Oficina Turisme (Dir. Palamos)",
       "COD_PARADA": 16624,
       "ID_GRUPO": 1,
       "ID_PARADA": 7405,
@@ -701,7 +701,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "MONT-RAS, (DIR. PALAFRUGELL)",
+      "DESC_PARADA": "Mont-Ras, (Dir. Palafrugell)",
       "COD_PARADA": 16719,
       "ID_GRUPO": 1,
       "ID_PARADA": 13541,
@@ -729,7 +729,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA BISBAL D'EMPORDA ESTACIO BUS",
+      "DESC_PARADA": "la Bisbal d'Emporda Estacio Bus",
       "COD_PARADA": 16825,
       "ID_GRUPO": 1,
       "ID_PARADA": 21587,
@@ -757,7 +757,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLAGOSTERA, CENTRE C/MARINA (DIR. GIRONA)",
+      "DESC_PARADA": "Llagostera, Centre C/Marina (Dir. Girona)",
       "COD_PARADA": 16918,
       "ID_GRUPO": 1,
       "ID_PARADA": 7366,
@@ -785,7 +785,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LLAGOSTERA, CAN CARBONELL (DIR. BARCELONA)",
+      "DESC_PARADA": "Llagostera, Can Carbonell (Dir. Barcelona)",
       "COD_PARADA": 16125,
       "ID_GRUPO": 1,
       "ID_PARADA": 7441,
@@ -813,7 +813,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "VIDRERES, (DIR. BARCELONA)",
+      "DESC_PARADA": "Vidreres, (Dir. Barcelona)",
       "COD_PARADA": 1276,
       "ID_GRUPO": 1,
       "ID_PARADA": 11916,
@@ -841,7 +841,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PALAFRUGELL, CAP",
+      "DESC_PARADA": "Palafrugell, Cap",
       "COD_PARADA": 16729,
       "ID_GRUPO": 1,
       "ID_PARADA": 10727,
@@ -869,7 +869,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BEGUR, PLAÇA FORGAS (DIR. REGENCOS)",
+      "DESC_PARADA": "Begur, Plaça Forgas (Dir. Regencos)",
       "COD_PARADA": 16026,
       "ID_GRUPO": 1,
       "ID_PARADA": 7386,
@@ -897,7 +897,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "REGENCOS, MARQUESINA (DIR. L'ESCALA)",
+      "DESC_PARADA": "Regencos, Marquesina (Dir. l'Escala)",
       "COD_PARADA": 16183,
       "ID_GRUPO": 1,
       "ID_PARADA": 12026,
@@ -925,7 +925,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "REGENCOS, MAS PATOXAS (DIR. L'ESCALA)",
+      "DESC_PARADA": "Regencos, Mas Patoxas (Dir. l'Escala)",
       "COD_PARADA": 16184,
       "ID_GRUPO": 1,
       "ID_PARADA": 7446,
@@ -953,7 +953,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "BELLCAIRE D'EMPORDA (DIR. L'ESCALA)",
+      "DESC_PARADA": "Bellcaire d'Emporda (Dir. l'Escala)",
       "COD_PARADA": 16903,
       "ID_GRUPO": 1,
       "ID_PARADA": 13542,
@@ -981,7 +981,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ULLA (DIR. L'ESCALA)",
+      "DESC_PARADA": "Ulla (Dir. l'Escala)",
       "COD_PARADA": 16591,
       "ID_GRUPO": 1,
       "ID_PARADA": 13652,
@@ -1009,7 +1009,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "REGENCOS, GASOLINERA (DIR. L'ESCALA)",
+      "DESC_PARADA": "Regencos, Gasolinera (Dir. l'Escala)",
       "COD_PARADA": 16570,
       "ID_GRUPO": 1,
       "ID_PARADA": 12024,
@@ -1037,7 +1037,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "LA BISBAL D'EMPORDA, (DIR. GIRONA)",
+      "DESC_PARADA": "la Bisbal d'Emporda, (Dir. Girona)",
       "COD_PARADA": 16690,
       "ID_GRUPO": 1,
       "ID_PARADA": 7375,

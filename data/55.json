@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "AV. LA LLOBATERA (DUES RIERES-CAN BERGAI)",
+          "DESC_PARADA": "Av. la Llobatera (Dues Rieres-Can Bergai)",
           "COD_PARADA": 5735,
           "ID_GRUPO": 1,
           "ID_PARADA": 7122,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. CABRILS/C. JMª BATISTA I ROCA(PONT DE LA VELA)",
+          "DESC_PARADA": "Pg. Cabrils/C. Jmª Batista i Roca(Pont de la Vela)",
           "COD_PARADA": 129,
           "ID_GRUPO": 1,
           "ID_PARADA": 13086,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / PTGE. STA. ELENA",
+          "DESC_PARADA": "Ctra. de Cabrils / Ptge. Sta. Elena",
           "COD_PARADA": 73,
           "ID_GRUPO": 1,
           "ID_PARADA": 7123,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. CAN TOSCA (MONTCABRER)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. Can Tosca (Montcabrer)",
           "COD_PARADA": 74,
           "ID_GRUPO": 1,
           "ID_PARADA": 7124,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS (SANT CRIST)",
+          "DESC_PARADA": "Ctra. de Cabrils (Sant Crist)",
           "COD_PARADA": 75,
           "ID_GRUPO": 1,
           "ID_PARADA": 7125,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / AV. DEL PROGRÉS (CAMÍ DEL MIG)",
+          "DESC_PARADA": "Ctra. de Cabrils / Av. del Progrés (Camí del Mig)",
           "COD_PARADA": 76,
           "ID_GRUPO": 1,
           "ID_PARADA": 7126,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS/C. DE LLUÍS GUARDIOLA (EL BARATO)",
+          "DESC_PARADA": "Ctra. de Cabrils/C. de Lluís Guardiola (El Barato)",
           "COD_PARADA": 4833,
           "ID_GRUPO": 1,
           "ID_PARADA": 7511,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG DELS PINS (BARRETINA)",
+          "DESC_PARADA": "Passeig dels Pins (Barretina)",
           "COD_PARADA": 3875,
           "ID_GRUPO": 1,
           "ID_PARADA": 7090,
@@ -255,7 +255,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PASSEIG DELS PINS (BARRETINA)",
+          "DESC_PARADA": "Passeig dels Pins (Barretina)",
           "COD_PARADA": 3875,
           "ID_GRUPO": 1,
           "ID_PARADA": 7090,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE VILASSAR (COMPLEX VICOR)",
+          "DESC_PARADA": "Ronda de Vilassar (Complex Vicor)",
           "COD_PARADA": 534,
           "ID_GRUPO": 1,
           "ID_PARADA": 13483,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. LLUÍS COMPANYS / C. DE SANT ARTUR",
+          "DESC_PARADA": "Av. Lluís Companys / C. de Sant Artur",
           "COD_PARADA": 535,
           "ID_GRUPO": 1,
           "ID_PARADA": 13484,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. PAU CASALS (CASTILLEJOS)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. Pau Casals (Castillejos)",
           "COD_PARADA": 3870,
           "ID_GRUPO": 1,
           "ID_PARADA": 7128,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. JERONI MARSAL (EL BARATO)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. Jeroni Marsal (El Barato)",
           "COD_PARADA": 3880,
           "ID_GRUPO": 1,
           "ID_PARADA": 7129,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / AV. DEL PROGRÉS (CAMÍ DEL MIG)",
+          "DESC_PARADA": "Ctra. de Cabrils / Av. del Progrés (Camí del Mig)",
           "COD_PARADA": 3890,
           "ID_GRUPO": 1,
           "ID_PARADA": 7130,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / CAMI DE MATARÓ (ST. CRIST)",
+          "DESC_PARADA": "Ctra. de Cabrils / Cami de Mataró (St. Crist)",
           "COD_PARADA": 3820,
           "ID_GRUPO": 1,
           "ID_PARADA": 7131,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. DE LA MUNTANYA (MONTCABRER)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. de la Muntanya (Montcabrer)",
           "COD_PARADA": 3830,
           "ID_GRUPO": 1,
           "ID_PARADA": 7132,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE  CABRILS / C. PARE CASANOVAS",
+          "DESC_PARADA": "Pg. de  Cabrils / C. Pare Casanovas",
           "COD_PARADA": 3840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7133,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE CABRILS (PONT DE LA VELA)",
+          "DESC_PARADA": "Pg. de Cabrils (Pont de la Vela)",
           "COD_PARADA": 3850,
           "ID_GRUPO": 1,
           "ID_PARADA": 7121,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE CAL BATALLÓ (CAP)",
+          "DESC_PARADA": "C. de Cal Batalló (Cap)",
           "COD_PARADA": 189,
           "ID_GRUPO": 1,
           "ID_PARADA": 13099,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. LA LLOBATERA (DUES RIERES-CAN BERGAI)",
+          "DESC_PARADA": "Av. la Llobatera (Dues Rieres-Can Bergai)",
           "COD_PARADA": 5735,
           "ID_GRUPO": 1,
           "ID_PARADA": 7122,

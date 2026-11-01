@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ D`ALELLA-GARROFERS",
+          "DESC_PARADA": "Camí D`Alella-Garrofers",
           "COD_PARADA": 1409,
           "ID_GRUPO": 1,
           "ID_PARADA": 12045,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ D´ALELLA/AV. JOAN XXIII (CELLA VINARIA)",
+          "DESC_PARADA": "Camí D´Alella/Av. Joan XXIII (Cella Vinaria)",
           "COD_PARADA": 9103,
           "ID_GRUPO": 1,
           "ID_PARADA": 10792,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AVDA. JOAN XXIII / C. EL BERGUEDÀ",
+          "DESC_PARADA": "Avda. Joan XXIII / C. el Berguedà",
           "COD_PARADA": 1324,
           "ID_GRUPO": 1,
           "ID_PARADA": 12046,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LES GUILLERIES/C. EMILI POLIT (BENZINERA)",
+          "DESC_PARADA": "C. de les Guilleries/C. Emili Polit (Benzinera)",
           "COD_PARADA": 3921,
           "ID_GRUPO": 1,
           "ID_PARADA": 7349,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DEL MASNOU/C. FERRER I GUÀRDIA (CAN TORRAS)",
+          "DESC_PARADA": "Ctra. del Masnou/C. Ferrer i Guàrdia (Can Torras)",
           "COD_PARADA": 290,
           "ID_GRUPO": 1,
           "ID_PARADA": 7341,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / SARDENYA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Sardenya",
           "COD_PARADA": 3119,
           "ID_GRUPO": 1,
           "ID_PARADA": 12047,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE ST. PERE, 19-21",
+          "DESC_PARADA": "Rda. de St. Pere, 19-21",
           "COD_PARADA": 3115,
           "ID_GRUPO": 1,
           "ID_PARADA": 12049,
@@ -311,7 +311,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE ST. PERE, 19-21",
+          "DESC_PARADA": "Rda. de St. Pere, 19-21",
           "COD_PARADA": 3115,
           "ID_GRUPO": 1,
           "ID_PARADA": 12049,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALENES / C. DE NÀPOLS",
+          "DESC_PARADA": "Gran Via de les Corts Catalenes / C. de Nàpols",
           "COD_PARADA": 3116,
           "ID_GRUPO": 1,
           "ID_PARADA": 12050,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / C. DE LA MARINA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / C. de la Marina",
           "COD_PARADA": 3117,
           "ID_GRUPO": 1,
           "ID_PARADA": 12051,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LES GUILLERIES / C. EMILI POLIT",
+          "DESC_PARADA": "C. de les Guilleries / C. Emili Polit",
           "COD_PARADA": 4648,
           "ID_GRUPO": 1,
           "ID_PARADA": 7351,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. JOAN XXIII / C. EL BERGUEDÀ",
+          "DESC_PARADA": "Av. Joan XXIII / C. el Berguedà",
           "COD_PARADA": 1876,
           "ID_GRUPO": 1,
           "ID_PARADA": 12052,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. D´ERNEST LLUCH / AV. JOAN XXIII",
+          "DESC_PARADA": "C. D´Ernest Lluch / Av. Joan XXIII",
           "COD_PARADA": 9040,
           "ID_GRUPO": 1,
           "ID_PARADA": 12053,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ D`ALELLA / C. GARROFERS",
+          "DESC_PARADA": "Camí D`Alella / C. Garrofers",
           "COD_PARADA": 1888,
           "ID_GRUPO": 1,
           "ID_PARADA": 12054,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA VALLBELLIDA",
+          "DESC_PARADA": "Rotonda Vallbellida",
           "COD_PARADA": 9327,
           "ID_GRUPO": 1,
           "ID_PARADA": 10539,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE LA RIERA / PL. U D¿OCTUBRE",
+          "DESC_PARADA": "Pg. de la Riera / Pl. U D¿Octubre",
           "COD_PARADA": 84,
           "ID_GRUPO": 1,
           "ID_PARADA": 7028,
