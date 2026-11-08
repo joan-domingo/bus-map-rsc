@@ -8,13 +8,13 @@
     "DESC_REDUCIDA": "PREMIÀ DALT-PREM MAR",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 370,
-    "FIN_TRAYECTO": 1360,
+    "INI_TRAYECTO": 490,
+    "FIN_TRAYECTO": 1345,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR / RIERA DE SANT PERE",
+          "DESC_PARADA": "Ctra. de Premià de Mar / Riera de Sant Pere",
           "COD_PARADA": 3790,
           "ID_GRUPO": 1,
           "ID_PARADA": 7108,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE FÈLIX MILLET / CTRA. DE PREMIÀ DE MAR",
+          "DESC_PARADA": "Av. de Fèlix Millet / Ctra. de Premià de Mar",
           "COD_PARADA": 3810,
           "ID_GRUPO": 1,
           "ID_PARADA": 7110,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRAS I BAGES/TORRENT CASTELLS (BARRI DEL REMEI)",
+          "DESC_PARADA": "Torras i Bages/Torrent Castells (Barri del Remei)",
           "COD_PARADA": 3235,
           "ID_GRUPO": 1,
           "ID_PARADA": 10543,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TORRENT CASTELLS / CAMÍ DE CAN SOBERANO",
+          "DESC_PARADA": "Torrent Castells / Camí de Can Soberano",
           "COD_PARADA": 4824,
           "ID_GRUPO": 1,
           "ID_PARADA": 7112,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS LLESSAMINS/C. DE LES DÀLIES (LES PÈRGOLES)",
+          "DESC_PARADA": "C. dels Llessamins/C. de les Dàlies (Les Pèrgoles)",
           "COD_PARADA": 3245,
           "ID_GRUPO": 1,
           "ID_PARADA": 7113,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE DALT / C. DEL BARRI DE BANYERES",
+          "DESC_PARADA": "Ctra. de Premià de Dalt / C. del Barri de Banyeres",
           "COD_PARADA": 288,
           "ID_GRUPO": 1,
           "ID_PARADA": 13478,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE DALT/GRAN VIA DE LLUÍS COMPANYS",
+          "DESC_PARADA": "Ctra. de Premià de Dalt/Gran Via de Lluís Companys",
           "COD_PARADA": 3270,
           "ID_GRUPO": 1,
           "ID_PARADA": 7002,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 3750,
           "ID_GRUPO": 1,
           "ID_PARADA": 7001,
@@ -243,176 +243,19 @@
   {
     "ID_GRUPO": 1,
     "ID_LINEA": 64,
-    "ID_TRAYECTO": 5,
-    "ID_TRAYECTO_SAE": 102,
-    "DESC_TRAYECTO": "(C14) ILLA FANTASIA - PREMIÀ DE DALT",
-    "DESC_REDUCIDA": "ILLA FANTASIA-P.DALT",
-    "PRINCIPAL": "N",
-    "SENTIDO": "I",
-    "INI_TRAYECTO": 365,
-    "FIN_TRAYECTO": 880,
-    "ID_TRAYECTO_CONCAT": null,
-    "TrayectosDet": [
-      {
-        "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
-          "COD_PARADA": 3230,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7007,
-          "ID_MUNICIPIO": 82303,
-          "MUNICIPIO": "PREMIÀ DE DALT",
-          "EXPLOTADORA": "CASAS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 3,
-          "UTMX": 446667,
-          "UTMY": 4594886,
-          "LATITUD": 41.501980913265,
-          "LONGITUD": 2.359853257962,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 64,
-        "ID_TRAYECTO": 5,
-        "SECUENCIA": 10,
-        "ID_PARADA": 7007,
-        "NKM_ORIGEN": 0,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "CTRA. D´ENLLAÇ / C. DE LA DOLÇA DE PROVENÇA",
-          "COD_PARADA": 4823,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7118,
-          "ID_MUNICIPIO": 82303,
-          "MUNICIPIO": "PREMIÀ DE DALT",
-          "EXPLOTADORA": "CASAS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 3,
-          "UTMX": 446035,
-          "UTMY": 4595003,
-          "LATITUD": 41.50302,
-          "LONGITUD": 2.35228,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 64,
-        "ID_TRAYECTO": 5,
-        "SECUENCIA": 30,
-        "ID_PARADA": 7118,
-        "NKM_ORIGEN": 0.886,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "CTRA D´ENLLAÇ/CAMÍ SOT DEL PI (RTDA.  FONT BLAVA)",
-          "COD_PARADA": 3800,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7119,
-          "ID_MUNICIPIO": 82303,
-          "MUNICIPIO": "PREMIÀ DE DALT",
-          "EXPLOTADORA": "CASAS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 3,
-          "UTMX": 445725,
-          "UTMY": 4595233,
-          "LATITUD": 41.505070012571,
-          "LONGITUD": 2.3485475534622,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 64,
-        "ID_TRAYECTO": 5,
-        "SECUENCIA": 40,
-        "ID_PARADA": 7119,
-        "NKM_ORIGEN": 1.284,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "RIERA DE SANT PERE / TORRENT DE CAN PAU MANENT",
-          "COD_PARADA": 3797,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7120,
-          "ID_MUNICIPIO": 82303,
-          "MUNICIPIO": "PREMIÀ DE DALT",
-          "EXPLOTADORA": "CASAS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 3,
-          "UTMX": 445454,
-          "UTMY": 4595319,
-          "LATITUD": 41.50583,
-          "LONGITUD": 2.34529,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 64,
-        "ID_TRAYECTO": 5,
-        "SECUENCIA": 50,
-        "ID_PARADA": 7120,
-        "NKM_ORIGEN": 1.644,
-        "SUBE_BAJA": 1
-      },
-      {
-        "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR / RIERA DE SANT PERE",
-          "COD_PARADA": 3790,
-          "ID_GRUPO": 1,
-          "ID_PARADA": 7108,
-          "ID_MUNICIPIO": 82303,
-          "MUNICIPIO": "PREMIÀ DE DALT",
-          "EXPLOTADORA": "CASAS",
-          "ID_ZONA": 0,
-          "ZONA": null,
-          "ID_EXPLOTADORA": 3,
-          "UTMX": 445238,
-          "UTMY": 4595451,
-          "LATITUD": 41.506973217656,
-          "LONGITUD": 2.342680977016,
-          "ID_SUBZONA": null,
-          "SUBZONA": null,
-          "CONCESIONES": null
-        },
-        "ID_GRUPO": 1,
-        "ID_LINEA": 64,
-        "ID_TRAYECTO": 5,
-        "SECUENCIA": 60,
-        "ID_PARADA": 7108,
-        "NKM_ORIGEN": 1.818,
-        "SUBE_BAJA": 1
-      }
-    ],
-    "COLOR": "#0C6000",
-    "numLinea": "64"
-  },
-  {
-    "ID_GRUPO": 1,
-    "ID_LINEA": 64,
     "ID_TRAYECTO": 3,
     "ID_TRAYECTO_SAE": 2,
     "DESC_TRAYECTO": "(C14) PREMIÁ DE MAR - PREMIÀ DE DALT",
     "DESC_REDUCIDA": "PREM MAR-PREMIÀ DALT",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 390,
-    "FIN_TRAYECTO": 1370,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1330,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 3750,
           "ID_GRUPO": 1,
           "ID_PARADA": 7001,
@@ -440,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 3740,
           "ID_GRUPO": 1,
           "ID_PARADA": 7208,
@@ -468,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE VILASSAR DE DALT/GRAN VIA LLUÍS COMPANYS",
+          "DESC_PARADA": "Ctra. de Vilassar de Dalt/Gran Via Lluís Companys",
           "COD_PARADA": 289,
           "ID_GRUPO": 1,
           "ID_PARADA": 13479,
@@ -496,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. VILASSAR DE DALT/C. VALÈNCIA (BARRI COTET)",
+          "DESC_PARADA": "Ctra. Vilassar de Dalt/C. València (Barri Cotet)",
           "COD_PARADA": 3240,
           "ID_GRUPO": 1,
           "ID_PARADA": 7006,
@@ -524,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
+          "DESC_PARADA": "Rotonda de les Flors (Illa Fantasia)",
           "COD_PARADA": 3230,
           "ID_GRUPO": 1,
           "ID_PARADA": 7007,
@@ -552,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. D´ENLLAÇ / C. DE LA DOLÇA DE PROVENÇA",
+          "DESC_PARADA": "Ctra. D´Enllaç / C. de la Dolça de Provença",
           "COD_PARADA": 4823,
           "ID_GRUPO": 1,
           "ID_PARADA": 7118,
@@ -580,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA D´ENLLAÇ/CAMÍ SOT DEL PI (RTDA.  FONT BLAVA)",
+          "DESC_PARADA": "Ctra D´Enllaç/Camí Sot del Pi (Rtda.  Font Blava)",
           "COD_PARADA": 3800,
           "ID_GRUPO": 1,
           "ID_PARADA": 7119,
@@ -608,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE SANT PERE / TORRENT DE CAN PAU MANENT",
+          "DESC_PARADA": "Riera de Sant Pere / Torrent de Can Pau Manent",
           "COD_PARADA": 3797,
           "ID_GRUPO": 1,
           "ID_PARADA": 7120,
@@ -636,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR / RIERA DE SANT PERE",
+          "DESC_PARADA": "Ctra. de Premià de Mar / Riera de Sant Pere",
           "COD_PARADA": 3790,
           "ID_GRUPO": 1,
           "ID_PARADA": 7108,

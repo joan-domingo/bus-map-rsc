@@ -161,11 +161,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 50,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 10,
     "ID_PARADA": 5180,
-    "NKM_ORIGEN": 10.668,
-    "SUBE_BAJA": 1
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -189,10 +189,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 60,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 20,
     "ID_PARADA": 5160,
-    "NKM_ORIGEN": 11.093,
+    "NKM_ORIGEN": 0.425,
     "SUBE_BAJA": 1
   },
   {
@@ -217,10 +217,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 70,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 30,
     "ID_PARADA": 5358,
-    "NKM_ORIGEN": 11.899,
+    "NKM_ORIGEN": 1.231,
     "SUBE_BAJA": 1
   },
   {
@@ -245,10 +245,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 80,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 40,
     "ID_PARADA": 5290,
-    "NKM_ORIGEN": 12.237,
+    "NKM_ORIGEN": 1.569,
     "SUBE_BAJA": 1
   },
   {
@@ -273,10 +273,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 90,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 50,
     "ID_PARADA": 5280,
-    "NKM_ORIGEN": 12.505,
+    "NKM_ORIGEN": 1.837,
     "SUBE_BAJA": 1
   },
   {
@@ -301,10 +301,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 100,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 60,
     "ID_PARADA": 5270,
-    "NKM_ORIGEN": 12.953,
+    "NKM_ORIGEN": 2.285,
     "SUBE_BAJA": 1
   },
   {
@@ -329,15 +329,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 110,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 70,
     "ID_PARADA": 5260,
-    "NKM_ORIGEN": 13.277,
+    "NKM_ORIGEN": 2.609,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "Ronda De Serraperera/renaixement",
+      "DESC_PARADA": "Rda. Serraparera - Renaixement (Inst. Jaume Mimó)",
       "COD_PARADA": 4820,
       "ID_GRUPO": 1,
       "ID_PARADA": 4820,
@@ -357,11 +357,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 102,
-    "SECUENCIA": 120,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 80,
     "ID_PARADA": 4820,
-    "NKM_ORIGEN": 13.821,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 3.153,
+    "SUBE_BAJA": 1
   },
   {
     "Parada": {
@@ -385,11 +385,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 202,
-    "SECUENCIA": 125,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 90,
     "ID_PARADA": 5552,
-    "NKM_ORIGEN": 15.131,
-    "SUBE_BAJA": 2
+    "NKM_ORIGEN": 4.463,
+    "SUBE_BAJA": 3
   },
   {
     "Parada": {
@@ -413,10 +413,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 202,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 100,
     "ID_PARADA": 3980,
-    "NKM_ORIGEN": 15.334,
+    "NKM_ORIGEN": 4.666,
     "SUBE_BAJA": 3
   },
   {
@@ -441,10 +441,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 202,
-    "SECUENCIA": 132,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 110,
     "ID_PARADA": 5554,
-    "NKM_ORIGEN": 15.631,
+    "NKM_ORIGEN": 4.963,
     "SUBE_BAJA": 3
   },
   {
@@ -469,10 +469,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 202,
-    "SECUENCIA": 135,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 125,
     "ID_PARADA": 13871,
-    "NKM_ORIGEN": 16.957,
+    "NKM_ORIGEN": 6.289,
     "SUBE_BAJA": 3
   },
   {
@@ -497,10 +497,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 299,
-    "ID_TRAYECTO": 202,
-    "SECUENCIA": 140,
+    "ID_TRAYECTO": 302,
+    "SECUENCIA": 130,
     "ID_PARADA": 12971,
-    "NKM_ORIGEN": 17.327,
+    "NKM_ORIGEN": 6.659,
     "SUBE_BAJA": 3
   },
   {
@@ -533,7 +533,91 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Ronda De Serraperera/renaixement",
+      "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
+      "COD_PARADA": 5492,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 21660,
+      "ID_MUNICIPIO": 447068,
+      "MUNICIPIO": "CERDANYOLA DEL VALLES",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 425208,
+      "UTMY": 4595086,
+      "LATITUD": 41.502095,
+      "LONGITUD": 2.10275,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 299,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 15,
+    "ID_PARADA": 21660,
+    "NKM_ORIGEN": 0.59,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Ciències De L'educació",
+      "COD_PARADA": 8837,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 12357,
+      "ID_MUNICIPIO": 447068,
+      "MUNICIPIO": "CERDANYOLA DEL VALLES",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 425430,
+      "UTMY": 4595473,
+      "LATITUD": 41.505570042597,
+      "LONGITUD": 2.105350172476,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 299,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 20,
+    "ID_PARADA": 12357,
+    "NKM_ORIGEN": 1.85,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Uab-cíències",
+      "COD_PARADA": 9733,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13861,
+      "ID_MUNICIPIO": 447068,
+      "MUNICIPIO": "CERDANYOLA DEL VALLES",
+      "EXPLOTADORA": "SARBUS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 1,
+      "UTMX": 425811,
+      "UTMY": 4595145,
+      "LATITUD": 41.502674826831,
+      "LONGITUD": 2.109968731606,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 299,
+    "ID_TRAYECTO": 1,
+    "SECUENCIA": 25,
+    "ID_PARADA": 13861,
+    "NKM_ORIGEN": 2.35,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Rda. Serraparera - Renaixement (Inst. Jaume Mimó)",
       "COD_PARADA": 435,
       "ID_GRUPO": 1,
       "ID_PARADA": 435,
@@ -922,89 +1006,5 @@
     "ID_PARADA": 12966,
     "NKM_ORIGEN": 18.243,
     "SUBE_BAJA": 3
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Uab Escola De Postgrau (fgc)",
-      "COD_PARADA": 5492,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 21660,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425208,
-      "UTMY": 4595086,
-      "LATITUD": 41.502095,
-      "LONGITUD": 2.10275,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 299,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 15,
-    "ID_PARADA": 21660,
-    "NKM_ORIGEN": 0.59,
-    "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Ciències De L'educació",
-      "COD_PARADA": 8837,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 12357,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425430,
-      "UTMY": 4595473,
-      "LATITUD": 41.505570042597,
-      "LONGITUD": 2.105350172476,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 299,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 20,
-    "ID_PARADA": 12357,
-    "NKM_ORIGEN": 1.85,
-    "SUBE_BAJA": 2
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Uab-cíències",
-      "COD_PARADA": 9733,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 13861,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "SARBUS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 1,
-      "UTMX": 425811,
-      "UTMY": 4595145,
-      "LATITUD": 41.502674826831,
-      "LONGITUD": 2.109968731606,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 299,
-    "ID_TRAYECTO": 1,
-    "SECUENCIA": 25,
-    "ID_PARADA": 13861,
-    "NKM_ORIGEN": 2.35,
-    "SUBE_BAJA": 2
   }
 ]

@@ -8,8 +8,8 @@
     "DESC_REDUCIDA": "FFGG-MasRoig-FFGG",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 420,
-    "FIN_TRAYECTO": 1350,
+    "INI_TRAYECTO": 405,
+    "FIN_TRAYECTO": 1365,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {

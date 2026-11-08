@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE LA UNIVERSITAT 25",
+          "DESC_PARADA": "Ronda de la Universitat 25",
           "COD_PARADA": 6190,
           "ID_GRUPO": 1,
           "ID_PARADA": 7022,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA BOBINADORA (POL. IND. LES HORTES)",
+          "DESC_PARADA": "C. de la Bobinadora (Pol. Ind. les Hortes)",
           "COD_PARADA": 5982,
           "ID_GRUPO": 1,
           "ID_PARADA": 7216,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (PORTA LAIETANA-TECNOCAMPUS)",
+          "DESC_PARADA": "Camí Ral (Porta Laietana-Tecnocampus)",
           "COD_PARADA": 3630,
           "ID_GRUPO": 1,
           "ID_PARADA": 7217,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / CAMÍ RAL",
+          "DESC_PARADA": "Rda. de la República / Camí Ral",
           "COD_PARADA": 3620,
           "ID_GRUPO": 1,
           "ID_PARADA": 7218,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / C. DE MIQUEL BIADA",
+          "DESC_PARADA": "Rda. de la República / C. de Miquel Biada",
           "COD_PARADA": 4825,
           "ID_GRUPO": 1,
           "ID_PARADA": 7219,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LES TERESES",
+          "DESC_PARADA": "Pl. de les Tereses",
           "COD_PARADA": 20,
           "ID_GRUPO": 1,
           "ID_PARADA": 7077,
@@ -221,13 +221,13 @@
     "DESC_REDUCIDA": "MAT(CENTRE)-BCN",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 365,
+    "INI_TRAYECTO": 360,
     "FIN_TRAYECTO": 1385,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE LES TERESES",
+          "DESC_PARADA": "Pl. de les Tereses",
           "COD_PARADA": 20,
           "ID_GRUPO": 1,
           "ID_PARADA": 7077,
@@ -255,7 +255,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE SANT ISIDOR",
+          "DESC_PARADA": "C. de Sant Isidor",
           "COD_PARADA": 291,
           "ID_GRUPO": 1,
           "ID_PARADA": 13521,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ DE LA GEGANTA/PL. GRANOLLERS (POLICIA LOCAL)",
+          "DESC_PARADA": "Camí de la Geganta/Pl. Granollers (Policia Local)",
           "COD_PARADA": 7475,
           "ID_GRUPO": 1,
           "ID_PARADA": 21749,
@@ -311,7 +311,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RDA. DE LA REPÚBLICA / C. DE MIQUEL BIADA",
+          "DESC_PARADA": "Rda. de la República / C. de Miquel Biada",
           "COD_PARADA": 30,
           "ID_GRUPO": 1,
           "ID_PARADA": 7048,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. PIZARRO (PL. DR. FLEMING)",
+          "DESC_PARADA": "Camí Ral/C. Pizarro (Pl. Dr. Fleming)",
           "COD_PARADA": 11,
           "ID_GRUPO": 1,
           "ID_PARADA": 7159,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (PORTA LAIETANA-TECNOCAMPUS)",
+          "DESC_PARADA": "Camí Ral (Porta Laietana-Tecnocampus)",
           "COD_PARADA": 12,
           "ID_GRUPO": 1,
           "ID_PARADA": 7160,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RONDA DE LA UNIVERSITAT 25",
+          "DESC_PARADA": "Ronda de la Universitat 25",
           "COD_PARADA": 6190,
           "ID_GRUPO": 1,
           "ID_PARADA": 7022,

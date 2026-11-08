@@ -8,13 +8,13 @@
     "DESC_REDUCIDA": "ST. GENÍS-FUNICULAR",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 615,
-    "FIN_TRAYECTO": 1265,
+    "INI_TRAYECTO": 480,
+    "FIN_TRAYECTO": 1320,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "VALL HEBRON",
+          "DESC_PARADA": "Vall Hebron",
           "COD_PARADA": 4486,
           "ID_GRUPO": 1,
           "ID_PARADA": 12525,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DOCTOR ANDREU",
+          "DESC_PARADA": "Plaça Doctor Andreu",
           "COD_PARADA": 1035,
           "ID_GRUPO": 1,
           "ID_PARADA": 18257,
@@ -82,12 +82,12 @@
     "PRINCIPAL": "S",
     "SENTIDO": "V",
     "INI_TRAYECTO": 635,
-    "FIN_TRAYECTO": 1280,
+    "FIN_TRAYECTO": 1160,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DOCTOR ANDREU",
+          "DESC_PARADA": "Plaça Doctor Andreu",
           "COD_PARADA": 1035,
           "ID_GRUPO": 1,
           "ID_PARADA": 18257,
@@ -115,7 +115,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VALL HEBRON",
+          "DESC_PARADA": "Vall Hebron",
           "COD_PARADA": 4486,
           "ID_GRUPO": 1,
           "ID_PARADA": 12525,

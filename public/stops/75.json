@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+      "DESC_PARADA": "Barcelona, Estacio del Nord",
       "COD_PARADA": 7134,
       "ID_GRUPO": 1,
       "ID_PARADA": 7411,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELLO D'EMPURIES (DIR. CADAQUES)",
+      "DESC_PARADA": "Castello d'Empuries (Dir. Cadaques)",
       "COD_PARADA": 16515,
       "ID_GRUPO": 1,
       "ID_PARADA": 7402,
@@ -57,7 +57,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELLO D'EMP, EMPURIABRAVA, CRU. (DIR. ROSES)",
+      "DESC_PARADA": "Castello d'Emp, Empuriabrava, Cru. (Dir. Roses)",
       "COD_PARADA": 16514,
       "ID_GRUPO": 1,
       "ID_PARADA": 7403,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES, SANTA MARGARIDA (DIR. CADAQUES)",
+      "DESC_PARADA": "Roses, Santa Margarida (Dir. Cadaques)",
       "COD_PARADA": 16768,
       "ID_GRUPO": 1,
       "ID_PARADA": 12827,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES, LA CIUTADELLA (DIR. CADAQUES)",
+      "DESC_PARADA": "Roses, la Ciutadella (Dir. Cadaques)",
       "COD_PARADA": 16573,
       "ID_GRUPO": 1,
       "ID_PARADA": 12826,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES, ESTACIO",
+      "DESC_PARADA": "Roses, Estacio",
       "COD_PARADA": 16943,
       "ID_GRUPO": 1,
       "ID_PARADA": 7404,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES.AV.PAU CASALS DIRC.CADAQUES",
+      "DESC_PARADA": "Roses.Av.Pau Casals Dirc.Cadaques",
       "COD_PARADA": 16382,
       "ID_GRUPO": 1,
       "ID_PARADA": 21939,
@@ -197,7 +197,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CADAQUES",
+      "DESC_PARADA": "Cadaques",
       "COD_PARADA": 16503,
       "ID_GRUPO": 1,
       "ID_PARADA": 7406,
@@ -225,7 +225,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES.AV.PAU CASALS DIRC.ROSES",
+      "DESC_PARADA": "Roses.Av.Pau Casals Dirc.Roses",
       "COD_PARADA": 16384,
       "ID_GRUPO": 1,
       "ID_PARADA": 21948,
@@ -253,7 +253,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES, LA CIUTADELLA (DIR. FIGUERES)",
+      "DESC_PARADA": "Roses, la Ciutadella (Dir. Figueres)",
       "COD_PARADA": 16767,
       "ID_GRUPO": 1,
       "ID_PARADA": 11897,
@@ -281,7 +281,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "ROSES, SANTA MARGARIDA (DIR. FIGUERES)",
+      "DESC_PARADA": "Roses, Santa Margarida (Dir. Figueres)",
       "COD_PARADA": 16574,
       "ID_GRUPO": 1,
       "ID_PARADA": 7439,
@@ -309,7 +309,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "EMPURIABRAVA CRUILLA (DIR. FIGUERES)",
+      "DESC_PARADA": "Empuriabrava Cruilla (Dir. Figueres)",
       "COD_PARADA": 16660,
       "ID_GRUPO": 1,
       "ID_PARADA": 11959,
@@ -337,7 +337,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CASTELLO D'EMPURIES (DIR. FIGUERES)",
+      "DESC_PARADA": "Castello d'Empuries (Dir. Figueres)",
       "COD_PARADA": 16641,
       "ID_GRUPO": 1,
       "ID_PARADA": 11957,

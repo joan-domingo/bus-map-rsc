@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. Mestre Enric Morera",
           "COD_PARADA": 3772,
           "ID_GRUPO": 1,
           "ID_PARADA": 7008,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. DE ST. JOSEP ORIOL",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. de St. Josep Oriol",
           "COD_PARADA": 3760,
           "ID_GRUPO": 1,
           "ID_PARADA": 7009,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE TARGA/CAMÍ DE MATARÓ",
+          "DESC_PARADA": "Riera de Targa/Camí de Mataró",
           "COD_PARADA": 3770,
           "ID_GRUPO": 1,
           "ID_PARADA": 7010,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE PAU CASALS (CAN BANÚS)",
+          "DESC_PARADA": "Pl. de Pau Casals (Can Banús)",
           "COD_PARADA": 3780,
           "ID_GRUPO": 1,
           "ID_PARADA": 7011,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ILLA FANTASIA",
+          "DESC_PARADA": "Illa Fantasia",
           "COD_PARADA": 18,
           "ID_GRUPO": 1,
           "ID_PARADA": 7015,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VÍA-CTRA VILASSAR DE DALT",
+          "DESC_PARADA": "Gran Vía-Ctra Vilassar de Dalt",
           "COD_PARADA": 4822,
           "ID_GRUPO": 1,
           "ID_PARADA": 7020,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DR. FERRAN / TORRENT DE LA FONT SANA",
+          "DESC_PARADA": "Plaça Dr. Ferran / Torrent de la Font Sana",
           "COD_PARADA": 7721,
           "ID_GRUPO": 1,
           "ID_PARADA": 21173,
@@ -311,7 +311,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE PAU CASALS (CAN BANÚS)",
+          "DESC_PARADA": "Pl. de Pau Casals (Can Banús)",
           "COD_PARADA": 3780,
           "ID_GRUPO": 1,
           "ID_PARADA": 7011,
@@ -339,7 +339,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE  TARGA / C. DE SANT GENÍS",
+          "DESC_PARADA": "Riera de  Targa / C. de Sant Genís",
           "COD_PARADA": 14,
           "ID_GRUPO": 1,
           "ID_PARADA": 7012,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE TARGA/C.DEL PI",
+          "DESC_PARADA": "Riera de Targa/C.Del Pi",
           "COD_PARADA": 303,
           "ID_GRUPO": 1,
           "ID_PARADA": 14076,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIAL CAN MAIANS",
+          "DESC_PARADA": "Vial Can Maians",
           "COD_PARADA": 304,
           "ID_GRUPO": 1,
           "ID_PARADA": 14077,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CRTA. DE PREMIA DE MAR/MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Crta. de Premia de Mar/Mestre Enric Morera",
           "COD_PARADA": 16,
           "ID_GRUPO": 1,
           "ID_PARADA": 7014,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -524,7 +524,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DR. FERRAN / TORRENT DE LA FONT SANA",
+          "DESC_PARADA": "Plaça Dr. Ferran / Torrent de la Font Sana",
           "COD_PARADA": 7721,
           "ID_GRUPO": 1,
           "ID_PARADA": 21173,
@@ -552,7 +552,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -580,7 +580,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
+          "DESC_PARADA": "Rotonda de les Flors (Illa Fantasia)",
           "COD_PARADA": 3230,
           "ID_GRUPO": 1,
           "ID_PARADA": 7007,
@@ -608,7 +608,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -636,7 +636,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -681,7 +681,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA D´ENLLAÇ/CAMÍ SOT DEL PI (RTDA.  FONT BLAVA)",
+          "DESC_PARADA": "Ctra D´Enllaç/Camí Sot del Pi (Rtda.  Font Blava)",
           "COD_PARADA": 3800,
           "ID_GRUPO": 1,
           "ID_PARADA": 7119,
@@ -709,7 +709,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DR. FERRAN / TORRENT DE LA FONT SANA",
+          "DESC_PARADA": "Plaça Dr. Ferran / Torrent de la Font Sana",
           "COD_PARADA": 7721,
           "ID_GRUPO": 1,
           "ID_PARADA": 21173,
@@ -737,7 +737,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -765,7 +765,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ROTONDA DE LES FLORS (ILLA FANTASIA)",
+          "DESC_PARADA": "Rotonda de les Flors (Illa Fantasia)",
           "COD_PARADA": 3230,
           "ID_GRUPO": 1,
           "ID_PARADA": 7007,
@@ -793,7 +793,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -821,7 +821,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -866,7 +866,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -894,7 +894,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -922,7 +922,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "ILLA FANTASIA",
+          "DESC_PARADA": "Illa Fantasia",
           "COD_PARADA": 18,
           "ID_GRUPO": 1,
           "ID_PARADA": 7015,
@@ -950,7 +950,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARRI COTTET",
+          "DESC_PARADA": "Barri Cottet",
           "COD_PARADA": 17,
           "ID_GRUPO": 1,
           "ID_PARADA": 7016,
@@ -978,7 +978,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VÍA-CTRA VILASSAR DE DALT",
+          "DESC_PARADA": "Gran Vía-Ctra Vilassar de Dalt",
           "COD_PARADA": 4822,
           "ID_GRUPO": 1,
           "ID_PARADA": 7020,
@@ -1006,7 +1006,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA DR. FERRAN / TORRENT DE LA FONT SANA",
+          "DESC_PARADA": "Plaça Dr. Ferran / Torrent de la Font Sana",
           "COD_PARADA": 7721,
           "ID_GRUPO": 1,
           "ID_PARADA": 21173,
@@ -1051,7 +1051,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -1079,7 +1079,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -1107,7 +1107,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. Mestre Enric Morera",
           "COD_PARADA": 3772,
           "ID_GRUPO": 1,
           "ID_PARADA": 7008,
@@ -1135,7 +1135,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. DE ST. JOSEP ORIOL",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. de St. Josep Oriol",
           "COD_PARADA": 3760,
           "ID_GRUPO": 1,
           "ID_PARADA": 7009,
@@ -1163,7 +1163,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE TARGA/CAMÍ DE MATARÓ",
+          "DESC_PARADA": "Riera de Targa/Camí de Mataró",
           "COD_PARADA": 3770,
           "ID_GRUPO": 1,
           "ID_PARADA": 7010,
@@ -1191,7 +1191,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE PAU CASALS (CAN BANÚS)",
+          "DESC_PARADA": "Pl. de Pau Casals (Can Banús)",
           "COD_PARADA": 3780,
           "ID_GRUPO": 1,
           "ID_PARADA": 7011,

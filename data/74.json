@@ -8,13 +8,13 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "N",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 525,
-    "FIN_TRAYECTO": 1325,
+    "INI_TRAYECTO": 555,
+    "FIN_TRAYECTO": 1310,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+          "DESC_PARADA": "Barcelona, Estacio del Nord",
           "COD_PARADA": 7134,
           "ID_GRUPO": 1,
           "ID_PARADA": 7411,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, FENALS (DIR. LLORET)",
+          "DESC_PARADA": "Lloret de Mar, Fenals (Dir. Lloret)",
           "COD_PARADA": 16004,
           "ID_GRUPO": 1,
           "ID_PARADA": 14018,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, ESTACIO",
+          "DESC_PARADA": "Lloret de Mar, Estacio",
           "COD_PARADA": 16131,
           "ID_GRUPO": 1,
           "ID_PARADA": 7408,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, BARRI DELS PESCADORS (DIR. TOSSA)",
+          "DESC_PARADA": "Lloret de Mar, Barri dels Pescadors (Dir. Tossa)",
           "COD_PARADA": 16005,
           "ID_GRUPO": 1,
           "ID_PARADA": 14023,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TOSSA DE MAR, ESTACIO",
+          "DESC_PARADA": "Tossa de Mar, Estacio",
           "COD_PARADA": 16590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7407,
@@ -165,13 +165,13 @@
     "DESC_REDUCIDA": "BARCELONA, ESTACIÓ DEL NORD",
     "PRINCIPAL": "N",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 430,
-    "FIN_TRAYECTO": 1230,
+    "INI_TRAYECTO": 460,
+    "FIN_TRAYECTO": 1215,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "TOSSA DE MAR, ESTACIO",
+          "DESC_PARADA": "Tossa de Mar, Estacio",
           "COD_PARADA": 16590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7407,
@@ -199,7 +199,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, BARRI DELS PESCADORS (DIR. LLORET)",
+          "DESC_PARADA": "Lloret de Mar, Barri dels Pescadors (Dir. Lloret)",
           "COD_PARADA": 16006,
           "ID_GRUPO": 1,
           "ID_PARADA": 14022,
@@ -227,7 +227,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, ESTACIO",
+          "DESC_PARADA": "Lloret de Mar, Estacio",
           "COD_PARADA": 16131,
           "ID_GRUPO": 1,
           "ID_PARADA": 7408,
@@ -255,7 +255,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, FENALS (DIR. BLANES)",
+          "DESC_PARADA": "Lloret de Mar, Fenals (Dir. Blanes)",
           "COD_PARADA": 16003,
           "ID_GRUPO": 1,
           "ID_PARADA": 14017,
@@ -283,7 +283,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+          "DESC_PARADA": "Barcelona, Estacio del Nord",
           "COD_PARADA": 7134,
           "ID_GRUPO": 1,
           "ID_PARADA": 7411,
@@ -322,13 +322,13 @@
     "DESC_REDUCIDA": "AEROPORT DE BARCELONA",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 340,
+    "INI_TRAYECTO": 400,
     "FIN_TRAYECTO": 1195,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "TOSSA DE MAR, ESTACIO",
+          "DESC_PARADA": "Tossa de Mar, Estacio",
           "COD_PARADA": 16590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7407,
@@ -356,7 +356,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, BARRI DELS PESCADORS (DIR. LLORET)",
+          "DESC_PARADA": "Lloret de Mar, Barri dels Pescadors (Dir. Lloret)",
           "COD_PARADA": 16006,
           "ID_GRUPO": 1,
           "ID_PARADA": 14022,
@@ -384,7 +384,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, ESTACIO",
+          "DESC_PARADA": "Lloret de Mar, Estacio",
           "COD_PARADA": 16131,
           "ID_GRUPO": 1,
           "ID_PARADA": 7408,
@@ -412,7 +412,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, FENALS (DIR. BLANES)",
+          "DESC_PARADA": "Lloret de Mar, Fenals (Dir. Blanes)",
           "COD_PARADA": 16003,
           "ID_GRUPO": 1,
           "ID_PARADA": 14017,
@@ -440,7 +440,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+          "DESC_PARADA": "Barcelona, Estacio del Nord",
           "COD_PARADA": 7134,
           "ID_GRUPO": 1,
           "ID_PARADA": 7411,
@@ -468,7 +468,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T1",
+          "DESC_PARADA": "Barcelona, Aeroport Barcelona T1",
           "COD_PARADA": 4631,
           "ID_GRUPO": 1,
           "ID_PARADA": 12561,
@@ -496,7 +496,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T2",
+          "DESC_PARADA": "Barcelona, Aeroport Barcelona T2",
           "COD_PARADA": 16310,
           "ID_GRUPO": 1,
           "ID_PARADA": 12562,
@@ -535,13 +535,13 @@
     "DESC_REDUCIDA": "TOSSA DE MAR, ESTACIÓ",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 555,
+    "INI_TRAYECTO": 590,
     "FIN_TRAYECTO": 1385,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T2",
+          "DESC_PARADA": "Barcelona, Aeroport Barcelona T2",
           "COD_PARADA": 16310,
           "ID_GRUPO": 1,
           "ID_PARADA": 12562,
@@ -569,7 +569,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, AEROPORT BARCELONA T1",
+          "DESC_PARADA": "Barcelona, Aeroport Barcelona T1",
           "COD_PARADA": 4631,
           "ID_GRUPO": 1,
           "ID_PARADA": 12561,
@@ -597,7 +597,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "BARCELONA, ESTACIO DEL NORD",
+          "DESC_PARADA": "Barcelona, Estacio del Nord",
           "COD_PARADA": 7134,
           "ID_GRUPO": 1,
           "ID_PARADA": 7411,
@@ -625,7 +625,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, FENALS (DIR. LLORET)",
+          "DESC_PARADA": "Lloret de Mar, Fenals (Dir. Lloret)",
           "COD_PARADA": 16004,
           "ID_GRUPO": 1,
           "ID_PARADA": 14018,
@@ -653,7 +653,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, ESTACIO",
+          "DESC_PARADA": "Lloret de Mar, Estacio",
           "COD_PARADA": 16131,
           "ID_GRUPO": 1,
           "ID_PARADA": 7408,
@@ -681,7 +681,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "LLORET DE MAR, BARRI DELS PESCADORS (DIR. TOSSA)",
+          "DESC_PARADA": "Lloret de Mar, Barri dels Pescadors (Dir. Tossa)",
           "COD_PARADA": 16005,
           "ID_GRUPO": 1,
           "ID_PARADA": 14023,
@@ -709,7 +709,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "TOSSA DE MAR, ESTACIO",
+          "DESC_PARADA": "Tossa de Mar, Estacio",
           "COD_PARADA": 16590,
           "ID_GRUPO": 1,
           "ID_PARADA": 7407,

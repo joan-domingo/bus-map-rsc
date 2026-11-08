@@ -1,7 +1,7 @@
 [
   {
     "Parada": {
-      "DESC_PARADA": "PLAÇA DE LA VILA (CENTRE)",
+      "DESC_PARADA": "Plaça de la Vila (Centre)",
       "COD_PARADA": 88,
       "ID_GRUPO": 1,
       "ID_PARADA": 7245,
@@ -29,7 +29,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CATALUNYA/C. CLÒSENS",
+      "DESC_PARADA": "Av. Catalunya/C. Clòsens",
       "COD_PARADA": 53,
       "ID_GRUPO": 1,
       "ID_PARADA": 7074,
@@ -49,15 +49,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 20,
     "ID_PARADA": 7074,
-    "NKM_ORIGEN": 0.206,
+    "NKM_ORIGEN": 0.205,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. CONTRABANDISTES/PG. DE JOAQUIM MATAS",
+      "DESC_PARADA": "C. Contrabandistes/Pg. de Joaquim Matas",
       "COD_PARADA": 1917,
       "ID_GRUPO": 1,
       "ID_PARADA": 14126,
@@ -85,7 +85,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. CONTRABANDISTES (ESCOLA JAUME LLULL)",
+      "DESC_PARADA": "C. Contrabandistes (Escola Jaume Llull)",
       "COD_PARADA": 1918,
       "ID_GRUPO": 1,
       "ID_PARADA": 14127,
@@ -113,7 +113,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "C. D´ALEXANDRE VERGÉS/C. EMPORDÀ",
+      "DESC_PARADA": "C. D´Alexandre Vergés/C. Empordà",
       "COD_PARADA": 3468,
       "ID_GRUPO": 1,
       "ID_PARADA": 7249,
@@ -141,7 +141,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CATALUNYA/C. FORNACA",
+      "DESC_PARADA": "Av. Catalunya/C. Fornaca",
       "COD_PARADA": 3472,
       "ID_GRUPO": 1,
       "ID_PARADA": 7250,
@@ -169,7 +169,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE ST. ANDREU / PTGE. MASSORRA (LA CREU)",
+      "DESC_PARADA": "Av. de St. Andreu / Ptge. Massorra (La Creu)",
       "COD_PARADA": 54,
       "ID_GRUPO": 1,
       "ID_PARADA": 7075,
@@ -189,15 +189,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 70,
     "ID_PARADA": 7075,
-    "NKM_ORIGEN": 0.803,
+    "NKM_ORIGEN": 2.464,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE SANT ANDREU (ZONA ESPORTIVA-E. SERENA VALL)",
+      "DESC_PARADA": "Av. de Sant Andreu (Zona Esportiva-E. Serena Vall)",
       "COD_PARADA": 4245,
       "ID_GRUPO": 1,
       "ID_PARADA": 12818,
@@ -217,15 +217,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 75,
     "ID_PARADA": 12818,
-    "NKM_ORIGEN": 1.093,
+    "NKM_ORIGEN": 2.759,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE ST. ANDREU / CAMÍ MASIA",
+      "DESC_PARADA": "Av. de St. Andreu / Camí Masia",
       "COD_PARADA": 55,
       "ID_GRUPO": 1,
       "ID_PARADA": 7076,
@@ -245,15 +245,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 80,
     "ID_PARADA": 7076,
-    "NKM_ORIGEN": 1.37,
+    "NKM_ORIGEN": 3.05,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV.DE ST.ANDREU/CAMÍ DE CAN PI (LES LLOSES)",
+      "DESC_PARADA": "Av.De St.Andreu/Camí de Can Pi (Les Lloses)",
       "COD_PARADA": 56,
       "ID_GRUPO": 1,
       "ID_PARADA": 7251,
@@ -273,15 +273,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 90,
     "ID_PARADA": 7251,
-    "NKM_ORIGEN": 1.942,
+    "NKM_ORIGEN": 3.609,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE ST. ANDREU (ESGLÉSIA DE SANT PERE)",
+      "DESC_PARADA": "Av. de St. Andreu (Església de Sant Pere)",
       "COD_PARADA": 57,
       "ID_GRUPO": 1,
       "ID_PARADA": 7252,
@@ -301,15 +301,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 100,
     "ID_PARADA": 7252,
-    "NKM_ORIGEN": 2.573,
+    "NKM_ORIGEN": 4.244,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT ANDREU DE LLAVANERES (ESTACIÓ RODALIES)",
+      "DESC_PARADA": "Sant Andreu de Llavaneres (Estació Rodalies)",
       "COD_PARADA": 58,
       "ID_GRUPO": 1,
       "ID_PARADA": 7253,
@@ -329,15 +329,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 110,
     "ID_PARADA": 7253,
-    "NKM_ORIGEN": 2.86,
+    "NKM_ORIGEN": 4.534,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. CAN SANS / PASSEIG  POBLE ESPANYOL (CAN SANÇ)",
+      "DESC_PARADA": "Av. Can Sans / Passeig  Poble Espanyol (Can Sanç)",
       "COD_PARADA": 4109,
       "ID_GRUPO": 1,
       "ID_PARADA": 12751,
@@ -365,7 +365,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. N-II (LA MARINADA)",
+      "DESC_PARADA": "Ctra. N-II (La Marinada)",
       "COD_PARADA": 4111,
       "ID_GRUPO": 1,
       "ID_PARADA": 12752,
@@ -385,15 +385,15 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 58,
-    "ID_TRAYECTO": 3,
+    "ID_TRAYECTO": 1,
     "SECUENCIA": 125,
     "ID_PARADA": 12752,
-    "NKM_ORIGEN": 3.472,
+    "NKM_ORIGEN": 5.499,
     "SUBE_BAJA": 1
   },
   {
     "Parada": {
-      "DESC_PARADA": "SANT ANDREU DE LLAVANERES (ESTACIÓ RODALIES)",
+      "DESC_PARADA": "Sant Andreu de Llavaneres (Estació Rodalies)",
       "COD_PARADA": 3510,
       "ID_GRUPO": 1,
       "ID_PARADA": 7059,
@@ -421,147 +421,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE ST. ANDREU/C. DE ST. PERE",
-      "COD_PARADA": 3500,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7060,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 458323,
-      "UTMY": 4601013,
-      "LATITUD": 41.557886764134,
-      "LONGITUD": 2.4990926489703,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 40,
-    "ID_PARADA": 7060,
-    "NKM_ORIGEN": 3.885,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "AV.DE ST.ANDREU/CAMÍ DE CAN PI (LES LLOSES)",
-      "COD_PARADA": 3490,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7061,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 457981,
-      "UTMY": 4601501,
-      "LATITUD": 41.562264246091,
-      "LONGITUD": 2.4949572972826,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 50,
-    "ID_PARADA": 7061,
-    "NKM_ORIGEN": 4.435,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "AV. DE ST.ANDREU/CAMÍ MASIA",
-      "COD_PARADA": 3480,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7062,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 457569,
-      "UTMY": 4601873,
-      "LATITUD": 41.565593040937,
-      "LONGITUD": 2.4899900772491,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 60,
-    "ID_PARADA": 7062,
-    "NKM_ORIGEN": 4.99,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "AV. DE SANT ANDREU (ESCOLA SERENA VALL)",
-      "COD_PARADA": 4231,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 12817,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 457353,
-      "UTMY": 4602081,
-      "LATITUD": 41.567454975176,
-      "LONGITUD": 2.4873847765809,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 65,
-    "ID_PARADA": 12817,
-    "NKM_ORIGEN": 5.265,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "AV. DE  ST.ANDREU/PTGE. MASSORRA (LA CREU)",
-      "COD_PARADA": 3470,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 7063,
-      "ID_MUNICIPIO": 81976,
-      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 457174,
-      "UTMY": 4602307,
-      "LATITUD": 41.569480962204,
-      "LONGITUD": 2.4852218063288,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 58,
-    "ID_TRAYECTO": 2,
-    "SECUENCIA": 70,
-    "ID_PARADA": 7063,
-    "NKM_ORIGEN": 5.566,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "MONTSENY",
+      "DESC_PARADA": "Montseny",
       "COD_PARADA": 4827,
       "ID_GRUPO": 1,
       "ID_PARADA": 7238,
@@ -589,7 +449,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "CTRA. N-II/CAMÍ DEL BALIS",
+      "DESC_PARADA": "Ctra. N-II/Camí del Balis",
       "COD_PARADA": 259,
       "ID_GRUPO": 1,
       "ID_PARADA": 13123,
@@ -617,7 +477,147 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "PL. DE LA VILA/PG. DE LES MONGES",
+      "DESC_PARADA": "Av. de St. Andreu/C. de St. Pere",
+      "COD_PARADA": 3500,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7060,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 458323,
+      "UTMY": 4601013,
+      "LATITUD": 41.557886764134,
+      "LONGITUD": 2.4990926489703,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 40,
+    "ID_PARADA": 7060,
+    "NKM_ORIGEN": 3.885,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Av.De St.Andreu/Camí de Can Pi (Les Lloses)",
+      "COD_PARADA": 3490,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7061,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 457981,
+      "UTMY": 4601501,
+      "LATITUD": 41.562264246091,
+      "LONGITUD": 2.4949572972826,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 50,
+    "ID_PARADA": 7061,
+    "NKM_ORIGEN": 4.435,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Av. de St.Andreu/Camí Masia",
+      "COD_PARADA": 3480,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7062,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 457569,
+      "UTMY": 4601873,
+      "LATITUD": 41.565593040937,
+      "LONGITUD": 2.4899900772491,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 60,
+    "ID_PARADA": 7062,
+    "NKM_ORIGEN": 4.99,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Av. de Sant Andreu (Escola Serena Vall)",
+      "COD_PARADA": 4231,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 12817,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 457353,
+      "UTMY": 4602081,
+      "LATITUD": 41.567454975176,
+      "LONGITUD": 2.4873847765809,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 65,
+    "ID_PARADA": 12817,
+    "NKM_ORIGEN": 5.265,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Av. de  St.Andreu/Ptge. Massorra (La Creu)",
+      "COD_PARADA": 3470,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 7063,
+      "ID_MUNICIPIO": 81976,
+      "MUNICIPIO": "SANT ANDREU DE LLAVANERES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 457174,
+      "UTMY": 4602307,
+      "LATITUD": 41.569480962204,
+      "LONGITUD": 2.4852218063288,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 58,
+    "ID_TRAYECTO": 2,
+    "SECUENCIA": 70,
+    "ID_PARADA": 7063,
+    "NKM_ORIGEN": 5.566,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Pl. de la Vila/Pg. de les Monges",
       "COD_PARADA": 3462,
       "ID_GRUPO": 1,
       "ID_PARADA": 7257,
@@ -645,7 +645,7 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "AV. DE PAU CASALS/AV. ONZE PINS",
+      "DESC_PARADA": "Av. de Pau Casals/Av. Onze Pins",
       "COD_PARADA": 3482,
       "ID_GRUPO": 1,
       "ID_PARADA": 7258,

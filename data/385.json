@@ -8,13 +8,13 @@
     "DESC_REDUCIDA": "URBÀ DE PREMIÀ DE MA",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 415,
+    "INI_TRAYECTO": 590,
     "FIN_TRAYECTO": 1285,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "C. CAMP DE MAR, 1",
+          "DESC_PARADA": "C. Camp de Mar, 1",
           "COD_PARADA": 7008,
           "ID_GRUPO": 1,
           "ID_PARADA": 18200,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE FRANCESC MAS I ABRIL",
+          "DESC_PARADA": "Camí Ral/C. de Francesc Mas i Abril",
           "COD_PARADA": 29,
           "ID_GRUPO": 1,
           "ID_PARADA": 7107,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL/C. DE JOAN PRIM (BELLAMAR)",
+          "DESC_PARADA": "Camí Ral/C. de Joan Prim (Bellamar)",
           "COD_PARADA": 31,
           "ID_GRUPO": 1,
           "ID_PARADA": 7018,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CAMÍ RAL (ESTACIÓ DE PREMIÀ DE MAR)",
+          "DESC_PARADA": "Camí Ral (Estació de Premià de Mar)",
           "COD_PARADA": 32,
           "ID_GRUPO": 1,
           "ID_PARADA": 7019,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA  /AV. TORRENT CASTELLS (LA SALLE)",
+          "DESC_PARADA": "Gran Via  /Av. Torrent Castells (La Salle)",
           "COD_PARADA": 7009,
           "ID_GRUPO": 1,
           "ID_PARADA": 18201,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LLUÍS COMPANYS/PLAÇA DE SANTA ROSA",
+          "DESC_PARADA": "Gran Via de Lluís Companys/Plaça de Santa Rosa",
           "COD_PARADA": 7010,
           "ID_GRUPO": 1,
           "ID_PARADA": 18202,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA-RIERA DE PREMIÀ",
+          "DESC_PARADA": "Gran Via-Riera de Premià",
           "COD_PARADA": 3280,
           "ID_GRUPO": 1,
           "ID_PARADA": 7102,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DE LA MERCÈ (CAP)",
+          "DESC_PARADA": "C. de la Mercè (Cap)",
           "COD_PARADA": 7011,
           "ID_GRUPO": 1,
           "ID_PARADA": 18203,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LLUÍS COMPANYS/C. DE LA PLAÇA",
+          "DESC_PARADA": "Gran Via de Lluís Companys/C. de la Plaça",
           "COD_PARADA": 7012,
           "ID_GRUPO": 1,
           "ID_PARADA": 18204,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA-ELISENDA DE MONTCADA",
+          "DESC_PARADA": "Gran Via-Elisenda de Montcada",
           "COD_PARADA": 3290,
           "ID_GRUPO": 1,
           "ID_PARADA": 7103,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE VILASSAR DE DALT/C. D´ENRIC GRANADOS",
+          "DESC_PARADA": "Ctra. de Vilassar de Dalt/C. D´Enric Granados",
           "COD_PARADA": 7013,
           "ID_GRUPO": 1,
           "ID_PARADA": 18205,
@@ -322,7 +322,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GIRONA/CAMÍ DEL MIG (CAP VÍCTOR CATALÀ)",
+          "DESC_PARADA": "Girona/Camí del Mig (Cap Víctor Català)",
           "COD_PARADA": 7880,
           "ID_GRUPO": 1,
           "ID_PARADA": 23289,
@@ -350,7 +350,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "SANTIAGO RUSIÑOL / ROSELLÓ (BIBLIOTECA)",
+          "DESC_PARADA": "Santiago Rusiñol / Roselló (Biblioteca)",
           "COD_PARADA": 7014,
           "ID_GRUPO": 1,
           "ID_PARADA": 18206,
@@ -378,7 +378,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PLAÇA  DR. FERRAN / C. DE SANTIAGO RUSIÑOL",
+          "DESC_PARADA": "Plaça  Dr. Ferran / C. de Santiago Rusiñol",
           "COD_PARADA": 3252,
           "ID_GRUPO": 1,
           "ID_PARADA": 7021,
@@ -406,7 +406,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. DELS BATLLES/C. DE SANTIAGO RUSIÑOL",
+          "DESC_PARADA": "C. dels Batlles/C. de Santiago Rusiñol",
           "COD_PARADA": 7015,
           "ID_GRUPO": 1,
           "ID_PARADA": 18208,
@@ -434,7 +434,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. RAFAEL CASANOVA/C. CAN POU (INSTITUTS)",
+          "DESC_PARADA": "C. Rafael Casanova/C. Can Pou (Instituts)",
           "COD_PARADA": 7016,
           "ID_GRUPO": 1,
           "ID_PARADA": 18209,
@@ -462,7 +462,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "C. CAMP DE MAR, 1",
+          "DESC_PARADA": "C. Camp de Mar, 1",
           "COD_PARADA": 7008,
           "ID_GRUPO": 1,
           "ID_PARADA": 18200,

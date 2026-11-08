@@ -14,7 +14,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. DE LA MUNTANYA (MONTCABRER)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. de la Muntanya (Montcabrer)",
           "COD_PARADA": 3830,
           "ID_GRUPO": 1,
           "ID_PARADA": 7132,
@@ -42,7 +42,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PG. DE  CABRILS / C. PARE CASANOVAS",
+          "DESC_PARADA": "Pg. de  Cabrils / C. Pare Casanovas",
           "COD_PARADA": 3840,
           "ID_GRUPO": 1,
           "ID_PARADA": 7133,
@@ -70,7 +70,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. VILASSAR DE DALT/PTGE PARE CLARET (CABRILS2)",
+          "DESC_PARADA": "Ctra. Vilassar de Dalt/Ptge Pare Claret (Cabrils2)",
           "COD_PARADA": 130,
           "ID_GRUPO": 1,
           "ID_PARADA": 13087,
@@ -98,7 +98,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT SEBASTIÀ / C. DE RAMÓN Y CAJAL",
+          "DESC_PARADA": "Av. de Sant Sebastià / C. de Ramón Y Cajal",
           "COD_PARADA": 166,
           "ID_GRUPO": 1,
           "ID_PARADA": 13089,
@@ -126,7 +126,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SAN SEBASTIÀ / PTGE. DEL PARC",
+          "DESC_PARADA": "Av. de San Sebastià / Ptge. del Parc",
           "COD_PARADA": 168,
           "ID_GRUPO": 1,
           "ID_PARADA": 13090,
@@ -154,7 +154,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE  TARGA / C. DE SANT GENÍS",
+          "DESC_PARADA": "Riera de  Targa / C. de Sant Genís",
           "COD_PARADA": 14,
           "ID_GRUPO": 1,
           "ID_PARADA": 7012,
@@ -182,7 +182,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE TARGA/C.DEL PI",
+          "DESC_PARADA": "Riera de Targa/C.Del Pi",
           "COD_PARADA": 303,
           "ID_GRUPO": 1,
           "ID_PARADA": 14076,
@@ -210,7 +210,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "VIAL CAN MAIANS",
+          "DESC_PARADA": "Vial Can Maians",
           "COD_PARADA": 304,
           "ID_GRUPO": 1,
           "ID_PARADA": 14077,
@@ -238,7 +238,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CRTA. DE PREMIA DE MAR/MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Crta. de Premia de Mar/Mestre Enric Morera",
           "COD_PARADA": 16,
           "ID_GRUPO": 1,
           "ID_PARADA": 7014,
@@ -266,7 +266,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL.TETUAN (GVCC /NÀPOLS)",
+          "DESC_PARADA": "Pl.Tetuan (Gvcc /Nàpols)",
           "COD_PARADA": 13,
           "ID_GRUPO": 1,
           "ID_PARADA": 7506,
@@ -294,7 +294,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -339,7 +339,7 @@
     "TrayectosDet": [
       {
         "Parada": {
-          "DESC_PARADA": "GRAN VIA DE LES CORTS CATALANES / PG. DE GRÀCIA",
+          "DESC_PARADA": "Gran Via de les Corts Catalanes / Pg. de Gràcia",
           "COD_PARADA": 7722,
           "ID_GRUPO": 1,
           "ID_PARADA": 21174,
@@ -367,7 +367,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "PL. DE TETUAN",
+          "DESC_PARADA": "Pl. de Tetuan",
           "COD_PARADA": 3220,
           "ID_GRUPO": 1,
           "ID_PARADA": 7508,
@@ -395,7 +395,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. MESTRE ENRIC MORERA",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. Mestre Enric Morera",
           "COD_PARADA": 3772,
           "ID_GRUPO": 1,
           "ID_PARADA": 7008,
@@ -423,7 +423,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE PREMIÀ DE MAR/C. DE ST. JOSEP ORIOL",
+          "DESC_PARADA": "Ctra. de Premià de Mar/C. de St. Josep Oriol",
           "COD_PARADA": 3760,
           "ID_GRUPO": 1,
           "ID_PARADA": 7009,
@@ -451,7 +451,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "RIERA DE TARGA/CAMÍ DE MATARÓ",
+          "DESC_PARADA": "Riera de Targa/Camí de Mataró",
           "COD_PARADA": 3770,
           "ID_GRUPO": 1,
           "ID_PARADA": 7010,
@@ -479,7 +479,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SAN SEBASTIÀ / C. D´EMILI SALETA",
+          "DESC_PARADA": "Av. de San Sebastià / C. D´Emili Saleta",
           "COD_PARADA": 179,
           "ID_GRUPO": 1,
           "ID_PARADA": 13091,
@@ -507,7 +507,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "AV. DE SANT SEBASTIÀ / CAMÍ ANTIC DE CABRILS",
+          "DESC_PARADA": "Av. de Sant Sebastià / Camí Antic de Cabrils",
           "COD_PARADA": 180,
           "ID_GRUPO": 1,
           "ID_PARADA": 13092,
@@ -535,7 +535,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. VILASSAR DE DALT/PTGE PARE CLARET (CABRILS2)",
+          "DESC_PARADA": "Ctra. Vilassar de Dalt/Ptge Pare Claret (Cabrils2)",
           "COD_PARADA": 183,
           "ID_GRUPO": 1,
           "ID_PARADA": 13094,
@@ -563,7 +563,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / PTGE. STA. ELENA",
+          "DESC_PARADA": "Ctra. de Cabrils / Ptge. Sta. Elena",
           "COD_PARADA": 73,
           "ID_GRUPO": 1,
           "ID_PARADA": 7123,
@@ -591,7 +591,7 @@
       },
       {
         "Parada": {
-          "DESC_PARADA": "CTRA. DE CABRILS / C. CAN TOSCA (MONTCABRER)",
+          "DESC_PARADA": "Ctra. de Cabrils / C. Can Tosca (Montcabrer)",
           "COD_PARADA": 74,
           "ID_GRUPO": 1,
           "ID_PARADA": 7124,
