@@ -8,7 +8,7 @@
     "DESC_REDUCIDA": "BCN-MAT(NII)",
     "PRINCIPAL": "S",
     "SENTIDO": "V",
-    "INI_TRAYECTO": 420,
+    "INI_TRAYECTO": 585,
     "FIN_TRAYECTO": 1380,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [
@@ -1201,7 +1201,7 @@
     "DESC_REDUCIDA": "MAT-BCN (NII)",
     "PRINCIPAL": "S",
     "SENTIDO": "I",
-    "INI_TRAYECTO": 330,
+    "INI_TRAYECTO": 495,
     "FIN_TRAYECTO": 1305,
     "ID_TRAYECTO_CONCAT": null,
     "TrayectosDet": [

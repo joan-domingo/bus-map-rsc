@@ -17,24 +17,6 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261207"
   },
-  "2": {
-    "nid": "86779",
-    "ID_LINEA": "2",
-    "COD_LINEA": "C2",
-    "DESC_LINEA": "SABADELL - TERRASSA - MARTORELL",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F70000",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "32",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261106"
-  },
   "3": {
     "nid": "86781",
     "ID_LINEA": "3",
@@ -52,24 +34,6 @@
     "ADAPTADA": "S",
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261207"
-  },
-  "4": {
-    "nid": "86783",
-    "ID_LINEA": "4",
-    "COD_LINEA": "B6",
-    "DESC_LINEA": "UAB - BADIA - SABADELL",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F7004E",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "20",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261106"
   },
   "5": {
     "nid": "86785",
@@ -105,7 +69,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "10": {
     "nid": "86787",
@@ -141,7 +105,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "14": {
     "nid": "123558",
@@ -195,7 +159,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "18": {
     "nid": "86793",
@@ -231,7 +195,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "20": {
     "nid": "86751",
@@ -249,7 +213,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "21": {
     "nid": "86753",
@@ -267,7 +231,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "22": {
     "nid": "86795",
@@ -411,7 +375,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "37": {
     "nid": "86757",
@@ -429,7 +393,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "38": {
     "nid": "86817",
@@ -465,7 +429,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "44": {
     "nid": "86819",
@@ -519,7 +483,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20270101"
   },
   "48": {
     "nid": "86663",
@@ -537,7 +501,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "49": {
     "nid": "86665",
@@ -555,7 +519,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20270101"
   },
   "51": {
     "nid": "86667",
@@ -591,7 +555,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20270101"
   },
   "55": {
     "nid": "86673",
@@ -753,7 +717,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20270101"
   },
   "70": {
     "nid": "86691",
@@ -771,7 +735,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20270101"
   },
   "73": {
     "nid": "86699",
@@ -789,7 +753,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "74": {
     "nid": "86701",
@@ -807,7 +771,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "75": {
     "nid": "86703",
@@ -825,25 +789,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120766",
-    "DIAS_QUE_CIRCULA": "20261230"
-  },
-  "103": {
-    "nid": "86823",
-    "ID_LINEA": "103",
-    "COD_LINEA": "648",
-    "DESC_LINEA": "MONTCADA - UAB - BELLATERRA",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F70000",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261106"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "161": {
     "nid": "86693",
@@ -917,24 +863,6 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261107"
   },
-  "249": {
-    "nid": "86833",
-    "ID_LINEA": "249",
-    "COD_LINEA": "C7",
-    "DESC_LINEA": "CAN RULL - HOSP.TERRASSA - CASTELLBISBAL",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#F70010",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "30",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261106"
-  },
   "259": {
     "nid": "86837",
     "ID_LINEA": "259",
@@ -969,7 +897,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "271": {
     "nid": "121187",
@@ -1023,7 +951,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "298": {
     "nid": "86773",
@@ -1041,7 +969,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "299": {
     "nid": "86775",
@@ -1059,7 +987,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "334": {
     "nid": "86978",
@@ -1095,25 +1023,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
-  },
-  "339": {
-    "nid": "88222",
-    "ID_LINEA": "339",
-    "COD_LINEA": "B5",
-    "DESC_LINEA": "RIPOLLET A SABADELL (DIRECTE)",
-    "ID_ZONA": "8",
-    "ID_SUBZONA": "5",
-    "TREAL": "S",
-    "FORMA": "redondo",
-    "COLOR": "#FF050D",
-    "TEXT_COLOR": null,
-    "ID_EXPLOTADORA": "1",
-    "ID_CONCESION": "1",
-    "ID_GRUPO": "1",
-    "ADAPTADA": "S",
-    "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261106"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "340": {
     "nid": "119848",
@@ -1185,7 +1095,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "361": {
     "nid": "118945",
@@ -1349,6 +1259,60 @@
     "MARCA": "120760",
     "DIAS_QUE_CIRCULA": "20261113"
   },
+  "430": {
+    "nid": "122946",
+    "ID_LINEA": "430",
+    "COD_LINEA": "L1 LLO/BLA",
+    "DESC_LINEA": "LLORET-BLANES CENTRE-LLORET",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "2",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0C31C2",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "31",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
+  },
+  "431": {
+    "nid": "122373",
+    "ID_LINEA": "431",
+    "COD_LINEA": "L6",
+    "DESC_LINEA": "LLORET-BLANES RENFE",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "4",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#FFAC08",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "31",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
+  },
+  "433": {
+    "nid": "122671",
+    "ID_LINEA": "433",
+    "COD_LINEA": "L2 BL/URBÀ",
+    "DESC_LINEA": "URBÀ BLANES",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "2",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#0BBB80",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
+  },
   "434": {
     "nid": "122487",
     "ID_LINEA": "434",
@@ -1402,6 +1366,24 @@
     "ADAPTADA": "N",
     "MARCA": "122376",
     "DIAS_QUE_CIRCULA": "20261128"
+  },
+  "439": {
+    "nid": "122367",
+    "ID_LINEA": "439",
+    "COD_LINEA": "L4 BLA-REN",
+    "DESC_LINEA": "RENFE BLANES - BLANES CENTRE - RENFE BLANES",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "2",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#E1009F",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "10",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "441": {
     "nid": "121970",
@@ -1509,7 +1491,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120764",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "623": {
     "nid": "124149",
@@ -1563,7 +1545,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "663": {
     "nid": "125313",
@@ -1581,7 +1563,7 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "664": {
     "nid": "125310",
@@ -1599,7 +1581,43 @@
     "ID_GRUPO": "1",
     "ADAPTADA": "S",
     "MARCA": "120760",
-    "DIAS_QUE_CIRCULA": "20261230"
+    "DIAS_QUE_CIRCULA": "20261231"
+  },
+  "670": {
+    "nid": "125301",
+    "ID_LINEA": "670",
+    "COD_LINEA": "L69",
+    "DESC_LINEA": "L69 - TOSSA - LLORET - BLANES RENFE",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "2",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#F5A600",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "31",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
+  },
+  "671": {
+    "nid": "125304",
+    "ID_LINEA": "671",
+    "COD_LINEA": "L53 BLANES",
+    "DESC_LINEA": "L53 - VALLDOLIGT - BARRIS - CAMPINGS - PORT",
+    "ID_ZONA": "6",
+    "ID_SUBZONA": "2",
+    "TREAL": "S",
+    "FORMA": "redondo",
+    "COLOR": "#55FFFF",
+    "TEXT_COLOR": null,
+    "ID_EXPLOTADORA": "11",
+    "ID_CONCESION": "31",
+    "ID_GRUPO": "3",
+    "ADAPTADA": "S",
+    "MARCA": "122376",
+    "DIAS_QUE_CIRCULA": "20261231"
   },
   "711": {
     "nid": "169456",
