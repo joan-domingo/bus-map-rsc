@@ -21,11 +21,11 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 200,
+    "ID_TRAYECTO": 457,
+    "SECUENCIA": 10,
     "ID_PARADA": 7395,
-    "NKM_ORIGEN": 197.3,
-    "SUBE_BAJA": 3
+    "NKM_ORIGEN": 0,
+    "SUBE_BAJA": 2
   },
   {
     "Parada": {
@@ -105,10 +105,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 170,
+    "ID_TRAYECTO": 457,
+    "SECUENCIA": 40,
     "ID_PARADA": 7393,
-    "NKM_ORIGEN": 184.6,
+    "NKM_ORIGEN": 12.9,
     "SUBE_BAJA": 1
   },
   {
@@ -133,10 +133,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 160,
+    "ID_TRAYECTO": 457,
+    "SECUENCIA": 50,
     "ID_PARADA": 7387,
-    "NKM_ORIGEN": 173.9,
+    "NKM_ORIGEN": 22.4,
     "SUBE_BAJA": 1
   },
   {
@@ -841,34 +841,6 @@
   },
   {
     "Parada": {
-      "DESC_PARADA": "Palafrugell, Cap",
-      "COD_PARADA": 16729,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 10727,
-      "ID_MUNICIPIO": 171175,
-      "MUNICIPIO": "PALAFRUGELL",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 513732,
-      "UTMY": 4640226,
-      "LATITUD": 41.912027787771,
-      "LONGITUD": 3.1644496085845,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 120,
-    "ID_PARADA": 10727,
-    "NKM_ORIGEN": 160.1,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
       "DESC_PARADA": "Begur, Plaça Forgas (Dir. Regencos)",
       "COD_PARADA": 16026,
       "ID_GRUPO": 1,
@@ -889,10 +861,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 130,
+    "ID_TRAYECTO": 407,
+    "SECUENCIA": 110,
     "ID_PARADA": 7386,
-    "NKM_ORIGEN": 167.4,
+    "NKM_ORIGEN": 141.9,
     "SUBE_BAJA": 1
   },
   {
@@ -945,10 +917,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 150,
+    "ID_TRAYECTO": 407,
+    "SECUENCIA": 130,
     "ID_PARADA": 7446,
-    "NKM_ORIGEN": 171.9,
+    "NKM_ORIGEN": 146.4,
     "SUBE_BAJA": 1
   },
   {
@@ -973,38 +945,10 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 190,
+    "ID_TRAYECTO": 407,
+    "SECUENCIA": 170,
     "ID_PARADA": 13542,
-    "NKM_ORIGEN": 191.5,
-    "SUBE_BAJA": 1
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "Ulla (Dir. l'Escala)",
-      "COD_PARADA": 16591,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 13652,
-      "ID_MUNICIPIO": 454832,
-      "MUNICIPIO": "ULLA",
-      "EXPLOTADORA": "SARFA",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 2,
-      "UTMX": 508841,
-      "UTMY": 4655495,
-      "LATITUD": 42.049640990354,
-      "LONGITUD": 3.1057027279348,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 180,
-    "ID_PARADA": 13652,
-    "NKM_ORIGEN": 187,
+    "NKM_ORIGEN": 166,
     "SUBE_BAJA": 1
   },
   {
@@ -1029,10 +973,38 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 73,
-    "ID_TRAYECTO": 452,
-    "SECUENCIA": 140,
+    "ID_TRAYECTO": 458,
+    "SECUENCIA": 130,
     "ID_PARADA": 12024,
-    "NKM_ORIGEN": 170.7,
+    "NKM_ORIGEN": 169.8,
+    "SUBE_BAJA": 1
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "Ulla (Dir. l'Escala)",
+      "COD_PARADA": 16591,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 13652,
+      "ID_MUNICIPIO": 454832,
+      "MUNICIPIO": "ULLA",
+      "EXPLOTADORA": "SARFA",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 2,
+      "UTMX": 508841,
+      "UTMY": 4655495,
+      "LATITUD": 42.049640990354,
+      "LONGITUD": 3.1057027279348,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 73,
+    "ID_TRAYECTO": 407,
+    "SECUENCIA": 160,
+    "ID_PARADA": 13652,
+    "NKM_ORIGEN": 161.5,
     "SUBE_BAJA": 1
   },
   {
