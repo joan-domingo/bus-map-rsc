@@ -8,6 +8,22 @@ export interface BusStop {
   zoneId: number;
 }
 
+export interface BusLineJourneyEndpoint {
+  stop: string;
+  municipality?: string;
+}
+
+export interface BusLineJourney {
+  id: string;
+  from: BusLineJourneyEndpoint;
+  to: BusLineJourneyEndpoint;
+}
+
+export interface BusLineRouteData {
+  journeys: BusLineJourney[];
+  municipalities: string[];
+}
+
 export interface BusLineStopTimetable {
   idLinea: number;
   desc_linea: string;

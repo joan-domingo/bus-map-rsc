@@ -5,30 +5,30 @@ import busLineData from "./busLineData.json";
  * first six are rendered (see getVisiblePriorityLineSlugs), so the order is
  * what decides which pages the home page and header link to on every view.
  *
- * Last refreshed from Search Console on 2026-09-06, from the trailing three
- * months. Figures below are clicks / impressions for that window.
+ * Last refreshed from Search Console on 2026-11-21, from 2026-08-20 to
+ * 2026-11-19. Figures below are clicks / impressions for that window.
  */
 const SEARCH_PRIORITY_LINES = [
-  "e3", // 282 / 4868
-  "c10", // 136 / 5338
-  "c30", // 51 / 3444
-  "n80", // 31 / 3722
-  "b2", // 54 / 995
-  "e11.1", // 22 / 2286
-  "c19", // 23 / 1003
-  "e11.2", // 11 / 2224
-  "n62", // 18 / 1175
-  "808", // 16 / 1482
-  "805", // 14 / 1624
-  "b7", // 11 / 1804
-  "l3", // 18 / 1056
-  "c20", // 12 / 1357
-  "b1", // 12 / 1235
-  "l53blanes", // 22 / 493
-  "l9", // 12 / 980
-  "c22", // 5 / 1376
-  "l16", // 8 / 1262
-  "c18", // 8 / 1171
+  "c10", // 1245 / 32924
+  "e3", // 713 / 19206
+  "c30", // 315 / 13929
+  "e11.1", // 286 / 10090
+  "e2.1", // 256 / 6857
+  "a4", // 158 / 8680
+  "b2", // 148 / 8063
+  "e2.2", // 126 / 4351
+  "b8", // 98 / 2956
+  "805", // 85 / 6352
+  "e11.2", // 80 / 8254
+  "808", // 70 / 4943
+  "n80", // 67 / 5557
+  "c5", // 63 / 2770
+  "648", // 61 / 3626
+  "b1", // 61 / 3319
+  "c13", // 59 / 869
+  "b7", // 51 / 4530
+  "e1", // 47 / 2858
+  "n62", // 40 / 2437
 ] as const;
 
 const SEARCH_LINE_ALIASES: Record<
@@ -68,19 +68,40 @@ export interface HomePageSeo {
  * Console shows "horarios", "paradas" and "linea X" across hundreds of Spanish
  * queries, against a Catalan phrasing that only matched "horaris"/"parades".
  */
-export function buildLinePageSeo(lineName: string): LinePageSeo {
+export function buildLinePageSeo(
+  lineName: string,
+  municipalities: string[] = [],
+): LinePageSeo {
   const line = lineName.toUpperCase();
+  const baseDescription = `Bus ${line} de Moventis en temps real: properes arribades, parades i horaris. Paradas y horarios de la línea ${line} en tiempo real.`;
+  let description = baseDescription;
+  const servedMunicipalities: string[] = [];
+
+  for (const municipality of municipalities) {
+    const candidateMunicipalities = [...servedMunicipalities, municipality];
+    const candidateDescription = `Bus ${line} de Moventis en temps real a ${candidateMunicipalities.join(", ")}. Properes arribades, parades i horaris. Paradas y horarios de la línea ${line} en tiempo real.`;
+    if (candidateDescription.length > 160) {
+      break;
+    }
+
+    servedMunicipalities.push(municipality);
+    description = candidateDescription;
+  }
+
   return {
     title: `Bus ${line} temps real i tiempo real · Moventis`,
-    description: `Bus ${line} de Moventis en temps real: properes arribades, parades i horaris al mapa. Horarios y paradas de la línea ${line} en tiempo real.`,
+    description,
   };
 }
 
 export function buildHomePageSeo(): HomePageSeo {
+  const featuredLines = SEARCH_PRIORITY_LINES.slice(0, 5)
+    .map((line) => line.toUpperCase())
+    .join(", ");
+
   return {
     title: "Moventis temps real i tiempo real | QuanTriga",
-    description:
-      "Quan arriba el teu bus? Moventis en temps real i tiempo real: mapa de parades, properes arribades i horaris de les línies E3, C10, C30, N80 i C19.",
+    description: `Quan arriba el teu bus? Moventis en temps real i tiempo real: mapa de parades, properes arribades i horaris de les línies ${featuredLines}.`,
   };
 }
 

@@ -43,6 +43,13 @@ describe("buildLinePageSeo", () => {
     expect(description).toContain("línea c30");
   });
 
+  it("includes route-specific municipalities in the snippet", () => {
+    const seo = buildLinePageSeo("c10", ["Barcelona", "Mataró"]);
+
+    expect(seo.description).toContain("Barcelona, Mataró");
+    expect(seo.description.length).toBeLessThanOrEqual(160);
+  });
+
   it("keeps titles and descriptions inside what a SERP shows", () => {
     // The longest line name in the data, so every other line fits too
     const longest = getAllSeoLineEntries().reduce((a, b) =>
@@ -229,11 +236,14 @@ describe("priority line slugs", () => {
   });
 
   it("leads with the lines that earn the most search traffic", () => {
-    // E3 and C10 are the two best performing line pages by clicks and
-    // impressions, so they get the header links on every page.
-    expect(getPriorityLineSlugs().slice(0, 3)).toEqual(["e3", "c10", "c30"]);
-    expect(getVisiblePriorityLineSlugs()).toContain("n80");
-    expect(getVisiblePriorityLineSlugs()).toContain("b2");
+    expect(getPriorityLineSlugs().slice(0, 6)).toEqual([
+      "c10",
+      "e3",
+      "c30",
+      "e11.1",
+      "e2.1",
+      "a4",
+    ]);
   });
 
   it("has no duplicates", () => {

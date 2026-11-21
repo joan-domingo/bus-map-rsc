@@ -2,7 +2,7 @@ import { describe, expect, it } from "bun:test";
 import { fireEvent, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { renderToStaticMarkup } from "react-dom/server";
-import type { BusStop } from "../../types";
+import type { BusLineJourney, BusStop } from "../../types";
 import { LineStopsSection } from "../LineStopsSection";
 
 function makeStops(names: string[]): BusStop[] {
@@ -18,6 +18,13 @@ function makeStops(names: string[]): BusStop[] {
 }
 
 const stops = makeStops(["Parc Taulí", "Estació de Sabadell", "Plaça Major"]);
+const journeys: BusLineJourney[] = [
+  {
+    id: "53:1",
+    from: { stop: "Ctra. de Cirera", municipality: "Mataró" },
+    to: { stop: "Metro la Pau", municipality: "Barcelona" },
+  },
+];
 
 const header = () =>
   screen.getByRole("button", { name: /Parades de la línia/ });
@@ -96,6 +103,19 @@ describe("LineStopsSection", () => {
 
       expect(
         screen.getByText(/La línia B2 de Moventis té 3 parades\./),
+      ).toBeInTheDocument();
+    });
+
+    it("renders route endpoints and municipalities when available", () => {
+      render(
+        <LineStopsSection lineName="C10" stops={stops} journeys={journeys} />,
+      );
+
+      expect(
+        screen.getByRole("heading", { name: "Recorreguts del bus C10" }),
+      ).toBeInTheDocument();
+      expect(
+        screen.getByText("Ctra. de Cirera (Mataró) → Metro la Pau (Barcelona)"),
       ).toBeInTheDocument();
     });
 

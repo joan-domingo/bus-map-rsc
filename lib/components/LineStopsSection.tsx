@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useId, useRef, useState } from "react";
-import type { BusStop } from "../types";
+import type { BusLineJourney, BusStop } from "../types";
 import { STOPS_SHEET_PEEK } from "./lineStopsSheet";
 
 const SHEET_HEIGHT = "85dvh";
@@ -10,6 +10,7 @@ const DOCKED_TRANSFORM = `translateY(calc(100% - ${STOPS_SHEET_PEEK}))`;
 interface LineStopsSectionProps {
   lineName: string;
   stops: BusStop[];
+  journeys?: BusLineJourney[];
 }
 
 const clamp = (value: number, min: number, max: number) =>
@@ -26,7 +27,11 @@ const clamp = (value: number, min: number, max: number) =>
  * mounting it only once expanded would take it out of the HTML, and hiding it
  * outright would make it text that exists for crawlers but not for people.
  */
-export function LineStopsSection({ lineName, stops }: LineStopsSectionProps) {
+export function LineStopsSection({
+  lineName,
+  stops,
+  journeys = [],
+}: LineStopsSectionProps) {
   const listId = useId();
   const sheetRef = useRef<HTMLElement>(null);
   const headerRef = useRef<HTMLButtonElement>(null);
@@ -158,6 +163,31 @@ export function LineStopsSection({ lineName, stops }: LineStopsSectionProps) {
         // of the tab order while it is docked.
         inert={!expanded}
       >
+        {journeys.length > 0 && (
+          <section
+            aria-label={`Recorreguts de la línia ${line}`}
+            className="mb-4"
+          >
+            <h2 className="mb-1 text-sm font-semibold">
+              Recorreguts del bus {line}
+            </h2>
+            <ul className="grid gap-1 text-sm">
+              {journeys.map((journey) => (
+                <li key={journey.id}>
+                  {journey.from.stop}
+                  {journey.from.municipality
+                    ? ` (${journey.from.municipality})`
+                    : ""}
+                  {" → "}
+                  {journey.to.stop}
+                  {journey.to.municipality
+                    ? ` (${journey.to.municipality})`
+                    : ""}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
         <p className="mb-1 text-sm">
           La línia {line} de Moventis té {stops.length} parades. Toca qualsevol
           parada del mapa per veure les properes arribades i els horaris en

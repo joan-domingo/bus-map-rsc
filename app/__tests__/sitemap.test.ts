@@ -35,9 +35,9 @@ describe("sitemap", () => {
     }
   });
 
-  it("timestamps every entry", () => {
+  it("does not claim unchanged pages were recently modified", () => {
     for (const entry of entries) {
-      expect(entry.lastModified).toBeInstanceOf(Date);
+      expect(entry).not.toHaveProperty("lastModified");
     }
   });
 

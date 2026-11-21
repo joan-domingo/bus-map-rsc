@@ -3,7 +3,11 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { gzipSync } from "node:zlib";
-import { loadAllBusStops, loadBusStopsForLineIds } from "../data-loader";
+import {
+  loadAllBusStops,
+  loadBusLineRouteData,
+  loadBusStopsForLineIds,
+} from "../data-loader";
 import type { BusStop } from "../types";
 
 /**
@@ -214,6 +218,66 @@ describe("loadBusStopsForLineIds", () => {
     expect(
       await withCwd(fixtureRoot, () => loadBusStopsForLineIds([])),
     ).toEqual([]);
+  });
+});
+
+describe("loadBusLineRouteData", () => {
+  it("extracts ordered journey endpoints and readable municipalities", async () => {
+    writeFileSync(
+      join(stopsDir, "50.json"),
+      JSON.stringify([
+        rawStop({
+          ID_PARADA: 501,
+          ID_TRAYECTO: 1,
+          SECUENCIA: 30,
+          Parada: {
+            DESC_PARADA: "Estació",
+            MUNICIPIO: "SANT CUGAT DEL VALLÈS",
+          },
+        }),
+        rawStop({
+          ID_PARADA: 502,
+          ID_TRAYECTO: 1,
+          SECUENCIA: 10,
+          Parada: {
+            DESC_PARADA: "Plaça Major",
+            MUNICIPIO: "BARCELONA",
+          },
+        }),
+        rawStop({
+          ID_PARADA: 503,
+          ID_TRAYECTO: 1,
+          SECUENCIA: 20,
+          Parada: {
+            DESC_PARADA: "Parada intermèdia",
+            MUNICIPIO: "MATARÓ",
+          },
+        }),
+      ]),
+    );
+
+    const routeData = await withCwd(fixtureRoot, () =>
+      loadBusLineRouteData(["50"]),
+    );
+
+    expect(routeData).toEqual({
+      journeys: [
+        {
+          id: "50:1",
+          from: { stop: "Plaça Major", municipality: "Barcelona" },
+          to: { stop: "Estació", municipality: "Sant Cugat del Vallès" },
+        },
+      ],
+      municipalities: ["Sant Cugat del Vallès", "Barcelona", "Mataró"],
+    });
+  });
+
+  it("returns empty route data when no line files exist", async () => {
+    const routeData = await withCwd(emptyRoot, () =>
+      loadBusLineRouteData(["does-not-exist"]),
+    );
+
+    expect(routeData).toEqual({ journeys: [], municipalities: [] });
   });
 });
 

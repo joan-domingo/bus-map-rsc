@@ -6,6 +6,7 @@ import { STOPS_SHEET_PEEK } from "../../../lib/components/lineStopsSheet";
 import { MapContainer } from "../../../lib/components/MapContainer";
 import {
   loadAllBusStops,
+  loadBusLineRouteData,
   loadBusStopsForLineIds,
 } from "../../../lib/data-loader";
 import { buildOgImageAlt, OG_IMAGE_SIZE } from "../../../lib/og/og-image";
@@ -49,8 +50,11 @@ export async function generateMetadata({
 
   const { canonicalSlug, lineName: canonicalLineName } = resolved;
   const basePath = buildLinePagePath(canonicalSlug);
-  const { title: seoTitle, description: seoDescription } =
-    buildLinePageSeo(canonicalLineName);
+  const routeData = await loadBusLineRouteData(resolved.lineStopIds);
+  const { title: seoTitle, description: seoDescription } = buildLinePageSeo(
+    canonicalLineName,
+    routeData.municipalities,
+  );
   const ogImage = {
     url: buildLineOgImagePath(canonicalSlug),
     width: OG_IMAGE_SIZE.width,
@@ -93,9 +97,10 @@ export default async function LinePage({ params }: LinePageProps) {
   }
 
   const { canonicalSlug, lineName: canonicalLineName, lineStopIds } = resolved;
-  const [allBusStops, lineBusStops] = await Promise.all([
+  const [allBusStops, lineBusStops, routeData] = await Promise.all([
     loadAllBusStops(),
     loadBusStopsForLineIds(lineStopIds),
+    loadBusLineRouteData(lineStopIds),
   ]);
   const busStopsById = new Map(allBusStops.map((stop) => [stop.id, stop]));
 
@@ -132,7 +137,11 @@ export default async function LinePage({ params }: LinePageProps) {
           mapHeight={MAP_HEIGHT}
         />
       </div>
-      <LineStopsSection lineName={canonicalLineName} stops={lineBusStops} />
+      <LineStopsSection
+        lineName={canonicalLineName}
+        stops={lineBusStops}
+        journeys={routeData.journeys}
+      />
     </div>
   );
 }
