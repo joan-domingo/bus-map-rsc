@@ -1,9 +1,11 @@
 "use client";
 
 import { Map as GoogleMap } from "@vis.gl/react-google-maps";
+import { useCallback } from "react";
 import { useBusStopSelection } from "../hooks/useBusStopSelection";
 import type { BusStop, UserLocation } from "../types";
 import { BusStopCustomMarkers } from "./BusStopCustomMarker";
+import { StopDeparturesSheet } from "./StopDeparturesSheet";
 import { UserLocationMarker } from "./UserLocationMarker";
 
 interface MapProps {
@@ -13,6 +15,7 @@ interface MapProps {
   zoom: number;
   setIsDragging: (isDragging: boolean) => void;
   setZoom: (zoom: number) => void;
+  onStopSelectionChange: (selected: boolean) => void;
 }
 
 export function BusMap({
@@ -22,11 +25,26 @@ export function BusMap({
   zoom,
   setIsDragging,
   setZoom,
+  onStopSelectionChange,
 }: MapProps) {
   const { selectedStopId, selectStop, clearSelection } = useBusStopSelection();
+  const selectedStop =
+    busStops.find((stop) => stop.id === selectedStopId) ?? null;
+
+  const handleSelectStop = useCallback(
+    async (stop: BusStop) => {
+      onStopSelectionChange(true);
+      await selectStop(stop);
+    },
+    [onStopSelectionChange, selectStop],
+  );
+  const handleCloseStop = useCallback(() => {
+    clearSelection();
+    onStopSelectionChange(false);
+  }, [clearSelection, onStopSelectionChange]);
 
   return (
-    <div className="h-full w-full">
+    <div className="relative h-full w-full">
       <GoogleMap
         style={{ width: "100%", height: "100%" }}
         defaultCenter={userLocation}
@@ -42,11 +60,13 @@ export function BusMap({
         <BusStopCustomMarkers
           stops={busStops}
           selectedStopId={selectedStopId}
-          onStopClick={selectStop}
-          onCloseClick={clearSelection}
+          onStopClick={handleSelectStop}
         />
         {userLocation && <UserLocationMarker location={userLocation} />}
       </GoogleMap>
+      {selectedStop && (
+        <StopDeparturesSheet stop={selectedStop} onClose={handleCloseStop} />
+      )}
     </div>
   );
 }

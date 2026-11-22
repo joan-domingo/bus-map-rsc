@@ -1,257 +1,228 @@
-import { describe, expect, it } from "bun:test";
+import { describe, expect, it, mock } from "bun:test";
 import { render, screen } from "@testing-library/react";
 import type { CustomBusLineTimetable } from "../../types";
 import MarkerTimetable from "../MarkerTimetable";
 
+const mockTimetableData: CustomBusLineTimetable[] = [
+  {
+    lineId: 12,
+    lineName: "A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA",
+    nextBuses: [
+      { minutesLeft: "14 min", name: "Barcelona", real: true },
+      { departureTime: "14:56", name: "Barcelona", real: false },
+    ],
+  },
+  {
+    lineId: 15,
+    lineName: "B2 - B2-SABADELL - RIPOLLET",
+    nextBuses: [
+      { minutesLeft: "6 min", name: "Ripollet pel Taulí", real: true },
+    ],
+  },
+];
+
+function renderTimetable(
+  overrides: Partial<Parameters<typeof MarkerTimetable>[0]> = {},
+) {
+  const props = {
+    selectedStopTimetable: mockTimetableData,
+    isLoading: false,
+    isLoaded: true,
+    error: null,
+    expanded: true,
+    onRetry: mock(),
+    ...overrides,
+  };
+
+  return { ...render(<MarkerTimetable {...props} />), props };
+}
+
+function getClockTimeAfter(minutes: number): string {
+  const date = new Date(Date.now() + minutes * 60_000);
+  return `${String(date.getHours()).padStart(2, "0")}:${String(
+    date.getMinutes(),
+  ).padStart(2, "0")}`;
+}
+
 describe("MarkerTimetable", () => {
-  const mockTimetableData: CustomBusLineTimetable[] = [
-    {
-      lineId: 12,
-      lineName: "A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA",
-      nextBuses: [
-        {
-          minutesLeft: "14 min 19 seg",
-          name: "Barcelona",
-          real: true,
-        },
-        {
-          minutesLeft: "25 min 30 seg",
-          name: "Barcelona",
-          real: false,
-        },
-      ],
-    },
-    {
-      lineId: 15,
-      lineName: "B2 - B2-SABADELL - RIPOLLET",
-      nextBuses: [
-        {
-          minutesLeft: "06 min 48 seg",
-          name: "Ripollet pel Taulí",
-          real: true,
-        },
-      ],
-    },
-  ];
+  it("shows a loading status while arrivals are being fetched", () => {
+    renderTimetable({ isLoading: true, isLoaded: false });
 
-  it("renders nothing when not visible", () => {
-    const { container } = render(
-      <MarkerTimetable
-        selectedStopTimetable={mockTimetableData}
-        isLoading={false}
-        isLoaded={true}
-        visible={false}
-      />,
+    expect(screen.getByRole("status")).toHaveTextContent(
+      "Carregant properes arribades",
     );
-
-    expect(container.firstChild).toBeNull();
   });
 
-  it("shows loading spinner when loading", () => {
-    const { container } = render(
-      <MarkerTimetable
-        selectedStopTimetable={[]}
-        isLoading={true}
-        isLoaded={false}
-        visible={true}
-      />,
-    );
+  it("shows an error and retry action when loading fails", async () => {
+    const { props } = renderTimetable({
+      error: "Network error",
+      isLoaded: true,
+      selectedStopTimetable: null,
+    });
 
-    const loadingContainer = container.querySelector(
-      ".flex.flex-1.items-center.justify-center.p-2.text-black",
+    expect(screen.getByRole("alert")).toHaveTextContent(
+      "No s'han pogut carregar les dades",
     );
-    expect(loadingContainer).toBeVisible();
-
-    const spinner = container.querySelector(".animate-spin");
-    expect(spinner).toBeVisible();
+    await screen.getByRole("button", { name: "Torna-ho a provar" }).click();
+    expect(props.onRetry).toHaveBeenCalledTimes(1);
   });
 
-  it("shows error message when loaded but no data", () => {
-    const { getByText } = render(
-      <MarkerTimetable
-        selectedStopTimetable={null as any}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
-
-    expect(
-      getByText(
-        "No s'han pogut carregar les dades. Si us plau, torna-ho a intentar més tard.",
-      ),
-    ).toBeVisible();
-  });
-
-  it("shows no buses message when empty timetable", () => {
-    render(
-      <MarkerTimetable
-        selectedStopTimetable={[]}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
+  it("shows an empty state when no buses are scheduled", () => {
+    renderTimetable({ selectedStopTimetable: [] });
 
     expect(screen.getByText("Cap autobús previst properament.")).toBeVisible();
   });
 
-  it("renders timetable data correctly", () => {
-    render(
-      <MarkerTimetable
-        selectedStopTimetable={mockTimetableData}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
+  it("renders line, direction, ETA, and live-versus-scheduled status", () => {
+    renderTimetable();
 
-    // Check line names are displayed
     expect(
       screen.getByText("A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA"),
     ).toBeVisible();
-    expect(screen.getByText("B2 - B2-SABADELL - RIPOLLET")).toBeVisible();
-
-    // Check bus times are displayed
-    expect(screen.getByText("14 min 19 seg")).toBeVisible();
-    expect(screen.getByText("25 min 30 seg")).toBeVisible();
-    expect(screen.getByText("06 min 48 seg")).toBeVisible();
-
-    // Check destinations are displayed (there are multiple "Barcelona" destinations)
-    const barcelonaDestinations = screen.getAllByText("- Direcció Barcelona");
-    expect(barcelonaDestinations).toHaveLength(2);
-    expect(barcelonaDestinations[0]).toBeVisible();
-    expect(barcelonaDestinations[1]).toBeVisible();
-
-    expect(screen.getByText("- Direcció Ripollet pel Taulí")).toBeVisible();
+    expect(screen.getAllByText("Barcelona")).toHaveLength(2);
+    expect(screen.getByText("14 min")).toBeVisible();
+    expect(screen.getByText("14:56")).toBeVisible();
+    expect(screen.getAllByText("En temps real")).toHaveLength(2);
+    expect(screen.getByText("Horari")).toBeVisible();
   });
 
-  it("links each line header to the line page", () => {
-    render(
-      <MarkerTimetable
-        selectedStopTimetable={mockTimetableData}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
+  it("links known lines and keeps unknown lines as plain text", () => {
+    const { rerender } = renderTimetable();
 
     expect(
-      screen.getByText("A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA"),
-    ).toHaveAttribute("href", "/linea/a4");
-    expect(screen.getByText("B2 - B2-SABADELL - RIPOLLET")).toHaveAttribute(
-      "href",
-      "/linea/b2",
-    );
-  });
+      screen
+        .getByRole("link", {
+          name: /A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA/,
+        })
+        .getAttribute("href"),
+    ).toBe("/linea/a4");
 
-  it("renders the line header as plain text for unknown lines", () => {
-    render(
+    rerender(
       <MarkerTimetable
         selectedStopTimetable={[
           {
             lineId: 999999,
             lineName: "ZZ - LÍNIA DESCONEGUDA",
-            nextBuses: [
-              { minutesLeft: "05 min 00 seg", name: "Enlloc", real: true },
-            ],
+            nextBuses: [{ minutesLeft: "5 min", name: "Enlloc", real: true }],
           },
         ]}
         isLoading={false}
         isLoaded={true}
-        visible={true}
+        error={null}
+        expanded={true}
+        onRetry={mock()}
       />,
     );
 
-    const header = screen.getByText("ZZ - LÍNIA DESCONEGUDA");
-    expect(header).toBeVisible();
-    expect(header.tagName).toBe("DIV");
+    expect(screen.getByText("ZZ - LÍNIA DESCONEGUDA").tagName).toBe("SPAN");
   });
 
-  it("applies alternating background colors", () => {
-    const { container } = render(
-      <MarkerTimetable
-        selectedStopTimetable={mockTimetableData}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
+  it("sorts the collapsed view by arrival time across lines and limits it to four", () => {
+    renderTimetable({
+      expanded: false,
+      selectedStopTimetable: [
+        {
+          lineId: 12,
+          lineName: "A4",
+          nextBuses: [
+            { minutesLeft: "14 min", name: "Later", real: true },
+            {
+              departureTime: getClockTimeAfter(8),
+              name: "Clock scheduled",
+              real: false,
+            },
+          ],
+        },
+        {
+          lineId: 15,
+          lineName: "B2",
+          nextBuses: [
+            { minutesLeft: "1 min", name: "Soonest", real: true },
+            { minutesLeft: "4 min", name: "Second", real: true },
+            {
+              departureTime: "6 min",
+              name: "Relative scheduled",
+              real: false,
+            },
+            { minutesLeft: "12 min", name: "Not shown", real: true },
+          ],
+        },
+      ],
+    });
 
-    const infoContainers = container.querySelectorAll(
-      ".flex.flex-col.flex-1.p-1.text-black",
-    );
-
-    expect(infoContainers).toHaveLength(2);
-
-    // First container (index 0) should have gray background
-    expect(infoContainers[0].classList.contains("bg-gray-100")).toBe(true);
-
-    // Second container (index 1) should not have gray background
-    expect(infoContainers[1].classList.contains("bg-gray-100")).toBe(false);
+    const visibleDepartures = screen.getAllByRole("listitem");
+    expect(visibleDepartures).toHaveLength(4);
+    expect(visibleDepartures[0]).toHaveTextContent("Soonest");
+    expect(visibleDepartures[1]).toHaveTextContent("Second");
+    expect(visibleDepartures[2]).toHaveTextContent(/Relative scheduled/i);
+    expect(visibleDepartures[3]).toHaveTextContent(/Clock scheduled/i);
+    expect(screen.queryByText("Later")).toBeNull();
+    expect(screen.queryByText("Not shown")).toBeNull();
   });
 
-  it("displays correct number of bus entries per line", () => {
-    const { container } = render(
-      <MarkerTimetable
-        selectedStopTimetable={mockTimetableData}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
-
-    // Find all bus time entries (elements with flex display style)
-    const busEntries = container.querySelectorAll(
-      'div[style*="display: flex"]',
-    );
-
-    // Should have 3 bus entries total (2 for A4 line, 1 for B2 line)
-    expect(busEntries).toHaveLength(3);
-  });
-
-  it("handles single line with multiple buses", () => {
-    const singleLineTimetable: CustomBusLineTimetable[] = [
+  it("shows short terminal names when collapsed and full destinations when expanded", () => {
+    const selectedStopTimetable: CustomBusLineTimetable[] = [
       {
-        lineId: 299,
-        lineName: "e3 - E3-BARCELONA - CERDANYOLA - UAB",
+        lineId: 12,
+        lineName: "A4 - SANT CUGAT DEL VALLÈS - BARCELONA",
         nextBuses: [
+          { minutesLeft: "4 min", name: "Sant Cugat", real: true },
           {
-            minutesLeft: "01 min 51 seg",
-            name: "Barcelona",
-            real: true,
+            departureTime: "19:40",
+            name: "BARCELONA - SANT CUGAT DEL VALLÈS",
+            real: false,
           },
+        ],
+      },
+      {
+        lineId: 15,
+        lineName: "B2 - SABADELL - RIPOLLET",
+        nextBuses: [
+          { minutesLeft: "6 min", name: "Sabadell pel Taulí", real: true },
           {
-            minutesLeft: "20 min 47 seg",
-            name: "Barcelona",
-            real: true,
-          },
-          {
-            minutesLeft: "31 min 07 seg",
-            name: "Barcelona",
-            real: true,
+            departureTime: "19:41",
+            name: "RIPOLLET - PARC TAULÍ - SABADELL",
+            real: false,
           },
         ],
       },
     ];
+    const { props, rerender } = renderTimetable({
+      expanded: false,
+      selectedStopTimetable,
+    });
 
-    const { getByText, container } = render(
-      <MarkerTimetable
-        selectedStopTimetable={singleLineTimetable}
-        isLoading={false}
-        isLoaded={true}
-        visible={true}
-      />,
-    );
+    expect(screen.getAllByText("Sant Cugat")).toHaveLength(2);
+    expect(screen.getAllByText("Sabadell")).toHaveLength(2);
+    expect(screen.queryByText("BARCELONA - SANT CUGAT DEL VALLÈS")).toBeNull();
+    expect(screen.queryByText("RIPOLLET - PARC TAULÍ - SABADELL")).toBeNull();
 
-    expect(getByText("e3 - E3-BARCELONA - CERDANYOLA - UAB")).toBeVisible();
-    expect(getByText("01 min 51 seg")).toBeVisible();
-    expect(getByText("20 min 47 seg")).toBeVisible();
-    expect(getByText("31 min 07 seg")).toBeVisible();
+    rerender(<MarkerTimetable {...props} expanded={true} />);
 
-    const busEntries = container.querySelectorAll(
-      'div[style*="display: flex"]',
-    );
-    expect(busEntries).toHaveLength(3);
+    expect(screen.getByText("Sant Cugat")).toBeVisible();
+    expect(screen.getByText("BARCELONA - SANT CUGAT DEL VALLÈS")).toBeVisible();
+    expect(screen.getByText("Sabadell pel Taulí")).toBeVisible();
+    expect(screen.getByText("RIPOLLET - PARC TAULÍ - SABADELL")).toBeVisible();
+  });
+
+  it("derives the terminal from a scheduled destination when no live bus is available", () => {
+    renderTimetable({
+      expanded: false,
+      selectedStopTimetable: [
+        {
+          lineId: 12,
+          lineName: "A4 - SANT CUGAT DEL VALLÈS - BARCELONA",
+          nextBuses: [
+            {
+              departureTime: "19:40",
+              name: "BARCELONA - SANT CUGAT DEL VALLÈS",
+              real: false,
+            },
+          ],
+        },
+      ],
+    });
+
+    expect(screen.getByText("Sant Cugat del Vallès")).toBeVisible();
   });
 });

@@ -3,15 +3,25 @@
 interface LocationButtonProps {
   onClick: () => void;
   isDragging: boolean;
+  isStopSelected?: boolean;
 }
 
-export function LocationButton({ onClick, isDragging }: LocationButtonProps) {
+export function LocationButton({
+  onClick,
+  isDragging,
+  isStopSelected = false,
+}: LocationButtonProps) {
   return (
     <button
       type="button"
       onClick={onClick}
       style={{
-        bottom: "calc(5rem + 20px + env(safe-area-inset-bottom, 0px))",
+        top: isStopSelected
+          ? "calc(7rem + env(safe-area-inset-top, 0px))"
+          : undefined,
+        bottom: isStopSelected
+          ? "auto"
+          : "calc(5rem + 20px + env(safe-area-inset-bottom, 0px))",
         right: "1rem",
       }}
       className={`absolute bg-white border-2 border-gray-400 cursor-pointer flex items-center justify-center p-3 rounded-full shadow-lg hover:bg-gray-50 transition-colors disabled:opacity-50 ${

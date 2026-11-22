@@ -1,251 +1,301 @@
-import { beforeEach, describe, expect, it, mock } from "bun:test";
+import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import type { BusLineStopTimetable } from "../../types";
 import { useMapStore } from "../useMapStore";
 
+const originalFetch = globalThis.fetch;
+
+function response(data: unknown, status = 200): Response {
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: { "Content-Type": "application/json" },
+  });
+}
+
+const liveAndScheduledData: BusLineStopTimetable[] = [
+  {
+    idLinea: 1,
+    desc_linea: "C1 - SABADELL - CASTELLAR",
+    trayectos: {
+      Sabadell: [
+        { minutos: "14 min 01.9614587 s", real: "S" },
+        { minutos: "44 min 01.9614587 s", real: "S" },
+      ],
+      "SABADELL ESTACIÓ BUS - CASTELLAR DEL VALLÈS": {
+        "00115": { minutos: "15' 00''", real: "N", hora: "14:56" },
+        "00145": { minutos: "45' 00''", real: "N", hora: "15:26" },
+      },
+    },
+  },
+];
+
 describe("useMapStore", () => {
   beforeEach(() => {
-    // Reset store state before each test
     useMapStore.getState().clearSelectedBusStopTimetable();
     useMapStore.getState().setSelectedStopTimetableIsLoading(false);
     useMapStore.getState().setSelectedStopTimetableIsLoaded(false);
   });
 
-  describe("clearSelectedBusStopTimetable", () => {
-    it("should clear the selected stop timetable", () => {
-      const store = useMapStore.getState();
-      store.clearSelectedBusStopTimetable();
+  afterEach(() => {
+    globalThis.fetch = originalFetch;
+  });
 
-      expect(store.selectedStopTimetable).toEqual([]);
+  it("clears the selected stop timetable and its request state", () => {
+    useMapStore.setState({
+      selectedStopTimetable: [],
+      selectedStopTimetableIsLoading: true,
+      selectedStopTimetableIsLoaded: true,
+      selectedStopTimetableError: "Network error",
+      selectedStopTimetableUpdatedAt: 123,
+    });
+
+    useMapStore.getState().clearSelectedBusStopTimetable();
+
+    expect(useMapStore.getState()).toMatchObject({
+      selectedStopTimetable: null,
+      selectedStopTimetableIsLoading: false,
+      selectedStopTimetableIsLoaded: false,
+      selectedStopTimetableError: null,
+      selectedStopTimetableUpdatedAt: null,
     });
   });
 
-  describe("setSelectedStopTimetableIsLoading", () => {
-    it("should set loading state", () => {
-      const store = useMapStore.getState();
-      store.setSelectedStopTimetableIsLoading(true);
+  it("sets loading state", () => {
+    useMapStore.getState().setSelectedStopTimetableIsLoading(true);
+    expect(useMapStore.getState().selectedStopTimetableIsLoading).toBe(true);
 
-      const updatedState = useMapStore.getState();
-      expect(updatedState.selectedStopTimetableIsLoading).toBe(true);
-
-      store.setSelectedStopTimetableIsLoading(false);
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetableIsLoading).toBe(false);
-    });
+    useMapStore.getState().setSelectedStopTimetableIsLoading(false);
+    expect(useMapStore.getState().selectedStopTimetableIsLoading).toBe(false);
   });
 
-  describe("setSelectedStopTimetableIsLoaded", () => {
-    it("should set loaded state", () => {
-      const store = useMapStore.getState();
-      store.setSelectedStopTimetableIsLoaded(true);
-
-      const updatedState = useMapStore.getState();
-      expect(updatedState.selectedStopTimetableIsLoaded).toBe(true);
-
-      store.setSelectedStopTimetableIsLoaded(false);
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetableIsLoaded).toBe(false);
-    });
+  it("sets loaded state", () => {
+    useMapStore.getState().setSelectedStopTimetableIsLoaded(true);
+    expect(useMapStore.getState().selectedStopTimetableIsLoaded).toBe(true);
   });
 
-  describe("dataToCustomData", () => {
-    it("should transform BusLineStopTimetable to CustomBusLineTimetable", () => {
-      const store = useMapStore.getState();
-      const mockData: BusLineStopTimetable[] = [
-        {
-          idLinea: 1,
-          desc_linea: "Line 1",
-          trayectos: {
-            "Destination A": [
-              { minutos: "5.0", real: "S" },
-              { minutos: "10.0", real: "N" },
-            ],
-            "Destination B": [{ minutos: "15.0", real: "S" }],
-          },
-        },
-      ];
+  it("converts realtime ETAs and scheduled clock times", () => {
+    const result = useMapStore
+      .getState()
+      .dataToCustomData(liveAndScheduledData);
 
-      const result = store.dataToCustomData(mockData);
-
-      expect(result).toHaveLength(1);
-      expect(result[0]).toEqual({
+    expect(result).toEqual([
+      {
         lineId: 1,
-        lineName: "Line 1",
+        lineName: "C1 - SABADELL - CASTELLAR",
         nextBuses: [
-          { name: "Destination A", real: true, minutesLeft: "5 seg" },
-          { name: "Destination A", real: false, minutesLeft: "10 seg" },
-          { name: "Destination B", real: true, minutesLeft: "15 seg" },
+          { name: "Sabadell", real: true, minutesLeft: "14 min" },
+          { name: "Sabadell", real: true, minutesLeft: "44 min" },
+          {
+            name: "SABADELL ESTACIÓ BUS - CASTELLAR DEL VALLÈS",
+            real: false,
+            departureTime: "14:56",
+          },
+          {
+            name: "SABADELL ESTACIÓ BUS - CASTELLAR DEL VALLÈS",
+            real: false,
+            departureTime: "15:26",
+          },
         ],
-      });
-    });
+      },
+    ]);
+  });
 
-    it("should handle empty trayectos", () => {
-      const store = useMapStore.getState();
-      const mockData: BusLineStopTimetable[] = [
-        {
-          idLinea: 1,
-          desc_linea: "Line 1",
-          trayectos: {},
+  it("formats sub-minute realtime arrivals", () => {
+    const result = useMapStore.getState().dataToCustomData([
+      {
+        idLinea: 1,
+        desc_linea: "C1",
+        trayectos: {
+          Sabadell: [{ minutos: "35.5 s", real: "S" }],
         },
-      ];
+      },
+    ]);
 
-      const result = store.dataToCustomData(mockData);
-
-      expect(result).toHaveLength(1);
-      expect(result[0].nextBuses).toEqual([]);
-    });
-
-    it("should handle multiple bus lines", () => {
-      const store = useMapStore.getState();
-      const mockData: BusLineStopTimetable[] = [
-        {
-          idLinea: 1,
-          desc_linea: "Line 1",
-          trayectos: {
-            "Destination A": [{ minutos: "5.0", real: "S" }],
-          },
-        },
-        {
-          idLinea: 2,
-          desc_linea: "Line 2",
-          trayectos: {
-            "Destination B": [{ minutos: "10.0", real: "N" }],
-          },
-        },
-      ];
-
-      const result = store.dataToCustomData(mockData);
-
-      expect(result).toHaveLength(2);
-      expect(result[0].lineId).toBe(1);
-      expect(result[1].lineId).toBe(2);
-    });
-
-    it("should extract minutes correctly from decimal format", () => {
-      const store = useMapStore.getState();
-      const mockData: BusLineStopTimetable[] = [
-        {
-          idLinea: 1,
-          desc_linea: "Line 1",
-          trayectos: {
-            "Destination A": [
-              { minutos: "5.5", real: "S" },
-              { minutos: "10.9", real: "N" },
-            ],
-          },
-        },
-      ];
-
-      const result = store.dataToCustomData(mockData);
-
-      expect(result[0].nextBuses[0].minutesLeft).toBe("5 seg");
-      expect(result[0].nextBuses[1].minutesLeft).toBe("10 seg");
+    expect(result[0]?.nextBuses[0]).toEqual({
+      name: "Sabadell",
+      real: true,
+      minutesLeft: "<1 min",
     });
   });
 
-  describe("loadBusStopTimeTable", () => {
-    it("should fetch and transform timetable data", async () => {
-      const store = useMapStore.getState();
-      const mockResponse: BusLineStopTimetable[] = [
+  it("skips scheduled departures without a time and warns", () => {
+    const originalWarn = console.warn;
+    const warning = mock(() => undefined);
+    console.warn = warning;
+
+    try {
+      const result = useMapStore.getState().dataToCustomData([
         {
           idLinea: 1,
-          desc_linea: "Line 1",
+          desc_linea: "C1",
           trayectos: {
-            "Destination A": [{ minutos: "5.0", real: "S" }],
+            Sabadell: [
+              { minutos: " ", real: "N", hora: " " },
+              { minutos: "5 min 0 s", real: "S" },
+              { minutos: "15' 00''", real: "N", hora: "14:56" },
+            ],
           },
         },
-      ];
+      ]);
 
-      global.fetch = mock(() =>
-        Promise.resolve({
-          json: async () => mockResponse,
-        }),
-      ) as unknown as typeof fetch;
+      expect(result[0]?.nextBuses).toEqual([
+        { name: "Sabadell", real: true, minutesLeft: "5 min" },
+        { name: "Sabadell", real: false, departureTime: "14:56" },
+      ]);
+      expect(warning).toHaveBeenCalledWith(
+        "Skipping scheduled departure without a time for line 1",
+      );
+    } finally {
+      console.warn = originalWarn;
+    }
+  });
 
-      await store.loadBusStopTimeTable(123, 1, 1);
+  it("handles empty journeys and multiple lines", () => {
+    const result = useMapStore.getState().dataToCustomData([
+      {
+        idLinea: 1,
+        desc_linea: "C1",
+        trayectos: {},
+      },
+      {
+        idLinea: 2,
+        desc_linea: "C2",
+        trayectos: {
+          Sabadell: [{ minutos: "5 min 0 s", real: "S" }],
+        },
+      },
+    ]);
 
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetableIsLoading).toBe(false);
-      expect(finalState.selectedStopTimetableIsLoaded).toBe(true);
-      expect(finalState.selectedStopTimetable).toBeDefined();
-    });
+    expect(result).toHaveLength(2);
+    expect(result[0]?.nextBuses).toEqual([]);
+    expect(result[1]?.lineId).toBe(2);
+  });
 
-    it("should filter out bus lines with no next buses", async () => {
-      const store = useMapStore.getState();
-      const mockResponse: BusLineStopTimetable[] = [
+  it("fetches and stores transformed departures", async () => {
+    globalThis.fetch = mock(async () =>
+      response(liveAndScheduledData),
+    ) as unknown as typeof fetch;
+
+    await useMapStore.getState().loadBusStopTimeTable(4605, 1, 0);
+
+    expect(useMapStore.getState()).toMatchObject({
+      selectedStopTimetable: [
         {
-          idLinea: 1,
-          desc_linea: "Line 1",
+          lineId: 1,
+          nextBuses: expect.arrayContaining([
+            { name: "Sabadell", real: true, minutesLeft: "14 min" },
+            {
+              name: "SABADELL ESTACIÓ BUS - CASTELLAR DEL VALLÈS",
+              real: false,
+              departureTime: "14:56",
+            },
+          ]),
+        },
+      ],
+      selectedStopTimetableIsLoading: false,
+      selectedStopTimetableIsLoaded: true,
+      selectedStopTimetableError: null,
+    });
+    expect(
+      useMapStore.getState().selectedStopTimetableUpdatedAt,
+    ).not.toBeNull();
+  });
+
+  it("filters lines that have no upcoming buses", async () => {
+    globalThis.fetch = mock(async () =>
+      response([
+        ...liveAndScheduledData,
+        { idLinea: 2, desc_linea: "C2", trayectos: {} },
+      ]),
+    ) as unknown as typeof fetch;
+
+    await useMapStore.getState().loadBusStopTimeTable(4605, 1, 0);
+
+    expect(
+      useMapStore.getState().selectedStopTimetable?.map((line) => line.lineId),
+    ).toEqual([1]);
+  });
+
+  it("treats the API no-service sentinel as no upcoming buses", async () => {
+    globalThis.fetch = mock(async () =>
+      response([
+        {
+          idLinea: "N",
+          desc_linea: "N",
           trayectos: {
-            "Destination A": [{ minutos: "5.0", real: "S" }],
+            N: {
+              "0N": { minutos: " ", real: "N", hora: "N" },
+            },
           },
         },
-        {
-          idLinea: 2,
-          desc_linea: "Line 2",
-          trayectos: {},
-        },
-      ];
+      ]),
+    ) as unknown as typeof fetch;
 
-      global.fetch = mock(() =>
-        Promise.resolve({
-          json: async () => mockResponse,
+    await useMapStore.getState().loadBusStopTimeTable(5180, 1, 0);
+
+    expect(useMapStore.getState()).toMatchObject({
+      selectedStopTimetable: [],
+      selectedStopTimetableError: null,
+      selectedStopTimetableIsLoading: false,
+      selectedStopTimetableIsLoaded: true,
+    });
+  });
+
+  it("surfaces and logs request errors", async () => {
+    const originalConsoleError = console.error;
+    const consoleError = mock();
+    console.error = consoleError;
+    globalThis.fetch = mock(async () => {
+      throw new Error("Network error");
+    }) as unknown as typeof fetch;
+
+    await useMapStore.getState().loadBusStopTimeTable(4605, 1, 0);
+
+    expect(useMapStore.getState()).toMatchObject({
+      selectedStopTimetable: null,
+      selectedStopTimetableIsLoading: false,
+      selectedStopTimetableIsLoaded: true,
+      selectedStopTimetableError: "Network error",
+    });
+    expect(consoleError).toHaveBeenCalledWith(
+      "Error loading bus stop timetable:",
+      expect.any(Error),
+    );
+    console.error = originalConsoleError;
+  });
+
+  it("rejects unsuccessful HTTP responses", async () => {
+    const originalConsoleError = console.error;
+    console.error = mock();
+    globalThis.fetch = mock(async () =>
+      response([], 503),
+    ) as unknown as typeof fetch;
+
+    await useMapStore.getState().loadBusStopTimeTable(4605, 1, 0);
+
+    expect(useMapStore.getState().selectedStopTimetableError).toBe(
+      "Timetable request failed with status 503",
+    );
+    console.error = originalConsoleError;
+  });
+
+  it("sets loading state before awaiting the response", async () => {
+    let resolveResponse: ((value: Response) => void) | undefined;
+    globalThis.fetch = mock(
+      () =>
+        new Promise<Response>((resolve) => {
+          resolveResponse = resolve;
         }),
-      ) as unknown as typeof fetch;
+    ) as unknown as typeof fetch;
 
-      await store.loadBusStopTimeTable(123, 1, 1);
+    const loadPromise = useMapStore.getState().loadBusStopTimeTable(4605, 1, 0);
 
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetable).toBeDefined();
-      if (finalState.selectedStopTimetable) {
-        expect(finalState.selectedStopTimetable.length).toBe(1);
-        expect(finalState.selectedStopTimetable[0].lineId).toBe(1);
-      }
-    });
+    expect(useMapStore.getState().selectedStopTimetableIsLoading).toBe(true);
+    expect(useMapStore.getState().selectedStopTimetableIsLoaded).toBe(false);
 
-    it("should handle fetch errors gracefully", async () => {
-      const store = useMapStore.getState();
+    resolveResponse?.(response(liveAndScheduledData));
+    await loadPromise;
 
-      global.fetch = mock(() =>
-        Promise.reject(new Error("Network error")),
-      ) as unknown as typeof fetch;
-
-      await store.loadBusStopTimeTable(123, 1, 1);
-
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetableIsLoading).toBe(false);
-      expect(finalState.selectedStopTimetableIsLoaded).toBe(true);
-    });
-
-    it("should set loading states correctly", async () => {
-      const store = useMapStore.getState();
-      const mockResponse: BusLineStopTimetable[] = [
-        {
-          idLinea: 1,
-          desc_linea: "Line 1",
-          trayectos: {
-            "Destination A": [{ minutos: "5.0", real: "S" }],
-          },
-        },
-      ];
-
-      global.fetch = mock(() =>
-        Promise.resolve({
-          json: async () => mockResponse,
-        }),
-      ) as unknown as typeof fetch;
-
-      const loadPromise = store.loadBusStopTimeTable(123, 1, 1);
-
-      // Check loading state is set immediately
-      const loadingState = useMapStore.getState();
-      expect(loadingState.selectedStopTimetableIsLoading).toBe(true);
-      expect(loadingState.selectedStopTimetableIsLoaded).toBe(false);
-
-      await loadPromise;
-
-      const finalState = useMapStore.getState();
-      expect(finalState.selectedStopTimetableIsLoading).toBe(false);
-      expect(finalState.selectedStopTimetableIsLoaded).toBe(true);
-    });
+    expect(useMapStore.getState().selectedStopTimetableIsLoading).toBe(false);
+    expect(useMapStore.getState().selectedStopTimetableIsLoaded).toBe(true);
   });
 });
