@@ -105,10 +105,38 @@
     },
     "ID_GRUPO": 1,
     "ID_LINEA": 51,
-    "ID_TRAYECTO": 71,
+    "ID_TRAYECTO": 7,
     "SECUENCIA": 40,
     "ID_PARADA": 7155,
     "NKM_ORIGEN": 2.646,
+    "SUBE_BAJA": 2
+  },
+  {
+    "Parada": {
+      "DESC_PARADA": "\tUab-Eix Central Sud",
+      "COD_PARADA": 8980,
+      "ID_GRUPO": 1,
+      "ID_PARADA": 21893,
+      "ID_MUNICIPIO": 447068,
+      "MUNICIPIO": "CERDANYOLA DEL VALLES",
+      "EXPLOTADORA": "CASAS",
+      "ID_ZONA": 0,
+      "ZONA": null,
+      "ID_EXPLOTADORA": 3,
+      "UTMX": 425715,
+      "UTMY": 4594823,
+      "LATITUD": 41.49977,
+      "LONGITUD": 2.108859,
+      "ID_SUBZONA": null,
+      "SUBZONA": null,
+      "CONCESIONES": null
+    },
+    "ID_GRUPO": 1,
+    "ID_LINEA": 51,
+    "ID_TRAYECTO": 81,
+    "SECUENCIA": 10,
+    "ID_PARADA": 21893,
+    "NKM_ORIGEN": 0,
     "SUBE_BAJA": 2
   },
   {
@@ -138,33 +166,5 @@
     "ID_PARADA": 7156,
     "NKM_ORIGEN": 35.6,
     "SUBE_BAJA": 3
-  },
-  {
-    "Parada": {
-      "DESC_PARADA": "\tUab-Eix Central Sud",
-      "COD_PARADA": 8980,
-      "ID_GRUPO": 1,
-      "ID_PARADA": 21893,
-      "ID_MUNICIPIO": 447068,
-      "MUNICIPIO": "CERDANYOLA DEL VALLES",
-      "EXPLOTADORA": "CASAS",
-      "ID_ZONA": 0,
-      "ZONA": null,
-      "ID_EXPLOTADORA": 3,
-      "UTMX": 425715,
-      "UTMY": 4594823,
-      "LATITUD": 41.49977,
-      "LONGITUD": 2.108859,
-      "ID_SUBZONA": null,
-      "SUBZONA": null,
-      "CONCESIONES": null
-    },
-    "ID_GRUPO": 1,
-    "ID_LINEA": 51,
-    "ID_TRAYECTO": 81,
-    "SECUENCIA": 10,
-    "ID_PARADA": 21893,
-    "NKM_ORIGEN": 0,
-    "SUBE_BAJA": 2
   }
 ]
