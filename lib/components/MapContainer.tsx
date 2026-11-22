@@ -43,6 +43,7 @@ export function MapContainer({
   const [isDragging, setIsDragging] = useState(false);
   const [zoom, setZoom] = useState(15);
   const [isStopSelected, setIsStopSelected] = useState(false);
+  const [mapError, setMapError] = useState(false);
 
   // Memoize the starred set separately to avoid recreating it unnecessarily
   const starredSet = useMemo(
@@ -84,6 +85,11 @@ export function MapContainer({
     setShowOnlyStarred(newValue);
   }, [showOnlyStarred, setShowOnlyStarred, starredStopIdsArray]);
 
+  const handleMapError = useCallback((error: unknown) => {
+    console.error("Google Maps failed to load:", error);
+    setMapError(true);
+  }, []);
+
   if (locationError) {
     // Show error if geolocation fails
     console.warn("Geolocation error:", locationError);
@@ -108,7 +114,7 @@ export function MapContainer({
   }
 
   return (
-    <APIProvider apiKey={apiKey} language="ca">
+    <APIProvider apiKey={apiKey} language="ca" onError={handleMapError}>
       <div className="relative w-screen" style={{ height: mapHeight }}>
         <Header
           showOnlyStarred={showOnlyStarred}
@@ -124,6 +130,19 @@ export function MapContainer({
           setZoom={setZoom}
           onStopSelectionChange={setIsStopSelected}
         />
+        {mapError && (
+          <div
+            aria-live="assertive"
+            className="absolute inset-x-4 top-1/2 z-20 flex -translate-y-1/2 justify-center"
+          >
+            <span
+              className="rounded bg-white/90 px-3 py-2 text-sm text-gray-700 shadow"
+              role="alert"
+            >
+              No s'ha pogut carregar el mapa.
+            </span>
+          </div>
+        )}
         <LocationButton
           onClick={handleLocationButtonClick}
           isDragging={isDragging}

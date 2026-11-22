@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
-import { render, screen } from "@testing-library/react";
+import { act, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { FakeMap, mapsMock, resetMapsMock } from "../../../test/googleMapsMock";
 import { useMapStore } from "../../store/useMapStore";
@@ -81,6 +81,38 @@ describe("MapContainer", () => {
       screen.getByRole("button", { name: "Get location" }),
     ).toBeInTheDocument();
     expect(screen.getByRole("link", { name: "Moventis" })).toBeInTheDocument();
+  });
+
+  it("keeps the map visible while its tiles load", () => {
+    render(<MapContainer allBusStops={allBusStops} />);
+
+    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(screen.queryByRole("status")).toBeNull();
+  });
+
+  it("shows an error when the Maps API fails to load", () => {
+    const originalConsoleError = console.error;
+    console.error = mock();
+
+    try {
+      render(<MapContainer allBusStops={allBusStops} />);
+
+      act(() => {
+        (mapsMock.props.APIProvider.onError as (error: unknown) => void)(
+          new Error("Maps API failed"),
+        );
+      });
+
+      expect(screen.getByRole("alert")).toHaveTextContent(
+        "No s'ha pogut carregar el mapa.",
+      );
+      expect(console.error).toHaveBeenCalledWith(
+        "Google Maps failed to load:",
+        expect.any(Error),
+      );
+    } finally {
+      console.error = originalConsoleError;
+    }
   });
 
   it("fills the viewport by default", () => {
