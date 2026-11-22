@@ -25,25 +25,21 @@ export const BusStopCustomMarkers = ({
   onStopClick,
 }: BusStopCustomMarkersProps) => {
   const map = useMap();
-  const [visibleStops, setVisibleStops] = useState<BusStop[]>(() =>
-    getValidStops(stops),
-  );
+  const [visibleStops, setVisibleStops] = useState<BusStop[]>([]);
 
   // Filter stops based on viewport and zoom for performance
   useEffect(() => {
-    const validStops = getValidStops(stops);
-
     if (!map) {
-      setVisibleStops(validStops);
       return;
     }
+
+    const validStops = getValidStops(stops);
 
     const updateVisibleStops = () => {
       const bounds = map.getBounds();
       const zoom = map.getZoom() || 15;
 
       if (!bounds) {
-        setVisibleStops(validStops);
         return;
       }
 

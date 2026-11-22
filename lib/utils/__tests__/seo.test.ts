@@ -128,7 +128,7 @@ describe("line stop display helpers", () => {
 
 describe("buildLinePagePath", () => {
   it("builds line URLs from slugs only", () => {
-    expect(buildLinePagePath("n80")).toBe("/linea/n80");
+    expect(buildLinePagePath("n80")).toBe("/linia/n80");
   });
 });
 
@@ -268,9 +268,9 @@ describe("lineStopIdToSlug", () => {
 
 describe("buildLinePagePathFromName", () => {
   it("slugifies the line name before building the path", () => {
-    expect(buildLinePagePathFromName("C-30")).toBe("/linea/c30");
+    expect(buildLinePagePathFromName("C-30")).toBe("/linia/c30");
     // Accents are stripped rather than transliterated: "Línia" -> "lnia"
-    expect(buildLinePagePathFromName("Línia V4.1")).toBe("/linea/lniav4.1");
+    expect(buildLinePagePathFromName("Línia V4.1")).toBe("/linia/lniav4.1");
   });
 });
 

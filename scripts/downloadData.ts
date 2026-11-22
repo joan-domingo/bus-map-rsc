@@ -152,7 +152,7 @@ try {
 
   // Drop the files of lines Moventis has retired. Without this they linger
   // forever: nothing can reach them (busLineData no longer lists the line, so
-  // no /linea page resolves to it) but they still ship with every deploy.
+  // no /linia page resolves to it) but they still ship with every deploy.
   const currentLineIds = new Set(
     busLinesInfoList.map((busLine) => String(busLine.ID_LINEA)),
   );

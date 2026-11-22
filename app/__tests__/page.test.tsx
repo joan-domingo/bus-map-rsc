@@ -12,7 +12,7 @@ import { useMapStore } from "../../lib/store/useMapStore";
 import { useStarredStops } from "../../lib/store/useStarredStops";
 import type { BusStop } from "../../lib/types";
 import { getVisiblePriorityLineSlugs } from "../../lib/utils/seo";
-import { resetMapsMock } from "../../test/googleMapsMock";
+import { FakeMap, mapsMock, resetMapsMock } from "../../test/googleMapsMock";
 import { createStopsFixture } from "../../test/stopsFixture";
 import { metadata as rootMetadata } from "../layout";
 import Home, { metadata } from "../page";
@@ -76,6 +76,7 @@ describe("home page metadata", () => {
 describe("Home", () => {
   beforeEach(() => {
     resetMapsMock();
+    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
     process.env[API_KEY_ENV] = "test-api-key";
     Object.defineProperty(navigator, "geolocation", {
       configurable: true,
@@ -129,7 +130,7 @@ describe("Home", () => {
 
     expect(
       links.slice(0, slugs.length).map((a) => a.getAttribute("href")),
-    ).toEqual(slugs.map((slug) => `/linea/${slug}`));
+    ).toEqual(slugs.map((slug) => `/linia/${slug}`));
     expect(links.slice(0, slugs.length).map((a) => a.textContent)).toEqual(
       slugs.map((slug) => slug.toUpperCase()),
     );

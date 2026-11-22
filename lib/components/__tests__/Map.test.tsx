@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import { act, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import { mapsMock, resetMapsMock } from "../../../test/googleMapsMock";
+import { FakeMap, mapsMock, resetMapsMock } from "../../../test/googleMapsMock";
 import { useMapStore } from "../../store/useMapStore";
 import { useStarredStops } from "../../store/useStarredStops";
 import type { BusStop } from "../../types";
@@ -48,6 +48,7 @@ function mapProps() {
 describe("BusMap", () => {
   beforeEach(() => {
     resetMapsMock();
+    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
     useStarredStops.setState({
       starredStopIdsArray: [],
       showOnlyStarred: false,

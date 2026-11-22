@@ -1,9 +1,9 @@
 import { mock } from "bun:test";
 
 /**
- * next/navigation's notFound() and redirect() work by throwing, and Next
- * catches those errors upstream. The doubles keep that contract so tests can
- * assert a page bailed out, and expose where it tried to go.
+ * next/navigation's notFound(), redirect() and permanentRedirect() work by
+ * throwing, and Next catches those errors upstream. The doubles keep that
+ * contract so tests can assert a page bailed out, and expose where it tried to go.
  */
 export class NotFoundError extends Error {
   constructor() {
@@ -24,6 +24,9 @@ mock.module("next/navigation", () => ({
     throw new NotFoundError();
   },
   redirect: (url: string) => {
+    throw new RedirectError(url);
+  },
+  permanentRedirect: (url: string) => {
     throw new RedirectError(url);
   },
 }));

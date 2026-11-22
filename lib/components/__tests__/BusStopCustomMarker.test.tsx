@@ -80,13 +80,36 @@ describe("BusStopCustomMarkers", () => {
   });
 
   describe("without a map instance", () => {
-    it("renders every stop with finite coordinates", () => {
+    it("does not render every stop before the map is ready", () => {
       renderMarkers([makeStop(1, 41.5, 2.1), makeStop(2, 41.6, 2.2)]);
 
-      expect(screen.getAllByTestId("advanced-marker")).toHaveLength(2);
+      expect(screen.queryByTitle("Parada 1")).toBeNull();
+      expect(screen.queryByTitle("Parada 2")).toBeNull();
+    });
+  });
+
+  describe("with a map instance", () => {
+    it("waits for bounds before rendering nearby stops", async () => {
+      const map = new FakeMap(undefined, ZOOM_WITHOUT_BACKFILL);
+      mapsMock.map = map;
+
+      renderMarkers([makeStop(1, 41.5, 2.1), makeStop(2, 80, 80)]);
+
+      expect(screen.queryByTitle("Parada 1")).toBeNull();
+
+      act(() => {
+        map.setBounds(VIEWPORT);
+        map.emit("bounds_changed");
+      });
+
+      await waitFor(() => {
+        expect(screen.getAllByTestId("advanced-marker")).toHaveLength(1);
+      });
     });
 
     it("coerces string coordinates to numbers", () => {
+      mapsMock.map = new FakeMap(VIEWPORT, ZOOM_WITHOUT_BACKFILL);
+
       renderMarkers([
         {
           ...makeStop(1, 0, 0),
@@ -99,6 +122,8 @@ describe("BusStopCustomMarkers", () => {
     });
 
     it("drops stops whose coordinates are not finite numbers", () => {
+      mapsMock.map = new FakeMap(VIEWPORT, ZOOM_WITHOUT_BACKFILL);
+
       renderMarkers([
         makeStop(1, 41.5, 2.1),
         { ...makeStop(2, 0, 0), lat: Number.NaN },
@@ -107,16 +132,6 @@ describe("BusStopCustomMarkers", () => {
       ]);
 
       expect(screen.getAllByTestId("advanced-marker")).toHaveLength(1);
-    });
-  });
-
-  describe("with a map instance", () => {
-    it("falls back to every stop while the map has no bounds yet", () => {
-      mapsMock.map = new FakeMap(undefined);
-
-      renderMarkers([makeStop(1, 41.5, 2.1), makeStop(2, 80, 80)]);
-
-      expect(screen.getAllByTestId("advanced-marker")).toHaveLength(2);
     });
 
     it("hides stops far outside the viewport", () => {
@@ -288,6 +303,7 @@ describe("BusStopCustomMarkers", () => {
   });
 
   it("forwards marker clicks with the clicked stop", async () => {
+    mapsMock.map = new FakeMap(VIEWPORT, ZOOM_WITHOUT_BACKFILL);
     const stop = makeStop(1, 41.5, 2.1);
     const { onStopClick } = renderMarkers([stop]);
 
@@ -298,6 +314,7 @@ describe("BusStopCustomMarkers", () => {
   });
 
   it("identifies the selected stop marker", () => {
+    mapsMock.map = new FakeMap(VIEWPORT, ZOOM_WITHOUT_BACKFILL);
     renderMarkers([makeStop(1, 41.5, 2.1), makeStop(2, 41.6, 2.2)], {
       selectedStopId: 2,
     });

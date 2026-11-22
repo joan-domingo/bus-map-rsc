@@ -47,7 +47,7 @@ describe("Header", () => {
     const lineLinks = [...nav.querySelectorAll("a")].slice(0, 3);
 
     expect(lineLinks.map((link) => link.getAttribute("href"))).toEqual(
-      expectedSlugs.map((slug) => `/linea/${slug}`),
+      expectedSlugs.map((slug) => `/linia/${slug}`),
     );
     expect(lineLinks.map((link) => link.textContent)).toEqual(
       expectedSlugs.map((slug) => `${slug.toUpperCase()} temps real`),

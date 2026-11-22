@@ -12,10 +12,11 @@ import { STOPS_SHEET_PEEK } from "../../lib/components/lineStopsSheet";
 import { useMapStore } from "../../lib/store/useMapStore";
 import { useStarredStops } from "../../lib/store/useStarredStops";
 import type { BusStop } from "../../lib/types";
-import { resetMapsMock } from "../../test/googleMapsMock";
+import { FakeMap, mapsMock, resetMapsMock } from "../../test/googleMapsMock";
 import { NotFoundError, RedirectError } from "../../test/nextNavigationMock";
 import { createStopsFixture } from "../../test/stopsFixture";
-import LinePage, { dynamic, generateMetadata } from "../linea/[line]/page";
+import LegacyLinePage from "../linea/[line]/page";
+import LinePage, { dynamic, generateMetadata } from "../linia/[line]/page";
 
 /** "68" is the internal id behind the n80 Search Console alias. */
 const N80_LINE_ID = "68";
@@ -70,7 +71,7 @@ afterAll(() => {
   fixture.cleanup();
 });
 
-describe("/linea/[line] route config", () => {
+describe("/linia/[line] route config", () => {
   it("renders per request so timetables are never cached", () => {
     expect(dynamic).toBe("force-dynamic");
   });
@@ -81,9 +82,9 @@ describe("generateMetadata", () => {
     const metadata = await generateMetadata(params("n80"));
 
     expect(metadata.title).toBe("Bus N80 temps real i tiempo real · Moventis");
-    expect(metadata.alternates?.canonical).toBe("/linea/n80");
+    expect(metadata.alternates?.canonical).toBe("/linia/n80");
     expect(metadata.openGraph).toMatchObject({
-      url: "/linea/n80",
+      url: "/linia/n80",
       type: "website",
       images: [
         {
@@ -104,7 +105,7 @@ describe("generateMetadata", () => {
     const metadata = await generateMetadata(params("C-30"));
 
     expect(metadata.title).toBe("Bus C30 temps real i tiempo real · Moventis");
-    expect(metadata.alternates?.canonical).toBe("/linea/c30");
+    expect(metadata.alternates?.canonical).toBe("/linia/c30");
   });
 
   it("marks unknown lines noindex instead of describing them", async () => {
@@ -119,6 +120,7 @@ describe("generateMetadata", () => {
 describe("LinePage", () => {
   beforeEach(() => {
     resetMapsMock();
+    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
     process.env[API_KEY_ENV] = "test-api-key";
     Object.defineProperty(navigator, "geolocation", {
       configurable: true,
@@ -160,13 +162,13 @@ describe("LinePage", () => {
   });
 
   it("404s on a busLineData key that no line is named after", async () => {
-    // "444" keys "Línia V4.1", which lives at /linea/liniav4.1
+    // "444" keys "Línia V4.1", which lives at /linia/liniav4.1
     await expect(renderPage("444")).rejects.toBeInstanceOf(NotFoundError);
   });
 
   it("redirects a non-canonical slug to the canonical one", async () => {
     await expect(renderPage("C-30")).rejects.toMatchObject({
-      url: "/linea/c30",
+      url: "/linia/c30",
     });
     await expect(renderPage("C-30")).rejects.toBeInstanceOf(RedirectError);
   });
@@ -185,7 +187,24 @@ describe("LinePage", () => {
         ?.innerHTML ?? "null",
     );
     expect(jsonLd.name).toBe("Bus N80 Moventis en temps real");
-    expect(jsonLd.url).toBe("https://quantriga.com/linea/n80");
+    expect(jsonLd.url).toBe("https://quantriga.com/linia/n80");
+  });
+
+  describe("legacy /linea/[line] route", () => {
+    it("permanently redirects a known line to the Catalan route", async () => {
+      await expect(LegacyLinePage(params("e1"))).rejects.toMatchObject({
+        url: "/linia/e1",
+      });
+      await expect(LegacyLinePage(params("e1"))).rejects.toBeInstanceOf(
+        RedirectError,
+      );
+    });
+
+    it("404s for unknown lines", async () => {
+      await expect(LegacyLinePage(params("not-a-line"))).rejects.toBeInstanceOf(
+        NotFoundError,
+      );
+    });
   });
 
   it("links back to the full map", async () => {

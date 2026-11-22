@@ -38,7 +38,7 @@ describe("STOPS_SHEET_PEEK", () => {
         "..",
         "..",
         "app",
-        "linea",
+        "linia",
         "[line]",
         "page.tsx",
       ),

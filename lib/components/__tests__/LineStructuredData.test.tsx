@@ -10,13 +10,13 @@ function readJsonLd(container: HTMLElement) {
 describe("LineStructuredData", () => {
   it("uppercases the line name throughout the WebPage schema", () => {
     const { container } = render(
-      <LineStructuredData lineName="n80" path="/linea/n80" />,
+      <LineStructuredData lineName="n80" path="/linia/n80" />,
     );
 
     const webPage = readJsonLd(container);
     expect(webPage["@type"]).toBe("WebPage");
     expect(webPage.name).toBe("Bus N80 Moventis en temps real");
-    expect(webPage.url).toBe("https://quantriga.com/linea/n80");
+    expect(webPage.url).toBe("https://quantriga.com/linia/n80");
     expect(webPage.keywords).toContain("N80 temps real");
     expect(webPage.about.name).toBe("Moventis línia N80");
     expect(webPage.about.provider.name).toBe("Moventis");
@@ -24,7 +24,7 @@ describe("LineStructuredData", () => {
 
   it("builds an Inici → Línies → line breadcrumb", () => {
     const { container } = render(
-      <LineStructuredData lineName="C30" path="/linea/c30" />,
+      <LineStructuredData lineName="C30" path="/linia/c30" />,
     );
 
     const { breadcrumb } = readJsonLd(container);
@@ -40,13 +40,13 @@ describe("LineStructuredData", () => {
     ).toEqual([
       [1, "Inici", "https://quantriga.com"],
       [2, "Línies", "https://quantriga.com/linies"],
-      [3, "C30", "https://quantriga.com/linea/c30"],
+      [3, "C30", "https://quantriga.com/linia/c30"],
     ]);
   });
 
   it("escapes < so the JSON-LD cannot close its own script tag", () => {
     const { container } = render(
-      <LineStructuredData lineName="<script>" path="/linea/x" />,
+      <LineStructuredData lineName="<script>" path="/linia/x" />,
     );
 
     expect(container.querySelector("script")?.innerHTML).not.toContain("<");

@@ -192,7 +192,7 @@ export function getLineStopBadgeLabel(lineStopId: string): string {
 }
 
 export function buildLinePagePath(slug: string): string {
-  return `/linea/${slug.toLowerCase()}`;
+  return `/linia/${slug.toLowerCase()}`;
 }
 
 export function buildLinePagePathFromName(lineName: string): string {
@@ -215,7 +215,7 @@ export interface ResolvedLineSlug {
 }
 
 /**
- * Resolves /linea/{slug} by line name only (e.g. c1, n80), so an internal
+ * Resolves /linia/{slug} by line name only (e.g. c1, n80), so an internal
  * busLineData key never becomes a URL: a slug is only ever matched against
  * line *names*, and one that appears solely as a key resolves to nothing.
  *

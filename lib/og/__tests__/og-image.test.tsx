@@ -43,7 +43,7 @@ describe("OgImageContent", () => {
     expect(text).toContain("QuanTriga.com");
     expect(text).toContain("Temps Real Autobusos");
     expect(text).toContain("quantriga.com");
-    expect(text).not.toContain("quantriga.com/linea/");
+    expect(text).not.toContain("quantriga.com/linia/");
   });
 
   it("shows the uppercased line and its deep link for the line variant", () => {
@@ -55,7 +55,7 @@ describe("OgImageContent", () => {
     expect(text).toContain("Moventis · temps real");
     expect(text).toContain("de la línia C-30 actualitzats");
     // The footer uses the URL slug, not the raw name
-    expect(text).toContain("quantriga.com/linea/c30");
+    expect(text).toContain("quantriga.com/linia/c30");
   });
 
   it("uses a smaller headline for the longer line variant title", () => {

@@ -186,7 +186,7 @@ export function OgImageContent({ lineName }: OgImageContentProps) {
         }}
       >
         {isLineVariant && lineSlug
-          ? `quantriga.com/linea/${lineSlug}`
+          ? `quantriga.com/linia/${lineSlug}`
           : "quantriga.com"}
       </div>
     </div>

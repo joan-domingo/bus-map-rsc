@@ -95,7 +95,7 @@ describe("MarkerTimetable", () => {
           name: /A4 - A4-SANT CUGAT DEL VALLÈS - BARCELONA/,
         })
         .getAttribute("href"),
-    ).toBe("/linea/a4");
+    ).toBe("/linia/a4");
 
     rerender(
       <MarkerTimetable

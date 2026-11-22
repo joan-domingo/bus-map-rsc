@@ -35,7 +35,7 @@ describe("LinesIndexPage", () => {
     expect(items).toHaveLength(lines.length);
     expect(
       items.map((item) => item.querySelector("a")?.getAttribute("href")),
-    ).toEqual(lines.map((line) => `/linea/${line.slug}`));
+    ).toEqual(lines.map((line) => `/linia/${line.slug}`));
     expect(items.map((item) => item.textContent)).toEqual(
       lines.map((line) => line.name),
     );
