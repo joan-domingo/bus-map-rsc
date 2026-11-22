@@ -149,14 +149,21 @@ mock.module("@vis.gl/react-google-maps", () => ({
   AdvancedMarker: ({
     children,
     onClick,
+    title,
     ...props
   }: {
     children?: ReactNode;
     onClick?: () => void;
+    title?: string;
   }) => {
-    capture("AdvancedMarker", props);
+    capture("AdvancedMarker", { ...props, title });
     return (
-      <button type="button" data-testid="advanced-marker" onClick={onClick}>
+      <button
+        type="button"
+        data-testid="advanced-marker"
+        onClick={onClick}
+        title={title}
+      >
         {children}
       </button>
     );

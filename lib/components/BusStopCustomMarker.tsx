@@ -1,7 +1,7 @@
 import { useMap } from "@vis.gl/react-google-maps";
 import { useEffect, useState } from "react";
 import type { BusStop } from "../types";
-import { MarkerWithInfowindow } from "./MarkerWithInfoWindow";
+import { BusStopMarker } from "./BusStopMarker";
 
 function getValidStops(stops: BusStop[]): BusStop[] {
   return stops
@@ -17,14 +17,12 @@ interface BusStopCustomMarkersProps {
   stops: BusStop[];
   selectedStopId: number | null;
   onStopClick: (stop: BusStop) => void;
-  onCloseClick: () => void;
 }
 
 export const BusStopCustomMarkers = ({
   stops,
   selectedStopId,
   onStopClick,
-  onCloseClick,
 }: BusStopCustomMarkersProps) => {
   const map = useMap();
   const [visibleStops, setVisibleStops] = useState<BusStop[]>(() =>
@@ -256,12 +254,11 @@ export const BusStopCustomMarkers = ({
   return (
     <>
       {visibleStops.map((stop) => (
-        <MarkerWithInfowindow
+        <BusStopMarker
           key={stop.id}
           stop={stop}
           onClick={() => onStopClick(stop)}
-          visible={selectedStopId === stop.id}
-          onCloseClick={onCloseClick}
+          selected={selectedStopId === stop.id}
         />
       ))}
     </>

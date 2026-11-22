@@ -49,16 +49,14 @@ function renderMarkers(
   overrides: { selectedStopId?: number | null } = {},
 ) {
   const onStopClick = mock();
-  const onCloseClick = mock();
   const result = render(
     <BusStopCustomMarkers
       stops={stops}
       selectedStopId={overrides.selectedStopId ?? null}
       onStopClick={onStopClick}
-      onCloseClick={onCloseClick}
     />,
   );
-  return { ...result, onStopClick, onCloseClick };
+  return { ...result, onStopClick };
 }
 
 describe("BusStopCustomMarkers", () => {
@@ -69,9 +67,11 @@ describe("BusStopCustomMarkers", () => {
       showOnlyStarred: false,
     });
     useMapStore.setState({
-      selectedStopTimetable: [],
+      selectedStopTimetable: null,
       selectedStopTimetableIsLoading: false,
       selectedStopTimetableIsLoaded: false,
+      selectedStopTimetableError: null,
+      selectedStopTimetableUpdatedAt: null,
     });
   });
 
@@ -172,8 +172,7 @@ describe("BusStopCustomMarkers", () => {
 
       renderMarkers([...dense, selected], { selectedStopId: 7777 });
 
-      // Its open info window proves the selected stop was rendered
-      expect(screen.getByTestId("info-window")).toBeInTheDocument();
+      expect(screen.getByTitle("Parada 7777")).toBeInTheDocument();
       expect(
         screen.getAllByTestId("advanced-marker").length,
       ).toBeLessThanOrEqual(200);
@@ -298,21 +297,11 @@ describe("BusStopCustomMarkers", () => {
     expect(onStopClick.mock.calls[0]?.[0]).toMatchObject({ id: 1 });
   });
 
-  it("forwards the info window close request", async () => {
-    const { onCloseClick } = renderMarkers([makeStop(1, 41.5, 2.1)], {
-      selectedStopId: 1,
-    });
-
-    await userEvent.click(screen.getByRole("button", { name: "Tanca" }));
-
-    expect(onCloseClick).toHaveBeenCalledTimes(1);
-  });
-
-  it("opens the info window only for the selected stop", () => {
+  it("identifies the selected stop marker", () => {
     renderMarkers([makeStop(1, 41.5, 2.1), makeStop(2, 41.6, 2.2)], {
       selectedStopId: 2,
     });
 
-    expect(screen.getAllByTestId("info-window")).toHaveLength(1);
+    expect(screen.getByTitle("Parada 2")).toBeInTheDocument();
   });
 });

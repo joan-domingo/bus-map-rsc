@@ -24,23 +24,24 @@ export interface BusLineRouteData {
   municipalities: string[];
 }
 
+export interface BusLineStopTimetableArrival {
+  minutos: string;
+  real: string;
+  hora?: string;
+}
+
 export interface BusLineStopTimetable {
-  idLinea: number;
+  idLinea: number | "N";
   desc_linea: string;
   trayectos: Record<
     string,
-    Array<{
-      minutos: string;
-      real: string;
-    }>
+    BusLineStopTimetableArrival[] | Record<string, BusLineStopTimetableArrival>
   >;
 }
 
-export interface CustomBusLineJourney {
-  name: string;
-  real: boolean;
-  minutesLeft: string;
-}
+export type CustomBusLineJourney =
+  | { name: string; real: true; minutesLeft: string }
+  | { name: string; real: false; departureTime: string };
 
 export interface CustomBusLineTimetable {
   lineId: number;

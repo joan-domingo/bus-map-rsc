@@ -42,6 +42,7 @@ export function MapContainer({
 
   const [isDragging, setIsDragging] = useState(false);
   const [zoom, setZoom] = useState(15);
+  const [isStopSelected, setIsStopSelected] = useState(false);
 
   // Memoize the starred set separately to avoid recreating it unnecessarily
   const starredSet = useMemo(
@@ -121,12 +122,14 @@ export function MapContainer({
           setIsDragging={setIsDragging}
           zoom={zoom}
           setZoom={setZoom}
+          onStopSelectionChange={setIsStopSelected}
         />
         <LocationButton
           onClick={handleLocationButtonClick}
           isDragging={isDragging}
+          isStopSelected={isStopSelected}
         />
-        <Attribution />
+        <Attribution isStopSelected={isStopSelected} />
       </div>
     </APIProvider>
   );

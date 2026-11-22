@@ -1,8 +1,14 @@
-export function Attribution() {
+interface Props {
+  isStopSelected?: boolean;
+}
+
+export function Attribution({ isStopSelected = false }: Props) {
   return (
     <div
-      className="flex justify-center items-center absolute bottom-0 right-0 left-0 bg-white bg-opacity-80 text-black text-sm pt-2 z-10"
-      style={{ paddingBottom: "calc(0.5rem + env(safe-area-inset-bottom, 0px))" }}
+      className={`absolute bottom-0 right-0 left-0 flex items-center justify-center bg-white/80 pt-2 text-sm text-black ${isStopSelected ? "z-40" : "z-10"}`}
+      style={{
+        paddingBottom: "calc(0.5rem + env(safe-area-inset-bottom, 0px))",
+      }}
     >
       Dades proporcionades per{" "}
       <a

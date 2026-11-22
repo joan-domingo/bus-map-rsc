@@ -52,9 +52,11 @@ describe("MapContainer", () => {
       showOnlyStarred: false,
     });
     useMapStore.setState({
-      selectedStopTimetable: [],
+      selectedStopTimetable: null,
       selectedStopTimetableIsLoading: false,
       selectedStopTimetableIsLoaded: false,
+      selectedStopTimetableError: null,
+      selectedStopTimetableUpdatedAt: null,
     });
     window.gtag = undefined;
   });

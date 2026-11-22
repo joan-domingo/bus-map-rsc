@@ -7,9 +7,11 @@ import type {
 } from "../types";
 
 interface MapState {
-  selectedStopTimetable: CustomBusLineTimetable[];
+  selectedStopTimetable: CustomBusLineTimetable[] | null;
   selectedStopTimetableIsLoaded: boolean;
   selectedStopTimetableIsLoading: boolean;
+  selectedStopTimetableError: string | null;
+  selectedStopTimetableUpdatedAt: number | null;
   loadBusStopTimeTable: (
     stopId: number,
     lineId: number,
@@ -21,12 +23,58 @@ interface MapState {
   dataToCustomData: (data: BusLineStopTimetable[]) => CustomBusLineTimetable[];
 }
 
+function formatRealtimeArrivalTime(value: string): string {
+  const minutes = value.match(/(?:^|\s)(\d+)\s*min(?:\s|$)/i);
+  if (minutes?.[1]) {
+    return `${minutes[1]} min`;
+  }
+
+  const seconds = value.match(/(?:^|\s)(\d+(?:\.\d+)?)\s*s(?:\s|$)/i);
+  if (seconds?.[1]) {
+    const secondsLeft = Number(seconds[1]);
+    return secondsLeft < 60 ? "<1 min" : `${Math.ceil(secondsLeft / 60)} min`;
+  }
+
+  throw new Error(`Unexpected real-time arrival time: ${value}`);
+}
+
+function formatScheduledDepartureTime(arrival: {
+  hora?: string;
+  minutos: string;
+}): string | null {
+  const scheduledTime = arrival.hora?.trim();
+  if (scheduledTime && /^\d{1,2}:\d{2}$/.test(scheduledTime)) {
+    return scheduledTime;
+  }
+
+  const minutesValue = arrival.minutos.trim();
+  const minutes = minutesValue.match(/^(\d+)'/);
+  if (minutes?.[1]) {
+    return `${minutes[1]} min`;
+  }
+
+  if (!scheduledTime && !minutesValue) {
+    return null;
+  }
+
+  throw new Error(`Unexpected scheduled departure time: ${arrival.minutos}`);
+}
+
 export const useMapStore = create<MapState>()(
   devtools(
     (set, get) => ({
+      selectedStopTimetable: null,
+      selectedStopTimetableIsLoaded: false,
+      selectedStopTimetableIsLoading: false,
+      selectedStopTimetableError: null,
+      selectedStopTimetableUpdatedAt: null,
       loadBusStopTimeTable: async (stopId, lineId, zoneId) => {
         set(
-          { selectedStopTimetable: undefined },
+          {
+            selectedStopTimetable: null,
+            selectedStopTimetableError: null,
+            selectedStopTimetableUpdatedAt: null,
+          },
           false,
           "setSelectedStopTimetable",
         );
@@ -36,18 +84,39 @@ export const useMapStore = create<MapState>()(
           const response = await fetch(
             `https://glo6ir56yyjdlmdtig4ztnqu7q0dcwlz.lambda-url.eu-central-1.on.aws/api/json/GetTiemposParada/es/${stopId}/${lineId}/${zoneId}`,
           );
-          const data = await response.json();
+          if (!response.ok) {
+            throw new Error(
+              `Timetable request failed with status ${response.status}`,
+            );
+          }
+          const data: BusLineStopTimetable[] = await response.json();
 
           const filteredData = get()
             .dataToCustomData(data)
             .filter((busLine) => busLine.nextBuses.length > 0);
 
           set(
-            { selectedStopTimetable: filteredData },
+            {
+              selectedStopTimetable: filteredData,
+              selectedStopTimetableUpdatedAt: Date.now(),
+              selectedStopTimetableError: null,
+            },
             false,
             "setSelectedStopTimetable",
           );
-        } catch {
+        } catch (error) {
+          console.error("Error loading bus stop timetable:", error);
+          set(
+            {
+              selectedStopTimetable: null,
+              selectedStopTimetableError:
+                error instanceof Error
+                  ? error.message
+                  : "Unknown timetable error",
+            },
+            false,
+            "setSelectedStopTimetableError",
+          );
         } finally {
           get().setSelectedStopTimetableIsLoading(false);
           get().setSelectedStopTimetableIsLoaded(true);
@@ -55,7 +124,13 @@ export const useMapStore = create<MapState>()(
       },
       clearSelectedBusStopTimetable: () => {
         set(
-          { selectedStopTimetable: [] },
+          {
+            selectedStopTimetable: null,
+            selectedStopTimetableError: null,
+            selectedStopTimetableUpdatedAt: null,
+            selectedStopTimetableIsLoading: false,
+            selectedStopTimetableIsLoaded: false,
+          },
           false,
           "clearSelectedBusStopTimetable",
         );
@@ -75,43 +150,60 @@ export const useMapStore = create<MapState>()(
         );
       },
       dataToCustomData: (data) => {
-        return data.map((busLineStopTimetable) => {
-          const { idLinea, desc_linea } = busLineStopTimetable;
+        return data
+          .filter(
+            (
+              busLineStopTimetable,
+            ): busLineStopTimetable is BusLineStopTimetable & {
+              idLinea: number;
+            } => typeof busLineStopTimetable.idLinea === "number",
+          )
+          .map((busLineStopTimetable) => {
+            const { idLinea, desc_linea } = busLineStopTimetable;
+            const nextBuses: CustomBusLineJourney[] = [];
 
-          const journeyNextBusesByDestination = Object.values(
-            busLineStopTimetable.trayectos,
-          );
-          const journeyDestinations = Object.keys(
-            busLineStopTimetable.trayectos,
-          );
-          const nextBuses: CustomBusLineJourney[] = [];
+            for (const [journeyDestination, departures] of Object.entries(
+              busLineStopTimetable.trayectos,
+            )) {
+              const journeyNextBuses = Array.isArray(departures)
+                ? departures
+                : Object.values(departures);
 
-          for (let i = 0, len = journeyDestinations.length; i < len; i++) {
-            const journeyDestination = journeyDestinations[i];
-            const journeyNextBuses = journeyNextBusesByDestination[i];
-
-            if (Array.isArray(journeyNextBuses)) {
-              for (let i = 0, len = journeyNextBuses.length; i < len; i++) {
-                const journeyNextBus = journeyNextBuses[i];
-                if (journeyNextBus) {
+              for (const arrival of journeyNextBuses) {
+                if (arrival.real === "S") {
                   nextBuses.push({
                     name: journeyDestination,
-                    real:
-                      typeof journeyNextBus.real === "string" &&
-                      journeyNextBus.real === "S",
-                    minutesLeft: `${journeyNextBus.minutos.split(".")[0]} seg`,
+                    real: true,
+                    minutesLeft: formatRealtimeArrivalTime(arrival.minutos),
                   });
+                } else if (arrival.real === "N") {
+                  const departureTime = formatScheduledDepartureTime(arrival);
+                  if (!departureTime) {
+                    console.warn(
+                      `Skipping scheduled departure without a time for line ${idLinea}`,
+                    );
+                    continue;
+                  }
+
+                  nextBuses.push({
+                    name: journeyDestination,
+                    real: false,
+                    departureTime,
+                  });
+                } else {
+                  throw new Error(
+                    `Unexpected real-time status for line ${idLinea}: ${arrival.real}`,
+                  );
                 }
               }
             }
-          }
 
-          return {
-            lineId: idLinea,
-            lineName: desc_linea,
-            nextBuses,
-          };
-        });
+            return {
+              lineId: idLinea,
+              lineName: desc_linea,
+              nextBuses,
+            };
+          });
       },
     }),
     { name: "mapStore" },

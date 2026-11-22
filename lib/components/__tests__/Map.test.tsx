@@ -22,6 +22,7 @@ const busStops: BusStop[] = [
 function renderMap(overrides: Partial<Parameters<typeof BusMap>[0]> = {}) {
   const setIsDragging = mock();
   const setZoom = mock();
+  const onStopSelectionChange = mock();
   const props = {
     busStops,
     userLocation: { lat: 41.49, lng: 2.14 },
@@ -29,9 +30,15 @@ function renderMap(overrides: Partial<Parameters<typeof BusMap>[0]> = {}) {
     zoom: 15,
     setIsDragging,
     setZoom,
+    onStopSelectionChange,
     ...overrides,
   };
-  return { ...render(<BusMap {...props} />), setIsDragging, setZoom };
+  return {
+    ...render(<BusMap {...props} />),
+    setIsDragging,
+    setZoom,
+    onStopSelectionChange,
+  };
 }
 
 function mapProps() {
@@ -46,9 +53,11 @@ describe("BusMap", () => {
       showOnlyStarred: false,
     });
     useMapStore.setState({
-      selectedStopTimetable: [],
+      selectedStopTimetable: null,
       selectedStopTimetableIsLoading: false,
       selectedStopTimetableIsLoaded: false,
+      selectedStopTimetableError: null,
+      selectedStopTimetableUpdatedAt: null,
     });
   });
 
@@ -119,34 +128,40 @@ describe("BusMap", () => {
     expect(screen.getAllByTestId("advanced-marker")).toHaveLength(1);
   });
 
-  it("opens the info window for a clicked stop and loads its timetable", async () => {
+  it("opens the stop panel for a clicked stop and loads its timetable", async () => {
     const fetchMock = mock(async () => new Response("[]"));
     const originalFetch = globalThis.fetch;
     globalThis.fetch = fetchMock as unknown as typeof fetch;
-    renderMap();
+    const { onStopSelectionChange } = renderMap();
 
     await userEvent.click(
       screen.getAllByTestId("advanced-marker")[0] as HTMLElement,
     );
 
-    expect(screen.getByTestId("info-window")).toBeInTheDocument();
+    expect(
+      screen.getByRole("heading", { name: "Parada 1" }),
+    ).toBeInTheDocument();
     expect(fetchMock).toHaveBeenCalledTimes(1);
+    expect(onStopSelectionChange).toHaveBeenCalledWith(true);
     globalThis.fetch = originalFetch;
   });
 
-  it("closes the info window again from its close button", async () => {
+  it("closes the stop panel again from its close button", async () => {
     const originalFetch = globalThis.fetch;
     globalThis.fetch = mock(
       async () => new Response("[]"),
     ) as unknown as typeof fetch;
-    renderMap();
+    const { onStopSelectionChange } = renderMap();
 
     await userEvent.click(
       screen.getAllByTestId("advanced-marker")[0] as HTMLElement,
     );
-    await userEvent.click(screen.getByRole("button", { name: "Tanca" }));
+    await userEvent.click(
+      screen.getByRole("button", { name: "Tanca els horaris de la parada" }),
+    );
 
-    expect(screen.queryByTestId("info-window")).toBeNull();
+    expect(screen.queryByRole("heading", { name: "Parada 1" })).toBeNull();
+    expect(onStopSelectionChange).toHaveBeenLastCalledWith(false);
     globalThis.fetch = originalFetch;
   });
 });
