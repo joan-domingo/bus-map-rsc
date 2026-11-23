@@ -79,6 +79,21 @@ describe("StopDeparturesSheet", () => {
     expect(screen.getByText(/Actualitzat a/)).toBeVisible();
   });
 
+  it("keeps the arrivals scrollable and the show-all button below them", () => {
+    renderSheet();
+
+    const arrivals = screen.getByRole("region", { name: "Properes arribades" });
+    const showAllButton = screen.getByRole("button", {
+      name: "Veure tots els horaris",
+    });
+
+    expect(arrivals).toHaveClass("min-h-0", "overflow-y-auto");
+    expect(arrivals).not.toContainElement(showAllButton);
+    expect(arrivals.parentElement).toHaveStyle({
+      paddingBottom: "calc(3rem + env(safe-area-inset-bottom, 0px))",
+    });
+  });
+
   it("expands to show the full timetable", async () => {
     renderSheet();
 

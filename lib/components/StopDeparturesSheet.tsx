@@ -136,34 +136,38 @@ export function StopDeparturesSheet({ stop, onClose }: Props) {
         </button>
       </div>
 
-      <section
-        aria-busy={isLoading}
-        aria-labelledby={departuresHeadingId}
-        className="flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto px-4"
-        id={departuresId}
+      <div
+        className="flex min-h-0 flex-1 flex-col gap-3 overflow-hidden px-4"
         style={{
-          paddingBottom: "calc(4.5rem + env(safe-area-inset-bottom, 0px))",
+          paddingBottom: "calc(3rem + env(safe-area-inset-bottom, 0px))",
         }}
       >
-        <MarkerTimetable
-          error={error}
-          expanded={expanded}
-          isLoaded={isLoaded}
-          isLoading={isLoading}
-          onRetry={handleRefresh}
-          selectedStopTimetable={selectedStopTimetable}
-        />
+        <section
+          aria-busy={isLoading}
+          aria-labelledby={departuresHeadingId}
+          className="min-h-0 flex-1 overflow-y-auto"
+          id={departuresId}
+        >
+          <MarkerTimetable
+            error={error}
+            expanded={expanded}
+            isLoaded={isLoaded}
+            isLoading={isLoading}
+            onRetry={handleRefresh}
+            selectedStopTimetable={selectedStopTimetable}
+          />
+        </section>
         {!isLoading && !error && departureCount > 0 && (
           <button
             aria-expanded={expanded}
-            className="w-full rounded-xl border border-gray-300 bg-white px-4 py-3 font-semibold text-[#087f91] hover:bg-gray-100"
+            className="w-full shrink-0 rounded-xl border border-gray-300 bg-white px-4 py-3 font-semibold text-[#087f91] hover:bg-gray-100"
             onClick={() => setExpandedStopId(expanded ? null : stop.id)}
             type="button"
           >
             {expanded ? "Mostra menys" : "Veure tots els horaris"}
           </button>
         )}
-      </section>
+      </div>
     </section>
   );
 }
