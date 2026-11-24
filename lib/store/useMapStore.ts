@@ -24,7 +24,17 @@ interface MapState {
 }
 
 function formatRealtimeArrivalTime(value: string): string {
+  const hours = value.match(/(?:^|\s)(\d+)\s*h(?:\s|$)/i);
   const minutes = value.match(/(?:^|\s)(\d+)\s*min(?:\s|$)/i);
+  const hoursLeft = Number(hours?.[1] ?? 0);
+  const minutesLeft = Number(minutes?.[1] ?? 0);
+
+  if (hoursLeft > 0) {
+    return minutesLeft > 0
+      ? `${hoursLeft} h ${minutesLeft} min`
+      : `${hoursLeft} h`;
+  }
+
   if (minutes?.[1]) {
     return `${minutes[1]} min`;
   }

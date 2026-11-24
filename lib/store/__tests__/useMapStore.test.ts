@@ -99,6 +99,26 @@ describe("useMapStore", () => {
     ]);
   });
 
+  it("preserves hours in realtime ETAs", () => {
+    const result = useMapStore.getState().dataToCustomData([
+      {
+        idLinea: 719,
+        desc_linea: "CV1",
+        trayectos: {
+          Cerdanyola: [
+            { minutos: "01 h 34 min 38 s", real: "S" },
+            { minutos: "02 h 00 min 13 s", real: "S" },
+          ],
+        },
+      },
+    ]);
+
+    expect(result[0]?.nextBuses).toEqual([
+      { name: "Cerdanyola", real: true, minutesLeft: "1 h 34 min" },
+      { name: "Cerdanyola", real: true, minutesLeft: "2 h" },
+    ]);
+  });
+
   it("formats sub-minute realtime arrivals", () => {
     const result = useMapStore.getState().dataToCustomData([
       {

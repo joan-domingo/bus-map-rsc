@@ -160,6 +160,34 @@ describe("MarkerTimetable", () => {
     expect(screen.queryByText("Not shown")).toBeNull();
   });
 
+  it("sorts hour-long realtime arrivals in the collapsed view", () => {
+    renderTimetable({
+      expanded: false,
+      selectedStopTimetable: [
+        {
+          lineId: 12,
+          lineName: "A4",
+          nextBuses: [
+            { minutesLeft: "2 h", name: "Later", real: true },
+            { minutesLeft: "1 h 34 min", name: "Middle", real: true },
+            { minutesLeft: "58 min", name: "Sooner", real: true },
+            { minutesLeft: "1 h 4 min", name: "Closer", real: true },
+          ],
+        },
+      ],
+    });
+
+    const visibleDepartures = screen.getAllByRole("listitem");
+    expect(visibleDepartures).toHaveLength(4);
+    expect(visibleDepartures[0]).toHaveTextContent("Sooner");
+    expect(visibleDepartures[1]).toHaveTextContent("Closer");
+    expect(visibleDepartures[2]).toHaveTextContent("Middle");
+    expect(visibleDepartures[3]).toHaveTextContent("Later");
+    expect(screen.getByText("1 h 4 min")).toBeVisible();
+    expect(screen.getByText("1 h 34 min")).toBeVisible();
+    expect(screen.getByText("2 h")).toBeVisible();
+  });
+
   it("shows short terminal names when collapsed and full destinations when expanded", () => {
     const selectedStopTimetable: CustomBusLineTimetable[] = [
       {

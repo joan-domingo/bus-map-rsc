@@ -39,9 +39,11 @@ function getArrivalOffsetMinutes(
     return 0;
   }
 
-  const relativeMinutes = displayTime.match(/^(\d+)\s*min$/);
-  if (relativeMinutes?.[1]) {
-    return Number(relativeMinutes[1]);
+  const relativeTime = displayTime.match(
+    /^(?:(\d+)\s*h)?(?:\s*(\d+)\s*min)?$/i,
+  );
+  if (relativeTime && (relativeTime[1] || relativeTime[2])) {
+    return Number(relativeTime[1] ?? 0) * 60 + Number(relativeTime[2] ?? 0);
   }
 
   const scheduledTime = displayTime.match(/^([01]?\d|2[0-3]):([0-5]\d)$/);
