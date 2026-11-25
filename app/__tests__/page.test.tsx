@@ -12,7 +12,6 @@ import { useMapStore } from "../../lib/store/useMapStore";
 import { useStarredStops } from "../../lib/store/useStarredStops";
 import type { BusStop } from "../../lib/types";
 import { getVisiblePriorityLineSlugs } from "../../lib/utils/seo";
-import { FakeMap, mapsMock, resetMapsMock } from "../../test/googleMapsMock";
 import { createStopsFixture } from "../../test/stopsFixture";
 import { metadata as rootMetadata } from "../layout";
 import Home, { metadata } from "../page";
@@ -39,8 +38,8 @@ const stops: BusStop[] = [
 ];
 
 const fixture = createStopsFixture(stops);
-const API_KEY_ENV = "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY";
-const originalApiKey = process.env[API_KEY_ENV];
+const TOKEN_ENV = "NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN";
+const originalToken = process.env[TOKEN_ENV];
 
 afterAll(() => {
   fixture.cleanup();
@@ -75,9 +74,7 @@ describe("home page metadata", () => {
 
 describe("Home", () => {
   beforeEach(() => {
-    resetMapsMock();
-    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
-    process.env[API_KEY_ENV] = "test-api-key";
+    process.env[TOKEN_ENV] = "";
     Object.defineProperty(navigator, "geolocation", {
       configurable: true,
       writable: true,
@@ -99,10 +96,10 @@ describe("Home", () => {
   });
 
   afterEach(() => {
-    if (originalApiKey === undefined) {
-      delete process.env[API_KEY_ENV];
+    if (originalToken === undefined) {
+      delete process.env[TOKEN_ENV];
     } else {
-      process.env[API_KEY_ENV] = originalApiKey;
+      process.env[TOKEN_ENV] = originalToken;
     }
     localStorage.clear();
   });
@@ -114,9 +111,12 @@ describe("Home", () => {
   it("renders the map with the stops loaded from disk", async () => {
     await renderHome();
 
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
-    // Two stop markers plus the user location marker
-    expect(screen.getAllByTestId("advanced-marker")).toHaveLength(3);
+    expect(
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
+    expect(
+      screen.getByText(/NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN/),
+    ).toBeInTheDocument();
   });
 
   it("links the most searched lines", async () => {

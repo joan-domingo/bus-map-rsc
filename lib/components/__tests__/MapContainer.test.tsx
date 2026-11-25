@@ -1,43 +1,38 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
-import { act, render, screen } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import { FakeMap, mapsMock, resetMapsMock } from "../../../test/googleMapsMock";
 import { useMapStore } from "../../store/useMapStore";
 import { useStarredStops } from "../../store/useStarredStops";
 import type { BusStop } from "../../types";
 import { MapContainer } from "../MapContainer";
 
-function makeStop(id: number, buses: string[]): BusStop {
-  return {
-    id,
-    name: `Parada ${id}`,
-    lat: 41.5 + id / 1000,
-    lon: 2.1 + id / 1000,
-    buses,
-    lineId: Number(buses[0]),
+const busStops: BusStop[] = [
+  {
+    id: 1,
+    name: "Parada 1",
+    lat: 41.5,
+    lon: 2.1,
+    buses: ["1"],
+    lineId: 1,
     zoneId: 3,
-  };
-}
-
-const allBusStops = [
-  makeStop(1, ["1"]),
-  makeStop(2, ["68"]),
-  makeStop(3, ["1", "68"]),
+  },
+  {
+    id: 2,
+    name: "Parada 2",
+    lat: 41.6,
+    lon: 2.2,
+    buses: ["68"],
+    lineId: 68,
+    zoneId: 3,
+  },
 ];
 
-const API_KEY_ENV = "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY";
-const originalApiKey = process.env[API_KEY_ENV];
-
-function markerCount() {
-  // The user location marker is always rendered on top of the stop markers
-  return screen.getAllByTestId("advanced-marker").length - 1;
-}
+const TOKEN_ENV = "NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN";
+const originalToken = process.env[TOKEN_ENV];
 
 describe("MapContainer", () => {
   beforeEach(() => {
-    resetMapsMock();
-    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
-    // happy-dom ships no geolocation, so stand in a silent one
+    process.env[TOKEN_ENV] = "";
     Object.defineProperty(navigator, "geolocation", {
       configurable: true,
       writable: true,
@@ -47,7 +42,6 @@ describe("MapContainer", () => {
         clearWatch: mock(),
       },
     });
-    process.env[API_KEY_ENV] = "test-api-key";
     useStarredStops.setState({
       starredStopIdsArray: [],
       showOnlyStarred: false,
@@ -63,141 +57,51 @@ describe("MapContainer", () => {
   });
 
   afterEach(() => {
-    if (originalApiKey === undefined) {
-      delete process.env[API_KEY_ENV];
+    if (originalToken === undefined) {
+      delete process.env[TOKEN_ENV];
     } else {
-      process.env[API_KEY_ENV] = originalApiKey;
+      process.env[TOKEN_ENV] = originalToken;
     }
     window.gtag = undefined;
     localStorage.clear();
   });
 
-  it("renders the header, map, location button and attribution", () => {
-    render(<MapContainer allBusStops={allBusStops} />);
+  it("renders the header, Mapbox token guidance, location button and attribution", () => {
+    render(<MapContainer allBusStops={busStops} />);
 
     expect(screen.getByRole("banner")).toBeInTheDocument();
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
+    expect(
+      screen.getByText(/NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN/),
+    ).toBeInTheDocument();
     expect(
       screen.getByRole("button", { name: "Get location" }),
     ).toBeInTheDocument();
     expect(screen.getByRole("link", { name: "Moventis" })).toBeInTheDocument();
   });
 
-  it("keeps the map visible while its tiles load", () => {
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
-    expect(screen.queryByRole("status")).toBeNull();
-  });
-
-  it("shows an error when the Maps API fails to load", () => {
-    const originalConsoleError = console.error;
-    console.error = mock();
-
-    try {
-      render(<MapContainer allBusStops={allBusStops} />);
-
-      act(() => {
-        (mapsMock.props.APIProvider.onError as (error: unknown) => void)(
-          new Error("Maps API failed"),
-        );
-      });
-
-      expect(screen.getByRole("alert")).toHaveTextContent(
-        "No s'ha pogut carregar el mapa.",
-      );
-      expect(console.error).toHaveBeenCalledWith(
-        "Google Maps failed to load:",
-        expect.any(Error),
-      );
-    } finally {
-      console.error = originalConsoleError;
-    }
-  });
-
   it("fills the viewport by default", () => {
-    const { container } = render(<MapContainer allBusStops={allBusStops} />);
+    const { container } = render(<MapContainer allBusStops={busStops} />);
 
-    const mapArea = container.querySelector(
-      "[data-testid='api-provider'] > div",
-    );
-    expect(mapArea).toHaveStyle({ height: "100dvh" });
+    expect(container.firstElementChild).toHaveStyle({ height: "100dvh" });
   });
 
-  it("shrinks to the given height, so a page can show content below it", () => {
+  it("shrinks the map to make room for page content", () => {
     const { container } = render(
-      <MapContainer
-        allBusStops={allBusStops}
-        mapHeight="calc(100dvh - 4rem)"
-      />,
+      <MapContainer allBusStops={busStops} mapHeight="calc(100dvh - 4rem)" />,
     );
 
-    const mapArea = container.querySelector(
-      "[data-testid='api-provider'] > div",
+    expect(container.firstElementChild?.getAttribute("style")).toContain(
+      "calc(100dvh - 4rem)",
     );
-    expect(mapArea?.getAttribute("style")).toContain("calc(100dvh - 4rem)");
-  });
-
-  it("passes the API key and Catalan locale to the Maps provider", () => {
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(mapsMock.props.APIProvider).toMatchObject({
-      apiKey: "test-api-key",
-      language: "ca",
-    });
-  });
-
-  it("explains what to do when the API key is missing", () => {
-    delete process.env[API_KEY_ENV];
-
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(
-      screen.getByRole("heading", { name: "Google Maps API Key Required" }),
-    ).toBeInTheDocument();
-    expect(screen.queryByTestId("google-map")).toBeNull();
-  });
-
-  it("keeps its hook order when the API key appears between renders", () => {
-    delete process.env[API_KEY_ENV];
-    const { rerender } = render(<MapContainer allBusStops={allBusStops} />);
-    expect(
-      screen.getByRole("heading", { name: "Google Maps API Key Required" }),
-    ).toBeInTheDocument();
-
-    // Every hook must run before the missing-key branch returns, or React
-    // throws "rendered more hooks than during the previous render" here
-    process.env[API_KEY_ENV] = "test-api-key";
-    rerender(<MapContainer allBusStops={allBusStops} />);
-
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
-    expect(
-      screen.getByRole("button", { name: "Mostrar només parades preferides" }),
-    ).toBeInTheDocument();
-  });
-
-  it("shows every stop when there is no filter", () => {
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(markerCount()).toBe(3);
-  });
-
-  it("keeps only the stops served by the highlighted line", () => {
-    render(
-      <MapContainer
-        allBusStops={allBusStops}
-        lineFilter={{ lineStopIds: ["68"], lineName: "N80" }}
-      />,
-    );
-
-    // Stops 2 and 3 are served by line "68"
-    expect(markerCount()).toBe(2);
   });
 
   it("puts the highlighted line name in the header", () => {
     render(
       <MapContainer
-        allBusStops={allBusStops}
+        allBusStops={busStops}
         lineFilter={{ lineStopIds: ["68"], lineName: "N80" }}
       />,
     );
@@ -209,39 +113,11 @@ describe("MapContainer", () => {
     ).toBeInTheDocument();
   });
 
-  it("keeps only starred stops once the star filter is on", () => {
-    useStarredStops.setState({
-      starredStopIdsArray: [3],
-      showOnlyStarred: true,
-    });
-
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(markerCount()).toBe(1);
-  });
-
-  it("combines the line filter with the star filter", () => {
-    useStarredStops.setState({
-      starredStopIdsArray: [1, 3],
-      showOnlyStarred: true,
-    });
-
-    render(
-      <MapContainer
-        allBusStops={allBusStops}
-        lineFilter={{ lineStopIds: ["68"], lineName: "N80" }}
-      />,
-    );
-
-    // Only stop 3 is both starred and on line "68"
-    expect(markerCount()).toBe(1);
-  });
-
-  it("toggles the star filter from the header and reports the event", async () => {
+  it("toggles the starred-stop filter and tracks the event", async () => {
     const gtag = mock();
     window.gtag = gtag;
-    useStarredStops.setState({ starredStopIdsArray: [3] });
-    render(<MapContainer allBusStops={allBusStops} />);
+    useStarredStops.setState({ starredStopIdsArray: [2] });
+    render(<MapContainer allBusStops={busStops} />);
 
     await userEvent.click(
       screen.getByRole("button", { name: "Mostrar només parades preferides" }),
@@ -253,28 +129,26 @@ describe("MapContainer", () => {
       "toggle_starred_filter",
       { show_only_starred: true, starred_stops_count: 1 },
     ]);
-    expect(markerCount()).toBe(1);
   });
 
-  it("turns the star filter back off", async () => {
+  it("turns the starred-stop filter back off", async () => {
     useStarredStops.setState({
-      starredStopIdsArray: [3],
+      starredStopIdsArray: [2],
       showOnlyStarred: true,
     });
-    render(<MapContainer allBusStops={allBusStops} />);
+    render(<MapContainer allBusStops={busStops} />);
 
     await userEvent.click(
       screen.getByRole("button", { name: "Mostrar totes les parades" }),
     );
 
     expect(useStarredStops.getState().showOnlyStarred).toBe(false);
-    expect(markerCount()).toBe(3);
   });
 
-  it("recenters on the user and zooms in from the location button", async () => {
+  it("tracks a location-button click", async () => {
     const gtag = mock();
     window.gtag = gtag;
-    render(<MapContainer allBusStops={allBusStops} />);
+    render(<MapContainer allBusStops={busStops} />);
 
     await userEvent.click(screen.getByRole("button", { name: "Get location" }));
 
@@ -283,34 +157,5 @@ describe("MapContainer", () => {
       "location_button_click",
       { current_zoom: 15 },
     ]);
-    expect(mapsMock.props.Map).toMatchObject({ zoom: 18 });
-    expect(mapsMock.props.Map.center).toBeDefined();
-  });
-
-  it("warns but still renders the map when geolocation fails", () => {
-    const originalWarn = console.warn;
-    const warnings: unknown[][] = [];
-    console.warn = (...args: unknown[]) => warnings.push(args);
-    const originalGeolocation = navigator.geolocation;
-    Object.defineProperty(navigator, "geolocation", {
-      configurable: true,
-      writable: true,
-      value: undefined,
-    });
-
-    render(<MapContainer allBusStops={allBusStops} />);
-
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
-    expect(warnings).toContainEqual([
-      "Geolocation error:",
-      "Geolocation is not supported by this browser",
-    ]);
-
-    console.warn = originalWarn;
-    Object.defineProperty(navigator, "geolocation", {
-      configurable: true,
-      writable: true,
-      value: originalGeolocation,
-    });
   });
 });

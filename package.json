@@ -12,7 +12,7 @@
     "test": "bun test --run"
   },
   "dependencies": {
-    "@vis.gl/react-google-maps": "^1.10.2",
+    "mapbox-gl": "^3.35.2",
     "next": "16.1.6",
     "react": "19.2.4",
     "react-dom": "19.2.4",

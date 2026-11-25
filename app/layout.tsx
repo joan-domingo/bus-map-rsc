@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { GoogleTagManager } from "../lib/components/GoogleTagManager";
 import { StructuredData } from "../lib/components/StructuredData";
+import "mapbox-gl/dist/mapbox-gl.css";
 import "./globals.css";
 
 const geistSans = Geist({
