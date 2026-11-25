@@ -1,14 +1,13 @@
 "use client";
 
-import { Map as GoogleMap } from "@vis.gl/react-google-maps";
 import { useCallback } from "react";
 import { useBusStopSelection } from "../hooks/useBusStopSelection";
 import type { BusStop, UserLocation } from "../types";
-import { BusStopCustomMarkers } from "./BusStopCustomMarker";
+import { MapboxMap } from "./MapboxMap";
 import { StopDeparturesSheet } from "./StopDeparturesSheet";
-import { UserLocationMarker } from "./UserLocationMarker";
 
 interface MapProps {
+  accessToken?: string;
   busStops: BusStop[];
   userLocation: UserLocation | undefined;
   isDragging: boolean;
@@ -16,9 +15,11 @@ interface MapProps {
   setIsDragging: (isDragging: boolean) => void;
   setZoom: (zoom: number) => void;
   onStopSelectionChange: (selected: boolean) => void;
+  onMapError: (error: unknown) => void;
 }
 
 export function BusMap({
+  accessToken,
   busStops,
   userLocation,
   isDragging,
@@ -26,6 +27,7 @@ export function BusMap({
   setIsDragging,
   setZoom,
   onStopSelectionChange,
+  onMapError,
 }: MapProps) {
   const { selectedStopId, selectStop, clearSelection } = useBusStopSelection();
   const selectedStop =
@@ -45,25 +47,18 @@ export function BusMap({
 
   return (
     <div className="relative h-full w-full">
-      <GoogleMap
-        style={{ width: "100%", height: "100%" }}
-        defaultCenter={userLocation}
-        center={isDragging ? undefined : userLocation}
-        defaultZoom={15}
+      <MapboxMap
+        accessToken={accessToken}
+        busStops={busStops}
+        selectedStopId={selectedStopId}
+        userLocation={userLocation}
+        isDragging={isDragging}
         zoom={zoom}
-        onZoomChanged={(event) => setZoom(event.detail.zoom)}
-        gestureHandling={"greedy"}
-        disableDefaultUI={true}
-        mapId="public-transport-map"
-        onDragstart={() => setIsDragging(true)}
-      >
-        <BusStopCustomMarkers
-          stops={busStops}
-          selectedStopId={selectedStopId}
-          onStopClick={handleSelectStop}
-        />
-        {userLocation && <UserLocationMarker location={userLocation} />}
-      </GoogleMap>
+        onStopClick={handleSelectStop}
+        setIsDragging={setIsDragging}
+        setZoom={setZoom}
+        onMapError={onMapError}
+      />
       {selectedStop && (
         <StopDeparturesSheet stop={selectedStop} onClose={handleCloseStop} />
       )}

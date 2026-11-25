@@ -86,6 +86,37 @@ describe("MarkerTimetable", () => {
     expect(screen.getByText("Horari")).toBeVisible();
   });
 
+  it("renders duplicate arrivals without duplicate React keys", () => {
+    const originalConsoleError = console.error;
+    const errors: unknown[][] = [];
+    console.error = (...args: unknown[]) => errors.push(args);
+
+    try {
+      renderTimetable({
+        selectedStopTimetable: [
+          {
+            lineId: 12,
+            lineName: "A4",
+            nextBuses: [
+              { minutesLeft: "7 min", name: "Barcelona", real: true },
+              { minutesLeft: "7 min", name: "Barcelona", real: true },
+            ],
+          },
+        ],
+      });
+
+      expect(screen.getAllByText("Barcelona")).toHaveLength(2);
+      expect(
+        errors.some(
+          ([message]) =>
+            typeof message === "string" && message.includes("same key"),
+        ),
+      ).toBe(false);
+    } finally {
+      console.error = originalConsoleError;
+    }
+  });
+
   it("links known lines and keeps unknown lines as plain text", () => {
     const { rerender } = renderTimetable();
 
