@@ -229,6 +229,7 @@ const MarkerTimetable = ({
       {selectedStopTimetable.map((line) => {
         const lineStopId = line.lineId.toString();
         const lineSlug = lineStopIdToSlug(lineStopId);
+        const departureKeyOccurrences = new Map<string, number>();
 
         const lineHeading = (
           <>
@@ -265,11 +266,15 @@ const MarkerTimetable = ({
               {line.nextBuses.map((bus) => {
                 const time = bus.real ? bus.minutesLeft : bus.departureTime;
                 const status = bus.real ? "En temps real" : "Horari";
+                const baseKey = `${bus.name}-${time}-${bus.real}`;
+                const occurrence =
+                  (departureKeyOccurrences.get(baseKey) ?? 0) + 1;
+                departureKeyOccurrences.set(baseKey, occurrence);
 
                 return (
                   <li
                     className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-3 gap-y-1 px-3 py-2"
-                    key={`${bus.name}-${time}-${bus.real}`}
+                    key={`${baseKey}-${occurrence}`}
                   >
                     <span className="truncate text-sm text-gray-800">
                       {bus.name}

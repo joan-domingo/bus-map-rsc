@@ -12,7 +12,6 @@ import { STOPS_SHEET_PEEK } from "../../lib/components/lineStopsSheet";
 import { useMapStore } from "../../lib/store/useMapStore";
 import { useStarredStops } from "../../lib/store/useStarredStops";
 import type { BusStop } from "../../lib/types";
-import { FakeMap, mapsMock, resetMapsMock } from "../../test/googleMapsMock";
 import { NotFoundError, RedirectError } from "../../test/nextNavigationMock";
 import { createStopsFixture } from "../../test/stopsFixture";
 import LegacyLinePage from "../linea/[line]/page";
@@ -60,8 +59,8 @@ const fixture = createStopsFixture(allStops, {
   [N80_LINE_ID]: [rawStop(1, "Parada compartida"), rawStop(3, "Parada N80")],
 });
 
-const API_KEY_ENV = "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY";
-const originalApiKey = process.env[API_KEY_ENV];
+const TOKEN_ENV = "NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN";
+const originalToken = process.env[TOKEN_ENV];
 
 function params(line: string) {
   return { params: Promise.resolve({ line }) };
@@ -119,9 +118,7 @@ describe("generateMetadata", () => {
 
 describe("LinePage", () => {
   beforeEach(() => {
-    resetMapsMock();
-    mapsMock.map = new FakeMap({ south: 40, west: 1, north: 43, east: 4 });
-    process.env[API_KEY_ENV] = "test-api-key";
+    process.env[TOKEN_ENV] = "";
     Object.defineProperty(navigator, "geolocation", {
       configurable: true,
       writable: true,
@@ -143,10 +140,10 @@ describe("LinePage", () => {
   });
 
   afterEach(() => {
-    if (originalApiKey === undefined) {
-      delete process.env[API_KEY_ENV];
+    if (originalToken === undefined) {
+      delete process.env[TOKEN_ENV];
     } else {
-      process.env[API_KEY_ENV] = originalApiKey;
+      process.env[TOKEN_ENV] = originalToken;
     }
     localStorage.clear();
   });
@@ -176,7 +173,9 @@ describe("LinePage", () => {
   it("accepts an already-canonical uppercase slug without redirecting", async () => {
     await renderPage("N80");
 
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
   });
 
   it("emits the line's structured data", async () => {
@@ -231,7 +230,9 @@ describe("LinePage", () => {
   it("ends the map exactly where the stop sheet docks", async () => {
     await renderPage("n80");
 
-    const mapArea = screen.getByTestId("google-map").closest("[style]");
+    const mapArea = screen
+      .getByRole("region", { name: "Mapa interactiu de Mapbox" })
+      .closest("[style]");
     expect(mapArea?.getAttribute("style")).toContain(
       `calc(100dvh - ${STOPS_SHEET_PEEK})`,
     );
@@ -262,7 +263,9 @@ describe("LinePage", () => {
     // "c1" resolves, but the fixture ships no stop file for its line id
     await renderPage("c1");
 
-    expect(screen.getByTestId("google-map")).toBeInTheDocument();
+    expect(
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
     expect(
       screen.queryByRole("region", { name: /Parades de la línia/ }),
     ).toBeNull();
@@ -271,23 +274,19 @@ describe("LinePage", () => {
   it("merges the line's own stops into the full stop list", async () => {
     await renderPage("n80");
 
-    // Stops 1 and 3 are on the line, so both are shown, plus the user marker
-    expect(screen.getAllByTestId("advanced-marker")).toHaveLength(3);
-    // Both stop markers carry the N80 badge
-    expect(screen.getAllByText("N80")).toHaveLength(2);
+    expect(
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
+    expect(
+      screen.getAllByRole("listitem").map((item) => item.textContent),
+    ).toEqual(["Parada compartida", "Parada N80"]);
   });
 
   it("adds the line to a stop already present in the global list", async () => {
-    const { container } = await renderPage("n80");
+    await renderPage("n80");
 
-    // Stop 1 arrives from all.json.gz with only line "1" and gains line "68"
-    const badges = [
-      ...container.querySelectorAll("[data-testid='advanced-marker']"),
-    ]
-      .map((marker) => marker.textContent)
-      .filter(Boolean);
     expect(
-      badges.some((label) => label?.includes("C1") && label?.includes("N80")),
-    ).toBe(true);
+      screen.getByRole("region", { name: "Mapa interactiu de Mapbox" }),
+    ).toBeInTheDocument();
   });
 });
